@@ -39,5 +39,10 @@
   		<version>3.5.1</version>
   		<classifier>models</classifier>
   	</dependency>
+  	<dependency>
+  		<groupId>org.jsoup</groupId>
+  		<artifactId>jsoup</artifactId>
+  		<version>1.8.2</version>
+  	</dependency>
   </dependencies>
 </project>
