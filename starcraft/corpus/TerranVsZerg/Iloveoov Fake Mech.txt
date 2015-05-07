@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>iloveoov Fake Mech - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Iloveoov Fake Mech" href="/starcraft/index.php?title=Special:ExportRDF/Iloveoov_Fake_Mech&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Iloveoov_Fake_Mech","wgTitle":"Iloveoov Fake Mech","wgCurRevisionId":120035,"wgRevisionId":120035,"wgArticleId":1600,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Terran Build Orders","TvZ Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Iloveoov_Fake_Mech","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120035});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Iloveoov_Fake_Mech skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">iloveoov Fake Mech</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><span style="visibility:hidden"></span>
+</p>
+<div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> Fake Mech/Valkonic</div>
+</div><div>
+<div class="infobox-center"><small>The new TvZ wave</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Iloveoov" title="Iloveoov">iloveoov</a></span></div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Iloveoov" title="Iloveoov">iloveoov</a></span>, <a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Fantasy_(Player)" title="Fantasy (Player)">fantasy</a></span>, <a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Canata" title="Canata">canata</a></span></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<p>With the incredible success of the Mech Revolution in TvZ, it was inevitable that Zergs would eventually figure out how to counter it.  When this began happening, iloveoov created another build designed to force Zergs into making incorrect counter choices on limited information, thereby completely dictating the overall pace.  The Fake Mech abuses the fact that the Zerg counters to Mech and Bio are both very different and the options available to both Terran game plans are so numerous to create a hybrid and fluid style between the two Terran approaches. Iloveoov's Fake Mech is the strongest current build in TvZ and is quite flexible, with many different attack timings and build choices. In addition, it is well-equipped to be able to handle any type of Zerg early counter or allin. Any player who wants to stay on the cutting edge would be well advised to understand and practice this build or one of its many variations.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Build_Order"><span class="tocnumber">1</span> <span class="toctext">Build Order</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Loose_Followup_Builds"><span class="tocnumber">1.1</span> <span class="toctext">Loose Followup Builds</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Build_Order_Clarification"><span class="tocnumber">2</span> <span class="toctext">Build Order Clarification</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#More_General_Information"><span class="tocnumber">3</span> <span class="toctext">More General Information</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Micro"><span class="tocnumber">3.1</span> <span class="toctext">Micro</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Transition"><span class="tocnumber">3.2</span> <span class="toctext">Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Countered_By"><span class="tocnumber">4</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Hard_Counters"><span class="tocnumber">4.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Soft_Counters"><span class="tocnumber">4.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Counter_to"><span class="tocnumber">5</span> <span class="toctext">Counter to</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Hard_Counters_2"><span class="tocnumber">5.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Soft_Counters_2"><span class="tocnumber">5.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Notable_Situations_and_Maps"><span class="tocnumber">6</span> <span class="toctext">Notable Situations and Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Notable_Situations"><span class="tocnumber">6.1</span> <span class="toctext">Notable Situations</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Notable_Maps"><span class="tocnumber">6.2</span> <span class="toctext">Notable Maps</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Mentality"><span class="tocnumber">7</span> <span class="toctext">Mentality</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#VODs"><span class="tocnumber">8</span> <span class="toctext">VODs</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=1" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>8/10 - Supply Depot
+</li>
+<li>11/18 - Barracks
+</li>
+<li>12/18 - Refinery
+</li>
+<li>15/18 - Supply Depot
+</li>
+<li>16/26 - Factory
+</li>
+<li>@100% Factory- make one or two vultures and then a Machine Shop
+</li>
+<li>@100% Factory- construct a Starport
+</li>
+<li>@100% Machine Shop- Research Mines, then Siege
+</li>
+<li>@100% Starport- make a Wraith
+</li>
+<li>@400 minerals- Command Center
+</li>
+</ul>
+<p>The following structures should be made when the money flows in.
+</p>
+<ul>
+<li>Engineering Bay, Armory, and Starport addon
+</li>
+<li>Valkyries and Turrets
+</li>
+<li>Academy and 3 Barracks. Research Stim and Range ASAP.
+</li>
+<li>2nd Engineering Bay
+</li>
+</ul>
+<p>It should also be noted that recently some players have opted to open with an <a href="/starcraft/8_rax" title="8 rax" class="mw-redirect">8 rax</a> and then a transition into a fast vulture or two (in order to take advantage of the Zerg's general reliance on zerglings at this time) after which the standard Valkonic build is continued.
+</p>
+<h3><span class="mw-headline" id="Loose_Followup_Builds">Loose Followup Builds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=2" title="Edit section: Loose Followup Builds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After reaching 4 Rax and pumping M&amp;M/Tank/Valkyrie, there are a number of ways and timings to approach it.
+</p>
+<ul>
+<li>The first option is to add a second Factory and go for a heavy Tank build.  When the money flows in 2 more Barracks and a Science Facility should be added.
+</li>
+</ul>
+<ul>
+<li>The second is to go for more of an <a href="/starcraft/SK_Terran" title="SK Terran">SK Terran</a> style, adding 6 Barracks and 2 Starports and a Science Facility as quickly as possible. This build is best used when a player is more comfortable playing bio against Zerg, or when the Zerg player builds too many hydralisks to counter the Mech.
+</li>
+</ul>
+<ul>
+<li>A third option is to go for a quick 3rd base before adding on anything more than 4 Rax/1 Fact/1 Port.
+</li>
+</ul>
+<p>In addition there are several possible attack timings. The standard timing is to mass up enough Tanks (usually 5-7) and attack before Hive finishes. This timing aims to deliver a critical blow before defilers are ready. Just make sure a Vessel is out whenever the push will commence unless it is a very early push taking advantage of a timing window. If the Terran player takes too long and the Zerg player does get defilers out, Terran often has trouble winning due to a lack of infrastructure.
+</p><p>Other attack timings become possible depending on how the Zerg reacts. For example, if the Zerg overreacts to the 'mech' opening and takes an earlier 4th, the Terran can wait and mass tanks.  Also, if the Zerg overmakes Hydras or Mutas and switches to lurkers too late, an earlier push can be done.  If the Zerg sticks with pure mutaling for too long, the Terran should turtle and amass a fearsome Valkyrie and M&amp;M army.  Some of these timings are shown in the VODs below, while others will only be possible against players who don't respond as appropriately as progamers do.
+</p><p>Overall, a lot of this build relies on adaptation. It can put the Terran player at a consistent advantage so long as they scout and react properly to any Zerg antics.
+</p>
+<h2><span class="mw-headline" id="Build_Order_Clarification">Build Order Clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=3" title="Edit section: Build Order Clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>-Walling in should be a priority, especially on maps such as Medusa where a ling-proof wall can be made at the natural.
+</p><p>-A large part of the build depends on what is scouted.  If a fast hydralisk den off of 2 bases is scouted, then tanks and siege should be made as soon as possible to block a potential hydra allin.  On the other hand, if the Zerg is seen with two hatcheries and at lair tech with no den in sight, then fast mutalisks should be prepared for and turrets and valkyries hurried out. 
+</p>
+<h2><span class="mw-headline" id="More_General_Information">More General Information</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=4" title="Edit section: More General Information">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first wraith is a scout as well as an overlord sniper.  It comes well before even 2 hatchery mutalisks are out and if the Zerg does not get hydras before mutas they will end up losing at least three if not five overlords to this wraith. If hydras are already out, then any overlord near the Terran base should be taken care of and the remaining priority put on spotting the Zerg tech and unit count.
+</p><p>Often at lower ranks players will not be used to seeing Valkyries and will have no prepared build order, other than to mass Hydralisks, which can be easily cleaned up the Terran's MnM army.
+</p>
+<h3><span class="mw-headline" id="Micro">Micro</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=5" title="Edit section: Micro">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aside from normal TvZ battle micro, this build relies on careful control of Valkyries to ward off muta harassment. The key part of Valkyrie micro is to be able to retreat through m&amp;m and turrets when muta/scourge try to snipe them, then quickly turn around to shoot when the Zerg units retreat.  Fantasy's games, particularly against Jaedong on Medusa, aptly illustrate how to perform this micro.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=6" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Because the build opens up as mech, it can always remain as Mech instead of switching to M&amp;M.  This possibility makes the build very difficult to counter because the Zerg has to prepare for a number of possibilities on limited information while the Terran can dictate the pace and appropriately respond to any Zerg response with consistent scouting.  For more information on following up, see <a href="/starcraft/index.php?title=Mech_vs_Zerg&amp;action=edit&amp;redlink=1" class="new" title="Mech vs Zerg (page does not exist)">Mech vs Zerg</a> or <a href="/starcraft/Liquipedia_QnA_Episode_1" title="Liquipedia QnA Episode 1">Liquipedia QnA Episode 1</a>. If one stays with Mech, the build is a normal 1 factory expand with the additional early wraith.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=7" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=8" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>None
+</p>
+<h3><span class="mw-headline" id="Soft_Counters">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=9" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/9_Pool_(vs_Terran)" title="9 Pool (vs Terran)" class="mw-redirect">9 pool</a> - A 9 pool rush can disrupt the Terran's economy if the Terran fails to scout properly.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Counter_to">Counter to</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=10" title="Edit section: Counter to">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters_2">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=11" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>None
+</p>
+<h3><span class="mw-headline" id="Soft_Counters_2">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=12" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>-Anti-mech openings
+</p><p>-2 Hatchery Builds
+</p>
+<h2><span class="mw-headline" id="Notable_Situations_and_Maps">Notable Situations and Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=13" title="Edit section: Notable Situations and Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notable_Situations">Notable Situations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=14" title="Edit section: Notable Situations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It must be understood that this is a very technical build order which is centred around a lack of information on the Zerg player's part and an extremely strong mid-game timing push based on this lack of information. As such, it is often difficult for beginners to execute, and players can have trouble when facing fast defilers. The Terran player does not have the infrastructure set up for a long game, so often their timing push has to work for them to win.
+</p><p>All this considered, the Terran player will be successful if he can take advantage of a Zerg player who does not scout properly or who overreacts to Mech play. Such Zerg players will often have poor army compositions when facing a Valkonic Terran.
+</p>
+<h3><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=15" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Maps that are enclosed and limit the room to maneuver favor this build because it lets the initial tank push do the most damage.  However, it is viable on all current maps to some degree or another.
+</p><p>Maps like Sin Chupung-Ryeong or Byzantium III are ideal.
+</p>
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=16" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The goal of this build is to execute a series of rapid tech switches to keep the Zerg confused and preparing the wrong counterbuild.  The early vulture forces the Zerg to make either premature hydras or a sunken and lings to block the ramp.  The key during here is to threaten a vulture runby.  Remember, the Zerg cannot distinguish this build so far from a standard <a href="/starcraft/index.php?title=2_factory_speed_vulture&amp;action=edit&amp;redlink=1" class="new" title="2 factory speed vulture (page does not exist)">2 factory speed vulture</a> opening. Therefore, the Terran wants to make the Zerg fear the runby and devote extra resources to blocking it. In addition, there is also the threat of <a href="/starcraft/2_Port_Wraith_(vs._Zerg)" title="2 Port Wraith (vs. Zerg)">2 Port Wraith</a> and the <a href="/starcraft/Fantasy_build" title="Fantasy build" class="mw-redirect">Fantasy build</a>. Lastly, until mutas arrive at the Terran base, the Zerg will likely be in the dark of whether the Terran is going mech or bio.
+</p><p>The real strength of the build comes in throwing the Zerg off balance enough to make a very strong timing push before defiler tech comes. The Zerg must sacrifice economy to muster up enough units to block it, ensuring that the followup push can seal the game.  Otherwise, they risk losing a key base or the game before dark swarm can come. The overall key is to keep the Zerg guessing and misunderstanding the build and the timings being used and to be able to seize any moment of weakness.
+</p>
+<h2><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit&amp;section=17" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Versus 2 Economical Hatchery Hydra:
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/11277_iloveoov_vs_ZerO">http://www.teamliquid.net/tlpd/games/11277_iloveoov_vs_ZerO</a>
+</p><p>Versus Fast Hydra/Lurker:
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/11541_fantasy_vs_Luxury">http://www.teamliquid.net/tlpd/games/11541_fantasy_vs_Luxury</a>
+</p><p>Versus 2 Hatchery Allin Muta.
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/11542_fantasy_vs_Luxury">http://www.teamliquid.net/tlpd/games/11542_fantasy_vs_Luxury</a>
+</p><p>Versus 2 Hatchery Hydra Break into Muta:
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/11719_fantasy_vs_Jaedong">http://www.teamliquid.net/tlpd/games/11719_fantasy_vs_Jaedong</a>
+</p><p>Versus 3 Hatchery Hydra into Muta.  Features a Fast 3rd:
+</p><p>Ganzi vs Jaedong:  <a rel="nofollow" target="_blank" class="external free" href="http://www.youtube.com/watch?v=-EzeXCY6nkk">http://www.youtube.com/watch?v=-EzeXCY6nkk</a>
+</p><p>8 Rax variant on Fake Mech/Valkonic build:
+</p><p>Canata vs Jaedong: <a rel="nofollow" target="_blank" class="external free" href="http://www.youtube.com/watch?v=VIrvS7atz_8">http://www.youtube.com/watch?v=VIrvS7atz_8</a>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.128 seconds
+Real time usage: 0.283 seconds
+Preprocessor visited node count: 410/1000000
+Preprocessor generated node count: 2361/1000000
+Postâ€?expand include size: 3716/2097152 bytes
+Template argument size: 995/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:1600-0!*!0!!en!2!* and timestamp 20150427165453
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;oldid=120035">http://wiki.teamliquid.net/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;oldid=120035</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvZ_Builds" title="Category:TvZ Builds">TvZ Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Iloveoov_Fake_Mech" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:Iloveoov_Fake_Mech&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Iloveoov+Fake+Mech" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Iloveoov_Fake_Mech" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Iloveoov_Fake_Mech" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;oldid=120035" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Iloveoov_Fake_Mech&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Iloveoov_Fake_Mech" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:53.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.515 secs. --></body></html>

@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Terran vs. Terran Guide - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Terran vs. Terran Guide" href="/starcraft/index.php?title=Special:ExportRDF/Terran_vs._Terran_Guide&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Terran_vs._Terran_Guide","wgTitle":"Terran vs. Terran Guide","wgCurRevisionId":119942,"wgRevisionId":119942,"wgArticleId":473,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing copy editing","Strategies","Terran Build Orders","TvT Builds","Matchup Guides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Terran_vs._Terran_Guide","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119942});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Terran_vs_Terran_Guide skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Terran vs. Terran Guide</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="ibox"><table cellpadding="0" cellspacing="0" style="background-color: transparent; border:1px solid grey; margin-left: auto; margin-right: auto"><tr><td><a href="/starcraft/index.php?title=File:Imbox_style.png&amp;filetimestamp=20090608153548&amp;" class="image"><img alt="" src="/starcraft/images/2/23/Imbox_style.png" width="40" height="40" /></a></td><td style="padding: 10px;">This article <b>may require copy editing for grammar, style, cohesion, tone or spelling</b>. You can assist by <a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit">editing it</a> now.</td></tr></table></div>
+<div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> Terran vs. Terran</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:TvT.png&amp;filetimestamp=20090302043414&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/16/TvT.png/294px-TvT.png" width="294" height="221" srcset="/starcraft/images/thumb/1/16/TvT.png/441px-TvT.png 1.5x, /starcraft/images/thumb/1/16/TvT.png/588px-TvT.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvT</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<p>Like all mirror match ups, wins in Terran vs. Terran are determined by a player's ability to react to their opponent and adapt. 
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Branch_I:_Two_Factory_Pressure"><span class="tocnumber">1</span> <span class="toctext">Branch I: Two Factory Pressure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Initial_Build_Order"><span class="tocnumber">1.1</span> <span class="toctext">Initial Build Order</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Intermediate_Goals"><span class="tocnumber">1.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Transition_I:_Starport_First"><span class="tocnumber">1.3</span> <span class="toctext">Transition I: Starport First</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Mid_Game_Wraiths"><span class="tocnumber">1.3.1</span> <span class="toctext">Mid Game Wraiths</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Mid_Game_Dropship"><span class="tocnumber">1.3.2</span> <span class="toctext">Mid Game Dropship</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Island_Expansion"><span class="tocnumber">1.3.3</span> <span class="toctext">Island Expansion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Transition_II:_Five_Factory_Play"><span class="tocnumber">1.4</span> <span class="toctext">Transition II: Five Factory Play</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Branch_II:_One_Factory_Fast_Expand"><span class="tocnumber">2</span> <span class="toctext">Branch II: One Factory Fast Expand</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Initial_Build_Order_2"><span class="tocnumber">2.1</span> <span class="toctext">Initial Build Order</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Alternative_Build_Order"><span class="tocnumber">2.1.1</span> <span class="toctext">Alternative Build Order</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Intermediate_Goals_2"><span class="tocnumber">2.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Transition_I:_Starport_First_2"><span class="tocnumber">2.3</span> <span class="toctext">Transition I: Starport First</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Mid_Game_Wraiths_2"><span class="tocnumber">2.3.1</span> <span class="toctext">Mid Game Wraiths</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Mid_Game_Dropship_2"><span class="tocnumber">2.3.2</span> <span class="toctext">Mid Game Dropship</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Island_Expansion_2"><span class="tocnumber">2.3.3</span> <span class="toctext">Island Expansion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Transition_II_Five_Factory_Play"><span class="tocnumber">2.4</span> <span class="toctext">Transition II Five Factory Play</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#Three_Factory_Play"><span class="tocnumber">2.4.1</span> <span class="toctext">Three Factory Play</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Branch_III:_One_Starport_Wraiths"><span class="tocnumber">3</span> <span class="toctext">Branch III: One Starport Wraiths</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Initial_Build_Order_3"><span class="tocnumber">3.1</span> <span class="toctext">Initial Build Order</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Intermediate_Goals_3"><span class="tocnumber">3.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Transition_I:_Starport_First_3"><span class="tocnumber">3.3</span> <span class="toctext">Transition I: Starport First</span></a>
+<ul>
+<li class="toclevel-3 tocsection-23"><a href="#Mid_Game_Wraiths_3"><span class="tocnumber">3.3.1</span> <span class="toctext">Mid Game Wraiths</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Mid_Game_Dropship_3"><span class="tocnumber">3.3.2</span> <span class="toctext">Mid Game Dropship</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Island_Expansion_3"><span class="tocnumber">3.3.3</span> <span class="toctext">Island Expansion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#Transition_II:_Five_Factory_Play_2"><span class="tocnumber">3.4</span> <span class="toctext">Transition II: Five Factory Play</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Branch_IV:_Cheeses"><span class="tocnumber">4</span> <span class="toctext">Branch IV: Cheeses</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Branch_I:_Two_Factory_Pressure">Branch I: Two Factory Pressure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=1" title="Edit section: Branch I: Two Factory Pressure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This build allows for early game aggression, and has been a staple build in this match-up for years. 
+</p><p>Map considerations:
+</p>
+<ul>
+<li> Short paths between the bases, so that the first few Vultures can punish Economy builds.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Initial_Build_Order">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=2" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The initial build order listed here is the most common Two Factory opening. Note that this build, like all builds in this article, are printed assuming that the build is the most viable option. Be sure to check the Adaptations section of this article and the <a href="/starcraft/Terran_vs._Terran_Timing" title="Terran vs. Terran Timing">Terran vs. Terran Timing</a> article to see the best options for coping with different scenarios.  
+</p>
+<ul>
+<li>9/10 - Supply Depot
+</li>
+<li>11/18 - Barracks - One Marine only
+</li>
+<li>11/18 - Refinery
+</li>
+<li>15/18 or 16/18 - Supply Depot
+</li>
+<li>15/26 or 16/26 - Factory
+</li>
+<li>@100% Factory - Vulture and then Machine Shop
+</li>
+<li>18/26 - Factory
+</li>
+<li>@100% Factory - Machine Shop
+</li>
+<li>23/26 - Supply Depot
+</li>
+<li>@100% Machine Shop - Research Speed and mines and pump Vultures
+</li>
+<li>28/34 - Supply Depot
+</li>
+<li>Attack when you have 6-8 Vultures
+</li>
+</ul>
+<h3><span class="mw-headline" id="Intermediate_Goals">Intermediate Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=3" title="Edit section: Intermediate Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The whole point of the Two Factory is it allows you to be aggressive in the early game, and try to punish any Tech heavy build. It allows you to take initiative, and at the very least be in a strong position if your opponent went One Factory Fast Expand. If your opponent also went Two Factory you can win with better micro or back off and try to Tech faster. 
+</p><p>The next steps in the game are:
+</p>
+<ol>
+<li> Make sure that your opponent is punished if they took a Tech lead. 
+</li>
+<li> Choose the next transition
+</li>
+<li> Scout your opponent
+</li>
+</ol>
+<p>It is important to remember that while a Two Factory build is effective against both a Fast Expand and a Tech build, One Starport Wraiths will come back to haunt a Two Factory build if a player is not careful. As always, scouting is key. Once Terran is able to implement their Vulture rush they should move to take their Natural Expansion and transition to mid game.
+</p>
+<h3><span class="mw-headline" id="Transition_I:_Starport_First">Transition I: Starport First</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=4" title="Edit section: Transition I: Starport First">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A fast Starport against a One Factory Fast Expand or a  fellow Two Factory build can be an effective early to mid-game strategy as it opens up a variety of options for Terran to implement:
+</p>
+<ul>
+<li>Wraith or Cloaked Wraith play
+</li>
+<li>Early Dropship Play
+</li>
+<li>A hidden island expansion 
+</li>
+</ul>
+<p>As with most options in mirror match ups these choices offer a spectrum of options ranging from aggressive to defensive to economical. It is important however that Terran know the repercussions for following one of these paths as they may cause interesting game variations down the line. 
+</p>
+<h4><span class="mw-headline" id="Mid_Game_Wraiths">Mid Game Wraiths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=5" title="Edit section: Mid Game Wraiths">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Mid Game Wraiths are meant to prevent the movement of an opponent's army by either making Dropship use ineffective or by using Cloak to slow down ground forces, and forcing them to build more Goliaths, which are weak against tanks. They can also be used to harass mineral lines, though this ability is limited in Mid Game by the amount of detection players are likely to have. Wraiths are not usually meant as a killing blow in Mid Game unless an opponent attempts something unorthodox like a double expand. Once Terran is able to implement a harass or a contain they will need to transition by taking a Third Gas Expansion and moving to Late Game Tech.
+</p>
+<h4><span class="mw-headline" id="Mid_Game_Dropship">Mid Game Dropship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=6" title="Edit section: Mid Game Dropship">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>While Terran vs Terran revolves around Dropship play this usually does not come until Late game. Terran can throw a curve ball and make use of things like high ground for Siege Tanks by playing with early Dropships. The drawback to this is that their opponent can play some kind of Five Factory build and with more units cause some damage to a Terran's economy. Fast Dropships are meant as a defensive play, though dropping expansions can be a good screen for taking the Third Gas Expansion.
+</p>
+<h4><span class="mw-headline" id="Island_Expansion">Island Expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=7" title="Edit section: Island Expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>By using fast Dropships Terran can move to take a very fast Third Gas Expansion in order to gain a swift economic advantage. A fast Island is viable against an opponent that is unwilling to scout or adapt their build. Terran can however run into some trouble if their Fast Third is scouted or their opponent attempts a Five Factory push, a build meant to punish a fast expansion.
+</p>
+<h3><span class="mw-headline" id="Transition_II:_Five_Factory_Play">Transition II: Five Factory Play</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=8" title="Edit section: Transition II: Five Factory Play">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rather than opting for mid game Tech Terran can instead choose to put the pressure on again in mid game by quickly moving to five factory play. Applying early mid game pressure can be a great way of punishing greedy economic or Tech builds as well as provide a good screen for taking a Third Gas Expansion and transitioning into late game. Terran is also able to use a Five Factory <a href="/starcraft/Timing_Push" title="Timing Push">Timing Push</a> in order to pressure an opponent playing a Tech build or punish a Fast Third Expansion. While Five Factory play is an aggressive build it is probably the closest to being considered "Standard Play."
+</p>
+<h2><span class="mw-headline" id="Branch_II:_One_Factory_Fast_Expand">Branch II: One Factory Fast Expand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=9" title="Edit section: Branch II: One Factory Fast Expand">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The one Factory Fast Expand build is fairly standard, and has a few distinct variations. Below is the build that is the most common (Machine Shop before Expansion) with others being listed under <a href="/starcraft/One_Factory_Fast_Expand" title="One Factory Fast Expand" class="mw-redirect">One Factory Fast Expand</a>.
+</p>
+<h3><span class="mw-headline" id="Initial_Build_Order_2">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=10" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>9/10 - Supply Depot
+</li>
+<li>12/18 - Barracks
+</li>
+<li>12/18 - Refinery 
+</li>
+<li>15/18 - Supply Depot
+</li>
+<li>16/26 - Factory, take 2 scvs off gas 
+</li>
+<li>20/26 - Machine Shop, put 2 scvs back on gas
+</li>
+<li>22/26 - Siege Tank and Siege Mode Upgrade
+</li>
+<li>23/26 - Supply Depot
+</li>
+<li>28/34 - Command Center
+</li>
+<li>28/44 - Supply Depot
+</li>
+<li>32/52 - Factory
+</li>
+</ul>
+<p>Note that this build assumes that you will not be pressured with a <a href="/starcraft/Marine_Vulture_Rush" title="Marine Vulture Rush">Marine Vulture Rush</a>. In this case Terran will need to build more Marines in order to hold their ramp. As with all mirror match ups it important to be able to react to your opponent. Siege mode upgrade can be delayed for a faster command center if there is no threat of a committed rush or contain.
+</p>
+<h4><span class="mw-headline" id="Alternative_Build_Order">Alternative Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=11" title="Edit section: Alternative Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>9/10 - Supply Depot
+</li>
+<li>12/18 - Barracks, build 2 marines, lift to scout when done
+</li>
+<li>12/18 - Refinery 
+</li>
+<li>15/18 - Supply Depot
+</li>
+<li>16/26 - Factory, take 2 scvs off gas, build vulture when factory done 
+</li>
+<li>21/26 - Command Center
+</li>
+<li>24/36 - Factory + Machine shop on first factory
+</li>
+<li>26/36 Academy and Armory
+</li>
+<li>28/36 Tank
+</li>
+</ul>
+<p>Note that the supply stop at 26 is very important for this build to work. This allows you to transition into the mid game as quick as possible with the minimum amount of units to defend everything. The Academy and Armory provide wraith defense and the quick two factories should deter a 2 factory rush. This requires being able to micro well because scouting is given up for preparation for all scenarios. The low SCV count is a definite drawback to this build order, but the tech, expansion, and factory count make it worth the loss.
+</p>
+<h3><span class="mw-headline" id="Intermediate_Goals_2">Intermediate Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=12" title="Edit section: Intermediate Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Because One Factory FE is sort of a middle of the road build it is important that Terran makes use of the versatility of being able to play a more aggressive or a more economical build by scouting their opponent. For instance, If Terran scouts an even faster expansion they can switch over to a two factory build or use Siege Tanks and Vultures to contain their opponent's Natural expansion. Alternatively if Terran scouts a Tech build (like one Starport Wraiths) Terran can take a faster expansion and get detection/anti air before their opponent can make use of their Wraiths. Adaptation and versatility are key in StarCraft, even more so in the mirror match ups.
+</p><p>The next steps in the game are:
+</p>
+<ol>
+<li> Make sure that your opponent is punished if they took a Tech lead. 
+</li>
+<li> Choose the next transition
+</li>
+<li> Scout your opponent
+</li>
+</ol>
+<h3><span class="mw-headline" id="Transition_I:_Starport_First_2">Transition I: Starport First</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=13" title="Edit section: Transition I: Starport First">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Mid_Game_Wraiths_2">Mid Game Wraiths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=14" title="Edit section: Mid Game Wraiths">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Mid Game Wraiths are meant to prevent the movement of an opponent's army and by either making Dropship use ineffective or by using cloak to slow down ground forces. They can also be used to harass mineral lines, though this ability is limited in Mid Game by the amount of detection players are likely to have. Another very common use for wraiths is sniping tanks. This early in the game, you need 3 sieged tank shots to kill one tank. However, the first two tank shots leaves the first tank with about 14 health, so this makes using wraiths extremely useful. Wraiths are not usually meant as a killing blow in Mid Game unless an opponent attempts something unorthodox like a double expand. Once Terran is able to implement a harass or a contain they will need to transition by taking third Third Gas Expansion and moving to Late Game Tech.
+</p>
+<h4><span class="mw-headline" id="Mid_Game_Dropship_2">Mid Game Dropship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=15" title="Edit section: Mid Game Dropship">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>While Terran vs Terran revolves around Dropship play this usually does not come until Late game. Terran can throw a curve ball and make use of things like high ground for Siege Tanks by playing with early Dropships. The draw back to this is that their opponent can play some kind of Five Factory build and with more units cause some damage to a Terran's economy. Fast Dropships are meant as a defensive play, though dropping expansions can be a good screen for taking the Third Gas Expansion. 
+The port is built right after you finish the second factory or whenever you have enough gas to start it after you are massing tanks. You should have enough gas after you have 4-5 tanks if you are mining from two refineries. After that, 2 more factories are added after the first dropship for a grand total of 4 factories and 2 shops. 
+</p>
+<h4><span class="mw-headline" id="Island_Expansion_2">Island Expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=16" title="Edit section: Island Expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>By using fast Dropships Terran can move to take a very fast Third Gas Expansion in order to gain a swift economic advantage. A fast Island is viable against an opponent that is unwilling to scout or adapt their build. Terran can however run into some trouble if their Fast Third is scouted or their opponent attempts a five factory push, a build meant to punish a fast expansion.         
+</p>
+<h3><span class="mw-headline" id="Transition_II_Five_Factory_Play">Transition II Five Factory Play</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=17" title="Edit section: Transition II Five Factory Play">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rather than opting for mid game Tech Terran can instead choose to put the pressure on again in mid game by quickly moving to five factory play. Applying early mid game pressure can be a great way of punishing greedy economic or Tech builds as well as provide a good screen for taking a Third Gas Expansion and transitioning into late game. Terran is also able to use a Five Factory <a href="/starcraft/Timing_Push" title="Timing Push">Timing Push</a> in order to pressure an opponent playing a Tech build or punish a Fast Third Expansion. While Five Factory play is an Aggressive build it is probably the closest to being considered "Standard Play." 
+</p>
+<h4><span class="mw-headline" id="Three_Factory_Play">Three Factory Play</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=18" title="Edit section: Three Factory Play">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Trying to get 5 factories up and running quickly usually means sacrificing map control, economy, unit count, or a combination of the three. In order to avoid this easily exploited timing, many Terrans have opted for using vultures and 3 factories to secure map control with mass vultures. 
+After the initial 1facFE, you add your third factory a little after you have started your 2nd factory. This will allow you to quickly mass vultures, secure a 3rd expansion, and  also provides extra gas for upgrades and more factories. After this opening, the most common follow up is a 6 Factory mass with 3 shops, massing tanks and goliaths. 
+Usually, this is done with one shop with your initial 3 factories, with speed upgraded first and then mines. Upgrading speed first maintains map control a little more efficiently than mines and it threatens the opponent with a backstab, which provides time to upgrade mines. This doesn't work as well if mines are upgraded first.
+</p>
+<h2><span class="mw-headline" id="Branch_III:_One_Starport_Wraiths">Branch III: One Starport Wraiths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=19" title="Edit section: Branch III: One Starport Wraiths">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>TvT allows a Terran Tech build to be viable. You can choose to Tech past Factory units and straight to Wraiths or Cloaked Wraiths at the expense of taking a faster expansion. A Tech build can be a good alternative to a One Factory Fast Expand against a Two Factory build if Terran is able to hold their ramp (or choke.) Once Wraiths come out Terran is able to abuse an Aggressive build as their opponent attempts to take their Natural Expansion without any anti air.
+</p>
+<h3><span class="mw-headline" id="Initial_Build_Order_3">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=20" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The initial build order listed here is the most common One Starport opening. Note that this build, like all builds in this article are printed assuming that the build is the most viable option. Be sure to check the Adaptations section of this article and the <a href="/starcraft/Terran_vs._Terran_Timing" title="Terran vs. Terran Timing">Terran vs. Terran Timing</a> article to see the best options for coping with different scenarios.
+</p>
+<ul>
+<li> 9/10 - Depot
+</li>
+<li> 12/18 - Barracks
+</li>
+<li> 12/18 - Refinery
+</li>
+<li> 15/18 - Supply Depot
+</li>
+<li> 16/26 - Factory
+</li>
+<li> @100% Factory - Vulture and Machine Shop
+</li>
+<li> 24/26 - Starport
+</li>
+<li> 24/26 - Supply Depot
+</li>
+<li> @100% Starport - Control Tower or Wraith
+</li>
+<li> 28/34 - Supply Depot
+</li>
+</ul>
+<h3><span class="mw-headline" id="Intermediate_Goals_3">Intermediate Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=21" title="Edit section: Intermediate Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Playing a Tech build in a mirror match up can be tricky business. If an opponent is aware far enough in advance that Terran will be attempting a One Starport build they can either prepare defenses such that the build will be ineffective or simply run them over with a two/three Factory build. Because of this, Terran might end up having to bail out of a one Starport opening if their opponent is bringing too much pressure. As with all mirror match ups, it is important for a player to remain versatile lest they be defeated by their own inability to adapt. 
+</p><p>The next steps in the game are:
+</p>
+<ol>
+<li> Make sure that your opponent is punished if they took a tech lead. 
+</li>
+<li> Choose the next transition
+</li>
+<li> Scout your opponent
+</li>
+</ol>
+<h3><span class="mw-headline" id="Transition_I:_Starport_First_3">Transition I: Starport First</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=22" title="Edit section: Transition I: Starport First">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Mid_Game_Wraiths_3">Mid Game Wraiths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=23" title="Edit section: Mid Game Wraiths">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>If a Terran opened with One Starport Wraiths, continuing such a build in mid game is not really a viable option. There are, as with all things in Mirror Match ups, a few exceptions to this. If opening without cloak, it is possible to upgrade cloak, and to go 2 starport wraiths. This can occur if the opponent is not making a move to get detection, hopefully because Terran was able to make their opponent think that the danger of Wraiths had ended. Other than that, Terran should be moving towards playing Factory units at this point unless they plan on making Battlecruisers.
+</p>
+<h4><span class="mw-headline" id="Mid_Game_Dropship_3">Mid Game Dropship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=24" title="Edit section: Mid Game Dropship">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>While Terran vs Terran revolves around Dropship play this usually does not come until Late game. Terran can throw a curve ball and make use of things like high ground for Siege Tanks by playing with early Dropships. The draw back to this is that their opponent can play some kind of Five Factory build and with more units cause some damage to a Terran's economy. An additional drawback exists in playing Dropships in mid game after a Wraith Opening as Terran's opponent will be playing with early anti air out and may even expect fast Dropships. Fast Dropships are meant as a defensive play, though dropping expansions can be a good screen for taking the Third Gas Expansion.
+</p>
+<h4><span class="mw-headline" id="Island_Expansion_3">Island Expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=25" title="Edit section: Island Expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>By using fast Dropships Terran can move to take a very fast Third Gas Expansion in order to gain a swift economic advantage. A fast Island is viable against an opponent that is unwilling to scout or adapt his build. Terran can however run into some trouble if their Fast Third is scouted or their opponent attempts a five factory push, a build meant to punish a fast expansion. Furthermore, playing a fast island expansion build after One Starport Wraiths can be somewhat of a double edged sword. While Terran's opponent will be less likely to play with Starport units themselves, making them less likely to be able to scout or engage an island expansion Terran is still likely to be  somewhat at an economic disadvantage coming off of a one Starport build and delaying unit production even further by taking a fast third expansion may put them too far behind to recover.           
+</p>
+<h3><span class="mw-headline" id="Transition_II:_Five_Factory_Play_2">Transition II: Five Factory Play</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=26" title="Edit section: Transition II: Five Factory Play">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rather than opting for mid game Tech Terran can instead choose to put the pressure on again in mid game by quickly moving to five factory play. Applying early mid game pressure can be a great way of punishing greedy economic or Tech builds as well as provide a good screen for taking a Third Gas Expansion and transitioning into late game. Terran is also able to use a Five Factory <a href="/starcraft/Timing_Push" title="Timing Push">Timing Push</a> in order to pressure an opponent playing a Tech build or punish a Fast Third Expansion. While Five Factory play is an aggressive build it is probably the closest to being considered "Standard Play."
+</p>
+<h2><span class="mw-headline" id="Branch_IV:_Cheeses">Branch IV: Cheeses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit&amp;section=27" title="Edit section: Branch IV: Cheeses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cheeses are defined as builds that are preplanned, and that have a high probability of winning if not scouted, but are defendable if they are. Certain Cheese builds are therefore usually considered all-in, and a scouted or failed cheese usually leaves the aggressor too far behind to catch up. Other Cheese builds can give the aggressor a huge advantage if successful, but won't lose them the game immediately if failed.
+</p><p><br />
+Proxy Double Barracks Build Order (Barracks-Barracks-Supply BBS for short):
+</p>
+<ul>
+<li>8/10 - Send 7th SCV to proxy location (Map specific, bigger map may require earlier SCV)
+</li>
+<li>8/10 - Send 8th SCV to proxy location (Again map specific, some maps may require LATER SCV)
+</li>
+<li>8/10 - @ usually 150+ minerals, construct 1st barracks with 7th SCV (priority on making barrack @ proxy location)
+</li>
+<li>8/10 - @ 150 mineral, construct 2nd barracks with 8th SCV
+</li>
+<li>@50 mineral - construct 1 SCV
+</li>
+<li>9/10 - @ 100 mineral, construct supply
+</li>
+<li>@1st barracks finish - Marine, 7th SCV scout
+</li>
+<li>@2nd barracks finish - Marine, 8th SCV scout
+</li>
+</ul>
+<p>Supply depot finishes when 2nd barracks is online. Continue marine production, and when there are extra minerals, construct 2nd supply. If your opponent hasn't scouted you by now, move your marines into position after a group of 4 or 5 (critical number for killing defensive SCVs). Apply offensive bunker with initial scouting SCVs.
+</p><p>To insure a higher success of this build, make sure to kill any SCVs that are constructing bunkers. Because SCVs have 60 health, make sure that before reaching 8+ marines, run away from enemy SCV surrounds. Finally, kill any SCVs that are constructing factories.
+</p><p>This strategy is countered by:
+</p><p>- 1 bunker (Hard counter)
+</p><p>- SCV defense
+</p><p>- vultures (if factory is allowed to finish)
+</p><p><br />
+8-Rax-Mech: (Similar to TvZ 8-Rax-Mech)
+</p>
+<ul>
+<li>8/10 - immediately send 7th SCV to proxy location (Map specific, bigger map may require earlier SCV)
+</li>
+<li>8/10 - construct barrack at proxy location
+</li>
+<li>@50 mineral - continue SCV production
+</li>
+<li>@100 mineral - construct supply depot
+</li>
+<li>@barracks finish - Marine, SCV scout
+</li>
+<li>15/18 - Gas
+</li>
+<li>@gas finish - 1 SCV to Gas
+</li>
+<li>@100 gas - Factory
+</li>
+<li>@Factory finish - vulture
+</li>
+<li>after 1 vulture - Machine shop
+</li>
+</ul>
+<p>This build creates marines at the same time as the BBS build, and with the initial SCV can usually put out harass damage if your opponent skipped building extra marines. The goal of this build is to get your opponent to pull SCVs to defend a BBS build, and to possibly kill the SCV constructing factories (most Ideal). The number of marines to build for the first attack is up to whether your opponent is successful at deflecting your attack: the better he does, the less marines you should build. With your 1st vulture you should harass workers if possible, but if your opponent has defended well, wait for mines and set up contain.
+</p><p>This strategy is countered by:
+</p><p>- Successful Defense (Bunker might actually put the defense behind because it's not required to stop 1 proxy barrack)
+</p><p>- decent defense transitioned into double factory (tech advantage will allow him to push back easily)
+</p><p>In this match-up it is very difficult to cheese, have the cheese fail, and then come back to win the game. On the other hand, Cheeses can be very powerful, and can lead to victory easily if your opponent does not scout correctly.
+</p><p>3-factory-vultures
+</p>
+<ul>
+<li> 9/10 - Supply Depot
+</li>
+<li> 11/18 - Barracks - One Marine only
+</li>
+<li> 11/18 - Refinery
+</li>
+<li> 15/18 or 16/18 - Supply Depot
+</li>
+<li> 15/26 or 16/26 - Factory
+</li>
+<li> @100% Factory - Vulture and then Machine Shop
+</li>
+<li> 18/26 - Factory
+</li>
+<li> @100% Factory 
+</li>
+<li> 23/26 - Supply Depot
+</li>
+<li> @100 gas - 3rd Factory
+</li>
+<li> @100% Machine Shop - Research Speed and mines and pump Vultures
+</li>
+</ul>
+<p>This build, on maps without ramp chokes, is a hard counter to 1-fact expand.  On maps with chokes it will generally stop 1-fact expand and allow very easy containment. The 1st vulture should make sure no scout arrives at natural to check for an expansion, and the rest of the vultures should be hidden as well as possible. Once speed finishes, rush opponent with vultures.
+</p><p>While tanks can stop vultures easily, the speedy production and reinforcement of vultures can overwhelm 1-factory tank builds. Once mines finish researching, they should be placed as close to your opponent as possible, allowing you to get expansion up before your opponent.
+</p><p>This strategy is countered by:
+</p><p>- well placed bunker (vultures do 1/4 damage to buildings)
+</p><p>- 2 factory expand (may put you behind way to much economically)
+</p><p>- 1 base wraith build (Hard counter if it's two starports)
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.132 seconds
+Real time usage: 0.154 seconds
+Preprocessor visited node count: 326/1000000
+Preprocessor generated node count: 1396/1000000
+Postâ€?expand include size: 2546/2097152 bytes
+Template argument size: 344/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:473-0!*!0!!en!2!* and timestamp 20150427063640
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;oldid=119942">http://wiki.teamliquid.net/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;oldid=119942</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/index.php?title=Category:Articles_needing_copy_editing&amp;action=edit&amp;redlink=1" class="new" title="Category:Articles needing copy editing (page does not exist)">Articles needing copy editing</a></li><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvT_Builds" title="Category:TvT Builds">TvT Builds</a></li><li><a href="/starcraft/Category:Matchup_Guides" title="Category:Matchup Guides">Matchup Guides</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Terran_vs._Terran_Guide" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:Terran_vs._Terran_Guide&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Terran+vs.+Terran+Guide" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Terran_vs._Terran_Guide" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Terran_vs._Terran_Guide" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;oldid=119942" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Terran_vs._Terran_Guide&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Terran_vs._Terran_Guide" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:51.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.314 secs. --></body></html>

@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>1 Rax FE (vs. Zerg) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="1 Rax FE (vs. Zerg)" href="/starcraft/index.php?title=Special:ExportRDF/1_Rax_FE_(vs._Zerg)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1_Rax_FE_(vs._Zerg)","wgTitle":"1 Rax FE (vs. Zerg)","wgCurRevisionId":119785,"wgRevisionId":119785,"wgArticleId":23,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Terran Build Orders","TvZ Builds","Terran Beginner Strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1_Rax_FE_(vs._Zerg)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119785});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-1_Rax_FE_vs_Zerg skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">1 Rax FE (vs. Zerg)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> 1 Barracks FE</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:1raxfe.png&amp;filetimestamp=20090111075150&amp;" class="image"><img alt="" src="/starcraft/images/thumb/5/59/1raxfe.png/294px-1raxfe.png" width="294" height="221" srcset="/starcraft/images/thumb/5/59/1raxfe.png/441px-1raxfe.png 1.5x, /starcraft/images/thumb/5/59/1raxfe.png/588px-1raxfe.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<p>The <b>1 Rax FE</b>, 1 Rax CC, or 1 Barracks Fast Expansion build is widely considered the standard Terran versus Zerg opening for the majority of modern maps. Though the most conventional build aims to counter a Zerg that follows the common 3 Hatchery Tech into fast Hive build, the 1 Rax FE build is extremely flexible, and therefore can be altered to combat almost any build including 2 Hatchery Tech or a Lair Tech build, making it a solid build in any situation.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose"><span class="tocnumber">1</span> <span class="toctext">Purpose</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Build_Order_Clarification"><span class="tocnumber">2.1</span> <span class="toctext">Build Order Clarification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Adaptation"><span class="tocnumber">3</span> <span class="toctext">Adaptation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#4.2F5_Pool"><span class="tocnumber">3.1</span> <span class="toctext">4/5 Pool</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#9_Pool"><span class="tocnumber">3.2</span> <span class="toctext">9 Pool</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Transition"><span class="tocnumber">4</span> <span class="toctext">Transition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#3_Hatch"><span class="tocnumber">4.1</span> <span class="toctext">3 Hatch</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#2_Hatch"><span class="tocnumber">4.2</span> <span class="toctext">2 Hatch</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Upgrade_Rush"><span class="tocnumber">4.3</span> <span class="toctext">Upgrade Rush</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Economic_2_hatch_Muta"><span class="tocnumber">5</span> <span class="toctext">Economic 2 hatch Muta</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#4_Rax_Variation"><span class="tocnumber">5.1</span> <span class="toctext">4 Rax Variation</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Timing_Attack_Transition"><span class="tocnumber">5.2</span> <span class="toctext">Timing Attack Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#3_Hatch_Muta"><span class="tocnumber">6</span> <span class="toctext">3 Hatch Muta</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Old_Safe_Approach"><span class="tocnumber">6.1</span> <span class="toctext">Old Safe Approach</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Upgrade_Variant"><span class="tocnumber">6.2</span> <span class="toctext">Upgrade Variant</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#3rd_Gas_Pressure"><span class="tocnumber">6.3</span> <span class="toctext">3rd Gas Pressure</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#12_Pool_Lair"><span class="tocnumber">7</span> <span class="toctext">12 Pool Lair</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Non-Allin_Lurker_openings"><span class="tocnumber">8</span> <span class="toctext">Non-Allin Lurker openings</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Reactions"><span class="tocnumber">9</span> <span class="toctext">Reactions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Ling_Allins"><span class="tocnumber">9.1</span> <span class="toctext">Ling Allins</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Timing_Windows"><span class="tocnumber">10</span> <span class="toctext">Timing Windows</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Pre-Lurker"><span class="tocnumber">10.1</span> <span class="toctext">Pre-Lurker</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Pre-Sustained_4_Gas"><span class="tocnumber">10.2</span> <span class="toctext">Pre-Sustained 4 Gas</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Late_Game_Concepts"><span class="tocnumber">10.3</span> <span class="toctext">Late Game Concepts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#VODs"><span class="tocnumber">11</span> <span class="toctext">VODs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Defending_allins.2Fgimmicks"><span class="tocnumber">11.1</span> <span class="toctext">Defending allins/gimmicks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=1" title="Edit section: Purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most important thing to know before learning any build, especially the 1 Rax FE build, is the purpose of the build. 1 Rax FE is a starting point and it has many different branches depending on the your plan and the opponent's build.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>9/10 Supply Depot
+</li>
+<li>11/18 - Barracks &amp; scout
+</li>
+<li>15-18 Command Center (See <a href="#Build_Order_Clarification">note</a>)
+</li>
+</ul>
+<h3><span class="mw-headline" id="Build_Order_Clarification">Build Order Clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=3" title="Edit section: Build Order Clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>If you scout your opponent in the first spot and he is going Hatchery first, make the CC at 15 and do not make a marine until after depot, unless he scouts you with a Drone.
+<ul>
+<li>If you see 12 Hatch immediately cancel any marines and put up the command center at the natural.
+</li>
+<li>If you scout 9 pool pull 2-3 scvs to your ramp before the lings arrive and make the command center in your main when you have money while keeping constant marine and SCV production.
+</li>
+<li>If you build the 2nd Depot before the Command Center you will need to make a third Depot before the Command Center finishes in order not to be supply blocked. If you made the Command Center on 15, it will finish in time, and you can build the third depot afterwards.
+</li>
+</ul>
+</li>
+<li>Keep your scv near their main hatchery to see how many lings they made when the pool finishes. If they make 4-6 lings and leave their base, you will need to make a bunker in case you expanded at the natural. If the lings just chase after your SCV, there is no need.
+</li>
+<li>If the Zerg does not make their Lair within half a minute after their Extractor finishes throw down a bunker, supply depot to block, and have SCVs ready to repair and block enemy Zerglings because they researched Zergling Speed first and are trying to <a href="/starcraft/All-in" title="All-in">all-in</a>.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Adaptation">Adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=4" title="Edit section: Adaptation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="4.2F5_Pool">4/5 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=5" title="Edit section: 4/5 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the Zerg successfully guesses correctly as to which starting position you are at, then his Zerglings will arrive while your Barracks is still under construction. You will have to pull SCVs to your ramp or choke in order to try to hold off his Zerglings until you can get a Marine out to defend. Proper micro is key to defending against this cheese, and your SCVs should always be acting as a wall between the Zerglings and your Marine. Be sure to retreat the Marine if necessary, though the best play would be to try to circle around through your SCVs so the chasing Zerglings will take damage from your SCVs.
+</p>
+<h3><span class="mw-headline" id="9_Pool">9 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=6" title="Edit section: 9 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is recommended and safe for players to double scout. When the first SCV sent at 11 supply reaches the natural of the first scouted location (you have confirmed they are not going 12 hatch in one position), send a second SCV in the direction opposite of the first (e.g. If your first SCV scouted clockwise, send your second SCV counter-clockwise). If timed correctly, both SCVs will be able to scout both remaining locations at the same time.
+</p><p>Against a 9 Pool build, the Zerg will typically try to scout you early on with a drone. When you see the early lings, pull 4 to 5 SCVs and block the ramp/choke point and plant the CC in your main and float it over later. Unless the Zerg went 9 pool speed, you can usually hide one of your initial scouting SCVs and scout for Zerg's transition (1 base tech or expansion) after a certain time.
+</p>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=7" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The transition from the 1 Rax FE build will mostly depend on whether the Zerg player is going 2 Hatch or 3 Hatch:
+</p>
+<h3><span class="mw-headline" id="3_Hatch">3 Hatch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=8" title="Edit section: 3 Hatch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the Zerg is going 3 Hatch, then the most common transition is to set up for the <a href="/starcraft/TvZ_9_Minute_Push" title="TvZ 9 Minute Push">9 Minute Push</a>. For a far more aggressive option, the <a href="/starcraft/%2B1_5_Rax" title="+1 5 Rax">+1 5 Rax</a> build is extremely powerful against 3 Hatch Mutas. If you want to cheese, then the <a href="/starcraft/Ayumi_Build" title="Ayumi Build">Ayumi Build</a> is viable.
+</p>
+<h3><span class="mw-headline" id="2_Hatch">2 Hatch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=9" title="Edit section: 2 Hatch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the Zerg is going 2 Hatch, then there are several options. One option is the <a href="/starcraft/2_Rax_Tech" title="2 Rax Tech">2 Rax Tech</a>, which favors a passive mid game in favor of a late game that involves more Vessels or Tanks.
+</p><p>The more common transition against 2 Hatch muta is to add a 3rd Barracks after Ebay, then tech up to Vessel while making tanks for the timing attack. There is also a 2 Barracks tech variation for those confident in their m&amp;m control that gets more tanks for a timing attack but no real map control before that point. Lastly, one can open 4 Barracks before Factory to put a large amount of pressure on the Zerg and transition into SK Terran.
+</p><p>When making turrets against 2 Hatch muta, only one scv needs to make a turret at one spot at a time. The Zerg's first 6 mutas cannot handle a turret if any m&amp;m are nearby and by the time they get more mutas, each scv will have completed the second and potentially 3rd turret. The exception to this is on maps like Fighting Spirit where the Terran must make a large number of turrets at a specific location immediately. Flash Vods are the must-have source for optimal turret placement.
+</p>
+<h3><span class="mw-headline" id="Upgrade_Rush">Upgrade Rush</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=10" title="Edit section: Upgrade Rush">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An upgrade rush gets +1 very early, during the muta harass phase, and gives you a threatening timing window before lurkers come out with a very strong midgame army. It is however much weaker against ling allins and thus is of questionable use if you aren't somewhat sure of their opening. Note that this works against both 2 hatch and 3 hatch muta.
+</p>
+<ul>
+<li>CC
+</li>
+<li>Refinery
+</li>
+<li>Ebay
+</li>
+<li>Academy
+</li>
+<li>Barracks 2x
+</li>
+<li>4th Barracks or Factory.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Economic_2_hatch_Muta">Economic 2 hatch Muta</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=11" title="Edit section: Economic 2 hatch Muta">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Economic 2 Hatch Muta is when the Zerg barely builds any lings and takes a very quick 3rd base, aiming to get a very good economy while harassing. Upgrade rushes are very potent against this build but there is another aggressive strategy that can pay off with high dividends as well. There are two approaches that depend on the map in question. On maps without a ramped 3rd or just one that is more difficult to defend, the 4 Rax variation is generally better and is also more forgiving against any slipups.
+</p><p>The goal of this strategy is to save money on turrets and depots by consistently fighting Mutas in the open field. The Zerg must make lots of mutas to defend with because they can't defend their early 3rd and natural with sunkens and thus their lurkers and general timings will all be messed up. It requires very good m&amp;m micro but is definitely one of the best contemporary strategies. If the Zerg makes any mistakes such as missing the marines and flying straight towards your base or not making a sunken you can kill their natural and just win. Normal games will involve a bunch of fighting in the middle until +1 and sufficient marine count makes the mutas obsolete. But always be careful of the Zerg cutting drones to make a number of lings. In this case immediately retreat back and make additional turrets.
+</p><p>If you get 3rd Rax before Ebay then you will need to delay turrets a bit and ensure that you catch their mutas with your rines or make sure that the Zerg knows the threat and fights your marines rather than runs into a turretless base. This is only a problem if you are targeting their 3rd; if you target their natural and they go for your main the Terran ends up ahead.
+</p>
+<h4><span class="mw-headline" id="4_Rax_Variation">4 Rax Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=12" title="Edit section: 4 Rax Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>Standard build
+</li>
+<li>Add 2 Barracks after Turrets and upgrades started. Continually press out with new m&amp;m groups and occupy the mutas.
+</li>
+<li>Factory (this build works both with a timing attack and straight up SK Terran transition)
+</li>
+<li>Starport (make dropship asap)
+</li>
+<li>Science Facility and 2nd Ebay
+</li>
+</ul>
+<p>This build aims to put constant pressure on the Zerg in a more flowing style than normal. The 4 Barracks are particularly effective at pressuring on non-ramped 3rd maps and the extra marines keep the Zerg preoccupied while they are being set up for a drop. From there a timing attack or SK Terran is possible but either way the Zerg should be continually threatened and thrown off their gameplan.
+</p>
+<h4><span class="mw-headline" id="Timing_Attack_Transition">Timing Attack Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=13" title="Edit section: Timing Attack Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>CC
+</li>
+<li>Barracks
+</li>
+<li>Refinery
+</li>
+<li>Academy
+</li>
+<li>Barracks
+</li>
+<li>Engineering Bay
+</li>
+<li>Turrets
+</li>
+<li>Factory
+</li>
+<li>Starport
+</li>
+<li>Science Facility + Engineering Bay
+</li>
+</ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="3_Hatch_Muta">3 Hatch Muta</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=14" title="Edit section: 3 Hatch Muta">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Old_Safe_Approach">Old Safe Approach</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=15" title="Edit section: Old Safe Approach">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While it has been mostly discarded in favor of the standard approach discussed above, this build might be more comforting for players who have trouble vs ling allins as it gets firebats extremely quickly.
+</p>
+<ul>
+<li>CC
+</li>
+<li>Refinery
+</li>
+<li>Academy
+</li>
+<li>Barracks x2
+</li>
+<li>Factory (Commence Tank production as soon as possible and siege when gas allows)
+</li>
+<li>Engineering Bay
+</li>
+<li>Starport
+</li>
+<li>Engineering Bay + Science Facility
+</li>
+</ul>
+<h3><span class="mw-headline" id="Upgrade_Variant">Upgrade Variant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=16" title="Edit section: Upgrade Variant">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This type of play has been popularized mostly by Flash in this match-up. The basic idea is getting +1 weapons when mutalisks arrive whilst teching up based on 2 barracks. Since this build has a low barrack count, it is perfectly fine to be adding more turrets to hold off mutalisks along with your first control group of marines and medics.
+</p><p>The basics of this build follow the 1 Rax FE build. Here are the details:
+</p><p>2nd Rax added at approximately 22 supply after natural command center is building.
+Refinery after second Rax is building.
+Ebay after refinery is done.
+@100 gas, remove all SCVs from gas.
+@100% ebay, start +1 weapons
+@100% ebay, start academy, 3 SCVs back on gas.
+</p><p>+1 weapons should complete when mutalisks arrive and the +1 weapons should give you a huge lead in defending against his flock.
++1 armour is usually followed after +1 attack. 
+Factory should be started once your stim is being researched.
+3rd and 4th rax added after you plant down your starport.
+</p><p>It is also important to have a proper medic to marine ratio. Since you are staying on 2 rax for a long time, it is important to also protect your medics and to make at least 2 more after your initial group of marines.
+</p><p>If you get the timings correct, +2 weapons can be researched right after +1 armour is done. This will give you a very strong mid-game pre-defiler army consisting of around 2 control groups of marines, 2 tanks and a vessel.
+</p>
+<h3><span class="mw-headline" id="3rd_Gas_Pressure">3rd Gas Pressure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=17" title="Edit section: 3rd Gas Pressure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This approach can significantly delay the Zerg's 3rd gas, which is generally enough to win the game with a followup timing attack. It is usable so long as the Zerg is not going allin, but unlike the aggressive approach vs 2 hatch muta this build can handle medium amounts of Zerglings. Unlike in the 2 hatch version turrets do not need to be delayed. The goal here is to delay the Zerg's 3rd gas long enough so that they don't have the gas to defend against the pre-defiler timing attack. The threat of a counterattack is not as big here so long as there is a bunker at the natural with a firebat inside, instead, the main difficulty is ensuring muta/ling does not pick off isolated groups of infantry or that the base is completely undefended when a counter comes.
+</p>
+<ul>
+<li>CC
+</li>
+<li>Barracks
+</li>
+<li>Refinery
+</li>
+<li>Academy
+</li>
+<li>Barracks
+</li>
+<li>Engineering Bay
+</li>
+<li>Factory
+</li>
+</ul>
+<h2><span class="mw-headline" id="12_Pool_Lair">12 Pool Lair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=18" title="Edit section: 12 Pool Lair">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>12 pool Lair is an aggressive, but not necessarily allin Mutalisk build. The standard build must be adapted slightly with an earlier Engineering bay and turrets. More turrets should be built than normal because the Zerg absolutely must do damage with their Mutas or they will be rather behind. If the Terran player has confidence in their micro vs mutalisks, here is a very strong strategy against a low ling count approach.
+</p>
+<ul>
+<li>3rd Barracks after Turrets
+</li>
+<li>Tech to Science Vessels and Irradiate ASAP. Produce tanks when possible but don't delay Vessels.
+</li>
+</ul>
+<p>Once enough turrets are made to defend immediately start threatening to attack the Zerg's natural. The Zerg will have to defend with mutas and will likely kill off a few groups. The critical timing to pressure either their 3rd or natural is when they cut muta production to make lurkers. The Vessel comes out around this time as well so it will be much easier to fight versus mutas and you will likely be able to force sunkens or cause some kind of damage. By the time this attack is done with a followup army with Tanks and a Vessel should win the game handily.
+</p><p>Because 12 Pool Lair is a weaker build economically the Zerg does not have the drone count to make any number of sunkens, they must defend with mutas long enough until lurkers come out. The concept behind this strategy is to make the Zerg fight uneconomical battles by continually attacking them with sufficient numbers of m&amp;m. If the Zerg ignores the m&amp;m they will have to kill their economy to sunken enough and abandon any hope of a 3rd base and any mutalisk counter should be adequately delayed by the extra turrets made until the marines make it home. Thus the Zerg must fight the m&amp;m with almost pure mutas.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Non-Allin_Lurker_openings">Non-Allin Lurker openings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=19" title="Edit section: Non-Allin Lurker openings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If the Zerg has normal drone count and is going lurkers instead of mutas or has a spire and den and is not saving larvae you can be much more aggressive and contain them immediately. If they make too few lings early then you can pretty much camp in front of their natural and delay any expansion attempts. You have a lot more freedom against lurker first openings but a timing push is a must either way.
+</p>
+<h2><span class="mw-headline" id="Reactions">Reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=20" title="Edit section: Reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Ling_Allins">Ling Allins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=21" title="Edit section: Ling Allins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Scouting ling allins is an absolute must. Hide an scv in the middle before his lings arrive at your natural. Use it after your first one dies and his lings have left his base to scout his drone count, sunken count, and tech choice. Alternatively you can just have it camp in front of his natural to know when he will expand and if any lings are leaving his base.
+</p><p>If you see few drones and/or many lings make a bunker if you don't have one already, depot in front of the bunker at an angle that blocks lings/lets scvs repair it, and hotkey your nat scvs and an area hotkey in your main mineral line. Keep your rallied marines on the ramp and have an scv about a screen away from your nat to give advance warning of allin. If he goes in have the scvs immediately run towards the bunker and bring the rallied marines forward. If he tries to run into the main send your scvs to mine at the main and have them stop in front of the rallied marines at the ramp and attack. After you block it immediately prepare for his tech choice (generally mutas). Once you defend against that, it is pretty easy to win with a simple pre-defiler timing attack.
+</p>
+<h2><span class="mw-headline" id="Timing_Windows">Timing Windows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=22" title="Edit section: Timing Windows">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Every variant of 1 Rax FE is geared towards maximizing its strengths against one or more of the following timing windows while still remaining flexible enough to adapt to any circumstance. The changes in build order may be slight but it is important to optimize your build for a specific plan that exploits one or more timing windows.
+</p>
+<h3><span class="mw-headline" id="Pre-Lurker">Pre-Lurker</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=23" title="Edit section: Pre-Lurker">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Post-Muta timing windows heavily depend on how and how well you handled the muta harass. If mutas do a lot of damage it is difficult to do any damage here but if they are brushed aside the Zerg is in immediate danger. Sometimes the Zerg might gamble that they will do enough damage with mutalisks and therefore delay lurkers. In those situations if the Mutas do little damage the game can generally be ended by simply breaking their natural before lurkers are done. Another easy mistake to catch Zergs on is if they are slow on getting hydras to their 3rd if they did 3 hatch mutalisk. It is often too late if they simply morph lurkers at their natural then run them over to defend the 3rd.
+</p><p>In general the goal of this timing window is to micro against mutas in the open field and thus force sunkens and delay their 3rd base for as long as possible. The most important criteria here is to judge how safe your base is to a counterattack and if you can safely venture out versus muta/ling. If the Zerg makes a lot of Zerglings it is better to simply defend versus Mutas and attack in the pre-defiler window because they will be weaker economically. Therefore pressuring in this timing window is generally limited to more economical Zerg strategies.
+</p><p>If you venture out to kill/threaten their 3rd, and the Zerg counterattacks, the best approach is to split off a group of 6 or so marines and a medic to stim and kill their 3rd while the rest goes home to defend.
+</p>
+<h3><span class="mw-headline" id="Pre-Sustained_4_Gas">Pre-Sustained 4 Gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=24" title="Edit section: Pre-Sustained 4 Gas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Builds that jump to SK Terran directly are the most optimized against this particular timing window but pre-defiler timing attacks will transition into SK Terran nicely enough. There are two goals here, namely to prevent the Zerg from taking their 4th base and to secure a 3rd base. Both are accomplished by maintaining a constant amount of pressure on the Zerg and forcing them to barely defend everywhere at once.  On maps with difficult terrain as Outsider or Ultimatum where additional expansions are not kept on land it is worth it to put a small group of infantry to delay any future Zerg expansions.
+</p><p>While SK Terran demands a constant stream of Vessels it's recommended for the aggressive minded player to substitute in dropships at times to keep the pressure on. A particularly nice timing window for a combined two dropship drop plus the main army attacking another location first is right when the Zerg secures their 4th and is transitioning into Ultralisks. If the Defiler and Ultra production facilities go down there will be a gaping hole in the Zerg's defense that can be easily exploited. This attack can be particularly devastating since the Zerg is generally stretched out trying to defend 3-4 bases with lurker/ling/swarm. 
+</p><p>Most Zergs will generally try to just defend until they can get 4 gas and Ultralisks going but some will go for a more aggressive approach once consume is done. Against the former it is better to spread out the army to pressure multiple spots and do larger drops at once. Versus the latter, keeping the army together and doing smaller drops will work better. In either case the Terran army should always be near a Zerg base or at least controlling the middle until upgraded Ultralisks are out, as a group of lurker/ling under swarm can completely shut down a Terran base if they reach it unopposed.
+</p>
+<h3><span class="mw-headline" id="Late_Game_Concepts">Late Game Concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=25" title="Edit section: Late Game Concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On maps that support the expansion count such as Outsider and most 4 player maps the Terran should transition to a more tank based army after taking a 4th base. Vessels should still be produced out of 2 ports but the remaining gas should be used to make tanks at both mains. This helps prevent very dangerous lategame counterattacks.
+</p><p>The most important part of lategame play is to ensure that every defiler gets irradiated and that their ultralisks get worn down before any battles start. Sometimes Vessels will have to be suicided in order to do this but it is absolutely necessary to hurt the Zerg army before it is engaged. Only after the Zerg has been weakened by irradiates and all defilers are dead should the Terran try to fight it without tank support. In general tanks should be set up at both mains and the m&amp;m force roam around to cover Vessels
+</p><p>Once a sufficient mass of tanks has been built up the Terran can try to end the game in one attack or map depending, just defend and deny the Zerg any more bases. If a mass tank attack is made the most important goal again is to make sure no defiler enters the battle. If every Vessel is suicided for that goal it is okay because Zerg cannot hope to beat a mass of tanks backed by a significant number of infantry without dark swarm and plague and that attack is generally the game ender.
+</p>
+<h2><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=26" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/34970_Calm_vs_Flash/vod">http://www.teamliquid.net/tlpd/games/34970_Calm_vs_Flash/vod</a> (EotS, aggressive 3 rax tech vs econ 2 hatch)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/34969_Calm_vs_Flash/vod">http://www.teamliquid.net/tlpd/games/34969_Calm_vs_Flash/vod</a> (FS, lategame tank play)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/34967_Calm_vs_Flash/vod">http://www.teamliquid.net/tlpd/games/34967_Calm_vs_Flash/vod</a> (El Nino, 12 pool lair)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/31182_Flash_vs_HoGiL">http://www.teamliquid.net/tlpd/games/31182_Flash_vs_HoGiL</a> (El Nino, Standard Timing Attack)
+</p><p><a rel="nofollow" target="_blank" class="external free" href="http://www.youtube.com/watch?v=HElWCJDELV8">http://www.youtube.com/watch?v=HElWCJDELV8</a> (Flash/Zero, Ultimatum, lategame decision making guide)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/30613_Flash_vs_HyuN">http://www.teamliquid.net/tlpd/games/30613_Flash_vs_HyuN</a> (Tornado, abnormal timing attack)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/30573_Flash_vs_Kwanro">http://www.teamliquid.net/tlpd/games/30573_Flash_vs_Kwanro</a> (FS, muta defense + timing attack from 2 rax tech)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/34843_Flash_vs_Jaedong">http://www.teamliquid.net/tlpd/games/34843_Flash_vs_Jaedong</a> (FS, delaying 3rd vs 3 hatch muta)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/11301_Flash_vs_hyvaa">http://www.teamliquid.net/tlpd/games/11301_Flash_vs_hyvaa</a> (RH3, 2 hatch muta into 3 gas guards)
+</p>
+<ul>
+<li><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/11189_Flash_vs_Jaedong">http://www.teamliquid.net/tlpd/games/11189_Flash_vs_Jaedong</a> (SCR, SK Terran vs 2 hatch muta)
+</li>
+</ul>
+<ul>
+<li><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/11155_Flash_vs_Jaedong">http://www.teamliquid.net/tlpd/games/11155_Flash_vs_Jaedong</a> (Harmony, 2 hatch muta lurker into guards)
+</li>
+</ul>
+<ul>
+<li><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/30600_Flash_vs_hero">http://www.teamliquid.net/tlpd/games/30600_Flash_vs_hero</a> (HBR, Aggressive 4 rax vs economic 2 hatch muta)
+</li>
+</ul>
+<ul>
+<li><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/25090_fantasy_vs_Jaedong">http://www.teamliquid.net/tlpd/games/25090_fantasy_vs_Jaedong</a> (Outsider, lategame play with tank timing)
+</li>
+</ul>
+<h3><span class="mw-headline" id="Defending_allins.2Fgimmicks">Defending allins/gimmicks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=27" title="Edit section: Defending allins/gimmicks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/34773_Flash_vs_type-b">http://www.teamliquid.net/tlpd/games/34773_Flash_vs_type-b</a> (EotS, 2 base 8 rax allin vs muta -&gt; ultra)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/10605_Flash_vs_GGPlay">http://www.teamliquid.net/tlpd/games/10605_Flash_vs_GGPlay</a> (Athena, timing vs 4 gas hive)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/9927_Flash_vs_July">http://www.teamliquid.net/tlpd/games/9927_Flash_vs_July</a> (RotK, 3 gas muta allin)
+</p><p><a rel="nofollow" target="_blank" class="external free" href="http://www.youtube.com/watch?v=0ZNeRktDWhA">http://www.youtube.com/watch?v=0ZNeRktDWhA</a> (Flash/Zero, Odd-Eye, 12 pool lair into 3 gas guardian)
+</p><p><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/9311_Flash_vs_YellOw">http://www.teamliquid.net/tlpd/games/9311_Flash_vs_YellOw</a>[ArnC] (Col 1, semi-allin mutaling)
+</p>
+<ul>
+<li><a target="_blank" class="external free" href="http://www.teamliquid.net/tlpd/games/11452_Flash_vs_YellOw">http://www.teamliquid.net/tlpd/games/11452_Flash_vs_YellOw</a>[ArnC] (Andro, allin muta)
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit&amp;section=28" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li> <a target="_blank" class="external free" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=78677">http://www.teamliquid.net/forum/viewmessage.php?topic_id=78677</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.116 seconds
+Real time usage: 0.132 seconds
+Preprocessor visited node count: 319/1000000
+Preprocessor generated node count: 1332/1000000
+Postâ€?expand include size: 1936/2097152 bytes
+Template argument size: 137/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:23-0!*!0!!en!2!* and timestamp 20150422221749
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;oldid=119785">http://wiki.teamliquid.net/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;oldid=119785</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvZ_Builds" title="Category:TvZ Builds">TvZ Builds</a></li><li><a href="/starcraft/Category:Terran_Beginner_Strategy" title="Category:Terran Beginner Strategy">Terran Beginner Strategy</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/1_Rax_FE_(vs._Zerg)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:1_Rax_FE_(vs._Zerg)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=1+Rax+FE+%28vs.+Zerg%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/1_Rax_FE_(vs._Zerg)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/1_Rax_FE_(vs._Zerg)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;oldid=119785" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=1_Rax_FE_(vs._Zerg)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/1_Rax_FE_(vs._Zerg)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:47.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.277 secs. --></body></html>

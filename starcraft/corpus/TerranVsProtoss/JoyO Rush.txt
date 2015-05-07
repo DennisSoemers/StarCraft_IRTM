@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>JoyO Rush - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="JoyO Rush" href="/starcraft/index.php?title=Special:ExportRDF/JoyO_Rush&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"JoyO_Rush","wgTitle":"JoyO Rush","wgCurRevisionId":119800,"wgRevisionId":119800,"wgArticleId":109,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Terran Build Orders","TvP Builds","Terran Beginner Strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"JoyO_Rush","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119800});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-JoyO_Rush skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">JoyO Rush</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> JoyO Rush</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:Joyo1.jpg&amp;filetimestamp=20080723011003&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a6/Joyo1.jpg/294px-Joyo1.jpg" width="294" height="221" srcset="/starcraft/images/thumb/a/a6/Joyo1.jpg/441px-Joyo1.jpg 1.5x, /starcraft/images/thumb/a/a6/Joyo1.jpg/588px-Joyo1.jpg 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>JoyO using his build</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvP</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/JoyO" title="JoyO">JoyO</a></span></div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/JoyO" title="JoyO">JoyO</a></span></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<p>This build originates from the Korean qualifiers for the <a href="/starcraft/WCG_2003" title="WCG 2003">WCG 2003</a>, where the Korean progamer JoyO caused quite a stir by running through almost all of his Protoss opponents with the same build. The build and variations of it are still seen in progaming today. It is a very aggressive build that is very effective against <a href="/starcraft/Greedy_Build" title="Greedy Build">greedy builds</a>, but it's not as economically solid as standard <a href="/starcraft/Siege_Expand" title="Siege Expand" class="mw-redirect">1 Factory Expansion</a> play.
+</p><p>The build centers around making a push with three siege-less tanks, about five marines, and rallying Vultures with Spider Mines and speed. If Protoss has expanded, the goal is generally to shut down the expansion and force Protoss to make more units, setting him behind economically. If the Protoss is a weaker player, there's also a good chance the rush will end the game.
+</p><p>This build is similar to the <a href="/starcraft/Gundam_Rush" title="Gundam Rush">Gundam Rush</a>, but the way the attack is performed is very different.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_Original_Build_Order"><span class="tocnumber">1</span> <span class="toctext">The Original Build Order</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Important_Notes"><span class="tocnumber">2</span> <span class="toctext">Important Notes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Learning_the_build_order"><span class="tocnumber">2.1</span> <span class="toctext">Learning the build order</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#The_attack"><span class="tocnumber">3</span> <span class="toctext">The attack</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Variations"><span class="tocnumber">4</span> <span class="toctext">Variations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Transitions"><span class="tocnumber">5</span> <span class="toctext">Transitions</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Countered_By"><span class="tocnumber">6</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Hard_Counters"><span class="tocnumber">6.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Soft_Counters"><span class="tocnumber">6.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Counter_To"><span class="tocnumber">7</span> <span class="toctext">Counter To</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Hard_Counters_2"><span class="tocnumber">7.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Soft_Counters_2"><span class="tocnumber">7.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Handling_Counters"><span class="tocnumber">8</span> <span class="toctext">Handling Counters</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notable_Situations_and_Maps"><span class="tocnumber">9</span> <span class="toctext">Notable Situations and Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Notable_Situations"><span class="tocnumber">9.1</span> <span class="toctext">Notable Situations</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Notable_Maps"><span class="tocnumber">9.2</span> <span class="toctext">Notable Maps</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Mentality"><span class="tocnumber">10</span> <span class="toctext">Mentality</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Replays"><span class="tocnumber">11</span> <span class="toctext">Replays</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#VODs"><span class="tocnumber">12</span> <span class="toctext">VODs</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="The_Original_Build_Order">The Original Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=1" title="Edit section: The Original Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>9 - Supply Depot at <a href="/starcraft/Walling_as_Terran" title="Walling as Terran">Wall</a> (This SCV blocks ramp afterward)
+</li>
+<li>10 - Barracks
+</li>
+<li>12 - Refinery
+</li>
+<li>15 - Supply Depot (when the rax is done) - The SCV standing at ramp now scouts.
+</li>
+<li>@100% Refinery - three SCVs on gas.
+</li>
+<li>@200 Minerals, 100 Gas - ~18 Factory.
+</li>
+<li>~23 - Supply Depot
+</li>
+<li>@60% of first Factory finished - ~20 Factory
+</li>
+<li>@First Factory 100% - Add Machine Shop
+</li>
+<li>@First Machine Shop 100% - Build Tank
+</li>
+<li>Start constant Marine production.
+</li>
+<li>@Second Factory done - Add Machine Shop
+</li>
+<li>@Second Machine Shop 100%, First Siege Tank 100% (these events should coincide) - Build two more Siege Tanks
+</li>
+<li>@100 minerals and gas (and can afford Marine production) - Research Ion Thrusters
+</li>
+<li>@100 minerals and gas (and can afford marine production) - Research Spider Mines
+</li>
+<li>@Three Siege Tanks - build two Vultures and move out with your three Siege Tanks and about five Marines.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Important_Notes">Important Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=2" title="Edit section: Important Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Keep queuing Vultures from your Factories and have them rally to your opponents base.
+</li>
+<li>On a normal map your first 2 Vultures should catch up with your original force just as you reach your opponents base.
+</li>
+<li>This is the critical moment of the game, and from here the build diverges.
+</li>
+</ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Learning_the_build_order">Learning the build order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=3" title="Edit section: Learning the build order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Learning JoyO is easy.  Don't try to memorize the exact build order, but instead, focus on a few concepts:
+</p>
+<ul>
+<li> <a href="/starcraft/Walling_as_Terran" title="Walling as Terran">Wall in</a>.
+</li>
+<li> Build your second Factory when the first factory is at 60% (This will get you two Tanks at exactly the right time.)
+</li>
+<li> Research speed and Mines for your Vultures as soon as you can afford it.  Since speed upgrades slower, make sure to get it first.
+</li>
+<li> Move out as soon as you have three Tanks. Keep rallying Vultures, and micro.
+</li>
+</ul>
+<h2><span class="mw-headline" id="The_attack">The attack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=4" title="Edit section: The attack">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Good micro is critical once your units reach the Protoss base. You want your Marines just in front of the Tanks, and the Tanks should be lined up perpendicular to the direction in which you are attacking. The Tanks will be doing the majority of the damage here.
+</p><p>If the Protoss player tries to snipe a Tank, move it to the rear of your group, causing the Dragoons to take heavy damage from the rest of your units. Generally the Protoss player will have to focus on killing the Marines first.
+</p><p>The most important part of this strategy are the Vultures. You need to micro them to come in and lay aggressive Mines close to, behind, or even amongst the Dragoons. This will cause the Dragoons to move back while trying to snipe the Mines.  Good Protoss players should be able to avoid these Mines to a degree, but the key here is to distract the Dragoons by threatening them with the Mines while allowing the tanks to do most of the damage.
+</p><p>If the map has a ramp and the Protoss backs up to it (surrendering any expo attempts for the moment) you can either try to push up with Mines/Tanks and try to finish him off, or you can keep your Tanks outside the expansion for a while with Mines just down the ramp. This will make it difficult for the Protoss to push out and get his much needed expansion.
+</p>
+<h2><span class="mw-headline" id="Variations">Variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=5" title="Edit section: Variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>How fast you get your three Tanks and can move out can be modified by <a href="/starcraft/Cutting_workers" title="Cutting workers">cutting scvs</a>. A faster attack means a slower economy. JoyO's original build cuts SCVs.
+</li>
+</ul>
+<ul>
+<li>The build can be done without a wall. This requires Marines to be built earlier, which delays your Factories, but it makes the build possible to disguise as a standard <a href="/starcraft/FD_Build" title="FD Build" class="mw-redirect">FD Build</a> (Note that the <a href="/starcraft/FD_Build" title="FD Build" class="mw-redirect">Fake Double Build</a> didn't exist when JoyO invented this build.)
+</li>
+</ul>
+<ul>
+<li>Nada invented a <a href="/starcraft/Nada_2_Fac" title="Nada 2 Fac">similar build</a> but didn't have much success with it. He got only one Machine Shop and built three Tanks from one Factory while getting both Vulture upgrades from that Machine Shop. The other factory produced Vultures. The attack comes later but you don't have to <a href="/starcraft/Cutting_workers" title="Cutting workers">cut SCVs</a>.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Transitions">Transitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=6" title="Edit section: Transitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If your rush went well, the best transition would be to get an early expansion. Do this during your attack when you have 400 minerals and still can afford Supply Depots for your Vultures.
+</p><p>It is imperative to make an Engineering Bay pretty early, as Shuttle builds and Dark Templar builds are strong against Two Factory. it is safest to start a Bay before your expansion Command Center.
+</p><p>When your first attack is over there might be a small window for a counterattack from the Protoss. Either with Observers and Goons or with an added Shuttle. To be safe from this it is vital to start researching Siege, and build only Tanks instead of Vultures once your first attack is over. You will also need an Engineering Bay at that time.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=7" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=8" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>None if you adapt your build correctly.
+</p>
+<h3><span class="mw-headline" id="Soft_Counters">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=9" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/Terran_Counter_To_Reaver_Tech" title="Terran Counter To Reaver Tech" class="mw-redirect">1 Gate Reaver</a>
+</li>
+</ul>
+<p>This is a pretty good counter. It defends easily, and allows the Protoss player to expand quickly.
+</p>
+<ul>
+<li><a href="/starcraft/Terran_Counter_To_DT_Expand" title="Terran Counter To DT Expand" class="mw-redirect">Dark Templar Rush</a>
+</li>
+</ul>
+<p>Is a decent counter, especially if the Terran is prevented from scouting it.
+</p>
+<ul>
+<li><a href="/starcraft/Terran_Counter_To_Early_Pressure" title="Terran Counter To Early Pressure" class="mw-redirect">2 Gate Goons</a>
+</li>
+</ul>
+<p>Is a good counter if microed well, the Protoss player should be able to stop the attack down his ramp.
+</p>
+<h2><span class="mw-headline" id="Counter_To">Counter To</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=10" title="Edit section: Counter To">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters_2">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=11" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/1_Gate_Nexus" title="1 Gate Nexus" class="mw-redirect">1 Gate Nexus</a>
+</li>
+</ul>
+<p>While it may seem safer than 14 Nexus, the 1 Gate Nexus gets later Gateways and less units against the JoyO Rush.
+</p>
+<h3><span class="mw-headline" id="Soft_Counters_2">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=12" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/14_Nexus" title="14 Nexus" class="mw-redirect">14 Nexus</a>
+</li>
+</ul>
+<p>There might be a problem for the Protoss player to defend this without sacrificing his expansion, but sometimes a good Protoss can take advantage of the early economy boost and out-produce the Terran rush, as the timing comes slightly later than optimal against the 14 Nexus build order.
+</p>
+<h2><span class="mw-headline" id="Handling_Counters">Handling Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=13" title="Edit section: Handling Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Two Gate Goon / One Gate observer
+</li>
+</ul>
+<p>Try to force the Protoss up his ramp, and keep him there for as long as possible.  Retreat if there are too many Goons.
+</p>
+<ul>
+<li>One Gate Expo
+</li>
+</ul>
+<p>Try to force the Protoss up his ramp, while attempting to make him cancel the Nexus (or kill it if it is already built). If you are able to delay or kill the Nexus, you will have a big advantage.
+</p>
+<ul>
+<li>One Gate Reaver
+</li>
+</ul>
+<p>If Protoss player uses his shuttle with Reaver for defense, the best option is to back off, build an Engineering Bay, and focus on getting your own expansion up.
+</p><p>If your opponent flies to your main with the Shuttle, you have a good chance to break into the Protoss main. He should have a low number of Goons, and all his main should die. Even though Terran might lose many SCV, the Terran generally wins in this scenario.
+</p>
+<ul>
+<li>Fast Dark Templar
+</li>
+</ul>
+<p>If Protoss went fast Dark Templar, focus on getting your own expansion up.  Mine the DT's path so that none can get into your base before your Engineering Bay is done.
+</p>
+<ul>
+<li>13 Nexus
+</li>
+</ul>
+<p>Your best option is probably to try and end it quickly, <a href="/starcraft/Cutting_workers" title="Cutting workers">cut SCVs</a> to make your rush come faster. Don't mind about the Protoss expo, push up his ramp and try to kill him off. Optionally, bring down SCVs to help fighting.
+</p>
+<h2><span class="mw-headline" id="Notable_Situations_and_Maps">Notable Situations and Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=14" title="Edit section: Notable Situations and Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notable_Situations">Notable Situations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=15" title="Edit section: Notable Situations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This build is strong to play as a bit of a surprise in a best-of-x series. If Protoss expects a Fast Expansion play you are likely to do a lot of damage with the first attack.
+</p><p>On the other hand, if the build is used to often, or the Protoss expects it, it's pretty easy to stop.
+</p><p>The key is often to disguise this build as a Fast Expansion build causing the Protoss to get too greedy.
+</p>
+<h3><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=16" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The JoyO rush is effective on maps where:
+</p>
+<ul>
+<li>The distance between the players are short
+</li>
+<li>Maps where Protoss players often expand quickly
+</li>
+<li>Rampless maps, but then on rampless maps Protoss are very likely to go 2 gate.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=17" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Replays">Replays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=18" title="Edit section: Replays">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Here are three replays where JoyO is performing the rush himself during the Korean wcg qualifier 2003:
+</p>
+<ul>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://repdepot.net/download.php?type=rep&amp;id=5906&amp;name=FanTasticPlayer+vs+SaRang%5BBoyc%5D.rep">JoyO vs Sarang</a>
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://repdepot.net/download.php?type=rep&amp;id=5907&amp;name=Buddy%29SAGA+vs+FanTasticPlayer.rep">JoyO vs Buddy)Saga</a>
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://repdepot.net/download.php?type=rep&amp;id=5908&amp;name=DiPer.+vs+FanTasticPlayer.rep">JoyO vs Diper</a>
+</li>
+</ul>
+<p>Here is a modern application by Sea[shield] during the TL Attack S02E02 July/2008:
+</p>
+<ul>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://repdepot.net/download.php?type=rep&amp;id=5905&amp;name=SeaLovesTL+vs+Hulktoss%5BKaL%5D.rep">Sea vs ToT)Infernal(</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit&amp;section=19" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=92o2jZQdDVg&amp;feature=channel_page">WCG 2009 US Finals Artosis v Louder</a>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.120 seconds
+Real time usage: 0.145 seconds
+Preprocessor visited node count: 346/1000000
+Preprocessor generated node count: 2259/1000000
+Postâ€?expand include size: 2824/2097152 bytes
+Template argument size: 520/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:109-0!*!0!!en!2!* and timestamp 20150421180443
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=JoyO_Rush&amp;oldid=119800">http://wiki.teamliquid.net/starcraft/index.php?title=JoyO_Rush&amp;oldid=119800</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvP_Builds" title="Category:TvP Builds">TvP Builds</a></li><li><a href="/starcraft/Category:Terran_Beginner_Strategy" title="Category:Terran Beginner Strategy">Terran Beginner Strategy</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/JoyO_Rush" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:JoyO_Rush" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=JoyO+Rush" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/JoyO_Rush" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/JoyO_Rush" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=JoyO_Rush&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=JoyO_Rush&amp;oldid=119800" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=JoyO_Rush&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/JoyO_Rush" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:48.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.297 secs. --></body></html>

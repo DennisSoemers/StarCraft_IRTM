@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>User:Fusionsdf/Tvzguidetest - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="User:Fusionsdf/Tvzguidetest" href="/starcraft/index.php?title=Special:ExportRDF/User:Fusionsdf/Tvzguidetest&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"User","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":2,"wgPageName":"User:Fusionsdf/Tvzguidetest","wgTitle":"Fusionsdf/Tvzguidetest","wgCurRevisionId":119982,"wgRevisionId":119982,"wgArticleId":679,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Terran Build Orders","TvZ Builds","Matchup Guides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"User:Fusionsdf/Tvzguidetest","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":null});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-2 ns-subject page-User_Fusionsdf_Tvzguidetest skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">User:Fusionsdf/Tvzguidetest</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/starcraft/User:Fusionsdf" title="User:Fusionsdf">User:Fusionsdf</a></span></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=User:Fusionsdf/Tvzguidetest&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/File:Ticon.png" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> Terran vs Zerg</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/File:TvZ.png" class="image"><img alt="" src="/starcraft/images/thumb/6/6c/TvZ.png/294px-TvZ.png" width="294" height="221" srcset="/starcraft/images/thumb/6/6c/TvZ.png/441px-TvZ.png 1.5x, /starcraft/images/thumb/6/6c/TvZ.png/588px-TvZ.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>The Terran Vs Zerg Matchup</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Early-Game"><span class="tocnumber">2</span> <span class="toctext">Early-Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Appropriate_Techniques"><span class="tocnumber">2.1</span> <span class="toctext">Appropriate Techniques</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Branch_I:_Terran_One_Base_Play"><span class="tocnumber">2.2</span> <span class="toctext">Branch I: Terran One Base Play</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Variations"><span class="tocnumber">2.2.1</span> <span class="toctext">Variations</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Intermediate_Goals"><span class="tocnumber">2.2.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Comparison"><span class="tocnumber">2.2.3</span> <span class="toctext">Comparison</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Transition_I:_One_Base_Timing_Attack"><span class="tocnumber">2.2.4</span> <span class="toctext">Transition I: One Base Timing Attack</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Transition_II:_Two_Base_Transition"><span class="tocnumber">2.2.5</span> <span class="toctext">Transition II: Two Base Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Branch_II:_Terran_Two_Base_Play"><span class="tocnumber">2.3</span> <span class="toctext">Branch II: Terran Two Base Play</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Variations_2"><span class="tocnumber">2.3.1</span> <span class="toctext">Variations</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Intermediate_Goals_2"><span class="tocnumber">2.3.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Comparison_2"><span class="tocnumber">2.3.3</span> <span class="toctext">Comparison</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Transition_I:_Against_Mutalisks"><span class="tocnumber">2.3.4</span> <span class="toctext">Transition I: Against Mutalisks</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Transition_II:_Against_Lurkers"><span class="tocnumber">2.3.5</span> <span class="toctext">Transition II: Against Lurkers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Branch_III:_Cheese"><span class="tocnumber">2.4</span> <span class="toctext">Branch III: Cheese</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Variations_3"><span class="tocnumber">2.4.1</span> <span class="toctext">Variations</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Intermediate_Goals_3"><span class="tocnumber">2.4.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Comparison_3"><span class="tocnumber">2.4.3</span> <span class="toctext">Comparison</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Transition_I:_Recovery"><span class="tocnumber">2.4.4</span> <span class="toctext">Transition I: Recovery</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Mid-Game"><span class="tocnumber">3</span> <span class="toctext">Mid-Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Appropriate_Techniques_2"><span class="tocnumber">3.1</span> <span class="toctext">Appropriate Techniques</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Branch_I:_Bionic"><span class="tocnumber">3.2</span> <span class="toctext">Branch I: Bionic</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Variations_4"><span class="tocnumber">3.2.1</span> <span class="toctext">Variations</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Intermediate_Goals_4"><span class="tocnumber">3.2.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Comparison_4"><span class="tocnumber">3.2.3</span> <span class="toctext">Comparison</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#Transition_I:_Timing_Attack"><span class="tocnumber">3.2.4</span> <span class="toctext">Transition I: Timing Attack</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Transition_II:_Standard"><span class="tocnumber">3.2.5</span> <span class="toctext">Transition II: Standard</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-29"><a href="#Branch_II:_Terran_Mech"><span class="tocnumber">3.3</span> <span class="toctext">Branch II: Terran Mech</span></a>
+<ul>
+<li class="toclevel-3 tocsection-30"><a href="#Variations_5"><span class="tocnumber">3.3.1</span> <span class="toctext">Variations</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="#Intermediate_Goals_5"><span class="tocnumber">3.3.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="#Comparison_5"><span class="tocnumber">3.3.3</span> <span class="toctext">Comparison</span></a></li>
+<li class="toclevel-3 tocsection-33"><a href="#Transition_I:_Timing_Attack_2"><span class="tocnumber">3.3.4</span> <span class="toctext">Transition I: Timing Attack</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="#Transition_II:_Standard_2"><span class="tocnumber">3.3.5</span> <span class="toctext">Transition II: Standard</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#End-Game"><span class="tocnumber">4</span> <span class="toctext">End-Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-36"><a href="#Appropriate_Techniques_3"><span class="tocnumber">4.1</span> <span class="toctext">Appropriate Techniques</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Unit_Compositions"><span class="tocnumber">4.2</span> <span class="toctext">Unit Compositions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-38"><a href="#Bionic"><span class="tocnumber">4.2.1</span> <span class="toctext">Bionic</span></a></li>
+<li class="toclevel-3 tocsection-39"><a href="#Mech"><span class="tocnumber">4.2.2</span> <span class="toctext">Mech</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-40"><a href="#Mindset"><span class="tocnumber">4.3</span> <span class="toctext">Mindset</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<p>The Bio Terran vs Ultralisk/Zergling end game is characterized by the Terran Marine/Medic ball supported by Siege Tanks and Science Vessels against Zerg Ultralisks and Zerglings supported by defilers. This article spans the entire match up of TvZ provided that it arrives at this endgame. This contrasts the use of the Terran Mech Build (Also known as the <a href="/starcraft/Fantasy_Build" title="Fantasy Build">Fantasy Build</a>.)
+</p>
+<h2><span class="mw-headline" id="Early-Game">Early-Game</span></h2>
+<p>During the early-game, it is often possible to <a href="/starcraft/Bionic_Terran_vs_Zerg_Timing#Applying_Pressure" title="Bionic Terran vs Zerg Timing" class="mw-redirect">apply some early pressure to Zerg</a>.
+</p>
+<h3><span class="mw-headline" id="Appropriate_Techniques">Appropriate Techniques</span></h3>
+<ol>
+<li> Scouting
+</li>
+<li> 11/12 rax and 11/12 gas
+</li>
+<li> Terran Counter to Zerg 4 Pool
+</li>
+<li> Terran Counter To 9 pool 
+</li>
+<li> Walling as Terran
+</li>
+<li> <a href="/starcraft/Terran_Bunker_Rush_Vs._Zerg" title="Terran Bunker Rush Vs. Zerg" class="mw-redirect">Terran Bunker Rush Vs. Zerg</a>
+</li>
+</ol>
+<h3><span class="mw-headline" id="Branch_I:_Terran_One_Base_Play">Branch I: Terran One Base Play</span></h3>
+<h4><span class="mw-headline" id="Variations">Variations</span></h4>
+<ul>
+<li><a href="/starcraft/One_Barracks_Tech_Vs_Zerg" title="One Barracks Tech Vs Zerg">One Barracks Tech</a>
+</li>
+<li><a href="/starcraft/One_Factory_Starport" title="One Factory Starport" class="mw-redirect">One Factory Starport</a>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Intermediate_Goals">Intermediate Goals</span></h4>
+<p>Devote your resources either to attacking units or tech. The goal is to have a stronger early or mid-game attack, at the cost of a worse economy. Note that the focus is not on your economy. However, unless a variation is adapted into a mid-game all-in, it is crucial not to fall too far behind in SCV production so that a recovery is possible.
+</p><p>In general, the goal is to do enough damage with a critical mass of units or with the use of certain tech such as Dropships to do enough damage to overcome any economic difference.
+</p><p>Map considerations:
+</p>
+<ul>
+<li> Maps with shorter rush distances to delay the danger of early Zergling attacks
+</li>
+<li> Maps with wide chokes, particularly without ramps to the main
+</li>
+<li> Maps with far away or hard to secure expansions
+</li>
+<li> Maps where it is not easily possible to guard both the ramp and the natural without being overly vulnerable to run-bys
+</li>
+<li> Maps with strategically placed cliffs, such as Lost Temple and Tau Cross, are ideal for builds involving drop-ships
+</li>
+</ul>
+<h4><span class="mw-headline" id="Comparison">Comparison</span></h4>
+<h4><span class="mw-headline" id="Transition_I:_One_Base_Timing_Attack">Transition I: One Base Timing Attack</span></h4>
+<h4><span class="mw-headline" id="Transition_II:_Two_Base_Transition">Transition II: Two Base Transition</span></h4>
+<p>If a Terran player has realized, for whatever reason, that they can't continue to be aggressive or don't have the opportunity to do enough damage to continue playing one base, they can transfer to a latter natural expansion, with a moderately worse economy than an early two-base branch.
+</p>
+<h3><span class="mw-headline" id="Branch_II:_Terran_Two_Base_Play">Branch II: Terran Two Base Play</span></h3>
+<h4><span class="mw-headline" id="Variations_2">Variations</span></h4>
+<ul>
+<li><a href="/starcraft/14_CC_(vs._Zerg)" title="14 CC (vs. Zerg)">14 CC</a>
+</li>
+<li><a href="/starcraft/1_Barracks_FE" title="1 Barracks FE" class="mw-redirect">One Rax expand</a>
+</li>
+<li><a href="/starcraft/2_Rax_Fast_Expand" title="2 Rax Fast Expand" class="mw-redirect">Two rax expand</a>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Intermediate_Goals_2">Intermediate Goals</span></h4>
+<p>The Terran will play a more greedy style compared to one base play, sacrificing early units and tech to gain an economic advantage. The idea is to build the minimum defense before building your natural expansion, and to devote minerals to making SCVs and Supply Depots instead of attacking units. Gas is usually taken later compared to one base play, and tech is generally slower.
+</p><p>If the Terran can survive the early-game without significant damage, especially against a Zerg who opened with a less greedy build, they will be able to ride their economic advantage into the mid and late-game which will give them a severe unit advantage during those stages.
+</p><p>After the natural is established, the increased economy will quickly allow you to throw down more production buildings and tech in time for the mid-game. While this branch isn't as powerful in the early game, the increased economy will quickly allow you to match and then exceed unit production and tech speed in the mid-game.
+</p><p><br />
+Map considerations:
+</p>
+<ul>
+<li> Maps with longer rush distances to delay the danger of early Zergling attacks
+</li>
+<li> Maps with narrow chokes and ramps to the main
+</li>
+<li> Maps with close, easily defensible expansions
+</li>
+<li> Maps where it is possible to guard both the ramp and the natural without being overly vulnerable to run-bys
+</li>
+</ul>
+<h4><span class="mw-headline" id="Comparison_2">Comparison</span></h4>
+<p>14 CC provides the strongest economy, but also carries the greatest risk. 2 Barracks expand provides the most versatility and security, but less economy than the other two builds. 1 Barracks expand is the middle ground, and is the most common Terran opening in TvZ.
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Transition_I:_Against_Mutalisks">Transition I: Against Mutalisks</span></h4>
+<p>If your opponent went Mutalisks first, use your Marines and Medics to fend off the Mutalisk harass as well as possible. Your goal should be to diminish the number of Mutalisks as quickly as possible, while suffering the least amount of damage, so you can move out of your base without any threat. Stim and Marine range are your two biggest assets in defense, while missile turrets will allow you to defend your SCVs more easily. Stim should be researched before range. Weapons upgrades can also be used defense if the Terran started with an engineering bay before academy variant. Note though that due to the long research time, a weapons upgrade can take a long time to arrive.
+</p><p>In general, place turrets first at the place you expect to be attacked first, and build them as late as you can get away with. It may take some risk and experimentation, but building a minimum number of turrets will allow you more minerals and a stronger midgame attack.
+</p><p>Turrets are generally placed in the following areas:
+</p>
+<ul>
+<li> Main mineral line (generally 3-4)
+</li>
+<li> Natural mineral line (generally 2-4)
+</li>
+<li> By the barracks (generally 0-2)
+</li>
+</ul>
+<p>It is best to keep one group of Marines in your main and one in the natural expansion, with the bigger group (initially) being at the place you expect him to attack first, since unstimmed marines can not move nearly as fast as Mutalisks. Zergs will often run in and try and snipe missile turrets with Zerglings. This can really hurt when it comes to defense, so it is important for the Terran player to react quickly to prevent.
+</p><p>Missile turrets should be repaired whenever damaged. Many Zerg players will do enough damage (generally in two volleys) to leave a turret in red health where it will burn down if not repaired. By repairing it, you increase the number of volleys the turret will take to kill, which will give you more time and allow you to do more damage to the Mutalisks. Lone Missile Turrets should be avoided whenever possible unless they can be quickly defended, as they are easily picked off and won't do a lot of damage in exchange.
+</p><p>To micro against Mutalisks (with Stim):
+</p>
+<ul>
+<li> Have all your marines close together, and your medics close by. You want to maintain positioning so that the Zerg cant easily pick off individual units.
+</li>
+<li> When the Mutas come into sight, Stim and move towards them. It is important to note that you should move and not attack move.
+</li>
+<li> As soon as the majority of your marines are in range, focus fire on an individual Muta. While spreading out fire will make them easy to kill later, kill individual ones now can often severely weaken their attack; the difference between killing a marine in one volley and not is one Mutalisk. In addition, that low average health won't mean much if the Zerg decides to tech to guardians.
+</li>
+<li> When he runs away, run your own units away. In this way, it becomes a dance where you basically mirror his movements. When he moves to you, you move to him. When he moves away, you move away as well.
+</li>
+<li> While you should avoid wasting Stim, it is better to waste a Stim and be able to defend, then try to Save medic energy and lose Marines needlessly. If your medics get low on energy, do not hesitate to make more. If for any reason your Medics run out of energy, you can quickly be left with a group of 10 hp marines that a smart Zerg will not hesitate to kill.
+</li>
+</ul>
+<p>By continuing Marine production, you will soon have enough defense (when combined with missile turrets) to both defend your base and move out into the map for a <a href="/starcraft/Bionic_Terran_vs_Zerg_Timing#Applying_Pressure_2" title="Bionic Terran vs Zerg Timing" class="mw-redirect">mid game timing attack</a>.
+</p>
+<h4><span class="mw-headline" id="Transition_II:_Against_Lurkers">Transition II: Against Lurkers</span></h4>
+<p>In general, versus a potential Lurker contain, it is best to move out towards the Zerg and tech to Siege Tanks. By doing so, you gain the ability to force him to lurker push (leapfrog his Lurkers) over a larger stretch of the map. In addition, since you are at the center of the map, you have much more maneuvering room, which allows you to either spread out and attack, or fall back continuously.
+</p><p>It is important to note that you shouldn't blindly run away when unburrowed lurkers charge at you. If you have sufficient numbers, you can spread out and use various micro techniques to defeat the attacking force. If you do have to retreat, do as much damage as you can while he is unburrowed, taking care not to be surrounded.
+</p><p>While Vessels can be used to combat lurkers (See: <a href="/starcraft/SK_Terran" title="SK Terran">SK Terran</a>), tanks are generally easier to control versus lurkers since they have a longer range and more health. In many cases when you've become completely contained, the goal is to get as many tanks as quickly as possible and break out before Zerg reaches defiler tech. Siege mode is generally started soon after the first tank. Siege tanks should be strategically positioned: far enough in front that they can attempt to break the contain, but close enough to your defense to avoid being sniped. Generally if you are contained, the Zerg will fall back only as far as necessary, so it is best to constantly leapfrog your Siege Tanks. It is also advisable to build 1-3 bunkers depending on the number of Lurkers and Lings soon to be at your natural in order to defend; build them earlier than you need them, they wont help you defend if they aren't able to finish. If possible, avoid staggering the Bunkers unless you will have a significant number of Siege Tanks; while this gives you a fall-back position, it also means that only one bunker can attack at a time.
+</p><p>Time spent contained is time lost where you could be attacking expansions and asserting map dominance. If you can't break the contain and retake the map before Defilers arrive you will be in lots of pain. Its therefore very important not to be complacent about breaking a Lurker contain, and attempt to do it as quickly as possible with minimum losses. When you break out, the pressure is on you to be aggressive and respond with an <a href="/starcraft/Bionic_Terran_vs_Zerg_Timing#Applying_Pressure_2" title="Bionic Terran vs Zerg Timing" class="mw-redirect">attack</a>.
+</p>
+<h3><span class="mw-headline" id="Branch_III:_Cheese">Branch III: Cheese</span></h3>
+<h4><span class="mw-headline" id="Variations_3">Variations</span></h4>
+<ul>
+<li><a href="/starcraft/Barracks_Barracks_Supply_(vs._Zerg)" title="Barracks Barracks Supply (vs. Zerg)">Terran Proxy Barracks Vs. Zerg</a>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Intermediate_Goals_3">Intermediate Goals</span></h4>
+<h4><span class="mw-headline" id="Comparison_3">Comparison</span></h4>
+<h4><span class="mw-headline" id="Transition_I:_Recovery">Transition I: Recovery</span></h4>
+<h2><span class="mw-headline" id="Mid-Game">Mid-Game</span></h2>
+<p>The next steps in the game are:
+</p>
+<ol>
+<li> Continue to scout/scan your opponent.
+</li>
+<li> Determine what you are facing.
+</li>
+<li> React accordingly and prepare for it.
+</li>
+</ol>
+<h3><span class="mw-headline" id="Appropriate_Techniques_2">Appropriate Techniques</span></h3>
+<ol>
+<li> Terran Counter To Zerg 2 Hatch Pressure
+</li>
+<li> Terran Counter To Greedy Zerg
+</li>
+<li> Terran Timing Push Vs. Zerg
+</li>
+<li> Terran Counter To Lurker Contain
+</li>
+<li> Terran Counter To Mutalisk Harass 
+</li>
+</ol>
+<h3><span class="mw-headline" id="Branch_I:_Bionic">Branch I: Bionic</span></h3>
+<p>During the mid-game, it is often possible to <a href="/starcraft/Bionic_Terran_vs_Zerg_Timing#Applying_Pressure_2" title="Bionic Terran vs Zerg Timing" class="mw-redirect">apply some pressure to Zerg</a>.
+</p><p>In addition, Terran will generally have the following at the start of mid-game:
+</p>
+<ul>
+<li>Three to Four Barracks pumping Marines and Medics
+</li>
+<li>One or Two Factories building Siege Tanks
+</li>
+<li>One or Two Starports building Science Vessels
+</li>
+</ul>
+<h4><span class="mw-headline" id="Variations_4">Variations</span></h4>
+<p>Timing Attack:
+</p>
+<ul>
+<li><a href="/starcraft/Sparks_Terran" title="Sparks Terran">Sparks Terran</a>
+</li>
+<li><a href="/starcraft/Terran_Timing_Push_Vs._Zerg" title="Terran Timing Push Vs. Zerg" class="mw-redirect">Tank/Vessel timing attack</a>
+</li>
+</ul>
+<p>Standard:
+</p>
+<ul>
+<li><a href="/starcraft/SK_Terran" title="SK Terran">SK Terran</a>
+</li>
+<li><a href="/starcraft/Two_Factory_Tanks_Vs_Zerg" title="Two Factory Tanks Vs Zerg" class="mw-redirect">2 Factory tanks</a>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Intermediate_Goals_4">Intermediate Goals</span></h4>
+<h4><span class="mw-headline" id="Comparison_4">Comparison</span></h4>
+<h4><span class="mw-headline" id="Transition_I:_Timing_Attack">Transition I: Timing Attack</span></h4>
+<h4><span class="mw-headline" id="Transition_II:_Standard">Transition II: Standard</span></h4>
+<h3><span class="mw-headline" id="Branch_II:_Terran_Mech">Branch II: Terran Mech</span></h3>
+<p>Mech:
+During the mid-game, it is often possible to <a href="/starcraft/Terran_Timing_Attacks#mech_mid-game" title="Terran Timing Attacks">pressure with a mech build(this isn't a real link)</a>.
+</p><p>In addition, Terran will generally have the following at the start of mid-game:
+</p>
+<ul>
+<li>X Factories
+</li>
+<li>X Starports
+</li>
+<li>2-3 bases
+</li>
+</ul>
+<h4><span class="mw-headline" id="Variations_5">Variations</span></h4>
+<ul>
+<li><a href="/starcraft/Fantasy_Build" title="Fantasy Build">Fantasy Build</a>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Intermediate_Goals_5">Intermediate Goals</span></h4>
+<h4><span class="mw-headline" id="Comparison_5">Comparison</span></h4>
+<h4><span class="mw-headline" id="Transition_I:_Timing_Attack_2">Transition I: Timing Attack</span></h4>
+<h4><span class="mw-headline" id="Transition_II:_Standard_2">Transition II: Standard</span></h4>
+<h2><span class="mw-headline" id="End-Game">End-Game</span></h2>
+<h3><span class="mw-headline" id="Appropriate_Techniques_3">Appropriate Techniques</span></h3>
+<ol>
+<li> Terran micro vs Defilers
+</li>
+</ol>
+<h3><span class="mw-headline" id="Unit_Compositions">Unit Compositions</span></h3>
+<h4><span class="mw-headline" id="Bionic">Bionic</span></h4>
+<h4><span class="mw-headline" id="Mech">Mech</span></h4>
+<h3><span class="mw-headline" id="Mindset">Mindset</span></h3>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.116 seconds
+Real time usage: 0.139 seconds
+Preprocessor visited node count: 358/1000000
+Preprocessor generated node count: 1350/1000000
+Postâ€?expand include size: 1649/2097152 bytes
+Template argument size: 156/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:pcache:idhash:679-0!*!0!!en!2!* and timestamp 20150427063111
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=User:Fusionsdf/Tvzguidetest&amp;oldid=119982">http://wiki.teamliquid.net/starcraft/index.php?title=User:Fusionsdf/Tvzguidetest&amp;oldid=119982</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvZ_Builds" title="Category:TvZ Builds">TvZ Builds</a></li><li><a href="/starcraft/Category:Matchup_Guides" title="Category:Matchup Guides">Matchup Guides</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-user" class="selected"><a href="/starcraft/User:Fusionsdf/Tvzguidetest" title="View the user page [c]" accesskey="c">User page</a></li>
+				<li id="ca-talk"><a href="/starcraft/User_talk:Fusionsdf/Tvzguidetest" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=User:Fusionsdf/Tvzguidetest&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=User:Fusionsdf/Tvzguidetest&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=User%3AFusionsdf%2FTvzguidetest" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/User:Fusionsdf/Tvzguidetest" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/User:Fusionsdf/Tvzguidetest" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-contributions"><a href="/starcraft/Special:Contributions/Fusionsdf" title="A list of contributions of this user">User contributions</a></li>
+				<li id="t-log"><a href="/starcraft/Special:Log/Fusionsdf">Logs</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=User:Fusionsdf/Tvzguidetest&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=User:Fusionsdf/Tvzguidetest&amp;oldid=119982" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=User:Fusionsdf/Tvzguidetest&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/User:Fusionsdf-2FTvzguidetest" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:52.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.259 secs. --></body></html>

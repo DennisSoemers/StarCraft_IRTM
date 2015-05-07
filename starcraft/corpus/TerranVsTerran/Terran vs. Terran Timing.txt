@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Terran vs. Terran Timing - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Terran vs. Terran Timing" href="/starcraft/index.php?title=Special:ExportRDF/Terran_vs._Terran_Timing&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Terran_vs._Terran_Timing","wgTitle":"Terran vs. Terran Timing","wgCurRevisionId":119948,"wgRevisionId":119948,"wgArticleId":475,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Terran Build Orders","TvT Builds","Matchup Guides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Terran_vs._Terran_Timing","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119948});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Terran_vs_Terran_Timing skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Terran vs. Terran Timing</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> Terran Vs Terran - Timings</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:TvT_Timing.png&amp;filetimestamp=20090302043440&amp;" class="image"><img alt="" src="/starcraft/images/thumb/4/46/TvT_Timing.png/294px-TvT_Timing.png" width="294" height="221" srcset="/starcraft/images/thumb/4/46/TvT_Timing.png/441px-TvT_Timing.png 1.5x, /starcraft/images/thumb/4/46/TvT_Timing.png/588px-TvT_Timing.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>A Vulture/Marine rush</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvT</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<p>The Terran vs Terran match up is a difficult match-up for newer players to learn as it revolves so much around players being able to adapt to what they see their opponent doing. The rock paper scissors mentality of mirror match-ups revolves around being able to not just play a build, but change a build, something that can be a difficult concept to grasp. This article moves to remove the ambiguity from the timing that comes while playing certain builds in TvT.  
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Gameflow_Overview"><span class="tocnumber">1</span> <span class="toctext">Gameflow Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Beginning_Game"><span class="tocnumber">2</span> <span class="toctext">Beginning Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Scouting"><span class="tocnumber">2.1</span> <span class="toctext">Scouting</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Adaptations"><span class="tocnumber">2.2</span> <span class="toctext">Adaptations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Midgame"><span class="tocnumber">3</span> <span class="toctext">Midgame</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Scouting_2"><span class="tocnumber">3.1</span> <span class="toctext">Scouting</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Adaptations_2"><span class="tocnumber">3.2</span> <span class="toctext">Adaptations</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Timing_Attacks"><span class="tocnumber">3.3</span> <span class="toctext">Timing Attacks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Endgame"><span class="tocnumber">4</span> <span class="toctext">Endgame</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Scouting_3"><span class="tocnumber">4.1</span> <span class="toctext">Scouting</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Adaptation"><span class="tocnumber">4.2</span> <span class="toctext">Adaptation</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Gameflow_Overview">Gameflow Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=1" title="Edit section: Gameflow Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Beginning_Game">Beginning Game</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=2" title="Edit section: Beginning Game">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Scouting">Scouting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=3" title="Edit section: Scouting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Terran vs Terran a player's build cannot really be determined until a Factory is up and running, and for that reason scouting usually occurs from when a Terran places their Barracks to when they place their second Supply Depot. Obviously the later a person scouts the later they find out what an opponent is doing. Early scouting can also be a good to in flushing a Vulture with four Marines rush, an early play option in TvT. When you scout is determined by:
+</p>
+<ul>
+<li> How likely you think your opponent will cheese (the more likely it is that your opponent is going to cheese, the earlier you need to check your opponent's base)
+</li>
+<li> How large the map is: the larger the map, the earlier you need to scout to look at your opponent's base.
+</li>
+<li> How many starting positions there are: if there are four start positions, then you need to scout to be able to find your opponent and figure out what they are doing. Remember that you would want to catch them before their first Marine comes out, and that you might scout them last.
+</li>
+</ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Adaptations">Adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=4" title="Edit section: Adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The scouting SCV is basically looking to make sure that nothing is out of the ordinary. What you do about what you see inside of their base depends on if you plan to go One Factory Fast Expand, Two Factory Pressure, or One Starport. Remember that you may need to match their unit count on some level in the event they attempt to push out with a Vulture and four Marines. Some things that you could see inside of their base: 
+</p>
+<ul>
+<li> Nothing - Don't panic. You have two options:
+<ul>
+<li>You got there really early. Keep your scout alive, and see if they build two Factories or one. 
+</li>
+<li>It's a <a href="/starcraft/Proxy" title="Proxy">proxy</a>. Relax, prepare to micro. If you didn't get there really early, prepare for a <a href="/starcraft/Barracks_Barracks_Supply_(vs._Terran)" title="Barracks Barracks Supply (vs. Terran)">BBS</a> build.
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> One Factory - One Factory means that Terran's opponent is going either for a Fast Expand or a Wraith Tech build. If your first Factory has just finished, stick around and see if they get a second Factory or a Starport.
+</li>
+</ul>
+<p>If your opponent is playing One Factory Fast Expand, you have pretty much free reign to go ahead with whatever opening build you planned on following. A Two Factory build against a Fast Expanding Terran will still be effective for a contain, while a One Starport Wraith build will still be viable for harass. 
+</p>
+<ul>
+<li>Two Factories - Two Factories means that your opponent is going to attempt a Vulture Rush. A Terran playing a one Factory Fast Expand will have to build more units to hold their ramp or choke as well as consider building their Command Center inside their main and floating it to the Natural Expansion once they are able to break the potential Vulture contain. A Terran playing a One Starport build will need to create extra units and delay their Starport in order to ensure that their investment pays off. If Terran is unable to hold their ramp effectively they may need to abandon their One Starport build and switch to a One Barracks Fast Expand.
+</li>
+</ul>
+<ul>
+<li>Starport - In the event that you are able to keep your scouting SCV alive long enough to see a Starport, or have reason to suspect a Tech build (low unit count, no Machine Shop) you will need to adapt your build accordingly. A One Factory build will need to get anti air and potentially detection in order to deal with an attack on their resourcing. A Terran playing a Two Factory Build will need to ensure that they punish their opponent for attempting a Tech build, or prepare to cope with air units.
+</li>
+</ul>
+<p>Oftentimes, it will be necessary to scout a second time to check their unit composition if using a floating building is too slow. Most of the time, the initial scouting SCV will not survive to see a second factory, a Starport, or a command center. In this case you must scout in some way, using a second SCV or using a small rush. There are too many variables in TvT to rely on one scout; there must be constant scouting going on, more so in a mirror match-up than in any other match up. 1 factory just mean's he's playing normal. There will be definite tells if you look at his unit count and expo timing. If they have not expanded on time according in comparison to your chosen build, then they are planning for some kind of rush.
+</p>
+<h2><span class="mw-headline" id="Midgame">Midgame</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=5" title="Edit section: Midgame">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While "Standard" mid game play in Terran vs Terran could be considered Tanks, Vultures, and Goliaths pitted against each other in drawn out battles TvT, like any mirror match up can really go in so many different directions. Things like Wraith and Dropship play are still very viable in mid game as well as playing risky expansion builds. It is important for a Terran to know what sort of game flows can come out of mid game and maintain their versatility in order to be successful at mid game and be able to hold their own heading into late game play.
+</p>
+<h3><span class="mw-headline" id="Scouting_2">Scouting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=6" title="Edit section: Scouting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Scouting is much easier in TvT than in other mirror match ups because Terran has access to the Comsat Station, an invaluable tool for a Terran considering how to play their mid game. While mirror match-ups make for standard play when two players use the same builds, any derivation from standard play leaves for risks and payoffs. If a player is able to minimize their own risk while abusing their opponents' then they will see the maximum payoff from their builds. This all starts from being able to scout well.  
+</p>
+<h3><span class="mw-headline" id="Adaptations_2">Adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=7" title="Edit section: Adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Five Factory Play: If there was a game play that could be considered "standard" in TvT then it would be Five Factory play. Terran will use this style in order to make use of the power that comes with playing Factory units. Terran can't go wrong playing a Five Factory build. At the same time however Five Factories leads to predictable play. If Terran scouts their opponent moving towards pumping units from Factories they are left with a lot of breathing room. A Terran matching Factories can simply continue down the same path, expanding as their opponent does and move to winning the game with micro/macro. If Terran on the other hand plays on playing some sort of mid game tech build they are still left with plenty of room to maneuver. Playing fast Wraiths, Dropships or a fast third can go well if Terran is able to mask what they are doing. The drawback to this is the economic investment to play a tech build opens up the possibility for a Timing Push. Terran would do well to while they scout for information deny that same scouting of their opponent. Masking play is the best way for a tech build to pay off.
+</li>
+</ul>
+<ul>
+<li>Starport Play: Introducing Starport tech in md game provides whole new levels of strategies to TvT. With Starport tech a Terran can play Wraiths, use Dropship play, or take a fast island expansion. When Starports come out in mid game Terran has to be sure that they are able to deal with the air power that their opponent is bringing to the table. Scouting is key when tech builds come around. An unscouted cloak tech or hidden expansion will come back to haunt Terran if they are not careful. If a Terran is playing a five Factory build their best bet is applying mid game pressure, even attempting a <a href="/starcraft/Timing_Attack" title="Timing Attack">Timing Attack</a> in order to punish their greedy teching opponent. Failure to do so will allow Terran's opponent to gain an economic lead as the game transitions into late game. If Terran is matching their opponents tech then they must make sure that they either abuse their opponent's attempts to use Dropships or match their opponent's expansion play. By doing this, Terran is able to minimize the payoff of their opponent's investments.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Timing_Attacks">Timing Attacks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=8" title="Edit section: Timing Attacks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Unlike in TvP and TvZ where you go straight for their expansion, TvT timing attacks are aimed at the map. Everything prior to that timing is preparation for seizing map control. 
+Say for instance, you scout your opponent starting to mass Factories. You can exploit this timing by moving out and creating a small wall of sieged tanks. He cannot afford to attack your wall because he will lose more than he will gain because he invested too much in factories. Therefore, you use this timing to expand.
+Another common case is if he is playing extremely safe to secure one expansion. If he sends 8 tanks to defend one expansion, that is 8 less tanks he will have defending his side of the map. You can take this timing to contain the bulk of his army  while you can take two expansions. 
+The reason why doubling up in TvT is not as risky as it is in TvZ or TvP is because minerals are your excess resource; the limiting factor in most TvT armies is the gas. Therefore you can afford to lose 1 Command Center and keep the other.
+If there are no timings or if you missed all of them, then you must secure map control the hard way- with strategy and mechanics.
+</p>
+<h2><span class="mw-headline" id="Endgame">Endgame</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=9" title="Edit section: Endgame">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>End game in TvT is known for its long, drawn out Dropship play. This in itself does not allow really for very many adaptations. There is an exception to this rule: Terran's opponent may attempt to <a href="/starcraft/Retech" title="Retech" class="mw-redirect">Retech</a> to Battlecruisers. Terran will need to scout the mass placement of Starports and then attempt a Timing Attack in order to punish the re-tech. Failure to do this will surely not end in favor of the player unable to adapt.
+</p>
+<h3><span class="mw-headline" id="Scouting_3">Scouting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=10" title="Edit section: Scouting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Battcruiser retech is spotted by Terran's opponent placing many Starports. Once Terran is able to scout the Starports they will need to make a move against their opponent in order to prevent the Battlecruisers from coming out. Once they are out there is not a lot that Terran can do with their ground forcs: few units in the Terran army besides the Goliath are equipped to deal with air power.
+</p>
+<h3><span class="mw-headline" id="Adaptation">Adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit&amp;section=11" title="Edit section: Adaptation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If Terran is unable to prevent the arrival of Battlecruisers to the field they will need to use aggressive Goliath play in order to take down the Battlecruisers.
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.084 seconds
+Real time usage: 0.102 seconds
+Preprocessor visited node count: 242/1000000
+Preprocessor generated node count: 1234/1000000
+Postâ€?expand include size: 1656/2097152 bytes
+Template argument size: 172/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:475-0!*!0!!en!2!* and timestamp 20150426214638
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;oldid=119948">http://wiki.teamliquid.net/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;oldid=119948</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvT_Builds" title="Category:TvT Builds">TvT Builds</a></li><li><a href="/starcraft/Category:Matchup_Guides" title="Category:Matchup Guides">Matchup Guides</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Terran_vs._Terran_Timing" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:Terran_vs._Terran_Timing&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Terran+vs.+Terran+Timing" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Terran_vs._Terran_Timing" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Terran_vs._Terran_Timing" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;oldid=119948" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Terran_vs._Terran_Timing" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:51.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.244 secs. --></body></html>

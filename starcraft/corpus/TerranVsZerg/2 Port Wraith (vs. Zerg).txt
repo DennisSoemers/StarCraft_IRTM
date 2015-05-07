@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>2 Port Wraith (vs. Zerg) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="2 Port Wraith (vs. Zerg)" href="/starcraft/index.php?title=Special:ExportRDF/2_Port_Wraith_(vs._Zerg)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2_Port_Wraith_(vs._Zerg)","wgTitle":"2 Port Wraith (vs. Zerg)","wgCurRevisionId":120053,"wgRevisionId":120053,"wgArticleId":2319,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Strategies","Terran Build Orders","TvZ Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2_Port_Wraith_(vs._Zerg)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120053});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2_Port_Wraith_vs_Zerg skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">2 Port Wraith (vs. Zerg)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> 2-Port Wraith</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/File:Wraithvsmuta.png" title="File:Wraithvsmuta.png">294px</a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Elky</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><img style="vertical-align:top;margin-right:2px" alt="(T)" title="Terran" src="http://www.teamliquid.net/tlpd/images/Ticon_small.png" /><a target="_blank" title="Lomo - TLPD Information" href="http://www.teamliquid.net/tlpd/players/185_Lomo">Lomo</a>, <img style="vertical-align:top;margin-right:2px" alt="(T)" title="Terran" src="http://www.teamliquid.net/tlpd/images/Ticon_small.png" /><a target="_blank" title="Leta - TLPD Information" href="http://www.teamliquid.net/tlpd/players/211_Leta">Leta</a>, <img style="vertical-align:top;margin-right:2px" alt="(T)" title="Terran" src="http://www.teamliquid.net/tlpd/images/Ticon_small.png" /><a target="_blank" title="Light - TLPD Information" href="http://www.teamliquid.net/tlpd/players/109_Light">Light</a></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<p><br />
+This article will focus on the 2-Port Wraith used in TvZ. 2 Port Wraith was originally popularized by Elky defeated Gorush in the Loser Bracket Finals of WCG 2001. In 2008 and later, 2-Port Wraith build has been put into frequent use by <a href="/starcraft/Leta" title="Leta">Leta</a> and <a href="/starcraft/Lomo" title="Lomo">Lomo</a>. The key and the effectiveness of this build relies on quality of Wraith control, for a Wraith Micro Training UMS Map see the thread <a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=93697">Grobyc's Micro Pack</a>. If used correctly it can harm the Zerg's economy which gives Terran the advantage for mid-game and late game. After the Wraith opening the Terran can transition into Mech or Bio. 
+If the harassment fails or is not substantial then the resources gone into the Wraiths can put the Terran behind.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Build_Order"><span class="tocnumber">1</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order_Details"><span class="tocnumber">2</span> <span class="toctext">Build Order Details</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Walling"><span class="tocnumber">2.1</span> <span class="toctext">Walling</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#13_Start_Supply"><span class="tocnumber">2.2</span> <span class="toctext">13 Start Supply</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#16_Factory"><span class="tocnumber">2.3</span> <span class="toctext">16 Factory</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Spire_Timing"><span class="tocnumber">2.4</span> <span class="toctext">Spire Timing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Transition"><span class="tocnumber">3</span> <span class="toctext">Transition</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Overall_Gameplay"><span class="tocnumber">4</span> <span class="toctext">Overall Gameplay</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Early_Game"><span class="tocnumber">4.1</span> <span class="toctext">Early Game</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Mid_Game"><span class="tocnumber">4.2</span> <span class="toctext">Mid Game</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Late_Game"><span class="tocnumber">4.3</span> <span class="toctext">Late Game</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Wraith_Grouping"><span class="tocnumber">5</span> <span class="toctext">Wraith Grouping</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Zerg_Response"><span class="tocnumber">6</span> <span class="toctext">Zerg Response</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Maps"><span class="tocnumber">7</span> <span class="toctext">Maps</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Mentality"><span class="tocnumber">8</span> <span class="toctext">Mentality</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_Links"><span class="tocnumber">9</span> <span class="toctext">External Links</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#VODs"><span class="tocnumber">10</span> <span class="toctext">VODs</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=1" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>9/10 Supply Depot
+</li>
+<li>11/18 Barracks
+</li>
+<li>12/18 Refinery 
+</li>
+<li>13/18 Start Supply Depot (see <a href="#13_Start_Supply">note</a>)
+</li>
+<li>16/26 Factory (see <a href="#Vultures">note</a>)
+</li>
+<li>22/26 2 Starports
+</li>
+<li>22/26 Supply Depot
+</li>
+<li>30/34 Supply Depot
+</li>
+</ul>
+<p>Then transition into a Mech build or a Bio build. By watching the Zerg's progression you can alter your Engineering Bay and Academy timings.
+</p>
+<h2><span class="mw-headline" id="Build_Order_Details">Build Order Details</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=2" title="Edit section: Build Order Details">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Walling">Walling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=3" title="Edit section: Walling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As you will not be making many Marines early game you will be weak to all-in Zergling rushes, correct Walls can help you defend against such attacks. <a href="/starcraft/Walling_as_Terran" title="Walling as Terran">The Terran Walling Guide</a> provides information on Zergling safe walls.
+</p>
+<h3><span class="mw-headline" id="13_Start_Supply">13 Start Supply</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=4" title="Edit section: 13 Start Supply">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Start building a Supply Depot with the SCV that is building the Barracks when you hit 13 supply. Then stop construction with the SCV (do not cancel the building itself) and continue Barracks construction. After the Barracks is built then finish the started Supply Depot. The reason for this is that it can stop early Zergling rushes provided the wall is Zergling safe.
+</p>
+<h3><span class="mw-headline" id="16_Factory">16 Factory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=5" title="Edit section: 16 Factory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Build 2 or 3 Vultures to harass the Zerg while the Wraiths are being built. With good Vulture and Wraith harassment you can damage the Zerg economy enough for an easier mid-game and late-game.
+Some players build the Factory outside the base, closer to the enemy so that the Vultures can reach the base faster and do more damage.
+</p>
+<h3><span class="mw-headline" id="Spire_Timing">Spire Timing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=6" title="Edit section: Spire Timing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Zerg will usually respond with Hydras and Mutas and after you have 2 or 3 Wraiths the Spire will be completed, however this is not a set rule.
+</p>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=7" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most common transition is into a strong M&amp;M build as the Zerg will respond with Hydras. M&amp;M are strong against Hydras providing they are not behind in upgrades. If you do want to transition into Mech you will have to rely on Vulture harass to distract the Zerg whilst you get a strong Mech army, this takes some time because the 2-Port Wraith Build is already gas heavy. Hydras can also fare better against Mech than M&amp;M.
+</p>
+<h2><span class="mw-headline" id="Overall_Gameplay">Overall Gameplay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=8" title="Edit section: Overall Gameplay">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_Game">Early Game</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=9" title="Edit section: Early Game">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Use your Vultures and Wraiths to do as much harassment as you can. Do not get carried away with the Wraith Micro otherwise your Macro will suffer and you will not have enough units to survive a Zerg push. If you spot a Spire then build an Engineering Bay and build turrets so that if you are transitioning into Bio your Marines can't get picked off. However, do try and secure your natural as staying on one base whilst building Wraiths and a starting main army can be hard to achieve. If you see an Evolution Chamber be careful not to lose your Wraiths to Spore Colonies as they can be hidden by Overlords. A common timing for Wraith Cloak is after you have 6 Wraiths (the Add-on allows for Dropships) however you can delay if you feel that your harassment is working well, then spend the rest of the resources on building your main army.
+</p>
+<h3><span class="mw-headline" id="Mid_Game">Mid Game</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=10" title="Edit section: Mid Game">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If your harassment is proceeding well then the whichever branch you transition into, Mech or Bio, will finish off the game. However, if you are faltering in your harassment then upgrading Cloak would help as it helps the Wraiths to survive against Muta attacks. With good Micro you can pick off Mutas out of Overlord detection range. With the Zerg having put resources into the Mutas the ground force will not be strong however a push with both Mutas and Hydras can run you over. The Zerg may transition into Lurkers so by proper scouting with the Wraiths you can get an Academy built and be ready to scan for Lurkers. You could also use the Wraiths to pick off Lurkers. If you see a Queens nest then do try and snipe the Queens as they will most likely be used to Ensnare your Wraiths which means they can get completely wiped out.
+</p>
+<h3><span class="mw-headline" id="Late_Game">Late Game</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=11" title="Edit section: Late Game">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If it gets to Late Game it means that your Wraiths are now insignificant and you will transition into a Mech Late Game or a Bio Late Game. The <a href="/starcraft/Terran_Strategy" title="Terran Strategy">Terran Strategy</a> article can give advice for Late Game.
+</p>
+<h2><span class="mw-headline" id="Wraith_Grouping">Wraith Grouping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=12" title="Edit section: Wraith Grouping">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Clustering your wraiths together to make them fire and move seemingly as a single unit is very important for effective harass. To do this, you need to select your Wraiths in addition to another unit that will remain far away from them and/or not able to respond to the commands that you only want your Wraiths to execute. As a Terran, there are multiple units that can fit this role:
+</p>
+<ol>
+<li>A trapped unit, such as a Marine blocked by other Marines (especially next to your wall) or an SCV trapped by buildings
+</li>
+<li>A tank in Siege Mode.
+</li>
+<li>A SCV which is currently building (your Supply Depot SCV(s), for example).
+</li>
+</ol>
+<h2><span class="mw-headline" id="Zerg_Response">Zerg Response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=13" title="Edit section: Zerg Response">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>The Zerg will usually build a Hydra Den and spend resources on Hydra Tech. They would also get Overlord Speed as well. Do not be put off by the Hydras as good Micro can still do sufficient damage. 
+</li>
+<li>Hydras at the minerals will be protecting both the Drones and the Overlords. 
+</li>
+<li>Mutas are also made to try to gain air dominance so that the Zerg can obtain map control. If the Wraiths are left unharmed they can stop the Zerg from expanding and the game will become easier for the Terran.
+</li>
+<li>Zerg can use Ensnare to slow the Wraiths down, this also negates the Cloak so they are easier to kill.
+</li>
+<li>The Zerg can also respond with Lurkers as the Starport tech will delay your Academy and Engineering bay timing however this means that they have less Mutas so with good Micro you should be able to cripple the Zerg more.
+</li>
+<li>Burrow can also be researched so that when Wraiths try to harass the Drones will burrow for safety.
+</li>
+<li>The Zerg may build spore colonies to assist hydras or mutalisks in defending drones, especially if a counter attack is desired.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Maps">Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=14" title="Edit section: Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some maps like <a href="/starcraft/Medusa" title="Medusa">Neo Medusa</a> have a cliff edge behind the Minerals so it is easier to pick off Drones as the Hydras will not have vision or enough range. 
+Maps like <a href="/starcraft/Python" title="Python">Python</a> which have an open area around the Mineral patches are harder to harass so keep this in mind when choosing to use this Build.
+</p>
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=15" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Do not solely rely on your Wraiths to win you the game as they are not units that are meant to finish the game. Whilst controlling your Wraiths remember to Macro as failure to do so can mean that you do not have a strong enough army or have sufficient Tech to survive.
+</p>
+<h2><span class="mw-headline" id="External_Links">External Links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=16" title="Edit section: External Links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a target="_blank" class="external free" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=93697">http://www.teamliquid.net/forum/viewmessage.php?topic_id=93697</a> - A TvZ micro map including Wraiths vs Scourge and Mutas.
+</p>
+<h2><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit&amp;section=17" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/12335_Calm_vs_Leta/vod">Inter.Calm vs Leta</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/11749_ggaemo_vs_Leta/vod">ggaemo vs Leta</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/12172_HyuN_vs_Leta/vod">Hyun vs Leta</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/9442_Kwanro_vs_Lomo/vod">Kwanro vs Lomo</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/11722_fantasy_vs_Jaedong/vod">Fantasy vs Jaedong</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/11043_Jaedong_vs_Light/vod">Light vs Jaedong</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.088 seconds
+Real time usage: 0.092 seconds
+Preprocessor visited node count: 296/1000000
+Preprocessor generated node count: 1348/1000000
+Postâ€?expand include size: 2197/2097152 bytes
+Template argument size: 383/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:2319-0!*!0!!en!2!* and timestamp 20150424162536
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;oldid=120053">http://wiki.teamliquid.net/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;oldid=120053</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Pages_with_broken_file_links" title="Category:Pages with broken file links">Pages with broken file links</a></li><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvZ_Builds" title="Category:TvZ Builds">TvZ Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/2_Port_Wraith_(vs._Zerg)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:2_Port_Wraith_(vs._Zerg)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=2+Port+Wraith+%28vs.+Zerg%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/2_Port_Wraith_(vs._Zerg)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/2_Port_Wraith_(vs._Zerg)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;oldid=120053" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=2_Port_Wraith_(vs._Zerg)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/2_Port_Wraith_(vs._Zerg)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:53.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.240 secs. --></body></html>

@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>4 Barracks Sunken Break Build - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="4 Barracks Sunken Break Build" href="/starcraft/index.php?title=Special:ExportRDF/4_Barracks_Sunken_Break_Build&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"4_Barracks_Sunken_Break_Build","wgTitle":"4 Barracks Sunken Break Build","wgCurRevisionId":120218,"wgRevisionId":120218,"wgArticleId":13188,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Terran Build Orders","TvZ Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"4_Barracks_Sunken_Break_Build","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120218});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-4_Barracks_Sunken_Break_Build skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">4 Barracks Sunken Break Build</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>The 4 Barracks Sunken Break Build, is a Terran versus Zerg build designed specifically to counter the standard <a href="/starcraft/3_Hatch_Muta" title="3 Hatch Muta" class="mw-redirect">3 Hatch Muta</a> Build. Under the facade of an economical <a href="/starcraft/1_Barracks_FE" title="1 Barracks FE" class="mw-redirect">1 Barracks FE</a> opening, Terran leads the Zerg to believe that there will be little aggression until Terran gets Science Vessels and is ready to push. However, the build, as the names suggest, skips the tech completely in favor of a quick 4 Barracks in order to break or severely damage the Zerg before the standard 3 Hatch Mutalisk or Lurker Tech arrives, securing a concrete advantage if not an outright win. Note, however, that this build cuts many SCVs and delays Tech in order to get this attack out quickly, so if the attack on the Zerg's natural fails without securing a large advantage, Terran will be at a great disadvantage.
+</p>
+<div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> 4 Barracks Sunken Break Build</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:TvZ_4Rax_all_in.jpg&amp;filetimestamp=20131125193744&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/e9/TvZ_4Rax_all_in.jpg/294px-TvZ_4Rax_all_in.jpg" width="294" height="221" srcset="/starcraft/images/thumb/e/e9/TvZ_4Rax_all_in.jpg/441px-TvZ_4Rax_all_in.jpg 1.5x, /starcraft/images/thumb/e/e9/TvZ_4Rax_all_in.jpg/588px-TvZ_4Rax_all_in.jpg 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>A typical army from the Sunken Break Build attacks an unsuspecting Zerg</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mentality"><span class="tocnumber">1</span> <span class="toctext">Mentality</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Build_Order_Clarification"><span class="tocnumber">3</span> <span class="toctext">Build Order Clarification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Scouting"><span class="tocnumber">3.1</span> <span class="toctext">Scouting</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Hiding_Your_Build_Order"><span class="tocnumber">3.2</span> <span class="toctext">Hiding Your Build Order</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Moving_Out"><span class="tocnumber">3.3</span> <span class="toctext">Moving Out</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Range_Upgrade_and_Engineering_Bay"><span class="tocnumber">3.4</span> <span class="toctext">Range Upgrade and Engineering Bay</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Build_Order_Changes_and_Adaptations"><span class="tocnumber">4</span> <span class="toctext">Build Order Changes and Adaptations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#9_Pool"><span class="tocnumber">4.1</span> <span class="toctext">9 Pool</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#3_Hatch_Speedling"><span class="tocnumber">4.2</span> <span class="toctext">3 Hatch Speedling</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#2_Hatch"><span class="tocnumber">4.3</span> <span class="toctext">2 Hatch</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#3_Hatch_Tech"><span class="tocnumber">4.4</span> <span class="toctext">3 Hatch Tech</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Transition"><span class="tocnumber">5</span> <span class="toctext">Transition</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Differences_to_Stylish.27s_Sunken_Break_Build"><span class="tocnumber">6</span> <span class="toctext">Differences to Stylish's Sunken Break Build</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Countered_By"><span class="tocnumber">7</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Hard_Counters"><span class="tocnumber">7.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Soft_Counters"><span class="tocnumber">7.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Counter_To"><span class="tocnumber">8</span> <span class="toctext">Counter To</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Hard_Counters_2"><span class="tocnumber">8.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Soft_Counters_2"><span class="tocnumber">8.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Notable_Maps"><span class="tocnumber">9</span> <span class="toctext">Notable Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Strong"><span class="tocnumber">9.1</span> <span class="toctext">Strong</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Weak"><span class="tocnumber">9.2</span> <span class="toctext">Weak</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Replays"><span class="tocnumber">10</span> <span class="toctext">Replays</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=1" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As mentioned above, the purpose of the build is to break the Zerg's natural before his tech can come into play. The build is difficult to detect from the Zerg's standpoint due to its 1 Barracks FE opening. Terran delays his own tech in order to amass enough units to cripple or defeat Zerg before the Zerg's superior tech ever gets a chance to assert its advantage. A failed attack leaves Terran significantly behind in tech and economy. The following build allows for ~2 groups of Marines and 4 Medics to arrive at the Zerg base at the correct time.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: #f2f2f2; width:;"> "4 Barracks Sunken Break Build" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"></div>
+<ul>
+<li>9/10 - Supply Depot
+</li>
+<li>11/18 - Barracks
+</li>
+<li>11th SCV - Scout Zerg.
+</li>
+<li>14/18 - Supply Depot
+</li>
+<li>14th SCV - <a href="#Scouting">Second Scout</a>
+</li>
+<li>@100% Barracks - Continuously produce Marines.
+</li>
+<li>21/26 - Command Center @ Natural Expansion
+</li>
+</ul>
+<table cellspacing="0" cellpadding="10" class="multicol" style="background:transparent; width:95%;">
+<p></p>
+<tr>
+<td width="50%" align="left" valign="top">
+<p>If Zerg makes 6 initial Zerglings and goes to your base:
+</p>
+<ul>
+<li>25/26 - Bunker
+</li>
+<li>26/26 - Stop making SCVs.
+</li>
+<li>26/26 - Three Barracks simultaneaously
+</li>
+<li>26/26 - Refinery
+</li>
+<li>@95% natural CC - <a href="/starcraft/Maynarding" title="Maynarding">Maynard</a> 5 SCVs to natural.
+</li>
+<li>26/26 - Academy
+</li>
+<li>26/36 - Marine
+</li>
+<li>27/36 - Marine
+</li>
+<li>28/36 - Supply Depot
+</li>
+<li>28/36 - 4 Marines
+</li>
+<li>32/36 - 4 Marines
+</li>
+<li>@100% Academy - Research Stim
+</li>
+<li>36/44 - 4 Medics
+</li>
+<li>40/44 - Supply Depot
+</li>
+<li>40/44 - 1x Comsat
+</li>
+<li>40/44 - 4 Marines
+</li>
+<li>Start <a href="#Moving_Out">moving out</a>.
+</li>
+<li>44/52 - 4 Marines
+</li>
+<li>48/52 - Supply Depot
+</li>
+<li>48/52 - 1x Comsat
+</li>
+<li>48/52 - Research Range
+</li>
+<li>48/52 - Engineering Bay
+</li>
+<li>Continue M&amp;M production.
+</li>
+</ul>
+<p></p>
+</td>
+<td width="50%" align="left" valign="top">
+<p>If he doesn't:
+</p>
+<ul>
+<li>24/26 - Stop making SCVs and Marines temporarily.
+</li>
+<li>@450 Minerals - Three Barracks
+</li>
+<li>Continue SCV and Marine production.
+</li>
+<li>26/26 - Stop making SCVs.
+</li>
+<li>26/26 - Refinery
+</li>
+<li>@95% natural CC - Maynard 5 SCVs to natural.
+</li>
+<li>26/26 - Academy
+</li>
+<li>26/36 - Marine
+</li>
+<li>27/36 - 4 Marines
+</li>
+<li>31/36 - Supply Depot
+</li>
+<li>31/36 - 4 Marines
+</li>
+<li>@100% Academy - Research Stim
+</li>
+<li>35/44 - 4 Medics
+</li>
+<li>39/44 - Supply Depot
+</li>
+<li>39/44 - 4 Marines
+</li>
+<li>Start <a href="#Moving_Out">moving out</a>.
+</li>
+<li>43/44 - 1x Comsat
+</li>
+<li>43/52 - 4 Marines
+</li>
+<li>47/52 - Supply Depot
+</li>
+<li>47/52 - 4 Marines
+</li>
+<li>51/52 - 1x Comsat
+</li>
+<li>51/52 - Research Range
+</li>
+<li>51/52 - Engineering Bay
+</li>
+<li>Continue M&amp;M production.
+</li>
+</ul>
+<p></p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> </div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+<h2><span class="mw-headline" id="Build_Order_Clarification">Build Order Clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=3" title="Edit section: Build Order Clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is an All-in Build and you pretty much have to kill the Zerg as you have a very weak Economy.
+The presented Build Order is devised for the worst case scenario, that the Zerg is cross position and you don't see an Overlord on your scouting path. Therefore the timing attack and/or economy can be improved for better scenarios. The supply counts include the scout until the end.
+</p>
+<h3><span class="mw-headline" id="Scouting">Scouting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=4" title="Edit section: Scouting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 4 player maps if neither Zerg's starting position nor Overlord is scouted on first try, send the 14th SCV to the fourth starting location. This way if Zerg goes for 12 Hatch you are guaranteed to scout his Main and can confirm if he goes for a 3 Hatchery build, barring a drone block.
+</p>
+<h3><span class="mw-headline" id="Hiding_Your_Build_Order">Hiding Your Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=5" title="Edit section: Hiding Your Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since you are constantly producing Marines out of your first Barracks, you should use them to clear out Zerglings that are camping outside of your Natural in order to keep Zerg in the dark. In addition, do not allow Zerg to sneak a scouting Zergling into your base, as the quick 4 Barracks is an obvious indication of an aggressive build, making it much less likely that you will succeed. Other than those things, hiding your Build Order should be relatively easy. Try not to keep a huge amount of Marines in sight, as a large amount of Marines with no Medics so early can also lead a Zerg to deduce your build.
+</p>
+<h3><span class="mw-headline" id="Moving_Out">Moving Out</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=6" title="Edit section: Moving Out">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Start moving out, when your Medics finish with Stim Researching. On most positions and maps, Stim will finish as you approach the Zerg base. Rally your Barracks to Zerg's natural. Have a group of Marines and a couple Medics spearhead the march to the Zerg base in order to clear Zerglings and scouts followed closely by the rest of your army. Depending on the used Build Order, you will either have 19 Marines and 4 Medics at Zerg's natural cross position Fighting Spirit at 6:30 with the early bunker or 18 Marines and 4 Medics at 6:20 (22 Marines at 6:35) without it ready to attack. Ideal Mutalisk hatch timing for <a href="/starcraft/3_Hatch_Muta_(vs._Terran)" title="3 Hatch Muta (vs. Terran)">3 Hatch Mutalisk</a> is 6:40. So you have ~10 seconds to bust the Zerg. Scan his natural. If there are fewer than 5 or so Sunken Colonies completed, then immediately Stim your units and attack. Remember to reinforce units from your 4 Barracks as you attack.
+</p>
+<h3><span class="mw-headline" id="Range_Upgrade_and_Engineering_Bay">Range Upgrade and Engineering Bay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=7" title="Edit section: Range Upgrade and Engineering Bay">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As you are on the way to Zerg's natural and add your second Comsat you should research Range and build an E-bay in case you don't outright win. However note that you aren't capable of doing this without sacrificing a round of Marines. If you need more Marines 
+in the final stage of the bust, consider delaying Range and E-bay in favor of more Marines.
+</p>
+<h2><span class="mw-headline" id="Build_Order_Changes_and_Adaptations">Build Order Changes and Adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=8" title="Edit section: Build Order Changes and Adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="9_Pool">9 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=9" title="Edit section: 9 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the Zerg opts for a relatively early pool, often, the Zerglings will arrive at your base when you have 2 or less Marines. See <a href="/starcraft/Terran_Counter_to_9_Pool" title="Terran Counter to 9 Pool">Terran Counter to 9 Pool</a> for information on blocking it. However, if successfully blocked, you are significantly ahead of Zerg heading into the mid-game. At this point you may opt to discontinue following the Sunken Break Build because at this point, it has not diverged from the standard Barracks FE Build, and therefore it is easy to change builds early on. Reasons for changing are that 9 Pool is a common opening for <a href="/starcraft/2_Hatch_Muta" title="2 Hatch Muta" class="mw-redirect">2 Hatch Muta</a>, which does not match up well with the Sunken Break Build and the fact that you have a good advantage for any long, economical game, something the Sunken Break Build does not transition well into.
+</p><p>In the event that you can not scout what he has done due to a <a href="/starcraft/9_Pool_(vs._Terran)" title="9 Pool (vs. Terran)">9 Pool</a> or bad luck in positions, it is up to you to determine whether you should continue following the Sunken Break Build.
+</p>
+<h3><span class="mw-headline" id="3_Hatch_Speedling">3 Hatch Speedling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=10" title="Edit section: 3 Hatch Speedling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If an experienced Zerg decides to go 3 Hatch Zergling against you, you will often not know until it is too late. Therefore, it's important to keep an SCV outside of his base and be on constant alert for Zerglings streaming into your expansion. If you see an abnormally large amount of Zerglings kill your attempts at scouting, be even more on the alert. In the event that you can't scout the build, as is often times the case, pull your Marines back up the ramp or back into a smaller choke, pull all of your SCVs back into your main, and lift your Command Center immediately. If you do not do these things in that order quickly, there is a high probability that you will lose the game. When the SCVs that were pulled from your Expansion reach the ramp or choke point, stop them and use them to block the Zerglings from attacking your Marines. An advanced strategy is to repeatedly move your SCVs to a mineral patch and then immediately stopping; this often messes up the Zergling AI and will cause them to move around aimlessly. However, if you can use the SCVs to block your ramp and protect your Marines, that will almost always be enough to fend off the attack.
+</p><p>At the end of this encounter, Zerg will have essentially have lost the game, as they do not have the tech to fight Marines with Stim and Medics. Once you have a good amount of Marines, move out towards his Natural Expansion. If he has put enough Sunken Colonies up to block your attack, then you will be significantly ahead in the mid game, and if he decides to be risky and put a minimal amount of defense in order to catch up on tech, he will lose then and there. 
+</p>
+<h3><span class="mw-headline" id="2_Hatch">2 Hatch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=11" title="Edit section: 2 Hatch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If you see a Zerg take an early gas before his third Hatchery, then it is almost a sure sign that he will go 2 Hatch Tech. Upon seeing this early gas, it is advisable to stop following the Sunken Break Build Order and transition into the 1 Barracks FE Build Order into a midgame push. Because a 2 Hatch Zerg will need to take his gas so early, it is early enough for you to change your Build Order, as it has not yet diverged from a standard 1 Barracks FE opening.
+</p>
+<h3><span class="mw-headline" id="3_Hatch_Tech">3 Hatch Tech</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=12" title="Edit section: 3 Hatch Tech">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This is the common Zerg opening on most maps, and is also what the Sunken Break Build aims to counter specifically. The Sunken Break Build ideally should always be used against a Zerg that is going 3 Hatch Tech.
+</p><p>If the Zerg went for 3 Hatch Muta, then his Mutalisks will spawn either as you're attacking the Sunkens or right after you have finished them off. In either case, Mutalisks are not very adept at facing ground units head on, and because you are controlling where to attack as opposed protecting your base, the Mutalisks will be forced to deal with your army head on, which is very inefficient for the Zerg. Assuming that the Zerg does not suspect anything, he should not have more than 4 Sunkens by the time you arrive. 2 Groups of Marines and 4 Medics along with later reinforcements from 4 working Barracks should be plenty to break the sunkens and also clean up any Mutalisks that remain. If you are successful in breaking the Sunkens, it almost always means an automatic win.
+</p><p>If the Zerg went for <a href="/starcraft/3_Hatch_Lurker" title="3 Hatch Lurker" class="mw-redirect">3 Hatch Lurker</a>, then the timing for his tech should be similar to the Mutalisks. As such, your attack should arrive before his Lurkers are situated. With the Lurkers usually out of position, your 2 Scans should be more than enough to clean up any Lurkers that will finish after you have broken the Sunkens. The Sunken Break Build also almost always results in a win versus the 3 Hatch Lurker Build.
+</p>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=13" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If you succeed in breaking his Natural Expansion, but are not able to completely end the game, you are in a great position. Make sure your base is prepared for Lair Tech units that survive (add Turrets, Bunkers or whatever is necessary), and quickly add a Factory and begin teching while containing the Zerg. Use your map control to prevent any Zerg Expansions as a secret Expansion or two that slips by can lead to a comeback.
+</p><p>If you completely fail in breaking his Expansion, immediately add a Factory to begin teching back up and prepare your base for his tech as you normally would. 
+</p><p>If you deemed it unprofitable to attack, vs. Lurker opening contain the Zerg and tech up. Be sure to scout any Zerg Expansions in time, as you won't be able to stop it, once Lurkers are in place. 
+</p><p>Vs. Mutalisk return home and build few turrets to defend as you continue M&amp;M production. You might be able to execute a second Sunken Break as Zerg transitions to Lurker. 
+</p>
+<h2><span class="mw-headline" id="Differences_to_Stylish.27s_Sunken_Break_Build">Differences to Stylish's Sunken Break Build</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=14" title="Edit section: Differences to Stylish's Sunken Break Build">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Stylish's Version hits at 6:50 at close position. This means when facing a decent Zerg who goes 3 Hatch Muta the timing will actually be too late to effectively bust the natural as Mutalisks are already out. It also does not start out as a standard <a href="/starcraft/1_Barracks_FE" title="1 Barracks FE" class="mw-redirect">1 Barracks FE</a> opening as it builds the Barracks at 10 supply. On the plus side, it is much more economic as it only cuts few SCVs, thus making a comeback after a failed attack more likely.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=15" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=16" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/3_Hatch_Zergling" title="3 Hatch Zergling">3 Hatch Zergling</a>
+</li>
+<li><a href="/starcraft/2_Hatch_Muta" title="2 Hatch Muta" class="mw-redirect">2 Hatch Muta</a>
+</li>
+<li><a href="/starcraft/2_Hatch_Lurker" title="2 Hatch Lurker" class="mw-redirect">2 Hatch Lurker</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Soft_Counters">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=17" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/9_Pool_(vs._Terran)" title="9 Pool (vs. Terran)">9 Pool</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Counter_To">Counter To</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=18" title="Edit section: Counter To">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters_2">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=19" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/3_Hatch_Muta" title="3 Hatch Muta" class="mw-redirect">3 Hatch Muta</a>
+</li>
+<li><a href="/starcraft/3_Hatch_Lurker" title="3 Hatch Lurker" class="mw-redirect">3 Hatch Lurker</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Soft_Counters_2">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=20" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>None
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=21" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Strong">Strong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=22" title="Edit section: Strong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Smaller maps with closer positions.(ex-<a href="/starcraft/Neo_Requiem" title="Neo Requiem" class="mw-redirect">Neo Requiem</a>)
+</li>
+<li>Maps with a wide choke (ex-<a href="/starcraft/Peaks_of_Baekdu" title="Peaks of Baekdu">Peaks of Baekdu</a>)
+</li>
+</ul>
+<h3><span class="mw-headline" id="Weak">Weak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=23" title="Edit section: Weak">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Bigger Maps
+</li>
+<li>Maps with ramps or a narrow choke (ex-<a href="/starcraft/Destination" title="Destination">Destination</a>)
+</li>
+</ul>
+<h2><span class="mw-headline" id="Replays">Replays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit&amp;section=24" title="Edit section: Replays">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Silver_Wing.jpg&amp;filetimestamp=20091118012534&amp;" class="image" title="Fighting Spirit"><img alt="Fighting Spirit" src="/starcraft/images/thumb/c/cf/Silver_Wing.jpg/100px-Silver_Wing.jpg" width="100" height="100" srcset="/starcraft/images/thumb/c/cf/Silver_Wing.jpg/150px-Silver_Wing.jpg 1.5x, /starcraft/images/thumb/c/cf/Silver_Wing.jpg/200px-Silver_Wing.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/index.php?title=Ilovetomato&amp;action=edit&amp;redlink=1" class="new" title="Ilovetomato (page does not exist)">ilovetomato</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> 4 Barracks Sunken Break Build
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Cryoc" title="Cryoc">Cryoc</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2013-09-01</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.16.1</span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://repdepot.net/replay.php?id=54594">Replay</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.200 seconds
+Real time usage: 0.251 seconds
+Preprocessor visited node count: 621/1000000
+Preprocessor generated node count: 4965/1000000
+Postâ€?expand include size: 6070/2097152 bytes
+Template argument size: 2323/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:13188-0!*!0!!en!2!* and timestamp 20150427164833
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;oldid=120218">http://wiki.teamliquid.net/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;oldid=120218</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvZ_Builds" title="Category:TvZ Builds">TvZ Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/4_Barracks_Sunken_Break_Build" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:4_Barracks_Sunken_Break_Build&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=4+Barracks+Sunken+Break+Build" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/4_Barracks_Sunken_Break_Build" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/4_Barracks_Sunken_Break_Build" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;oldid=120218" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=4_Barracks_Sunken_Break_Build&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/4_Barracks_Sunken_Break_Build" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:56.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.655 secs. --></body></html>

@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>FD (vs. Protoss) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="FD (vs. Protoss)" href="/starcraft/index.php?title=Special:ExportRDF/FD_(vs._Protoss)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"FD_(vs._Protoss)","wgTitle":"FD (vs. Protoss)","wgCurRevisionId":119808,"wgRevisionId":119808,"wgArticleId":138,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Terran Build Orders","TvP Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"FD_(vs._Protoss)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119808});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-FD_vs_Protoss skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">FD (vs. Protoss)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> FD Build</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:Fdbuild.jpg&amp;filetimestamp=20080725180049&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c1/Fdbuild.jpg/294px-Fdbuild.jpg" width="294" height="221" srcset="/starcraft/images/thumb/c/c1/Fdbuild.jpg/441px-Fdbuild.jpg 1.5x, /starcraft/images/thumb/c/c1/Fdbuild.jpg/588px-Fdbuild.jpg 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>The FD Push</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvP</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Midas" title="Midas">Midas</a></span></div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Midas" title="Midas">Midas</a></span></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#General_Concept"><span class="tocnumber">3</span> <span class="toctext">General Concept</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Common_FD_Push"><span class="tocnumber">4</span> <span class="toctext">Common FD Push</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Strong_FD_Variations"><span class="tocnumber">5</span> <span class="toctext">Strong FD Variations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Counters"><span class="tocnumber">6</span> <span class="toctext">Counters</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_Maps"><span class="tocnumber">7</span> <span class="toctext">Notable Maps</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notable_Games"><span class="tocnumber">8</span> <span class="toctext">Notable Games</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "<b>Fake Double</b>" or FD Push refers to a number of openings designed to fake a Two Factory pressure. It enables Terran players to expand relatively safely while also opening a short timing window in which Terran can attack a Fast Expanding or Fast Teching Protoss.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The FD opening was originally invented and popularized around 2004. Especially on smaller maps, the early attack came as a surprise to many Protoss players, who relatively often where overwhelmed and lost early on. However, a few months later most Protoss players adaptated and the strategy lost many of its benefits.
+</p><p>In modern Terran vs. Protoss the Build Order is still among the more popular variations, as it is a good choice to secure a Fast Expansion on maps with longer rush distances and wider choke points. Especially on <a href="/starcraft/Python" title="Python">Python</a> the FD openings allowed for a faster Command Center than it was possible with a <a href="/starcraft/Siege_Expand" title="Siege Expand" class="mw-redirect">Siege Expand</a>. Due to <a href="/starcraft/Flash" title="Flash">Flash</a>'s variations the FD also regained some of its former strength as potential game ending opening.
+</p>
+<h2><span class="mw-headline" id="General_Concept">General Concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=3" title="Edit section: General Concept">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The underlying idea of a FD Push aims to gain a multitude of different goals. Any FD opening makes the trade-off between having the opportunity to keep map control via Spider Mines, safety against high tech unit rushes (e.g. Dark Templars or Reavers), and being able to expand. This is achieved by training at least four Marines (and up to eight), one Siege Tank without upgrades and at least two early Vultures with Spider Mines. 
+</p><p>This unit combination allows Terran to drive back Protoss Dragoons off one Gateway. Regardless of the opening, Terran is in most scenarios exploiting the fact that Protoss is not able to clear Spider Mines without Observers. Even in scenarios in which Protoss opens conservatively, the Fast Expansion also means a stronger economy for Terran and the Vultures allow to scout the map early on. Consequently, any transition by Terran can be chosen to enter the mid game. 
+</p><p>Not losing the attack force is paramount for the Terran. The Vultures need to secure the paths between Terran and Protoss bases with Mines, otherwise the FD attack is ineffective and opens plenty of opportunities for Protoss to hard counter. While the initial attack moves out, a Command Center will be built at the <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a>. 
+</p><p>In most games, even casual Protoss players will anticipate the opening, especially since it is rather easy to gain intel on the upcoming attack by observing the early Vespene Gas mining behavior and single Factory with Add-On. Keeping Protoss from scouting the Terran Main Base is therefore a huge bonus for Terran.
+</p><p>Since there are various openings, the article is split into different chapters for each. All of the Build Orders utilize so-called "Eco Cuts". <i>"To cut"</i> means to either stop mining Vespene Gas or to stop training SCVs.
+</p>
+<h2><span class="mw-headline" id="Common_FD_Push">Common FD Push</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=4" title="Edit section: Common FD Push">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<center>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,184,242); width:500px;"> "Standard FD Push" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<dl>
+<dt>Original Timing
+</dt>
+</dl>
+<ul>
+<li>9/10 - Supply Depot
+</li>
+<li>11/18 - Barracks and Refinery <sup id="cite_ref-racks_0-0" class="reference"><a href="#cite_note-racks-0">[1]</a></sup>
+</li>
+<li>13/18 - Scout
+</li>
+</ul>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<dl>
+<dt>Hwasin Opening
+</dt>
+</dl>
+<ul>
+<li>10/10 - Supply Depot<sup id="cite_ref-scout_1-0" class="reference"><a href="#cite_note-scout-1">[2]</a></sup>
+</li>
+<li>10/10 - Barracks
+</li>
+<li>10/10 - Refinery
+</li>
+</ul>
+</div>
+</td></tr></table>
+<ul>
+<li>@88 Vespene Gas - Gas Cut <sup id="cite_ref-gass_2-0" class="reference"><a href="#cite_note-gass-2">[3]</a></sup>
+</li>
+<li>15/18 - Marine
+</li>
+<li>16/18 - Factory
+</li>
+<li>16/18 - Supply Depot<sup id="cite_ref-cut_3-0" class="reference"><a href="#cite_note-cut-3">[4]</a></sup>
+</li>
+<li>@100% Supply Depot - Supply Depot
+</li>
+<li>@100% Factory - Machine Shop<sup id="cite_ref-gase_4-0" class="reference"><a href="#cite_note-gase-4">[5]</a></sup>
+</li>
+<li>@100% Machine Shop - Siege Tank, Spider Mine Upgrade
+</li>
+<li>@100% Tank - Vulture<sup id="cite_ref-attack_5-0" class="reference"><a href="#cite_note-attack-5">[6]</a></sup>
+</li>
+<li>@400 minerals - Command Center at <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a>
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-racks-0"><a href="#cite_ref-racks_0-0">↑</a> Barracks and Refinery are built at the same time; 250 Minerals have to be safed</li>
+<li id="cite_note-scout-1"><a href="#cite_ref-scout_1-0">↑</a> Scout Leaves when the Depot is finished</li>
+<li id="cite_note-gass-2"><a href="#cite_ref-gass_2-0">↑</a> Two SCVs are taken off the Gas. One at 88 Vespene Gas, another one at 96 Gas</li>
+<li id="cite_note-cut-3"><a href="#cite_ref-cut_3-0">↑</a> Short SCV and marine production stop to build the Depot.</li>
+<li id="cite_note-gase-4"><a href="#cite_ref-gase_4-0">↑</a> Two SCVs are sent back to mine Gas</li>
+<li id="cite_note-attack-5"><a href="#cite_ref-attack_5-0">↑</a> Siege Tank and Marines leave main base, Vulture is rallied to the attack</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</center>
+<p>The original timing is straight forward, only the Gas Cut around 88 Vespene Gas differs from most other Build Orders. The Execution follows like described in the previous chapters. 
+</p><p>The Hwasin opening differs from the original timing. It was one of the first adaptions to the original FD Pushes, named after its creator, the KeSPA professional <a href="/starcraft/Hwasin" title="Hwasin">Hwasin</a>. This opening indirectly cuts workers and allows the initial attack force to leave about ten to twenty seconds sooner. The benefit however is rather small, compared to other variations explained in the upcoming chapters. 
+</p><p>Neither Build cuts workers after the original Gas timing. 
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Strong_FD_Variations">Strong FD Variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=5" title="Edit section: Strong FD Variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<center>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,184,242); width:70%;"> "Strong FD Variations" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<dl>
+<dt>Strong FD
+</dt>
+</dl>
+<ul>
+<li>9 - Supply Depot
+</li>
+<li>10 - Barracks, Refinery<sup id="cite_ref-ecoone_6-0" class="reference"><a href="#cite_note-ecoone-6">[1]</a></sup>
+</li>
+<li>@88 Gas - SCV Cut<sup id="cite_ref-gass_7-0" class="reference"><a href="#cite_note-gass-7">[2]</a></sup>
+</li>
+<li>@100% Barracks - Marines<sup id="cite_ref-rines_8-0" class="reference"><a href="#cite_note-rines-8">[3]</a></sup>
+</li>
+<li>15 - Factory<sup id="cite_ref-scout_9-0" class="reference"><a href="#cite_note-scout-9">[4]</a></sup>
+</li>
+<li>16 - Supply Depot
+</li>
+<li>@100% Factory - Machine Shop<sup id="cite_ref-gase_10-0" class="reference"><a href="#cite_note-gase-10">[5]</a></sup>
+</li>
+<li>22 - Supply Depot
+</li>
+<li>@200 Gas - Gas cut<sup id="cite_ref-gasss_11-0" class="reference"><a href="#cite_note-gasss-11">[6]</a></sup>
+</li>
+<li>28 - Supply Depot
+</li>
+<li>34 - Spider Mine Upgrade
+</li>
+<li>@2 Tanks - Two Vulture<sup id="cite_ref-vultures_12-0" class="reference"><a href="#cite_note-vultures-12">[7]</a></sup>
+</li>
+<li>@400 minerals - Command Center at Natural Expansion<sup id="cite_ref-gase_10-1" class="reference"><a href="#cite_note-gase-10">[5]</a></sup>
+</li>
+<li>@2 Vultures - Siege Tanks<sup id="cite_ref-tanks_13-0" class="reference"><a href="#cite_note-tanks-13">[8]</a></sup>
+</li>
+</ul>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<dl>
+<dt>Flash Variation
+</dt>
+</dl>
+<ul>
+<li>9 - Supply Depot
+</li>
+<li>10 - Barracks, Refinery<sup id="cite_ref-ecoone_6-1" class="reference"><a href="#cite_note-ecoone-6">[1]</a></sup>
+</li>
+<li>@100% Refinery - 3 SCVs<sup id="cite_ref-gase_10-2" class="reference"><a href="#cite_note-gase-10">[5]</a></sup>
+</li>
+<li>@100% Barracks - Marines <sup id="cite_ref-riness_14-0" class="reference"><a href="#cite_note-riness-14">[9]</a></sup>
+</li>
+<li>15 - Factory <sup id="cite_ref-scout_9-1" class="reference"><a href="#cite_note-scout-9">[4]</a></sup>
+</li>
+<li>16 - Supply Depot
+</li>
+<li>@100% Factory - Machine Shop<sup id="cite_ref-gase_10-3" class="reference"><a href="#cite_note-gase-10">[5]</a></sup>
+</li>
+<li>22 - Supply Depot
+</li>
+<li>@100% Machine Shop - Siege Tank
+</li>
+<li>@100 Gas - Research Spider Mines<sup id="cite_ref-gasss_11-1" class="reference"><a href="#cite_note-gasss-11">[6]</a></sup>
+</li>
+<li>@400 Minerals - Command Center<sup id="cite_ref-gase_10-4" class="reference"><a href="#cite_note-gase-10">[5]</a></sup>
+</li>
+<li>Two Vultures
+</li>
+<li>Second Factory, 3 Marines<sup id="cite_ref-rinesss_15-0" class="reference"><a href="#cite_note-rinesss-15">[10]</a></sup>
+</li>
+<li>@2 Vultures - 2 Siege Tanks
+</li>
+<li>@50% Third Siege Tank - Siege Mode Upgrade
+</li>
+<li>@3 Tanks - Attack
+</li>
+</ul>
+</div>
+</td></tr></table>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-ecoone-6">↑ <sup><a href="#cite_ref-ecoone_6-0">1.0</a></sup> <sup><a href="#cite_ref-ecoone_6-1">1.1</a></sup> SCVs are not trained until the Refinery finishes</li>
+<li id="cite_note-gass-7"><a href="#cite_ref-gass_7-0">↑</a> Two SCVs are taken off gas, one at 88 Gas, one at 96 Gas</li>
+<li id="cite_note-rines-8"><a href="#cite_ref-rines_8-0">↑</a> A total of eight Marines will be trained</li>
+<li id="cite_note-scout-9">↑ <sup><a href="#cite_ref-scout_9-0">4.0</a></sup> <sup><a href="#cite_ref-scout_9-1">4.1</a></sup> SCV is sent to Scout</li>
+<li id="cite_note-gase-10">↑ <sup><a href="#cite_ref-gase_10-0">5.0</a></sup> <sup><a href="#cite_ref-gase_10-1">5.1</a></sup> <sup><a href="#cite_ref-gase_10-2">5.2</a></sup> <sup><a href="#cite_ref-gase_10-3">5.3</a></sup> <sup><a href="#cite_ref-gase_10-4">5.4</a></sup> Two SCVs are sent back to mine Gas</li>
+<li id="cite_note-gasss-11">↑ <sup><a href="#cite_ref-gasss_11-0">6.0</a></sup> <sup><a href="#cite_ref-gasss_11-1">6.1</a></sup> Two SCVs are taken out of the Geyser</li>
+<li id="cite_note-vultures-12"><a href="#cite_ref-vultures_12-0">↑</a> Both are built from the Factory. Attack leaves the base at this point</li>
+<li id="cite_note-tanks-13"><a href="#cite_ref-tanks_13-0">↑</a> Siege Tanks are built from now on</li>
+<li id="cite_note-riness-14"><a href="#cite_ref-riness_14-0">↑</a> A total of five Marines will be trained</li>
+<li id="cite_note-rinesss-15"><a href="#cite_ref-rinesss_15-0">↑</a> For a total of eight Marines</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</center>
+<p>The "<b>Strong FD</b>" variations, both developed by the KeSPA professional <a href="/starcraft/Flash" title="Flash">Flash</a>, abuse meta gaming thoughts. As mentioned for the more common FD Attack openings, most Protoss players can anticipate the upcoming first attack rather easy, by closely observing the Gas harvesting behaviour of Terran. Whenever the harvesting is stopped temporarily, an initial attack is to be expected. In turns, this gives Protoss room to adapt his own build. 
+</p><p>Both builds, the strong FD and the Flash variation, abuse exactly this trail of line and anticipate the anticipation so to speak. Once the first Siege Tank is ready, as well as the first Marines, Terran will fake an attack, but will not follow through with it. It's rather common to not completely chase the Protoss army to his base, but to get Spider Mines up in order to secure the own Command Center. With this in mind, Protoss is tricked into believing that no further attack is to be expected in the following minutes. Consequently, many Protoss players will now try to either Tech up fast, expand a second time or add Gateways. In either case, their Dragoon count will be low.
+</p><p>Exactly this is abused by Terran. Whenever Protoss falls for the strategy, he will have a hard time to deal with the increased amount of Vultures, Marines and Siege Tanks. Most often, the game is ended right there, or at least an enormous amount of damage is dealt. However, if the attack is defended well by Protoss, Terran does not have the economical advantage, since he sacrificed a stronger economy in a trade against a larger attack force. This renders the Strong FD variations not to an all-in, but risky. 
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Counters">Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=6" title="Edit section: Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The original FD Push and partially the Strong FD variations can not be hard countered easy by Protoss. However, conservative Two Gateway Builds and delayed Reaver Drops give Protoss many options to defend well. Especially Bulldog variations cause a problem, as they can directly hard counter a failed FD attack, especially if the initial Siege Tank(s) were lost. 
+</p><p>The newer 13 Nexus Fast Expansions also are rather safe against the more common FD openings. Even though Protoss has few units to start with, he will have enough to defend the push. He will also be in an economical advantage, if no or little Probes are lost during the attack. Even though Strong FDs are often used to fight a Nexus first expansion in the past, many Protoss players adapted. Other attack timings appear to be more efficient. In case of a 13 Nexus, no Siege Tank or Machine Shop is added right away; instead a Vulture is built and the initial Marines and a few SCVs are used to attempt a Bunker Rush, before any Dragoons can be trained. 
+</p><p>Two Base Arbiter play or Dark Templar openings can cause problems for FD openings, regardless of their variation. Terran will be safe against Dark Templar harass due to the Spider Mines, but will also be in a harder position to perform a Strong FD Push if Protoss reacts well. 
+</p><p>Most one Gateway Expansions need to be adapted by Protoss if any FD Attack variation is chosen by Terran. This does not mean it will automatically be defeated, but it means that the underlying intention of Gateway Expansions lose much of their economical potential. In case of (unscouted) Strong FD variations it is quite likely to end the game right away.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=7" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>FD Attacks work on any map. Only few features make FD Pushes harder to control, such as difficult pathing and narrow choke points, like on <a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a> and <a href="/starcraft/Destination" title="Destination">Destination</a>. 
+</p>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=8" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:R-Point.jpg&amp;filetimestamp=20090623033646&amp;" class="image" title="R-Point"><img alt="R-Point" src="/starcraft/images/thumb/1/1b/R-Point.jpg/100px-R-Point.jpg" width="100" height="100" srcset="/starcraft/images/thumb/1/1b/R-Point.jpg/150px-R-Point.jpg 1.5x, /starcraft/images/thumb/1/1b/R-Point.jpg/200px-R-Point.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Boxer" title="Boxer" class="mw-redirect">Boxer</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> BoxeR transits from FD to a timing attack
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Pusan" title="Pusan">Pusan</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;"></span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=UbzqYHR_K9w">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Gaia.jpg&amp;filetimestamp=20090623033227&amp;" class="image" title="Gaia"><img alt="Gaia" src="/starcraft/images/thumb/3/3e/Gaia.jpg/100px-Gaia.jpg" width="100" height="100" srcset="/starcraft/images/thumb/3/3e/Gaia.jpg/150px-Gaia.jpg 1.5x, /starcraft/images/thumb/3/3e/Gaia.jpg/200px-Gaia.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Iloveoov" title="Iloveoov">iloveoov</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Iloveoov opens FD and defends against White-Ra's DTs
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:Ukraine" title="Ukraine"><img alt="Ukraine" src="/starcraft/images/2/2b/Ua.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/White-Ra" title="White-Ra">White-Ra</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2006-10-21</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/international/games/37757_iloveoov_vs_White-Ra/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td></tr></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Medusa.jpg&amp;filetimestamp=20110628192526&amp;" class="image" title="Medusa"><img alt="Medusa" src="/starcraft/images/thumb/e/eb/Medusa.jpg/100px-Medusa.jpg" width="100" height="100" srcset="/starcraft/images/thumb/e/eb/Medusa.jpg/150px-Medusa.jpg 1.5x, /starcraft/images/thumb/e/eb/Medusa.jpg/200px-Medusa.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Flash" title="Flash">Flash</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Flash deals good damage to Kal's Fast Nexus build with the modern variant.
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Kal" title="Kal">Kal</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2009-02-11</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/11230_Flash_vs_Kal">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Byzantium.jpg&amp;filetimestamp=20110707191728&amp;" class="image" title="Byzantium"><img alt="Byzantium" src="/starcraft/images/thumb/3/3c/Byzantium.jpg/100px-Byzantium.jpg" width="100" height="100" srcset="/starcraft/images/thumb/3/3c/Byzantium.jpg/150px-Byzantium.jpg 1.5x, /starcraft/images/thumb/3/3c/Byzantium.jpg/200px-Byzantium.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Iris" title="Iris">Iris</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Iris opens FD into 2 Factory against 1 Gate Range/Nexus.
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Bisu" title="Bisu">Bisu</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2009-07-23</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/21648_Bisu_vs_Iris/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td></tr></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Beltway.jpg&amp;filetimestamp=20110421181744&amp;" class="image" title="Beltway"><img alt="Beltway" src="/starcraft/images/thumb/f/fd/Beltway.jpg/100px-Beltway.jpg" width="100" height="100" srcset="/starcraft/images/thumb/f/fd/Beltway.jpg/150px-Beltway.jpg 1.5x, /starcraft/images/thumb/f/fd/Beltway.jpg/200px-Beltway.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Flash" title="Flash">Flash</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Flash opens Strong FD and some mismicro from Movie makes for a very short game.
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Movie" title="Movie">Movie</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2011-05-01</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/korean/games/65785_Flash_vs_Movie/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Fortress.jpg&amp;filetimestamp=20100823223834&amp;" class="image" title="Fortress"><img alt="Fortress" src="/starcraft/images/thumb/8/8a/Fortress.jpg/100px-Fortress.jpg" width="100" height="100" srcset="/starcraft/images/thumb/8/8a/Fortress.jpg/150px-Fortress.jpg 1.5x, /starcraft/images/thumb/8/8a/Fortress.jpg/200px-Fortress.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Flash" title="Flash">Flash</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Flash opens 6 Marine FD. While no damage was done, Flash was able to use the opening to gain some positional advantage which he is able to make use of later
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Best" title="Best" class="mw-redirect">Best</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2011-08-19</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/korean/games/83011_BeSt_vs_Flash">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td></tr></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.548 seconds
+Real time usage: 0.612 seconds
+Preprocessor visited node count: 2524/1000000
+Preprocessor generated node count: 7757/1000000
+Post�?expand include size: 19150/2097152 bytes
+Template argument size: 5742/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:138-0!*!0!!en!2!* and timestamp 20150422171606
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=FD_(vs._Protoss)&amp;oldid=119808">http://wiki.teamliquid.net/starcraft/index.php?title=FD_(vs._Protoss)&amp;oldid=119808</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvP_Builds" title="Category:TvP Builds">TvP Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/FD_(vs._Protoss)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:FD_(vs._Protoss)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=FD+%28vs.+Protoss%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/FD_(vs._Protoss)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/FD_(vs._Protoss)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;oldid=119808" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=FD_(vs._Protoss)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/FD_(vs._Protoss)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:48.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.737 secs. --></body></html>

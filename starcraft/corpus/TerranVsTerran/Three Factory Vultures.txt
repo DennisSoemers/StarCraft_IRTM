@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Three Factory Vultures - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Three Factory Vultures" href="/starcraft/index.php?title=Special:ExportRDF/Three_Factory_Vultures&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Three_Factory_Vultures","wgTitle":"Three Factory Vultures","wgCurRevisionId":120171,"wgRevisionId":120171,"wgArticleId":10095,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Terran Build Orders","TvT Builds","Missing games"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Three_Factory_Vultures","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120171});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Three_Factory_Vultures skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Three Factory Vultures</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> 3Fac Vult/Mines</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:2_Factory_Vulture_Mines.png&amp;filetimestamp=20090301210127&amp;" class="image"><img alt="" src="/starcraft/images/thumb/5/5d/2_Factory_Vulture_Mines.png/294px-2_Factory_Vulture_Mines.png" width="294" height="221" srcset="/starcraft/images/thumb/5/5d/2_Factory_Vulture_Mines.png/441px-2_Factory_Vulture_Mines.png 1.5x, /starcraft/images/thumb/5/5d/2_Factory_Vulture_Mines.png/588px-2_Factory_Vulture_Mines.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvT</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Themarine</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2">TheMarine</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Build_Order_Clarification"><span class="tocnumber">3</span> <span class="toctext">Build Order Clarification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Number_of_Marines"><span class="tocnumber">3.1</span> <span class="toctext">Number of Marines</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Vulture_Micro"><span class="tocnumber">3.2</span> <span class="toctext">Vulture Micro</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Transition_to_Mid_Game"><span class="tocnumber">3.3</span> <span class="toctext">Transition to Mid Game</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Transition"><span class="tocnumber">4</span> <span class="toctext">Transition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Wraith.2FDropship_defense"><span class="tocnumber">4.1</span> <span class="toctext">Wraith/Dropship defense</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Wraith_Follow-up"><span class="tocnumber">4.2</span> <span class="toctext">Wraith Follow-up</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Siege_Contain"><span class="tocnumber">4.3</span> <span class="toctext">Siege Contain</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Counter_To"><span class="tocnumber">5</span> <span class="toctext">Counter To</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Countered_By"><span class="tocnumber">6</span> <span class="toctext">Countered By</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notable_Maps"><span class="tocnumber">7</span> <span class="toctext">Notable Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Strong"><span class="tocnumber">7.1</span> <span class="toctext">Strong</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Weak"><span class="tocnumber">7.2</span> <span class="toctext">Weak</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Mentality"><span class="tocnumber">8</span> <span class="toctext">Mentality</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Themarine used this build in 2002 in GhemTV Gosu Invitational where he defeated a newcomer now known as by.01 who has been involved in the scandal. This build is used at high level TvT but has faded nowadays because of the innovative power of the 1 Factory FE.
+</p><p>The goal of the Vult/Mine is to surprise your Terran opponent with a strong timing attack, particularly after they do One Factory Expansion or 1 Port Wraith. It exploits the build time of the Vultures and lack of gas to attack at a time when the Terran has few to none Tanks or offensive units to defend. Vulture attack is used to kill enemy Vultures/SCVs/Marines, while mines are used to kill Tanks or Goliaths.
+</p><p>As a timing attack, it therefore depends a great deal on hiding the build and the rush distance. In addition, the layout of the map plays a role as well. Maps with wide chokes that Terrans tend to expand early on and which lend themselves to contains suit this build well.
+</p><p>It should be noted, that while this build is aggressive, it is not all-in. The goal is to transition into the mid game as the aggressor with a contain if at all possible and double expand if possible.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>9/10 - Supply Depot
+</li>
+<li>11/18 - Barracks 
+</li>
+<li>11/18 - Refinery (scout)
+</li>
+<li>15/18 - Supply Depot
+</li>
+<li>16/18 - 1 Marine (rally at choke)
+</li>
+<li>18/26 - Factory, marine
+</li>
+<li>20/26 - Factory, marine
+</li>
+<li>@100% Factory - Vulture and then Machine Shop
+</li>
+<li>@100% Factory - Machine Shop 
+</li>
+<li>22/26 - Supply Depot
+</li>
+<li>25/34 - Vulture, Speed upgrade (From this point build vultures as money allows from this factory, rally factory to choke) 
+</li>
+<li>27/34 - Machine Shop 
+</li>
+<li>30/34 - Depot 
+</li>
+<li>32/34 - Factory, Mines upgrade (From this build build vultures as money allows from this factory, rally factory to choke) 
+</li>
+</ul>
+<h2><span class="mw-headline" id="Build_Order_Clarification">Build Order Clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=3" title="Edit section: Build Order Clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Number_of_Marines">Number of Marines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=4" title="Edit section: Number of Marines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>3 marines are enough for any cheese.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Vulture_Micro">Vulture Micro</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=5" title="Edit section: Vulture Micro">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This attack requires you to micro well and lay mines. If the opponent has not yet expanded, lay mines to prevent a Command Center from easily going down, and set up a contain, with the goal to prevent the Terran from clearing the Minefield and/or relaying the Minefield whenever possible. In many cases your opponent will be forced to tech to Comsat to expand, or sacrifice units. Because of this, you should keep your Vultures close enough that they can snipe Marines before they can defuse, prevent SCVs from building Turrets and in general being as annoying as hell.
+</p><p>If the Terran did expand, and didn't wall, you are in for some fun. Siege tanks are your first priority, and you must lay multiple mines around them to get your kills (two mines will kill a tank). Goliaths can be beaten in the same way. Vultures must be focus fired, and all your Vultures should lay all of their mines throughout the base - specifically near Factories, chokes and mineral patches.
+</p><p>In TvT, mine laying is a little different than TvP mine laying. Because of the faster rate of fire that mech units have, the ideal way to lay mines is in such a way so that multiple mines are triggered when something walks by it.
+</p>
+<h3><span class="mw-headline" id="Transition_to_Mid_Game">Transition to Mid Game</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=6" title="Edit section: Transition to Mid Game">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This build is not as flexible as the 2 factory vults but alot deadlier. Based on what you saw when you attacked, and how much damage you did (as well as the nature of the map), you can diverge your build accordingly. Because of the surplus of gas from not producing gas heavy units like tanks or goliaths, you will find that massing factories is extremely easy and very profitable. The map control provided by laying mines will protect a third expansion until a stronger force is available. It is generally not advisable to continue producing Vultures into the mid game, as Comsat and larger army sizes will allow your opponent to defuse mines and defend from harassment.
+</p>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=7" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Wraith.2FDropship_defense">Wraith/Dropship defense</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=8" title="Edit section: Wraith/Dropship defense">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the opponent did not expand, it is recommended to build a Engineering Bay or Armory as early as 28 supply to defend against Wraiths or drops. Some hints that he might be going wraiths
+- He has fewer ground units than he should have
+- He went 14cc (the most common follow up after 14cc is 2port wraiths)
+- He is turtling and shows no intention of taking his expansion
+- He walled
+</p>
+<h3><span class="mw-headline" id="Wraith_Follow-up">Wraith Follow-up</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=9" title="Edit section: Wraith Follow-up">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another option is to build one or two Starports, and abuse your stockpile of gas and force your enemy to defend a fast attack from both the ground and the air.
+</p>
+<h3><span class="mw-headline" id="Siege_Contain">Siege Contain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=10" title="Edit section: Siege Contain">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In general, players switch to two Factory Siege Tanks with Siege, and take their natural soon after attacking. You will rely on setting up an aggressive contain outside his natural with either Turrets or Goliaths for anti-air. The natural expansion can be taken before siege tanks are started if the player feels comfortable.
+</p>
+<h2><span class="mw-headline" id="Counter_To">Counter To</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=11" title="Edit section: Counter To">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Soft Counters: 
+</p>
+<ul>
+<li>1 Factory Expansion
+</li>
+<li>1 Port Wraith
+</li>
+</ul>
+<p>Hard Counters: 
+</p>
+<ul>
+<li>13/14 CC with no wall
+</li>
+<li> 2 Port Wraith
+</li>
+<li> 1 Port Wraith
+</li>
+<li> any unorthodox FE
+</li>
+</ul>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=12" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li> wall-in at natural or main
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=13" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Strong">Strong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=14" title="Edit section: Strong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li> <a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a>
+</li>
+<li> <a href="/starcraft/Destination" title="Destination">Destination</a> 
+</li>
+<li> <a href="/starcraft/Python" title="Python">Python</a>
+</li>
+<li> <a href="/starcraft/Othello" title="Othello">Othello</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Weak">Weak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=15" title="Edit section: Weak">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li> <a href="/starcraft/Lost_Temple" title="Lost Temple">Lost Temple</a>
+</li>
+<li> <a href="/starcraft/Katrina" title="Katrina">Katrina</a>
+</li>
+<li> <a href="/starcraft/Tau_Cross" title="Tau Cross">Tau Cross</a>
+</li>
+<li> <a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a>
+</li>
+<li> Maps with backyard expansions or easily defensible natural expansions
+</li>
+</ul>
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit&amp;section=16" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The mentality is to use many vultures to criple and maybe even kill the terran with the first 4 vultures, if he gets tank the next 2 vultures can lay mines. As defense the wraith will be very late because when a player sees 4 vults killing his wall he usually cancels starport and get bunker at scv, don't try to kill the bunker but try to get tank fast.
+</p><p>Take map control with mines and vultures. Force him to turtle or else face heavy SCV losses. 
+Make sure you get your command center up and working before he does. Scout and prepare for any harassment from him. Proceed to mid-game by securing map control and taking your third expansion.
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.088 seconds
+Real time usage: 0.104 seconds
+Preprocessor visited node count: 277/1000000
+Preprocessor generated node count: 1321/1000000
+Postâ€?expand include size: 2063/2097152 bytes
+Template argument size: 181/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:10095-0!*!0!!en!2!* and timestamp 20150427165727
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Three_Factory_Vultures&amp;oldid=120171">http://wiki.teamliquid.net/starcraft/index.php?title=Three_Factory_Vultures&amp;oldid=120171</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvT_Builds" title="Category:TvT Builds">TvT Builds</a></li><li><a href="/starcraft/Category:Missing_games" title="Category:Missing games">Missing games</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Three_Factory_Vultures" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:Three_Factory_Vultures&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Three+Factory+Vultures" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Three_Factory_Vultures" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Three_Factory_Vultures" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;oldid=120171" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Three_Factory_Vultures&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Three_Factory_Vultures" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:55.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.268 secs. --></body></html>

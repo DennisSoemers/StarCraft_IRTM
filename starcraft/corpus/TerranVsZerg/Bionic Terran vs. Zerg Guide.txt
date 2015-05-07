@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Bionic Terran vs. Zerg Guide - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Bionic Terran vs. Zerg Guide" href="/starcraft/index.php?title=Special:ExportRDF/Bionic_Terran_vs._Zerg_Guide&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bionic_Terran_vs._Zerg_Guide","wgTitle":"Bionic Terran vs. Zerg Guide","wgCurRevisionId":119927,"wgRevisionId":119927,"wgArticleId":466,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Terran Build Orders","TvZ Builds","Matchup Guides","Terran Beginner Strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bionic_Terran_vs._Zerg_Guide","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119927});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Bionic_Terran_vs_Zerg_Guide skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Bionic Terran vs. Zerg Guide</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Ticon.png&amp;filetimestamp=20081130204305&amp;" class="image"><img alt="" src="/starcraft/images/c/c7/Ticon.png" width="21" height="19" /></a> Bio Terran vs Zerg Ultralisk/Zergling</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:TvZ.png&amp;filetimestamp=20090212121755&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/6c/TvZ.png/294px-TvZ.png" width="294" height="221" srcset="/starcraft/images/thumb/6/6c/TvZ.png/441px-TvZ.png 1.5x, /starcraft/images/thumb/6/6c/TvZ.png/588px-TvZ.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>The Terran vs. Zerg Matchup</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">TvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Branch_I:_One_Barracks_Fast_Expand"><span class="tocnumber">2</span> <span class="toctext">Branch I: One Barracks Fast Expand</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Initial_Build_Order"><span class="tocnumber">2.1</span> <span class="toctext">Initial Build Order</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Intermediate_Goals"><span class="tocnumber">2.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Transition_I:_Timing_Attack"><span class="tocnumber">2.3</span> <span class="toctext">Transition I: Timing Attack</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Transition"><span class="tocnumber">2.3.1</span> <span class="toctext">Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Transition_II:_Fast_Third"><span class="tocnumber">2.4</span> <span class="toctext">Transition II: Fast Third</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Branch_II:_Two_Barracks_Pressure"><span class="tocnumber">3</span> <span class="toctext">Branch II: Two Barracks Pressure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Initial_Build_Order_2"><span class="tocnumber">3.1</span> <span class="toctext">Initial Build Order</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Intermediate_Goals_2"><span class="tocnumber">3.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Transition_I:_Timing_Push"><span class="tocnumber">3.3</span> <span class="toctext">Transition I: Timing Push</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Overview_2"><span class="tocnumber">3.3.1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#General_Timing"><span class="tocnumber">3.3.2</span> <span class="toctext">General Timing</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Build_Order"><span class="tocnumber">3.3.3</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Pushing_Out"><span class="tocnumber">3.3.4</span> <span class="toctext">Pushing Out</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Transition_2"><span class="tocnumber">3.3.5</span> <span class="toctext">Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Transition_II:_Fast_Third_2"><span class="tocnumber">3.4</span> <span class="toctext">Transition II: Fast Third</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Branch_III:_Cheese"><span class="tocnumber">4</span> <span class="toctext">Branch III: Cheese</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Bio Terran vs. Ultralisk/Zergling end game is characterized by the Marine/Medic <a href="/starcraft/Ball" title="Ball">ball</a> supported by Siege Tanks and Science Vessels against Ultralisks and Zerglings supported by Defilers. This article spans the entire match up of TvZ provided that it arrives at this endgame. This contrasts the use of any Terran Mech Build Orders (For example the <a href="/starcraft/Fantasy_Build" title="Fantasy Build">Fantasy Build</a>.) 
+</p>
+<h2><span class="mw-headline" id="Branch_I:_One_Barracks_Fast_Expand">Branch I: One Barracks Fast Expand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=2" title="Edit section: Branch I: One Barracks Fast Expand">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This Build allows Terran to expand quickly and safely while still allowing for some early game pressure, based on the Terran and Zerg follow-ups.
+</p><p>Map considerations:
+</p>
+<ul>
+<li> Maps with longer rush distances to delay the danger of early Zergling attacks
+</li>
+<li> Maps with narrow chokes and ramps to the main
+</li>
+<li> Maps where it is possible to guard both the ramp and the natural without being overly vulnerable to run-bys
+</li>
+</ul>
+<h3><span class="mw-headline" id="Initial_Build_Order">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=3" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/starcraft/1_Barracks_FE" title="1 Barracks FE" class="mw-redirect">1 Barracks FE</a>
+</p>
+<h3><span class="mw-headline" id="Intermediate_Goals">Intermediate Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=4" title="Edit section: Intermediate Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Right off the bat you will need to deal with Zergling Pressure. Once you get Academy Tech out you can <a href="/starcraft/Bionic_Terran_vs._Zerg_Timing#Applying_Pressure" title="Bionic Terran vs. Zerg Timing">apply early pressure to the Zerg</a>.
+</p><p>The next steps in the game are:
+</p>
+<ol>
+<li> Move out with Marines and Medics and apply pressure 
+</li>
+<li> Choose the next transition
+</li>
+<li> Scout your opponent
+</li>
+</ol>
+<p>If your opponent went Mutalisks first, use your Marines and Medics to fend off the Mutalisk harass as well as possible. Your goal should be to diminish the number of Mutalisks as quickly as possible, while suffering the least amount of damage, so you can move out of your base without any threat. Stimpack and Marine Range are your two biggest assets in defense, while missile turrets will allow you to defend your SCVs more easily. Stim should be researched before range. Weapon upgrades can also be used defense if the Terran started with an engineering bay before academy variant. Note though that due to the long research time, a weapon upgrade can take a long time to arrive.
+</p><p>In general, place turrets first at the place you expect to be attacked first, and build them as late as you can get away with. It may take some risk and experimentation, but building a minimum number of turrets will allow you more minerals and a stronger midgame attack.
+</p><p>Turrets are generally placed in the following areas:
+</p>
+<ul>
+<li> Main mineral line (generally 3-4)
+</li>
+<li> Natural mineral line (generally 2-4)
+</li>
+<li> At the Barracks (generally 0-2)
+</li>
+</ul>
+<p>It is best to keep one group of Marines in your main and one in the natural, with the bigger group initially being at the place you expect him to attack first, since unstimmed Marines can not move nearly as fast as Mutalisks. Zerg players will often run in and try and snipe missile turrets with Zerglings. This can really hurt when it comes to defense, so it is important for the Terran player to react quickly to prevent.
+</p><p>Missile turrets should be repaired whenever damaged. Many Zerg players will group so many Mutalisks to do enough damage (generally in two volleys) to leave a turret in red health where it will burn down if not repaired. By repairing it, you increase the number of volleys the turret will take to kill, which will give you more time and allow you to do more damage to the Mutalisks. Lone missile turrets should be avoided whenever possible unless they can be quickly defended, as they are easily picked off and won't do a lot of damage in exchange.
+</p><p>To micro against Mutalisks (with Stimpack):
+</p>
+<ul>
+<li> Have all your Marines close together, and your Medics close by. You want to maintain positioning so that the zerg can't easily pick off individual units.
+</li>
+<li> When the Mutalisks come into sight, Stim and move towards them. It is important to note that you should move and not attack move.
+</li>
+<li> As soon as the majority of your Marines are in range, focus fire on an individual Mutalisk. While spreading out fire will make them easy to kill later, kill individual ones now can often severely weaken their attack; the difference between killing a Marine in one volley and not is one Mutalisk. In addition, that low average health won't mean much if the zerg decides to tech to Guardians.
+</li>
+<li> When he runs away, run your own units away. In this way, it becomes a dance where you basically mirror his movements. When he moves to you, you move to him. When he moves away, you move away as well.
+</li>
+<li> While you should avoid wasting Stim it is better to waste a Stim and be able to defend then try to save Medic energy and lose Marines needlessly. If your Medics get low on energy, do not hesitate to make more. If for any reason your Medics run out of energy, you can quickly be left with a group of 10 health Marines that a smart Zerg will not hesitate to kill.
+</li>
+</ul>
+<p>By continuing Marine production, you will soon have enough defense (when combined with missile turrets) to both defend your base and move out into the map for a <a href="/starcraft/Bionic_Terran_vs._Zerg_Timing#Applying_Pressure_2" title="Bionic Terran vs. Zerg Timing">mid game timing attack</a>.
+</p><p><br />
+In general, against a potential Lurker contain, it is best to move out towards the Zerg and tech to Siege Tanks. By doing so, you gain the ability to force him to leapfrog his Lurkers over a larger stretch of the map. In addition, since you are at the center of the map, you have much more maneuvering room, which allows you to either spread out and attack, or fall back continuously. 
+</p><p>It is best to fall back the minimum distance possible in order to delay the push as long as one can. When Zerg un-burrows his Lurkers focus firing on a single Lurker is an effective strategy provided the Zergling count is not too high. As the Lurkers re-burrow (hopefully moving forward only a small distance) fall back to avoid the Lurker spines and hold position. Often, this will allow you to pick off Zerglings if they are not properly controlled.
+</p><p>It is important to note that you shouldn't blindly run away when unburrowed Lurkers charge at you. If you have sufficient numbers, you can spread out and use various micro techniques to defeat the attacking force. If you do have to retreat, do as much damage as you can while he is unburrowed, taking care not to be surrounded.
+</p><p>While Vessels can be used to combat Lurkers (See: <a href="/starcraft/SK_Terran" title="SK Terran">SK Terran</a>), Siege Tanks are generally easier to control vs. Lurkers since they have a longer range and more health. In many cases when you've become completely contained, the goal is to get as many tanks as quickly as possible and break out before Zerg reaches Defiler Tech. Siege mode is generally started soon after the first Tank. Siege Tanks should be strategically positioned: far enough in front that they can attempt to break the contain, but close enough to your defense to avoid being sniped. Generally if you are contained, the Zerg will fall back only as far as necessary, so it is best to constantly leapfrog your Tanks. 
+</p><p>Time spent contained is time lost where you could be attacking expansions and asserting map dominance. If you can't break the contain and retake the map before defilers arrive you will be in lots of pain. Its therefore very important not to be complacent about breaking a Lurker contain, and attempt to do it as quickly as possible with minimum losses. When you break out, the pressure is on you to be aggressive and respond with an <a href="/starcraft/Bionic_Terran_vs._Zerg_Timing#Applying_Pressure_2" title="Bionic Terran vs. Zerg Timing">attack</a>.
+</p>
+<h3><span class="mw-headline" id="Transition_I:_Timing_Attack">Transition I: Timing Attack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=5" title="Edit section: Transition I: Timing Attack">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=6" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Even if you are unable to break the natural and end the game then and there, a Timing Push provides a good screen to match Zerg's <a href="/starcraft/index.php?title=Third_Gas_Expansion&amp;action=edit&amp;redlink=1" class="new" title="Third Gas Expansion (page does not exist)">Third Gas Expansion</a> and keep them from getting an economic advantage. After that it's time to hunker down and prepare for late game play.
+</p>
+<h3><span class="mw-headline" id="Transition_II:_Fast_Third">Transition II: Fast Third</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=7" title="Edit section: Transition II: Fast Third">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rather than bring the fight to Zerg once Science Vessels are complete, Terran can instead match Zerg's <a href="/starcraft/index.php?title=Third_Gas_Expansion&amp;action=edit&amp;redlink=1" class="new" title="Third Gas Expansion (page does not exist)">Third Gas Expansion</a> and transition straight to late game.
+</p>
+<h2><span class="mw-headline" id="Branch_II:_Two_Barracks_Pressure">Branch II: Two Barracks Pressure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=8" title="Edit section: Branch II: Two Barracks Pressure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Two Barracks Pressure allows you to bring the fight to Zerg in early game after Academy Tech comes out.
+</p>
+<h3><span class="mw-headline" id="Initial_Build_Order_2">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=9" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>9 - Supply Depot
+</li>
+<li>11 - Barracks
+</li>
+<li>13 - Barracks
+</li>
+<li>14 - Supply Depot
+</li>
+<li>15 - Refinery
+</li>
+<li>18 - Academy
+</li>
+<li>34 - Command Center
+</li>
+</ul>
+<h3><span class="mw-headline" id="Intermediate_Goals_2">Intermediate Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=10" title="Edit section: Intermediate Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Intermediate goals of this build are to make sure that you can scout the opponent, and to choose what you want to transition into. Right off the bat Terran will need to deal with Zergling Pressure. Once Terran gets Academy tech out it is possible to apply some early pressure to Zerg.
+</p><p>The next steps in the game are:
+</p>
+<ol>
+<li> Move out with Marines and Medics and apply pressure 
+</li>
+<li> Choose the next transition
+</li>
+<li> Scout your opponent
+</li>
+</ol>
+<p>If your opponent went Mutalisks first, use your Marines and Medics to fend off the Mutalisk harass as well as possible. Your goal should be to diminish the number of Mutalisks as quickly as possible so you can move out of your base without any threat. Make sure you have two control groups of Marines, one at your main base, the other one at your expansion. Also make sure, that you have 3 Medics for each control group of Marines. While fending off the harassment, constantly produce Marines and Medics as well as Tanks.
+If Zerg went Lurkers first, place 4 Marines in each Bunker and pull off at least 2 SCVs per bunker, to repair them. Place the remaining Marines behind the bunkers and get your Tanks to the front as soon as possible. Siege Mode researching should be finished shortly after or during the first attack. Use it to chase the Lurkers away and proceed to build up your second timing push.
+</p>
+<h3><span class="mw-headline" id="Transition_I:_Timing_Push">Transition I: Timing Push</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=11" title="Edit section: Transition I: Timing Push">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Overview_2">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=12" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the Terran vs Zerg match-up there are points at which Terran can punish Zerg with timing attacks. one of these points is the midgame Timing Push in which Terran attempts to break the natural expansion Sunken wall to end the game before it reaches hive tech. At this point in the game Zerg has taken their <a href="/starcraft/index.php?title=Third_Gas_Expansion&amp;action=edit&amp;redlink=1" class="new" title="Third Gas Expansion (page does not exist)">Third Gas Expansion</a> but has not yet reaped the rewards of running three extractors and thus cannot afford Hive tech units. The Timing Push aims to exploit this temporary weakness.
+</p>
+<h4><span class="mw-headline" id="General_Timing">General Timing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=13" title="Edit section: General Timing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The timing window for this build begins when the third Hatchery pops and ends when Zerg reaches Hive Tech. Terran at this point has reached Science Vessel tech, has 1/0 or 1/1 infantry upgrades and is able to assert themselves against Mutalisk harass or Lurkers out on the field. Terran must also be able pump units from six production facilities uninterrupted.
+</p>
+<h4><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=14" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>While it is difficult to give supply counts for builds in middle and late game, there are some rules of thumb that help align the Timing Push:
+</p>
+<ol>
+<li>You should have beaten back Mutalisk harass or broken Lurker contain. This prompts Zerg to take the third gas
+</li>
+<li>You should be able to pump units from the following buildings:
+</li>
+</ol>
+<ul>
+<li>Three to four Barracks pumping Marines and Medics
+</li>
+<li>One or Two Factories building Siege Tanks
+</li>
+<li>One or Two Starports building Science Vessels
+</li>
+<li>For a total of six production buildings
+</li>
+</ul>
+<h4><span class="mw-headline" id="Pushing_Out">Pushing Out</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=15" title="Edit section: Pushing Out">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The Terran army should be able to push out to the Natural expansion and set up at the natural choke. Initially it is good to set up within siege range but not move in with Marines and Medics until Zerg attempts a counter. This way you can protect against a flank while still breaking down the Sunken Colony wall. Once the Sunkens are down, you can push in with Marines and Medics and attempt to kill the Hatchery. A few things to remember:
+</p>
+<ul>
+<li>As it is a push, it is important to move your forces slowly as to not get flanked by Zerg's quicker speed
+</li>
+<li>Don't try and force your way through until after the Sunkens are down unless you have to.
+</li>
+<li>Letting your Science Vessels get scourged is a surefire way to get your push wiped out by Lurkers
+</li>
+</ul>
+<h4><span class="mw-headline" id="Transition_2">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=16" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Even if you are unable to break the natural and end the game then and there, a <a href="/starcraft/Timing_Push" title="Timing Push">Timing Push</a> provides a good screen to match Zerg's <a href="/starcraft/index.php?title=Third_Gas_Expansion&amp;action=edit&amp;redlink=1" class="new" title="Third Gas Expansion (page does not exist)">Third Gas Expansion</a> and keep them from getting an economic advantage. After that it's time to hunker down and prepare for late game play.
+</p>
+<h3><span class="mw-headline" id="Transition_II:_Fast_Third_2">Transition II: Fast Third</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=17" title="Edit section: Transition II: Fast Third">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rather than bring the fight to Zerg once Science Vessels are out, you can instead match Zerg's <a href="/starcraft/index.php?title=Third_Gas_Expansion&amp;action=edit&amp;redlink=1" class="new" title="Third Gas Expansion (page does not exist)">Third Gas Expansion</a> and transition straight to late game.
+</p>
+<h2><span class="mw-headline" id="Branch_III:_Cheese">Branch III: Cheese</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit&amp;section=18" title="Edit section: Branch III: Cheese">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/starcraft/Bunker_Rush_(vs._Zerg)" title="Bunker Rush (vs. Zerg)">Bunker Rush</a>
+</li>
+<li><a href="/starcraft/Barracks_Barracks_Supply_(vs._Zerg)" title="Barracks Barracks Supply (vs. Zerg)">Proxy Barracks</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.096 seconds
+Real time usage: 0.108 seconds
+Preprocessor visited node count: 270/1000000
+Preprocessor generated node count: 1262/1000000
+Postâ€?expand include size: 1677/2097152 bytes
+Template argument size: 181/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:466-0!*!0!!en!2!* and timestamp 20150422120045
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;oldid=119927">http://wiki.teamliquid.net/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;oldid=119927</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Terran_Build_Orders" title="Category:Terran Build Orders">Terran Build Orders</a></li><li><a href="/starcraft/Category:TvZ_Builds" title="Category:TvZ Builds">TvZ Builds</a></li><li><a href="/starcraft/Category:Matchup_Guides" title="Category:Matchup Guides">Matchup Guides</a></li><li><a href="/starcraft/Category:Terran_Beginner_Strategy" title="Category:Terran Beginner Strategy">Terran Beginner Strategy</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Bionic_Terran_vs._Zerg_Guide" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:Bionic_Terran_vs._Zerg_Guide" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Bionic+Terran+vs.+Zerg+Guide" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Bionic_Terran_vs._Zerg_Guide" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Bionic_Terran_vs._Zerg_Guide" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;oldid=119927" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Bionic_Terran_vs._Zerg_Guide&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Bionic_Terran_vs._Zerg_Guide" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:50.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.253 secs. --></body></html>
