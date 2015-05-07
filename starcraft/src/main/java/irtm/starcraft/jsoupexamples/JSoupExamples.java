@@ -1,4 +1,4 @@
-package irtm.starcraft.starcraft.jsoupexamples;
+package irtm.starcraft.jsoupexamples;
 
 import java.io.File;
 import java.io.IOException;

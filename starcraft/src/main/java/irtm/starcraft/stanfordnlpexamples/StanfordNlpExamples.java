@@ -1,4 +1,4 @@
-package irtm.starcraft.starcraft.stanfordnlpexamples;
+package irtm.starcraft.stanfordnlpexamples;
 
 import java.io.File;
 import java.io.IOException;

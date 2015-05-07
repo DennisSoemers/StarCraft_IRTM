@@ -1,4 +1,6 @@
-package irtm.starcraft.starcraft;
+package irtm.starcraft.textmining;
+
+import irtm.starcraft.game.StarcraftStrategy;
 
 import java.io.File;
 import java.io.IOException;
@@ -45,17 +47,13 @@ public class StarcraftTextMiner{
 		
 		// gonna assume for now that all files originate from http://wiki.teamliquid.net
 		Document htmlDocument = Jsoup.parse(file, "UTF-8", "http://wiki.teamliquid.net");
-		ArrayList<String> relevantText = new ArrayList<String>();
-		collectRelevantElements(htmlDocument, relevantText);
+		ArrayList<Element> relevantElements = new ArrayList<Element>();
+		collectRelevantElements(htmlDocument, relevantElements);
 		
 		// veryify that all the special cases that need to be found and removed were indeed found
 		if(!categoryLinksFound || !footerFound || !leftColumnFound || !tableOfContentsFound){
 			System.err.println("Did not find all of the required special cases! (" + 
 								categoryLinksFound + ", " + footerFound + ", " + leftColumnFound + ", " + tableOfContentsFound + ")");
-		}
-		
-		for(String text : relevantText){
-			System.out.println(text);
 		}
 		
 		return null;
@@ -68,7 +66,7 @@ public class StarcraftTextMiner{
 	 * @param element
 	 * @param collection
 	 */
-	public void collectRelevantElements(Element element, ArrayList<String> collection){		
+	public void collectRelevantElements(Element element, ArrayList<Element> collection){		
 		// special case: we don't care about the category links
 		if(element.tagName().equals("div") && element.id().equals("catlinks")){
 			if(categoryLinksFound){
@@ -110,7 +108,7 @@ public class StarcraftTextMiner{
 		}
 		
 		if(isRelevantElement(element)){
-			collection.add(element.tagName() + ": " + element.text());
+			collection.add(element);
 		}
 		
 		for(Element child : element.children()){

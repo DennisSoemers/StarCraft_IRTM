@@ -1,4 +1,7 @@
-package irtm.starcraft.starcraft;
+package irtm.starcraft;
+
+import irtm.starcraft.game.StarcraftStrategy;
+import irtm.starcraft.textmining.StarcraftTextMiner;
 
 import java.io.File;
 import java.io.IOException;

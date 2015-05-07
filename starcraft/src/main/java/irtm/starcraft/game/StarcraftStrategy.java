@@ -1,4 +1,4 @@
-package irtm.starcraft.starcraft;
+package irtm.starcraft.game;
 
 /**
  * Class for a single StarCraft Strategy which is obtained by reading
