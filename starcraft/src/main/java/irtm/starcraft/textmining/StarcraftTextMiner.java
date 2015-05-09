@@ -1,6 +1,8 @@
 package irtm.starcraft.textmining;
 
 import irtm.starcraft.game.StarcraftStrategy;
+import irtm.starcraft.utils.HtmlUtils;
+import irtm.starcraft.utils.WikiPageTree;
 
 import java.io.File;
 import java.io.IOException;
@@ -56,6 +58,9 @@ public class StarcraftTextMiner{
 								categoryLinksFound + ", " + footerFound + ", " + leftColumnFound + ", " + tableOfContentsFound + ")");
 		}
 		
+		WikiPageTree documentTree = new WikiPageTree(relevantElements);
+		documentTree.printTree();
+		
 		return null;
 	}
 	
@@ -108,7 +113,16 @@ public class StarcraftTextMiner{
 		}
 		
 		if(isRelevantElement(element)){
-			collection.add(element);
+			String text = element.text();
+			
+			if(text.endsWith("[edit]")){		// get rid of the [edit] buttons on the wiki
+				text = text.substring(0, text.length() - 6).trim();
+				element.text(text);
+			}
+			
+			if(!text.equals("")){		// no point in including empty-text elements				
+				collection.add(element);
+			}
 		}
 		
 		for(Element child : element.children()){
@@ -126,12 +140,7 @@ public class StarcraftTextMiner{
 		String tagName = element.tagName();
 		
 		return (
-				tagName.equals("h1") ||
-				tagName.equals("h2") ||
-				tagName.equals("h3") ||
-				tagName.equals("h4") ||
-				tagName.equals("h5") ||
-				tagName.equals("h6") ||
+				HtmlUtils.isHeaderTag(tagName) ||
 				tagName.equals("p") ||
 				tagName.equals("ul")
 				);
