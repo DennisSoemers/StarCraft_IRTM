@@ -48,7 +48,7 @@ public class WikiPageTree {
 				currentHeaderNode.addChild(newNode);
 				currentHeaderNode = newNode;
 			}
-			else if(tagName.equals("ul")){
+			else if(tagName.equals("ul") || tagName.equals("ol")){
 				currentHeaderNode.addChild(new WikiPageNode(currentHeaderNode, NodeTypes.List, element));
 			}
 			else if(tagName.equals("p")){

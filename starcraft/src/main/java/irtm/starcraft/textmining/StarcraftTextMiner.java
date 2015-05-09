@@ -142,7 +142,8 @@ public class StarcraftTextMiner{
 		return (
 				HtmlUtils.isHeaderTag(tagName) ||
 				tagName.equals("p") ||
-				tagName.equals("ul")
+				tagName.equals("ul") ||
+				tagName.equals("ol")
 				);
 	}
 }
