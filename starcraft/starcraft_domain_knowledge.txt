@@ -1,0 +1,7 @@
+Protoss	RACE
+Terran	RACE
+Zerg	RACE	PERSON
+Sunken Colony	BUILDING
+Sunken Colonies	BUILDING
+Arcadia	MAP
+Loki	MAP

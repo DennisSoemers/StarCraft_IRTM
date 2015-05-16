@@ -30,15 +30,30 @@ public class WikiPageNode {
 	
 	private NodeTypes nodeType;
 	
+	/** Header elements that are above this node in the hierarchy and therefore describe this node */
+	private ArrayList<Element> descriptiveHeaders;
+	/** Text elements that add context to / describe this element in natural language */
+	private ArrayList<Element> descriptiveText;
+	
 	public WikiPageNode(WikiPageNode parentNode, NodeTypes nodeType, Element element){
 		this.parentNode = parentNode;
 		childNodes = new ArrayList<WikiPageNode>();
 		this.nodeType = nodeType;
 		this.element = element;
+		this.descriptiveHeaders = new ArrayList<Element>();
+		this.descriptiveText = new ArrayList<Element>();
 	}
 	
 	public void addChild(WikiPageNode newChild){
 		childNodes.add(newChild);
+	}
+	
+	public void addDescriptiveHeader(Element headerElement){
+		descriptiveHeaders.add(headerElement);
+	}
+	
+	public void addDescriptiveText(Element textElement){
+		descriptiveText.add(textElement);
 	}
 	
 	/**

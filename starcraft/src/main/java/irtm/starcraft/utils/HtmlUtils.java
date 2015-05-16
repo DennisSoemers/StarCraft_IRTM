@@ -24,5 +24,17 @@ public class HtmlUtils {
 				tagName.equals("h6")
 				);
 	}
+	
+	/**
+	 * Returns true iff the given tag name is a list tag (ul, ol)
+	 * 
+	 * @param tagName
+	 * @return
+	 */
+	public static boolean isListTag(String tagName){
+		return (tagName.equals("ul") ||
+				tagName.equals("ol")
+				);
+	}
 
 }
