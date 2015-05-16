@@ -1,5 +1,7 @@
 package irtm.starcraft.game;
 
+import java.util.HashMap;
+
 import edu.stanford.nlp.util.ArrayUtils;
 
 /**
@@ -9,24 +11,6 @@ import edu.stanford.nlp.util.ArrayUtils;
  * @author Dennis Soemers
  */
 public class StarcraftKnowledgeBase {
-	
-	public static boolean isRace(String word){
-		return ArrayUtils.contains(RACE_NAMES, word.trim().toLowerCase());
-	}
-	
-	public static boolean isBuilding(String word){
-		word = word.trim().toLowerCase();
-		return (ArrayUtils.contains(PROTOSS_BUILDING_NAMES, word) 	||
-				ArrayUtils.contains(TERRAN_BUILDING_NAMES, word) 	||
-				ArrayUtils.contains(ZERG_BUILDING_NAMES, word) 			);
-	}
-	
-	public static boolean isUnit(String word){
-		word = word.trim().toLowerCase();
-		return (ArrayUtils.contains(PROTOSS_UNIT_NAMES, word) 	||
-				ArrayUtils.contains(TERRAN_UNIT_NAMES, word) 	||
-				ArrayUtils.contains(ZERG_UNIT_NAMES, word) 			);
-	}
 	
 	final static String[] RACE_NAMES = {
 		"protoss",
@@ -148,5 +132,104 @@ public class StarcraftKnowledgeBase {
 		"guardian",
 		"devourer"
 	};
+	
+	public static boolean isRace(String string){
+		return ArrayUtils.contains(RACE_NAMES, string.trim().toLowerCase());
+	}
+	
+	public static boolean isBuilding(String string){
+		string = string.trim().toLowerCase();
+		return (ArrayUtils.contains(PROTOSS_BUILDING_NAMES, string) ||
+				ArrayUtils.contains(TERRAN_BUILDING_NAMES, string) 	||
+				ArrayUtils.contains(ZERG_BUILDING_NAMES, string) 		);
+	}
+	
+	public static boolean isStarcraftTerm(String string){
+		return starcraftDictionary.containsKey(string);
+	}
+	
+	public static boolean isUnit(String string){
+		string = string.trim().toLowerCase();
+		return (ArrayUtils.contains(PROTOSS_UNIT_NAMES, string) ||
+				ArrayUtils.contains(TERRAN_UNIT_NAMES, string) 	||
+				ArrayUtils.contains(ZERG_UNIT_NAMES, string) 		);
+	}
+	
+	public static boolean isUnitOrBuilding(String string){
+		return (isBuilding(string) || isUnit(string));
+	}
+	
+	/* 
+	 * Hardcoded dictionary mapping from all kinds of words (and abbreviations) commonly used in wiki
+	 * to one of the names used in one of the hardcoded arrays below.
+	 */
+	static HashMap<String, String> starcraftDictionary;
+	
+	// initialize the hardcoded dictionary
+	static{
+		starcraftDictionary = new HashMap<String, String>();
 
+		// start with the exact copies of the terms used in hardcoded arrays
+		for(String s : RACE_NAMES){
+			starcraftDictionary.put(s, s);
+		}
+		
+		for(String s : PROTOSS_BUILDING_NAMES){
+			starcraftDictionary.put(s, s);
+		}
+		
+		for(String s : PROTOSS_UNIT_NAMES){
+			starcraftDictionary.put(s, s);
+		}
+		
+		for(String s : TERRAN_BUILDING_NAMES){
+			starcraftDictionary.put(s, s);
+		}
+		
+		for(String s : TERRAN_UNIT_NAMES){
+			starcraftDictionary.put(s, s);
+		}
+		
+		for(String s : ZERG_BUILDING_NAMES){
+			starcraftDictionary.put(s, s);
+		}
+		
+		for(String s : ZERG_UNIT_NAMES){
+			starcraftDictionary.put(s, s);
+		}
+		
+		// now some hardcoded abbreviations / other terms known to be commonly used in the wiki
+		// partially taken from http://starcraft.wikia.com/wiki/List_of_StarCraft_terminology
+		// partially created manually by reading lots of wiki pages
+		starcraftDictionary.put("arb", "arbiter");
+		starcraftDictionary.put("arc", "archon");
+		starcraftDictionary.put("bay", "engineering bay");
+		starcraftDictionary.put("bc", "battlecruiser");
+		starcraftDictionary.put("cc", "command center");
+		starcraftDictionary.put("ceptor", "interceptor");
+		starcraftDictionary.put("da", "dark archon");
+		starcraftDictionary.put("dt", "dark templar");
+		starcraftDictionary.put("ebay", "engineering bay");
+		starcraftDictionary.put("e-bay", "engineering bay");
+		starcraftDictionary.put("fact", "factory");
+		starcraftDictionary.put("fbat", "firebat");
+		starcraftDictionary.put("gate", "gateway");
+		starcraftDictionary.put("goon", "dragoon");
+		starcraftDictionary.put("hatch", "hatchery");
+		starcraftDictionary.put("high temp", "high templar");
+		starcraftDictionary.put("ht", "high templar");
+		starcraftDictionary.put("temp", "high templar");
+		starcraftDictionary.put("hydra", "hydralisk");
+		starcraftDictionary.put("ling", "zergling");
+		starcraftDictionary.put("muta", "mutalisk");
+		starcraftDictionary.put("obs", "observer");
+		starcraftDictionary.put("rax", "barracks");
+		starcraftDictionary.put("rine", "marine");
+		starcraftDictionary.put("sair", "corsair");
+		starcraftDictionary.put("depot", "supply depot");
+		starcraftDictionary.put("ultra", "ultralisk");
+		starcraftDictionary.put("robo", "robotics facility");
+		starcraftDictionary.put("cannon", "photon cannon");
+		starcraftDictionary.put("tank", "siege tank");
+	}
 }

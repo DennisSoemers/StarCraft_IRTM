@@ -16,7 +16,7 @@ public class Launch {
 	
 	public static void main(String[] args) throws IOException{
 		StarcraftTextMiner textMiner = new StarcraftTextMiner();
-		StarcraftStrategy strategy = textMiner.processFile(new File("corpus/TerranVsZerg/1 Rax FE (vs. Zerg).txt"));
+		StarcraftStrategy strategy = textMiner.processFile(new File("corpus/TerranVsZerg/2 Rax FE (vs. Zerg).txt"));
 	}
 
 }
