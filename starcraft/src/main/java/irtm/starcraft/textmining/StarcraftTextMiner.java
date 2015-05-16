@@ -3,13 +3,14 @@ package irtm.starcraft.textmining;
 import irtm.starcraft.game.StarcraftStrategy;
 import irtm.starcraft.utils.HtmlUtils;
 import irtm.starcraft.utils.WikiPageNode;
+import irtm.starcraft.utils.WikiPageNode.ListTypes;
 import irtm.starcraft.utils.WikiPageNode.NodeTypes;
 import irtm.starcraft.utils.WikiPageTree;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
 import java.util.Properties;
 
 import org.jsoup.Jsoup;
@@ -17,13 +18,8 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
-import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
-import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
-import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
-import edu.stanford.nlp.util.CoreMap;
 
 /**
  * Class that performs the required text mining (and information retrieval) to
@@ -41,6 +37,17 @@ public class StarcraftTextMiner{
 	private boolean footerFound;
 	private boolean leftColumnFound;
 	private boolean tableOfContentsFound;
+	
+	// some important terms that we need to compare to often
+	private final String TERM_MAP = "map";
+	private final String TERM_STRONG = "strong";
+	private final String TERM_WEAK = "weak";
+	private final String TERM_COUNTER = "counter";
+	private final String TERM_COUNTERED = "countered";
+	private final String TERM_SOFT = "soft";
+	private final String TERM_HARD = "hard";
+	private final String TERM_BY = "by";
+	private final String TERM_TO = "to";
 	
 	public StarcraftTextMiner(){
 	}
@@ -72,27 +79,29 @@ public class StarcraftTextMiner{
 		}
 		
 		WikiPageTree documentTree = new WikiPageTree(relevantElements);
-		documentTree.printTree();
+		//documentTree.printTree();
 		
-		// work some Stanford NLP magic
+		// work some Stanford NLP magic to annotate the text of all leaf nodes
 	    Properties props = new Properties();
-	    props.setProperty("annotators", "tokenize, ssplit, pos, lemma, ner");
+	    props.setProperty("annotators", "tokenize, ssplit"/*, pos, lemma, ner"*/);
 	    StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 	    
 	    ArrayList<WikiPageNode> leafNodes = documentTree.collectLeafNodes();
+	    HashMap<WikiPageNode, Annotation> leafNodeAnnotations = new HashMap<WikiPageNode, Annotation>();
 	    for(WikiPageNode leaf : leafNodes){
 	    	// run stanford NLP pipeline on every leaf node's text
 	    	Element htmlElement = leaf.getElement();
+	    	NodeTypes nodeType = leaf.getNodeType();
 	    	String text = "";
 	    	
-	    	if(leaf.getNodeType() == NodeTypes.Text){	// can simply directly take the text
+	    	if(nodeType == NodeTypes.Text){	// can simply directly take the text
 	    		text = htmlElement.text();
 	    	}
-	    	else if(leaf.getNodeType() == NodeTypes.List){	// construct a proper list String consisting of multiple lines
+	    	else if(nodeType == NodeTypes.List){	// construct a proper list String consisting of multiple lines
 	    		Elements listElements = htmlElement.children();
 	    		
 	    		for(Element listElement : listElements){
-	    			text += listElement.text() + "\n";
+	    			text += listElement.text() + ".\n";		// adding the '.' allows stanford NLP parser to recognize every element as a sentence
 	    		}
 	    	}
 	    	
@@ -102,9 +111,85 @@ public class StarcraftTextMiner{
 		    // run all Annotators on this text
 		    pipeline.annotate(document);
 		    
+		    // store the annotations
+		    leafNodeAnnotations.put(leaf, document);
+		    
+		    // in the case of leaf nodes, use some simple rules to try to classify the list
+		    if(nodeType == NodeTypes.List){
+		    	boolean foundTermMap = false;
+		    	boolean foundTermStrong = false;
+		    	boolean foundTermWeak = false;
+		    	boolean foundTermCounter = false;
+		    	boolean foundTermCountered = false;
+		    	boolean foundTermSoft = false;
+		    	boolean foundTermHard = false;
+		    	boolean foundTermBy = false;
+		    	boolean foundTermTo = false;
+		    	
+		    	ArrayList<Element> descriptiveHeaders = leaf.getDescriptiveHeaders();
+		    	
+		    	for(Element header : descriptiveHeaders){
+		    		String headerText = header.text().trim().toLowerCase();
+		    		
+		    		foundTermMap = foundTermMap || headerText.contains(TERM_MAP);
+		    		foundTermStrong = foundTermStrong || headerText.contains(TERM_STRONG);
+		    		foundTermWeak = foundTermWeak || headerText.contains(TERM_WEAK);
+		    		foundTermCounter = foundTermCounter || headerText.contains(TERM_COUNTER);
+		    		foundTermCountered = foundTermCountered || headerText.contains(TERM_COUNTERED);
+		    		foundTermSoft = foundTermSoft || headerText.contains(TERM_SOFT);
+		    		foundTermHard = foundTermHard || headerText.contains(TERM_HARD);
+		    		foundTermBy = foundTermBy || headerText.contains(TERM_BY);
+		    		foundTermTo = foundTermTo || headerText.contains(TERM_TO);
+		    	}
+		    	
+		    	if(foundTermMap){
+		    		if(foundTermStrong){
+		    			System.out.println("Classifying STRONG MAPS list: [" + htmlElement.text() + "]");
+		    			leaf.setListType(ListTypes.StrongMaps);
+		    		}
+		    		else if(foundTermWeak){
+		    			System.out.println("Classifying WEAK MAPS list: [" + htmlElement.text() + "]");
+		    			leaf.setListType(ListTypes.WeakMaps);
+		    		}
+		    		else{
+		    			System.err.println("DONT KNOW HOW TO CLASSIFY MAPS list: [" + htmlElement.text() + "]");
+		    		}
+		    	}
+		    	else if(foundTermCountered && foundTermBy){
+		    		if(foundTermSoft){
+		    			System.out.println("Classifying COUNTERED BY SOFT list: [" + htmlElement.text() + "]");
+		    			leaf.setListType(ListTypes.CounteredBySoft);
+		    		}
+		    		else if(foundTermHard){
+		    			System.out.println("Classifying COUNTERED BY HARD list: [" + htmlElement.text() + "]");
+		    			leaf.setListType(ListTypes.CounteredByHard);
+		    		}
+		    		else{
+		    			System.err.println("DONT KNOW HOW TO CLASSIFY COUNTERED BY list: [" + htmlElement.text() + "]");
+		    		}
+		    	}
+		    	else if(foundTermCounter && foundTermTo){
+		    		if(foundTermSoft){
+		    			System.out.println("Classifying COUNTER TO SOFT list: [" + htmlElement.text() + "]");
+		    			leaf.setListType(ListTypes.CounterToSoft);
+		    		}
+		    		else if(foundTermHard){
+		    			System.out.println("Classifying COUNTER TO HARD list: [" + htmlElement.text() + "]");
+		    			leaf.setListType(ListTypes.CounterToHard);
+		    		}
+		    		else{
+		    			System.err.println("DONT KNOW HOW TO CLASSIFY COUNTER TO list: [" + htmlElement.text() + "]");
+		    		}
+		    	}
+		    	else{
+		    		System.out.println("Classifying BUILD ORDER list: [" + htmlElement.text() + "]");
+		    		leaf.setListType(ListTypes.BuildOrder);
+		    	}
+		    }
+		    
 		    // these are all the sentences in this document
 		    // a CoreMap is essentially a Map that uses class objects as keys and has values with custom types
-		    List<CoreMap> sentences = document.get(SentencesAnnotation.class);
+		    /*List<CoreMap> sentences = document.get(SentencesAnnotation.class);
 		    List<CoreLabel> tokens = new ArrayList<CoreLabel>();
 		    
 		    for(CoreMap sentence : sentences){
@@ -117,11 +202,11 @@ public class StarcraftTextMiner{
 		    	for (CoreLabel token : sentence.get(TokensAnnotation.class)) {
 		    		// this is the text of the token
 		    		String word = token.get(TextAnnotation.class);
-		    		//System.out.print(word + " ");
+		    		System.out.print(word + " ");
 		    	}
 		    	
-		    	//System.out.println();
-		    }
+		    	System.out.println();
+		    }*/
 	    }
 		
 		return null;
@@ -203,10 +288,9 @@ public class StarcraftTextMiner{
 		String tagName = element.tagName();
 		
 		return (
-				HtmlUtils.isHeaderTag(tagName) ||
-				tagName.equals("p") ||
-				tagName.equals("ul") ||
-				tagName.equals("ol")
+				HtmlUtils.isHeaderTag(tagName)	||
+				HtmlUtils.isListTag(tagName)	||
+				tagName.equals("p")
 				);
 	}
 }
