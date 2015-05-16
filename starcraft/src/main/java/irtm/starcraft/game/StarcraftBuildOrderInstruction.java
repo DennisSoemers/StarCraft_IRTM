@@ -1,5 +1,7 @@
 package irtm.starcraft.game;
 
+import java.util.ArrayList;
+
 /**
  * Class representing a single instruction in a build order for StarCraft
  *
@@ -8,12 +10,35 @@ package irtm.starcraft.game;
 public class StarcraftBuildOrderInstruction {
 	
 	/**
-	 * Different types of preconditions that a single instruction can have
+	 * Types of instructions that can be recognized in build order lists
 	 *
 	 * @author Dennis Soemers
 	 */
-	public enum PreconditionTypes{
-		SUPPLY
+	public enum InstructionTypes{
+		BUILDING,
+		UNIT
+	}
+	
+	private InstructionTypes type;
+	private String instructionText;
+	private ArrayList<StarcraftPrecondition> preconditions;
+	
+	public StarcraftBuildOrderInstruction(InstructionTypes type, String instructionText, ArrayList<StarcraftPrecondition> preconditions){
+		this.type = type;
+		this.instructionText = instructionText;
+		this.preconditions = preconditions;
+	}
+	
+	public String getInstructionText(){
+		return instructionText;
+	}
+	
+	public ArrayList<StarcraftPrecondition> getPreconditions(){
+		return preconditions;
+	}
+	
+	public InstructionTypes getType(){
+		return type;
 	}
 
 }

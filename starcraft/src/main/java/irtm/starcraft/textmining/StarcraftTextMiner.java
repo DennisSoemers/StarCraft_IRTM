@@ -1,5 +1,6 @@
 package irtm.starcraft.textmining;
 
+import irtm.starcraft.game.StarcraftBuildOrder;
 import irtm.starcraft.game.StarcraftStrategy;
 import irtm.starcraft.utils.HtmlUtils;
 import irtm.starcraft.utils.WikiPageNode;
@@ -81,7 +82,7 @@ public class StarcraftTextMiner{
 		WikiPageTree documentTree = new WikiPageTree(relevantElements);
 		//documentTree.printTree();
 		
-		// work some Stanford NLP magic to annotate the text of all leaf nodes
+		// initialize Stanford NLP pipeline
 	    Properties props = new Properties();
 	    props.setProperty("annotators", "tokenize, ssplit"/*, pos, lemma, ner"*/);
 	    StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
@@ -184,6 +185,10 @@ public class StarcraftTextMiner{
 		    	else{
 		    		System.out.println("Classifying BUILD ORDER list: [" + htmlElement.text() + "]");
 		    		leaf.setListType(ListTypes.BuildOrder);
+		    	}
+		    	
+		    	if(leaf.getListType() == ListTypes.BuildOrder){		// we have a Build Order list, so create a build order
+		    		StarcraftBuildOrder buildOrder = new StarcraftBuildOrder(leaf, leafNodeAnnotations.get(leaf));
 		    	}
 		    }
 		    

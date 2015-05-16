@@ -133,12 +133,34 @@ public class StarcraftKnowledgeBase {
 		"devourer"
 	};
 	
+	/**
+	 * Returns the base version of the given string, if it is a Starcraft term.
+	 * Can be used to convert for example abbreviations into the full name of a unit
+	 * 
+	 * @param string
+	 * @return
+	 */
+	public static String getBaseTerm(String string){
+		return starcraftDictionary.get(string.trim().toLowerCase());
+	}
+	
 	public static boolean isRace(String string){
-		return ArrayUtils.contains(RACE_NAMES, string.trim().toLowerCase());
+		string = starcraftDictionary.get(string.trim().toLowerCase());
+		
+		if(string == null){
+			return false;
+		}
+		
+		return ArrayUtils.contains(RACE_NAMES, string);
 	}
 	
 	public static boolean isBuilding(String string){
-		string = string.trim().toLowerCase();
+		string = starcraftDictionary.get(string.trim().toLowerCase());
+		
+		if(string == null){
+			return false;
+		}
+		
 		return (ArrayUtils.contains(PROTOSS_BUILDING_NAMES, string) ||
 				ArrayUtils.contains(TERRAN_BUILDING_NAMES, string) 	||
 				ArrayUtils.contains(ZERG_BUILDING_NAMES, string) 		);
@@ -149,7 +171,12 @@ public class StarcraftKnowledgeBase {
 	}
 	
 	public static boolean isUnit(String string){
-		string = string.trim().toLowerCase();
+		string = starcraftDictionary.get(string.trim().toLowerCase());
+		
+		if(string == null){
+			return false;
+		}
+		
 		return (ArrayUtils.contains(PROTOSS_UNIT_NAMES, string) ||
 				ArrayUtils.contains(TERRAN_UNIT_NAMES, string) 	||
 				ArrayUtils.contains(ZERG_UNIT_NAMES, string) 		);
