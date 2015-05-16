@@ -71,6 +71,15 @@ public class WikiPageTree {
 	}
 	
 	/**
+	 * Returns this tree's root node
+	 * 
+	 * @return
+	 */
+	public WikiPageNode getRoot(){
+		return rootNode;
+	}
+	
+	/**
 	 * Prints a description of the tree to System.out
 	 */
 	public void printTree(){

@@ -80,6 +80,7 @@ public class StarcraftTextMiner{
 		}
 		
 		WikiPageTree documentTree = new WikiPageTree(relevantElements);
+		StarcraftStrategy strategy = new StarcraftStrategy(documentTree.getRoot().getElement().text());
 		//documentTree.printTree();
 		
 		// initialize Stanford NLP pipeline
@@ -187,8 +188,36 @@ public class StarcraftTextMiner{
 		    		leaf.setListType(ListTypes.BuildOrder);
 		    	}
 		    	
-		    	if(leaf.getListType() == ListTypes.BuildOrder){		// we have a Build Order list, so create a build order
-		    		StarcraftBuildOrder buildOrder = new StarcraftBuildOrder(leaf, leafNodeAnnotations.get(leaf));
+		    	// add info from the leaf lists into the strategy according to list type
+		    	ListTypes leafListType = leaf.getListType();
+		    	if(leafListType == ListTypes.BuildOrder){
+		    		strategy.addBuildOrder(new StarcraftBuildOrder(leaf, leafNodeAnnotations.get(leaf)));
+		    	}
+		    	// TODO will need more NLP here to extract only names of maps/strategies
+		    	else{
+		    		for(Element listElement : leaf.getElement().children()){
+		    			String listElementText = listElement.text();
+		    			
+		    			if(leafListType == ListTypes.CounteredByHard)
+		    			{
+		    				strategy.addCounteredByHard(listElementText);
+		    			}
+		    			else if(leafListType == ListTypes.CounteredBySoft){
+		    				strategy.addCounteredBySoft(listElementText);
+		    			}
+		    			else if(leafListType == ListTypes.CounterToHard){
+		    				strategy.addCounterToHard(listElementText);
+		    			}
+		    			else if(leafListType == ListTypes.CounterToSoft){
+		    				strategy.addCounterToSoft(listElementText);
+		    			}
+		    			else if(leafListType == ListTypes.StrongMaps){
+		    				strategy.addStrongMap(listElementText);
+		    			}
+		    			else if(leafListType == ListTypes.WeakMaps){
+		    				strategy.addWeakMap(listElementText);
+		    			}
+		    		}
 		    	}
 		    }
 		    
@@ -214,7 +243,7 @@ public class StarcraftTextMiner{
 		    }*/
 	    }
 		
-		return null;
+		return strategy;
 	}
 	
 	/**
