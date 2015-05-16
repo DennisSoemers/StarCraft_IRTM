@@ -1,6 +1,16 @@
 package irtm.starcraft.game;
 
+import irtm.starcraft.game.StarcraftBuildOrderInstruction.InstructionTypes;
+import irtm.starcraft.game.StarcraftPrecondition.PreconditionTypes;
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.util.ArrayList;
+
+import nu.xom.Document;
+import nu.xom.Element;
+import nu.xom.Serializer;
 
 /**
  * Class for a single StarCraft Strategy which is obtained by reading
@@ -50,6 +60,154 @@ public class StarcraftStrategy {
 	
 	public void addStrongMap(String mapName){
 		strongMaps.add(mapName);
+	}
+	
+	/**
+	 * Serializes the strategy into XML
+	 * @param file
+	 * @throws IOException
+	 */
+	public void serialize(File file) throws IOException{
+		if(!file.exists()){
+			file.createNewFile();
+		}
+		
+		// need to pre-process strategy name since many strategy names are illegal in XML
+		String strategyNameLegal = "strategy " + strategyName;
+		strategyNameLegal = legalizeString(strategyNameLegal);
+		
+		Element root = new Element(strategyNameLegal);
+		
+		// create build order elements
+		for(StarcraftBuildOrder buildOrder : buildOrders){
+			Element buildOrderElement = new Element("build_order");
+			
+			ArrayList<StarcraftBuildOrderInstruction> instructions = buildOrder.getInstructions();
+			// create instruction (= building or unit) elements
+			for(StarcraftBuildOrderInstruction instruction : instructions){
+				Element instructionElement;
+				
+				if(instruction.getType() == InstructionTypes.BUILDING){
+					instructionElement = new Element("building");
+				}
+				else if(instruction.getType() == InstructionTypes.UNIT){
+					instructionElement = new Element("unit");
+				}
+				else{
+					System.err.println("StarcraftStrategy::serialize(): unknown instruction type!");
+					continue;
+				}
+				
+				// create precondition elements
+				for(StarcraftPrecondition precondition : instruction.getPreconditions()){
+					Element preconditionElement;
+					
+					if(precondition.getType() == PreconditionTypes.SUPPLY){
+						preconditionElement = new Element("supply");
+					}
+					else if(precondition.getType() == PreconditionTypes.MINERALS){
+						preconditionElement = new Element("minerals");
+					}
+					else if(precondition.getType() == PreconditionTypes.GAS){
+						preconditionElement = new Element("gas");
+					}
+					else{
+						System.err.println("StarcraftStrategy::serialize(): unknown precondition type");
+						continue;
+					}
+					
+					preconditionElement.appendChild(new Element("_" + precondition.getValue()));
+					
+					instructionElement.appendChild(preconditionElement);
+				}
+				
+				// create the element containing building or unit type
+				Element typeElement = new Element("type");
+				typeElement.appendChild(new Element(legalizeString(instruction.getInstructionText())));
+				instructionElement.appendChild(typeElement);
+				
+				buildOrderElement.appendChild(instructionElement);
+			}
+			
+			root.appendChild(buildOrderElement);
+		}
+		
+		// create countered by element
+		Element counteredByElement = new Element("countered_by");
+
+		for(String softCounter : counteredBySoft){
+			Element counterElement = new Element("soft");
+			counterElement.appendChild(new Element(legalizeString(softCounter)));
+			counteredByElement.appendChild(counterElement);
+		}
+		
+		for(String hardCounter : counteredByHard){
+			Element counterElement = new Element("hard");
+			counterElement.appendChild(new Element(legalizeString(hardCounter)));
+			counteredByElement.appendChild(counterElement);
+		}
+		
+		root.appendChild(counteredByElement);
+		
+		// create counter to element
+		Element counterToElement = new Element("counter_to");
+
+		for(String softCounter : counterToSoft){
+			Element counterElement = new Element("soft");
+			counterElement.appendChild(new Element(legalizeString(softCounter)));
+			counterToElement.appendChild(counterElement);
+		}
+		
+		for(String hardCounter : counterToHard){
+			Element counterElement = new Element("hard");
+			counterElement.appendChild(new Element(legalizeString(hardCounter)));
+			counterToElement.appendChild(counterElement);
+		}
+		
+		root.appendChild(counterToElement);
+		
+		// create maps element
+		Element mapsElement = new Element("maps");
+		
+		for(String strongMap : strongMaps){
+			Element mapElement = new Element("strong");
+			mapElement.appendChild(new Element(legalizeString(strongMap)));
+			mapsElement.appendChild(mapElement);
+		}
+		
+		for(String weakMap : weakMaps){
+			Element mapElement = new Element("weak");
+			mapElement.appendChild(new Element(legalizeString(weakMap)));
+			mapsElement.appendChild(mapElement);
+		}
+		
+		root.appendChild(mapsElement);
+		
+		Document doc = new Document(root);
+		Serializer serializer = new Serializer(new FileOutputStream(file), "UTF-8");
+		serializer.setIndent(4);
+		serializer.setMaxLength(80);
+		serializer.write(doc);
+	}
+
+	/**
+	 * Returns a copy of the given string that is legal to use as name for XML elements
+	 * 
+	 * @param s
+	 * @return
+	 */
+	private String legalizeString(String s){
+		s = s.replaceAll("\\p{P}", " ").replaceAll(" ", "_");
+		
+		try{
+			Integer.parseInt(s.substring(0, 1));
+			
+			// if we didn't catch any exceptions, means the string starts with a number, so add an underscore
+			s = "_" + s;
+		}
+		catch(NumberFormatException exception){}
+		
+		return s;
 	}
 
 }

@@ -99,6 +99,10 @@ public class StarcraftBuildOrder {
 	    }
 	}
 	
+	public ArrayList<StarcraftBuildOrderInstruction> getInstructions(){
+		return instructions;
+	}
+	
 	private void printPreconditionError(String tokenText){
 		System.err.println("StarcraftBuildOrder::Ctor: Don't know how to deal with token: ''" + tokenText + "''");
 	}

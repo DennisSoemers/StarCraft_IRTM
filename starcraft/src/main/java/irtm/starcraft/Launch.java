@@ -15,8 +15,11 @@ import java.io.IOException;
 public class Launch {
 	
 	public static void main(String[] args) throws IOException{
+		String filepath = "TerranVsZerg/2 Rax FE (vs. Zerg)";
+		
 		StarcraftTextMiner textMiner = new StarcraftTextMiner();
-		StarcraftStrategy strategy = textMiner.processFile(new File("corpus/TerranVsZerg/2 Rax FE (vs. Zerg).txt"));
+		StarcraftStrategy strategy = textMiner.processFile(new File("corpus/" + filepath + ".txt"));
+		strategy.serialize(new File("extractedStrategies/" + filepath + ".xml"));
 	}
 
 }
