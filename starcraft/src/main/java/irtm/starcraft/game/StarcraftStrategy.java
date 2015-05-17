@@ -116,14 +116,14 @@ public class StarcraftStrategy {
 						continue;
 					}
 					
-					preconditionElement.appendChild(new Element("_" + precondition.getValue()));
+					preconditionElement.appendChild("" + precondition.getValue());
 					
 					instructionElement.appendChild(preconditionElement);
 				}
 				
 				// create the element containing building or unit type
 				Element typeElement = new Element("type");
-				typeElement.appendChild(new Element(legalizeString(instruction.getInstructionText())));
+				typeElement.appendChild(instruction.getInstructionText());
 				instructionElement.appendChild(typeElement);
 				
 				buildOrderElement.appendChild(instructionElement);
@@ -137,13 +137,13 @@ public class StarcraftStrategy {
 
 		for(String softCounter : counteredBySoft){
 			Element counterElement = new Element("soft");
-			counterElement.appendChild(new Element(legalizeString(softCounter)));
+			counterElement.appendChild(softCounter);
 			counteredByElement.appendChild(counterElement);
 		}
 		
 		for(String hardCounter : counteredByHard){
 			Element counterElement = new Element("hard");
-			counterElement.appendChild(new Element(legalizeString(hardCounter)));
+			counterElement.appendChild(hardCounter);
 			counteredByElement.appendChild(counterElement);
 		}
 		
@@ -154,13 +154,13 @@ public class StarcraftStrategy {
 
 		for(String softCounter : counterToSoft){
 			Element counterElement = new Element("soft");
-			counterElement.appendChild(new Element(legalizeString(softCounter)));
+			counterElement.appendChild(softCounter);
 			counterToElement.appendChild(counterElement);
 		}
 		
 		for(String hardCounter : counterToHard){
 			Element counterElement = new Element("hard");
-			counterElement.appendChild(new Element(legalizeString(hardCounter)));
+			counterElement.appendChild(hardCounter);
 			counterToElement.appendChild(counterElement);
 		}
 		
@@ -171,13 +171,13 @@ public class StarcraftStrategy {
 		
 		for(String strongMap : strongMaps){
 			Element mapElement = new Element("strong");
-			mapElement.appendChild(new Element(legalizeString(strongMap)));
+			mapElement.appendChild(strongMap);
 			mapsElement.appendChild(mapElement);
 		}
 		
 		for(String weakMap : weakMaps){
 			Element mapElement = new Element("weak");
-			mapElement.appendChild(new Element(legalizeString(weakMap)));
+			mapElement.appendChild(weakMap);
 			mapsElement.appendChild(mapElement);
 		}
 		
