@@ -1,6 +1,7 @@
 package irtm.starcraft.textmining;
 
 import irtm.starcraft.game.StarcraftBuildOrder;
+import irtm.starcraft.game.StarcraftKnowledgeBase;
 import irtm.starcraft.game.StarcraftStrategy;
 import irtm.starcraft.utils.HtmlUtils;
 import irtm.starcraft.utils.WikiPageNode;
@@ -12,6 +13,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Properties;
 
 import org.jsoup.Jsoup;
@@ -19,8 +21,13 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
+import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
+import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
+import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
+import edu.stanford.nlp.util.CoreMap;
 
 /**
  * Class that performs the required text mining (and information retrieval) to
@@ -117,7 +124,7 @@ public class StarcraftTextMiner{
 		    leafNodeAnnotations.put(leaf, document);
 		    
 		    // in the case of leaf nodes, use some simple rules to try to classify the list
-		    if(nodeType == NodeTypes.List){
+		    if(nodeType == NodeTypes.List || nodeType == NodeTypes.Text){
 		    	boolean foundTermMap = false;
 		    	boolean foundTermStrong = false;
 		    	boolean foundTermWeak = false;
@@ -142,6 +149,16 @@ public class StarcraftTextMiner{
 		    		foundTermHard = foundTermHard || headerText.contains(TERM_HARD);
 		    		foundTermBy = foundTermBy || headerText.contains(TERM_BY);
 		    		foundTermTo = foundTermTo || headerText.contains(TERM_TO);
+		    	}
+		    	
+		    	// for text nodes, we currently only look for strong/weak maps and nothing else
+		    	if(nodeType == NodeTypes.Text){
+		    		foundTermCounter = false;
+			    	foundTermCountered = false;
+			    	foundTermSoft = false;
+			    	foundTermHard = false;
+			    	foundTermBy = false;
+			    	foundTermTo = false;
 		    	}
 		    	
 		    	if(foundTermMap){
@@ -183,7 +200,7 @@ public class StarcraftTextMiner{
 		    			System.err.println("DONT KNOW HOW TO CLASSIFY COUNTER TO list: [" + htmlElement.text() + "]");
 		    		}
 		    	}
-		    	else{
+		    	else if(nodeType == NodeTypes.List){	// currently only HTML lists can be build orders
 		    		System.out.println("Classifying BUILD ORDER list: [" + htmlElement.text() + "]");
 		    		leaf.setListType(ListTypes.BuildOrder);
 		    	}
@@ -193,10 +210,19 @@ public class StarcraftTextMiner{
 		    	if(leafListType == ListTypes.BuildOrder){
 		    		strategy.addBuildOrder(new StarcraftBuildOrder(leaf, leafNodeAnnotations.get(leaf)));
 		    	}
-		    	// TODO will need more NLP here to extract only names of maps/strategies
 		    	else{
-		    		for(Element listElement : leaf.getElement().children()){
-		    			String listElementText = listElement.text();
+		    		ArrayList<Element> elements = new ArrayList<Element>();
+		    		if(nodeType == NodeTypes.List){
+		    			for(Element listElement : leaf.getElement().children()){
+		    				elements.add(listElement);
+		    			}
+		    		}
+		    		else if(nodeType == NodeTypes.Text){
+		    			elements.add(leaf.getElement());
+		    		}
+		    		
+		    		for(Element element : elements){
+		    			String listElementText = element.text();
 		    			
 		    			if(leafListType == ListTypes.CounteredByHard)
 		    			{
@@ -212,10 +238,20 @@ public class StarcraftTextMiner{
 		    				strategy.addCounterToSoft(listElementText);
 		    			}
 		    			else if(leafListType == ListTypes.StrongMaps){
-		    				strategy.addStrongMap(listElementText);
+		    				//System.out.println("STRONG MAPS");
+		    				ArrayList<String> strongMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
+		    				
+		    				for(String mapName : strongMapNames){
+		    					strategy.addStrongMap(mapName);
+		    				}
 		    			}
 		    			else if(leafListType == ListTypes.WeakMaps){
-		    				strategy.addWeakMap(listElementText);
+		    				//System.out.println("WEAK MAPS");
+		    				ArrayList<String> weakMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
+		    				
+		    				for(String mapName : weakMapNames){
+		    					strategy.addWeakMap(mapName);
+		    				}
 		    			}
 		    		}
 		    	}
@@ -310,6 +346,57 @@ public class StarcraftTextMiner{
 		for(Element child : element.children()){
 			collectRelevantElements(child, collection);
 		}
+	}
+	
+	/**
+	 * Extracts all map names that can be matched to known maps in the knowledge base
+	 * from the given text.
+	 * 
+	 * @param text
+	 * @param annotation
+	 * @return
+	 */
+	public ArrayList<String> extractMapNames(String text, Annotation annotation){
+		ArrayList<String> mapNames = new ArrayList<String>();
+		List<CoreMap> sentences = annotation.get(SentencesAnnotation.class);
+		
+		for(CoreMap sentence : sentences) {
+			//System.out.println("NEW SENTENCE");
+	    	List<CoreLabel> tokens = sentence.get(TokensAnnotation.class);
+	    	
+	    	for(int i = 0; i < tokens.size(); ++i){
+	    		//System.out.println("TOKEN: " + tokens.get(i).get(TextAnnotation.class));
+	    		
+	    		// construct 1-gram, 2-gram, ... up to 5-gram
+	    		String[] nGrams = new String[5];
+	    		int numExtraTokens = 0;
+	    		String nGram = "";
+	    		
+	    		while(i + numExtraTokens < tokens.size()){
+	    			nGram += tokens.get(i + numExtraTokens).get(TextAnnotation.class) + " ";
+	    			nGrams[numExtraTokens] = nGram;
+	    			++numExtraTokens;
+	    			
+	    			if(numExtraTokens == 5){	// don't want more than 5 tokens
+	    				break;
+	    			}
+	    		}
+	    		
+	    		for(int n = 0; n < numExtraTokens - 1; ++n){
+	    			// try the n-gram
+	    			if(StarcraftKnowledgeBase.isMapName(nGrams[n])){
+	    				mapNames.add(nGrams[n]);
+	    				//System.out.println("SUCCESFUL " + (n + 1) + "-gram: " + nGrams[n]);
+	    				
+	    				// when succesful for n, we can immediately skip the next n tokens since they won't be part of another map name
+	    				i += n;
+	    				break;
+	    			}
+	    		}
+	    	}
+	    }
+		
+		return mapNames;
 	}
 	
 	/**
