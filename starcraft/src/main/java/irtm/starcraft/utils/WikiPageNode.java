@@ -23,11 +23,11 @@ public class WikiPageNode {
 	}
 	
 	/**
-	 * Enum of the different types of lists we expect to be able to find on wiki pages
+	 * Enum of the different types of content we expect to be able to find on wiki pages
 	 *
 	 * @author Dennis Soemers
 	 */
-	public enum ListTypes{
+	public enum ContentTypes{
 		Unknown,
 		BuildOrder,
 		CounteredBySoft,
@@ -43,33 +43,18 @@ public class WikiPageNode {
 	private Element element;
 	
 	private NodeTypes nodeType;
-	private ListTypes listType;
-	
-	/** Header elements that are above this node in the hierarchy and therefore describe this node */
-	private ArrayList<Element> descriptiveHeaders;
-	/** Text elements that add context to / describe this element in natural language */
-	private ArrayList<Element> descriptiveText;
+	private ContentTypes contentType;
 	
 	public WikiPageNode(WikiPageNode parentNode, NodeTypes nodeType, Element element){
 		this.parentNode = parentNode;
 		childNodes = new ArrayList<WikiPageNode>();
 		this.nodeType = nodeType;
 		this.element = element;
-		this.descriptiveHeaders = new ArrayList<Element>();
-		this.descriptiveText = new ArrayList<Element>();
-		this.listType = ListTypes.Unknown;
+		this.contentType = ContentTypes.Unknown;
 	}
 	
 	public void addChild(WikiPageNode newChild){
 		childNodes.add(newChild);
-	}
-	
-	public void addDescriptiveHeader(Element headerElement){
-		descriptiveHeaders.add(headerElement);
-	}
-	
-	public void addDescriptiveText(Element textElement){
-		descriptiveText.add(textElement);
 	}
 	
 	/**
@@ -82,20 +67,89 @@ public class WikiPageNode {
 	}
 	
 	/**
-	 * Returns the list of header elements that describe this node
+	 * Returns the node's content type
+	 * 
+	 * @return
+	 */
+	public ContentTypes getContentType(){
+		return contentType;
+	}
+	
+	/**
+	 * Returns a list of header elements that describe this node
 	 * 
 	 * @return
 	 */
 	public ArrayList<Element> getDescriptiveHeaders(){
+		ArrayList<Element> descriptiveHeaders = new ArrayList<Element>();
+		
+		// simply follow chain of parents up
+		WikiPageNode parent = parentNode;
+		while(parent != null){
+			if(parent.getNodeType() == NodeTypes.Header){
+				descriptiveHeaders.add(parent.getElement());
+			}
+			
+			parent = parent.parent();
+		}
+		
 		return descriptiveHeaders;
 	}
 	
 	/**
-	 * Returns the list of text elements that describe this node
+	 * Returns a list of text elements that describe this node
 	 * 
 	 * @return
 	 */
 	public ArrayList<Element> getDescriptiveText(){
+		ArrayList<Element> descriptiveText = new ArrayList<Element>();
+		
+		if(nodeType != NodeTypes.List){
+			System.err.println("Descriptive text undefined for nodes other than list nodes");
+		}
+		else if(parentNode != null){
+			boolean foundOtherList = false;
+			boolean foundSelf = false;
+			ArrayList<WikiPageNode> siblings = parentNode.children();
+			ArrayList<Element> tentativeDescriptiveText = new ArrayList<Element>();
+			
+			for(int i = 0; i < siblings.size(); ++i){
+				WikiPageNode sibling = siblings.get(i);
+				
+				if(sibling.getNodeType() == NodeTypes.Header){
+					// TODO gather all text under this header?
+				}
+				else if(sibling == this){
+					foundSelf = true;
+					foundOtherList = false;
+				}
+				else{
+					if(!foundOtherList){
+						foundOtherList = (sibling.getNodeType() == NodeTypes.List);
+						
+						if(foundOtherList && !foundSelf){
+							// found another list before finding this node, so remove all previous descriptive text again
+							descriptiveText.clear();
+							foundOtherList = false;
+						}
+					}
+					
+					if(sibling.getNodeType() == NodeTypes.Text){
+						if(!foundOtherList){
+							descriptiveText.add(sibling.getElement());
+						}
+						else{
+							tentativeDescriptiveText.add(sibling.getElement());
+						}
+					}
+				}
+			}
+			
+			if(!foundOtherList){	// found no list after this node, so add any text after this node
+				descriptiveText.addAll(tentativeDescriptiveText);
+			}
+		}		
+		
 		return descriptiveText;
 	}
 	
@@ -106,15 +160,6 @@ public class WikiPageNode {
 	 */
 	public Element getElement(){
 		return element;
-	}
-	
-	/**
-	 * Returns the node's list type
-	 * 
-	 * @return
-	 */
-	public ListTypes getListType(){
-		return listType;
 	}
 	
 	/**
@@ -136,12 +181,12 @@ public class WikiPageNode {
 	}
 	
 	/**
-	 * Sets the node's list type to the given new type
+	 * Sets the node's content type to the given new type
 	 * 
 	 * @param newType
 	 */
-	public void setListType(ListTypes newType){
-		listType = newType;
+	public void setContentType(ContentTypes newType){
+		contentType = newType;
 	}
 
 }

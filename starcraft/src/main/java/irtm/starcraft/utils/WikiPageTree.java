@@ -55,8 +55,6 @@ public class WikiPageTree {
 				currentHeaderNode.addChild(new WikiPageNode(currentHeaderNode, NodeTypes.Text, element));
 			}
 		}
-		
-		computeDescriptiveElements(rootNode, new ArrayList<Element>(), new ArrayList<Element>());
 	}
 	
 	/**
@@ -68,6 +66,29 @@ public class WikiPageTree {
 		ArrayList<WikiPageNode> leaves = new ArrayList<WikiPageNode>();
 		collectLeafNodes(rootNode, leaves);
 		return leaves;
+	}
+	
+	/**
+	 * Returns the depth of the given node. Returns -1 if the node is not in this tree.
+	 * 
+	 * @param node
+	 * @return
+	 */
+	public int getDepth(WikiPageNode node){
+		return getDepth(node, rootNode, 0);
+	}
+	
+	/**
+	 * Returns a list of all nodes at the given depth. It is assumed that the root
+	 * node is at depth = 0
+	 * 
+	 * @param depth
+	 * @return
+	 */
+	public ArrayList<WikiPageNode> getNodesAtDepth(int depth){
+		ArrayList<WikiPageNode> nodes = new ArrayList<WikiPageNode>();
+		getNodesAtDepth(depth, 0, rootNode, nodes);
+		return nodes;
 	}
 	
 	/**
@@ -111,7 +132,7 @@ public class WikiPageTree {
 	 * @param headers
 	 * @param text
 	 */
-	private void computeDescriptiveElements(WikiPageNode node, ArrayList<Element> headers, ArrayList<Element> text){
+	/*private void computeDescriptiveElements(WikiPageNode node, ArrayList<Element> headers, ArrayList<Element> text){
 		NodeTypes nodeType = node.getNodeType();
 		
 		if(nodeType != NodeTypes.Header){	// let headers provide context to non-header nodes
@@ -122,6 +143,7 @@ public class WikiPageTree {
 			if(nodeType == NodeTypes.List){		// also let text provide context to list nodes
 				for(Element textElement : text){
 					node.addDescriptiveText(textElement);
+					System.out.println("TEXT: " + textElement.text() + " describes NODE: " + node.getElement().text());
 				}
 			}
 		}
@@ -151,6 +173,34 @@ public class WikiPageTree {
 			
 			// going back up the tree now, so this header will no longer be relevant
 			headers.remove(node.getElement());
+		}
+	}*/
+	
+	private int getDepth(WikiPageNode targetNode, WikiPageNode subtreeRoot, int currentDepth){
+		if(targetNode == subtreeRoot){
+			return currentDepth;
+		}
+		else{
+			for(WikiPageNode child : subtreeRoot.children()){
+				int depth = getDepth(targetNode, child, currentDepth + 1);
+				
+				if(depth >= 0){
+					return depth;
+				}
+			}
+			
+			return -1;
+		}
+	}
+	
+	private void getNodesAtDepth(int targetDepth, int currentDepth, WikiPageNode subtreeRoot, ArrayList<WikiPageNode> output){
+		if(currentDepth == targetDepth){
+			output.add(subtreeRoot);
+		}
+		else{
+			for(WikiPageNode child : subtreeRoot.children()){
+				getNodesAtDepth(targetDepth, currentDepth + 1, child, output);
+			}
 		}
 	}
 	

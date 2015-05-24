@@ -5,7 +5,7 @@ import irtm.starcraft.game.StarcraftKnowledgeBase;
 import irtm.starcraft.game.StarcraftStrategy;
 import irtm.starcraft.utils.HtmlUtils;
 import irtm.starcraft.utils.WikiPageNode;
-import irtm.starcraft.utils.WikiPageNode.ListTypes;
+import irtm.starcraft.utils.WikiPageNode.ContentTypes;
 import irtm.starcraft.utils.WikiPageNode.NodeTypes;
 import irtm.starcraft.utils.WikiPageTree;
 
@@ -136,7 +136,6 @@ public class StarcraftTextMiner{
 		    	boolean foundTermTo = false;
 		    	
 		    	ArrayList<Element> descriptiveHeaders = leaf.getDescriptiveHeaders();
-		    	
 		    	for(Element header : descriptiveHeaders){
 		    		String headerText = header.text().trim().toLowerCase();
 		    		
@@ -149,6 +148,21 @@ public class StarcraftTextMiner{
 		    		foundTermHard = foundTermHard || headerText.contains(TERM_HARD);
 		    		foundTermBy = foundTermBy || headerText.contains(TERM_BY);
 		    		foundTermTo = foundTermTo || headerText.contains(TERM_TO);
+		    	}
+		    	
+		    	if(nodeType == NodeTypes.List){
+		    		// list nodes can also have descriptive text (not just headers)
+		    		
+		    		ArrayList<Element> descriptiveText = leaf.getDescriptiveText();
+			    	for(Element textElement : descriptiveText){
+			    		String s = textElement.text().trim().toLowerCase();
+			    		System.out.println("TEXT: " + s + " DESCRIBES NODE: " + leaf.getElement().text());
+			    		
+			    		// also need to check text for these terms for wiki pages such as 
+			    		// http://wiki.teamliquid.net/starcraft/1_Fact_FE_%28vs._Terran%29
+			    		foundTermSoft = foundTermSoft || s.contains(TERM_SOFT);
+			    		foundTermHard = foundTermHard || s.contains(TERM_HARD);
+			    	}
 		    	}
 		    	
 		    	// for text nodes, we currently only look for strong/weak maps and nothing else
@@ -164,11 +178,11 @@ public class StarcraftTextMiner{
 		    	if(foundTermMap){
 		    		if(foundTermStrong){
 		    			System.out.println("Classifying STRONG MAPS list: [" + htmlElement.text() + "]");
-		    			leaf.setListType(ListTypes.StrongMaps);
+		    			leaf.setContentType(ContentTypes.StrongMaps);
 		    		}
 		    		else if(foundTermWeak){
 		    			System.out.println("Classifying WEAK MAPS list: [" + htmlElement.text() + "]");
-		    			leaf.setListType(ListTypes.WeakMaps);
+		    			leaf.setContentType(ContentTypes.WeakMaps);
 		    		}
 		    		else{
 		    			System.err.println("DONT KNOW HOW TO CLASSIFY MAPS list: [" + htmlElement.text() + "]");
@@ -177,11 +191,11 @@ public class StarcraftTextMiner{
 		    	else if(foundTermCountered && foundTermBy){
 		    		if(foundTermSoft){
 		    			System.out.println("Classifying COUNTERED BY SOFT list: [" + htmlElement.text() + "]");
-		    			leaf.setListType(ListTypes.CounteredBySoft);
+		    			leaf.setContentType(ContentTypes.CounteredBySoft);
 		    		}
 		    		else if(foundTermHard){
 		    			System.out.println("Classifying COUNTERED BY HARD list: [" + htmlElement.text() + "]");
-		    			leaf.setListType(ListTypes.CounteredByHard);
+		    			leaf.setContentType(ContentTypes.CounteredByHard);
 		    		}
 		    		else{
 		    			System.err.println("DONT KNOW HOW TO CLASSIFY COUNTERED BY list: [" + htmlElement.text() + "]");
@@ -190,11 +204,11 @@ public class StarcraftTextMiner{
 		    	else if(foundTermCounter && foundTermTo){
 		    		if(foundTermSoft){
 		    			System.out.println("Classifying COUNTER TO SOFT list: [" + htmlElement.text() + "]");
-		    			leaf.setListType(ListTypes.CounterToSoft);
+		    			leaf.setContentType(ContentTypes.CounterToSoft);
 		    		}
 		    		else if(foundTermHard){
 		    			System.out.println("Classifying COUNTER TO HARD list: [" + htmlElement.text() + "]");
-		    			leaf.setListType(ListTypes.CounterToHard);
+		    			leaf.setContentType(ContentTypes.CounterToHard);
 		    		}
 		    		else{
 		    			System.err.println("DONT KNOW HOW TO CLASSIFY COUNTER TO list: [" + htmlElement.text() + "]");
@@ -202,12 +216,12 @@ public class StarcraftTextMiner{
 		    	}
 		    	else if(nodeType == NodeTypes.List){	// currently only HTML lists can be build orders
 		    		System.out.println("Classifying BUILD ORDER list: [" + htmlElement.text() + "]");
-		    		leaf.setListType(ListTypes.BuildOrder);
+		    		leaf.setContentType(ContentTypes.BuildOrder);
 		    	}
 		    	
-		    	// add info from the leaf lists into the strategy according to list type
-		    	ListTypes leafListType = leaf.getListType();
-		    	if(leafListType == ListTypes.BuildOrder){
+		    	// add info from the leaf lists into the strategy according to content type
+		    	ContentTypes leafContentType = leaf.getContentType();
+		    	if(leafContentType == ContentTypes.BuildOrder){
 		    		strategy.addBuildOrder(new StarcraftBuildOrder(leaf, leafNodeAnnotations.get(leaf)));
 		    	}
 		    	else{
@@ -224,29 +238,27 @@ public class StarcraftTextMiner{
 		    		for(Element element : elements){
 		    			String listElementText = element.text();
 		    			
-		    			if(leafListType == ListTypes.CounteredByHard)
+		    			if(leafContentType == ContentTypes.CounteredByHard)
 		    			{
 		    				strategy.addCounteredByHard(listElementText);
 		    			}
-		    			else if(leafListType == ListTypes.CounteredBySoft){
+		    			else if(leafContentType == ContentTypes.CounteredBySoft){
 		    				strategy.addCounteredBySoft(listElementText);
 		    			}
-		    			else if(leafListType == ListTypes.CounterToHard){
+		    			else if(leafContentType == ContentTypes.CounterToHard){
 		    				strategy.addCounterToHard(listElementText);
 		    			}
-		    			else if(leafListType == ListTypes.CounterToSoft){
+		    			else if(leafContentType == ContentTypes.CounterToSoft){
 		    				strategy.addCounterToSoft(listElementText);
 		    			}
-		    			else if(leafListType == ListTypes.StrongMaps){
-		    				//System.out.println("STRONG MAPS");
+		    			else if(leafContentType == ContentTypes.StrongMaps){
 		    				ArrayList<String> strongMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
 		    				
 		    				for(String mapName : strongMapNames){
 		    					strategy.addStrongMap(mapName);
 		    				}
 		    			}
-		    			else if(leafListType == ListTypes.WeakMaps){
-		    				//System.out.println("WEAK MAPS");
+		    			else if(leafContentType == ContentTypes.WeakMaps){
 		    				ArrayList<String> weakMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
 		    				
 		    				for(String mapName : weakMapNames){

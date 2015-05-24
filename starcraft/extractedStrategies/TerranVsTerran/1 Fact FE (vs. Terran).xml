@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Fact_FE__vs__Terran_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>20</supply>
+            <type>machine shop</type>
+        </building>
+        <unit>
+            <supply>22</supply>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <supply>23</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>28</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>28</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>32</supply>
+            <type>factory</type>
+        </building>
+    </build_order>
+    <build_order>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>command center</type>
+        </building>
+        <unit>
+            <type>vulture</type>
+        </unit>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+    </build_order>
+    <countered_by>
+        <soft>One or Two Starport Wraith</soft>
+        <soft>Two Factory Vultures</soft>
+        <soft>Slower One Factory Fast Expand</soft>
+        <hard>Three Factory Vultures</hard>
+        <hard>One or two Starport Wraiths</hard>
+        <hard>Two Factory Vultures</hard>
+        <hard>Three Factory Vultures</hard>
+    </countered_by>
+    <counter_to>
+        <soft>None</soft>
+        <soft>Faster One Factory FE</soft>
+        <soft>14 CC</soft>
+        <soft>None</soft>
+        <soft>14 CC</soft>
+    </counter_to>
+    <maps/>
+</strategy_1_Fact_FE__vs__Terran_>
