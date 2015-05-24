@@ -54,7 +54,6 @@
         <counter_to>
             <soft>Faster 1 Factory FE</soft>
             <soft>14 CC</soft>
-            <hard>None</hard>
         </counter_to>
         <maps/>
     </build_order>
@@ -112,7 +111,6 @@
         </countered_by>
         <counter_to>
             <soft>14 CC</soft>
-            <hard>None</hard>
         </counter_to>
         <maps/>
     </build_order>

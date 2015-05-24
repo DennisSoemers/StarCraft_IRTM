@@ -254,6 +254,11 @@ public class StarcraftTextMiner{
 	    		for(Element element : elements){
 	    			String listElementText = element.text();
 	    			
+	    			// not very interesting to add ''None'' if there are no counters or strong/weak maps
+	    			if(listElementText.toLowerCase().trim().equals("none")){
+	    				continue;
+	    			}
+	    			
 	    			if(leafContentType == ContentTypes.CounteredByHard)
 	    			{
 	    				ArrayList<String> counters = extractStrategyNames(listElementText);
