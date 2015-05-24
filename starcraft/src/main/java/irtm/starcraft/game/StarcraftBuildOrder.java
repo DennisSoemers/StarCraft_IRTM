@@ -42,7 +42,7 @@ public class StarcraftBuildOrder {
 	    		}
 	    		
 	    		if(allowPreconditions){
-	    			if(nextTokenText.equals("-") || nextTokenText.equals("and")){	// found a precondition
+	    			if(nextTokenText.equals("-") || nextTokenText.equals("and") || tokenText.contains("/")){	// found a precondition
 			    		if(tokenText.contains("/")){	// probably supply condition in format x/y
 			    			String[] supplyLevels = tokenText.split("/");
 			    			

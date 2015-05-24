@@ -135,10 +135,10 @@ public class WikiPageNode {
 					}
 					
 					if(sibling.getNodeType() == NodeTypes.Text){
-						if(!foundOtherList){
+						if(!foundSelf){
 							descriptiveText.add(sibling.getElement());
 						}
-						else{
+						else if(!foundOtherList){
 							tentativeDescriptiveText.add(sibling.getElement());
 						}
 					}

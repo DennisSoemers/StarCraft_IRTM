@@ -156,7 +156,7 @@ public class StarcraftTextMiner{
 		    		ArrayList<Element> descriptiveText = leaf.getDescriptiveText();
 			    	for(Element textElement : descriptiveText){
 			    		String s = textElement.text().trim().toLowerCase();
-			    		System.out.println("TEXT: " + s + " DESCRIBES NODE: " + leaf.getElement().text());
+			    		//System.out.println("TEXT: " + s + " DESCRIBES NODE: " + leaf.getElement().text());
 			    		
 			    		// also need to check text for these terms for wiki pages such as 
 			    		// http://wiki.teamliquid.net/starcraft/1_Fact_FE_%28vs._Terran%29
