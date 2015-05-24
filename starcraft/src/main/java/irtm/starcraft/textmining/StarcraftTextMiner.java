@@ -4,6 +4,7 @@ import irtm.starcraft.game.StarcraftBuildOrder;
 import irtm.starcraft.game.StarcraftKnowledgeBase;
 import irtm.starcraft.game.StarcraftStrategy;
 import irtm.starcraft.utils.HtmlUtils;
+import irtm.starcraft.utils.NlpUtils;
 import irtm.starcraft.utils.WikiPageNode;
 import irtm.starcraft.utils.WikiPageNode.ContentTypes;
 import irtm.starcraft.utils.WikiPageNode.NodeTypes;
@@ -34,7 +35,7 @@ import edu.stanford.nlp.util.CoreMap;
  * analyze a file describing a StarCraft strategy and convert it into a well-structured
  * Java object.
  * 
- * @author Soemers
+ * @author Dennis Soemers
  *
  */
 public class StarcraftTextMiner{
@@ -255,16 +256,32 @@ public class StarcraftTextMiner{
 	    			
 	    			if(leafContentType == ContentTypes.CounteredByHard)
 	    			{
-	    				lastBuildOrder.addCounteredByHard(listElementText);
+	    				ArrayList<String> counters = extractStrategyNames(listElementText);
+	    				
+	    				for(String strategyName : counters){
+	    					lastBuildOrder.addCounteredByHard(strategyName);
+	    				}
 	    			}
 	    			else if(leafContentType == ContentTypes.CounteredBySoft){
-	    				lastBuildOrder.addCounteredBySoft(listElementText);
+	    				ArrayList<String> counters = extractStrategyNames(listElementText);
+	    				
+	    				for(String strategyName : counters){
+	    					lastBuildOrder.addCounteredBySoft(strategyName);
+	    				}
 	    			}
 	    			else if(leafContentType == ContentTypes.CounterToHard){
-	    				lastBuildOrder.addCounterToHard(listElementText);
+	    				ArrayList<String> counters = extractStrategyNames(listElementText);
+	    				
+	    				for(String strategyName : counters){
+	    					lastBuildOrder.addCounterToHard(strategyName);
+	    				}
 	    			}
 	    			else if(leafContentType == ContentTypes.CounterToSoft){
-	    				lastBuildOrder.addCounterToSoft(listElementText);
+	    				ArrayList<String> counters = extractStrategyNames(listElementText);
+	    				
+	    				for(String strategyName : counters){
+	    					lastBuildOrder.addCounterToSoft(strategyName);
+	    				}
 	    			}
 	    			else if(leafContentType == ContentTypes.StrongMaps){
 	    				ArrayList<String> strongMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
@@ -366,12 +383,9 @@ public class StarcraftTextMiner{
 		List<CoreMap> sentences = annotation.get(SentencesAnnotation.class);
 		
 		for(CoreMap sentence : sentences) {
-			//System.out.println("NEW SENTENCE");
 	    	List<CoreLabel> tokens = sentence.get(TokensAnnotation.class);
 	    	
-	    	for(int i = 0; i < tokens.size(); ++i){
-	    		//System.out.println("TOKEN: " + tokens.get(i).get(TextAnnotation.class));
-	    		
+	    	for(int i = 0; i < tokens.size(); ++i){	    		
 	    		// construct 1-gram, 2-gram, ... up to 5-gram
 	    		String[] nGrams = new String[5];
 	    		int numExtraTokens = 0;
@@ -391,7 +405,6 @@ public class StarcraftTextMiner{
 	    			// try the n-gram
 	    			if(StarcraftKnowledgeBase.isMapName(nGrams[n])){
 	    				mapNames.add(nGrams[n]);
-	    				//System.out.println("SUCCESFUL " + (n + 1) + "-gram: " + nGrams[n]);
 	    				
 	    				// when succesful for n, we can immediately skip the next n tokens since they won't be part of another map name
 	    				i += n;
@@ -402,6 +415,59 @@ public class StarcraftTextMiner{
 	    }
 		
 		return mapNames;
+	}
+
+	/**
+	 * Attempts to extract all strategy names from the given String.
+	 * Currently very much heuristic-based and assumes the given Strings already contain
+	 * almost only strategy names
+	 * 
+	 * @param text
+	 * @param annotation
+	 * @return
+	 */
+	public ArrayList<String> extractStrategyNames(String text){
+		ArrayList<String> strategyNames = new ArrayList<String>();
+		
+		// first split on whitespace and replace any digits written in text by their numeric variants
+		String[] tokens = text.split(" ");
+		text = "";
+		
+		for(String token : tokens){
+			text += NlpUtils.textDigitToNumeric(token) + " ";
+		}
+		
+		text = text.trim();
+		
+		// these tokens are likely to be in between different strategy names
+		String[] splitTokens = {" , ", " or ", " and "};
+		
+		for(int i = 1; i < splitTokens.length; ++i){
+			text = text.replaceAll(splitTokens[i], splitTokens[0]);
+		}
+		
+		String[] strategyTokens = text.split(splitTokens[0]);
+		for(int i = 0; i < strategyTokens.length; ++i){
+			String strategy = strategyTokens[i];
+			
+			if(i < strategyTokens.length - 1){
+				try{
+					// deal with cases like http://wiki.teamliquid.net/starcraft/1_Fact_FE_%28vs._Terran%29
+					// where ''One or two Starport Wraiths'' should be converted to two separate strategy names
+					Integer.parseInt(strategy);
+					String nextToken = strategyTokens[i + 1];
+					Integer.parseInt(nextToken.split(" ")[0]);
+					
+					// if we didn't catch any exceptions yet, it means we have a case like the above example
+					strategy = strategy + nextToken.substring(1);
+				}
+				catch(NumberFormatException exception){/**/}
+			}
+			
+			strategyNames.add(strategy);
+		}
+		
+		return strategyNames;
 	}
 	
 	/**

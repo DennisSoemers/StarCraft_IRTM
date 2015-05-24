@@ -46,12 +46,13 @@
             <type>factory</type>
         </building>
         <countered_by>
-            <soft>One or Two Starport Wraith</soft>
-            <soft>Two Factory Vultures</soft>
-            <hard>Three Factory Vultures</hard>
+            <soft>1 Starport Wraith</soft>
+            <soft>2 Starport Wraith</soft>
+            <soft>2 Factory Vultures</soft>
+            <hard>3 Factory Vultures</hard>
         </countered_by>
         <counter_to>
-            <soft>Faster One Factory FE</soft>
+            <soft>Faster 1 Factory FE</soft>
             <soft>14 CC</soft>
             <hard>None</hard>
         </counter_to>
@@ -103,10 +104,11 @@
             <type>machine shop</type>
         </building>
         <countered_by>
-            <soft>Slower One Factory Fast Expand</soft>
-            <hard>One or two Starport Wraiths</hard>
-            <hard>Two Factory Vultures</hard>
-            <hard>Three Factory Vultures</hard>
+            <soft>Slower 1 Factory Fast Expand</soft>
+            <hard>1 Starport Wraiths</hard>
+            <hard>2 Starport Wraiths</hard>
+            <hard>2 Factory Vultures</hard>
+            <hard>3 Factory Vultures</hard>
         </countered_by>
         <counter_to>
             <soft>14 CC</soft>

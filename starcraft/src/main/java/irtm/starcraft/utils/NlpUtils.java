@@ -10,11 +10,31 @@ import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
 
 /**
- * Class with some utility functions for the Stanford NLP library
+ * Class with some utility functions for the Stanford NLP library and other String manipulation
  *
  * @author Dennis Soemers
  */
 public class NlpUtils {
+	
+	/**
+	 * If the given String s is a word representing a single digit (zero, ..., nine) in English,
+	 * converts it into the numeric variant (0, ..., 9) and returns it.
+	 * 
+	 * @param s
+	 * @return
+	 */
+	public static String textDigitToNumeric(String s){
+		final String[] textVersions = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+		final String[] numericVersions = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};
+		
+		for(int i = 0; i < textVersions.length; ++i){
+			if(s.toLowerCase().trim().equals(textVersions[i])){
+				return numericVersions[i];
+			}
+		}
+		
+		return s;
+	}
 
 	/**
 	 * Writes the given list of tokens with given default NER annotations to the file
