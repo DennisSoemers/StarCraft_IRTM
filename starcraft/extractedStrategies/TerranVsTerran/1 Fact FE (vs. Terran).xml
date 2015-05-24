@@ -45,6 +45,17 @@
             <supply>32</supply>
             <type>factory</type>
         </building>
+        <countered_by>
+            <soft>One or Two Starport Wraith</soft>
+            <soft>Two Factory Vultures</soft>
+            <hard>Three Factory Vultures</hard>
+        </countered_by>
+        <counter_to>
+            <soft>Faster One Factory FE</soft>
+            <soft>14 CC</soft>
+            <hard>None</hard>
+        </counter_to>
+        <maps/>
     </build_order>
     <build_order>
         <building>
@@ -91,22 +102,16 @@
             <supply>25</supply>
             <type>machine shop</type>
         </building>
+        <countered_by>
+            <soft>Slower One Factory Fast Expand</soft>
+            <hard>One or two Starport Wraiths</hard>
+            <hard>Two Factory Vultures</hard>
+            <hard>Three Factory Vultures</hard>
+        </countered_by>
+        <counter_to>
+            <soft>14 CC</soft>
+            <hard>None</hard>
+        </counter_to>
+        <maps/>
     </build_order>
-    <countered_by>
-        <soft>One or Two Starport Wraith</soft>
-        <soft>Two Factory Vultures</soft>
-        <soft>Slower One Factory Fast Expand</soft>
-        <hard>Three Factory Vultures</hard>
-        <hard>One or two Starport Wraiths</hard>
-        <hard>Two Factory Vultures</hard>
-        <hard>Three Factory Vultures</hard>
-    </countered_by>
-    <counter_to>
-        <soft>Faster One Factory FE</soft>
-        <soft>14 CC</soft>
-        <soft>14 CC</soft>
-        <hard>None</hard>
-        <hard>None</hard>
-    </counter_to>
-    <maps/>
 </strategy_1_Fact_FE__vs__Terran_>

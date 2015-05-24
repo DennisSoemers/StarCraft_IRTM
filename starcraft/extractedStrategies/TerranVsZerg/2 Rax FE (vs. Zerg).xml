@@ -29,18 +29,18 @@
             <supply>24</supply>
             <type>supply depot</type>
         </building>
+        <countered_by>
+            <soft>3 Hatch Muta</soft>
+        </countered_by>
+        <counter_to>
+            <soft>2 Hatch Muta</soft>
+            <soft>2 Hatch Lurker</soft>
+        </counter_to>
+        <maps>
+            <strong>Destination </strong>
+            <strong>Raid Assault </strong>
+            <weak>Arcadia </weak>
+            <weak>Loki </weak>
+        </maps>
     </build_order>
-    <countered_by>
-        <soft>3 Hatch Muta</soft>
-    </countered_by>
-    <counter_to>
-        <soft>2 Hatch Muta</soft>
-        <soft>2 Hatch Lurker</soft>
-    </counter_to>
-    <maps>
-        <strong>Destination </strong>
-        <strong>Raid Assault </strong>
-        <weak>Arcadia </weak>
-        <weak>Loki </weak>
-    </maps>
 </strategy_2_Rax_FE__vs__Zerg_>

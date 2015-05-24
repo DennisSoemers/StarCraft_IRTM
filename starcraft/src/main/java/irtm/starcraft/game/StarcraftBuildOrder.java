@@ -22,6 +22,12 @@ import edu.stanford.nlp.util.CoreMap;
 public class StarcraftBuildOrder {
 	
 	private ArrayList<StarcraftBuildOrderInstruction> instructions = new ArrayList<StarcraftBuildOrderInstruction>();
+	private ArrayList<String> counteredBySoft = new ArrayList<String>();
+	private ArrayList<String> counteredByHard = new ArrayList<String>();
+	private ArrayList<String> counterToSoft = new ArrayList<String>();
+	private ArrayList<String> counterToHard = new ArrayList<String>();
+	private ArrayList<String> weakMaps = new ArrayList<String>();
+	private ArrayList<String> strongMaps = new ArrayList<String>();
 
 	public StarcraftBuildOrder(WikiPageNode node, Annotation annotation) {
 		List<CoreMap> sentences = annotation.get(SentencesAnnotation.class);
@@ -97,6 +103,54 @@ public class StarcraftBuildOrder {
 	    		}
 	    	}
 	    }
+	}
+	
+	public void addCounteredBySoft(String softCounter){
+		counteredBySoft.add(softCounter);
+	}
+	
+	public void addCounteredByHard(String hardCounter){
+		counteredByHard.add(hardCounter);
+	}
+	
+	public void addCounterToSoft(String softCounter){
+		counterToSoft.add(softCounter);
+	}
+	
+	public void addCounterToHard(String hardCounter){
+		counterToHard.add(hardCounter);
+	}
+	
+	public void addWeakMap(String mapName){
+		weakMaps.add(mapName);
+	}
+	
+	public void addStrongMap(String mapName){
+		strongMaps.add(mapName);
+	}
+	
+	public ArrayList<String> getCounteredBySoft(){
+		return counteredBySoft;
+	}
+	
+	public ArrayList<String> getCounteredByHard(){
+		return counteredByHard;
+	}
+	
+	public ArrayList<String> getCounterToSoft(){
+		return counterToSoft;
+	}
+	
+	public ArrayList<String> getCounterToHard(){
+		return counterToHard;
+	}
+	
+	public ArrayList<String> getWeakMaps(){
+		return weakMaps;
+	}
+	
+	public ArrayList<String> getStrongMaps(){
+		return strongMaps;
 	}
 	
 	public ArrayList<StarcraftBuildOrderInstruction> getInstructions(){

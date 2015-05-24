@@ -97,6 +97,8 @@ public class StarcraftTextMiner{
 	    
 	    ArrayList<WikiPageNode> leafNodes = documentTree.collectLeafNodes();
 	    HashMap<WikiPageNode, Annotation> leafNodeAnnotations = new HashMap<WikiPageNode, Annotation>();
+	    
+	    // first we loop through all leaf nodes and try to classify what type of content they contain
 	    for(WikiPageNode leaf : leafNodes){
 	    	// run stanford NLP pipeline on every leaf node's text
 	    	Element htmlElement = leaf.getElement();
@@ -218,77 +220,68 @@ public class StarcraftTextMiner{
 		    		System.out.println("Classifying BUILD ORDER list: [" + htmlElement.text() + "]");
 		    		leaf.setContentType(ContentTypes.BuildOrder);
 		    	}
-		    	
-		    	// add info from the leaf lists into the strategy according to content type
-		    	ContentTypes leafContentType = leaf.getContentType();
-		    	if(leafContentType == ContentTypes.BuildOrder){
-		    		strategy.addBuildOrder(new StarcraftBuildOrder(leaf, leafNodeAnnotations.get(leaf)));
-		    	}
-		    	else{
-		    		ArrayList<Element> elements = new ArrayList<Element>();
-		    		if(nodeType == NodeTypes.List){
-		    			for(Element listElement : leaf.getElement().children()){
-		    				elements.add(listElement);
-		    			}
-		    		}
-		    		else if(nodeType == NodeTypes.Text){
-		    			elements.add(leaf.getElement());
-		    		}
-		    		
-		    		for(Element element : elements){
-		    			String listElementText = element.text();
-		    			
-		    			if(leafContentType == ContentTypes.CounteredByHard)
-		    			{
-		    				strategy.addCounteredByHard(listElementText);
-		    			}
-		    			else if(leafContentType == ContentTypes.CounteredBySoft){
-		    				strategy.addCounteredBySoft(listElementText);
-		    			}
-		    			else if(leafContentType == ContentTypes.CounterToHard){
-		    				strategy.addCounterToHard(listElementText);
-		    			}
-		    			else if(leafContentType == ContentTypes.CounterToSoft){
-		    				strategy.addCounterToSoft(listElementText);
-		    			}
-		    			else if(leafContentType == ContentTypes.StrongMaps){
-		    				ArrayList<String> strongMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
-		    				
-		    				for(String mapName : strongMapNames){
-		    					strategy.addStrongMap(mapName);
-		    				}
-		    			}
-		    			else if(leafContentType == ContentTypes.WeakMaps){
-		    				ArrayList<String> weakMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
-		    				
-		    				for(String mapName : weakMapNames){
-		    					strategy.addWeakMap(mapName);
-		    				}
-		    			}
-		    		}
-		    	}
 		    }
-		    
-		    // these are all the sentences in this document
-		    // a CoreMap is essentially a Map that uses class objects as keys and has values with custom types
-		    /*List<CoreMap> sentences = document.get(SentencesAnnotation.class);
-		    List<CoreLabel> tokens = new ArrayList<CoreLabel>();
-		    
-		    for(CoreMap sentence : sentences){
-		    	tokens.addAll(sentence.get(TokensAnnotation.class));
-		    }
-		    
-		    for(CoreMap sentence : sentences) {
-		    	// traversing the words in the current sentence
-		    	// a CoreLabel is a CoreMap with additional token-specific methods
-		    	for (CoreLabel token : sentence.get(TokensAnnotation.class)) {
-		    		// this is the text of the token
-		    		String word = token.get(TextAnnotation.class);
-		    		System.out.print(word + " ");
-		    	}
-		    	
-		    	System.out.println();
-		    }*/
+	    }
+	    
+	    // now we loop through all leaf nodes a second them, and use the information we've gathered
+	    // on them to build a strategy
+	    StarcraftBuildOrder lastBuildOrder = null;
+	    for(WikiPageNode leaf : leafNodes){
+	    	NodeTypes nodeType = leaf.getNodeType();
+	    	
+	    	// add info from the leaf lists into the strategy according to content type
+	    	ContentTypes leafContentType = leaf.getContentType();
+	    	if(leafContentType == ContentTypes.BuildOrder){
+	    		lastBuildOrder = new StarcraftBuildOrder(leaf, leafNodeAnnotations.get(leaf));
+	    		strategy.addBuildOrder(lastBuildOrder);
+	    	}
+	    	else{
+	    		ArrayList<Element> elements = new ArrayList<Element>();
+	    		if(nodeType == NodeTypes.List){
+	    			for(Element listElement : leaf.getElement().children()){
+	    				elements.add(listElement);
+	    			}
+	    		}
+	    		else if(nodeType == NodeTypes.Text){
+	    			elements.add(leaf.getElement());
+	    		}
+	    		
+	    		if(lastBuildOrder == null && leafContentType != ContentTypes.Unknown){
+	    			System.err.println("Encountered data to be added to a build order before encountering any build orders!");
+	    		}
+	    		
+	    		for(Element element : elements){
+	    			String listElementText = element.text();
+	    			
+	    			if(leafContentType == ContentTypes.CounteredByHard)
+	    			{
+	    				lastBuildOrder.addCounteredByHard(listElementText);
+	    			}
+	    			else if(leafContentType == ContentTypes.CounteredBySoft){
+	    				lastBuildOrder.addCounteredBySoft(listElementText);
+	    			}
+	    			else if(leafContentType == ContentTypes.CounterToHard){
+	    				lastBuildOrder.addCounterToHard(listElementText);
+	    			}
+	    			else if(leafContentType == ContentTypes.CounterToSoft){
+	    				lastBuildOrder.addCounterToSoft(listElementText);
+	    			}
+	    			else if(leafContentType == ContentTypes.StrongMaps){
+	    				ArrayList<String> strongMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
+	    				
+	    				for(String mapName : strongMapNames){
+	    					lastBuildOrder.addStrongMap(mapName);
+	    				}
+	    			}
+	    			else if(leafContentType == ContentTypes.WeakMaps){
+	    				ArrayList<String> weakMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
+	    				
+	    				for(String mapName : weakMapNames){
+	    					lastBuildOrder.addWeakMap(mapName);
+	    				}
+	    			}
+	    		}
+	    	}
 	    }
 		
 		return strategy;

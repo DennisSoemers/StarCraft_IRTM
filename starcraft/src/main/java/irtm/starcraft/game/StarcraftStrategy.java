@@ -23,12 +23,6 @@ public class StarcraftStrategy {
 	
 	private String strategyName;
 	private ArrayList<StarcraftBuildOrder> buildOrders = new ArrayList<StarcraftBuildOrder>();
-	private ArrayList<String> counteredBySoft = new ArrayList<String>();
-	private ArrayList<String> counteredByHard = new ArrayList<String>();
-	private ArrayList<String> counterToSoft = new ArrayList<String>();
-	private ArrayList<String> counterToHard = new ArrayList<String>();
-	private ArrayList<String> weakMaps = new ArrayList<String>();
-	private ArrayList<String> strongMaps = new ArrayList<String>();
 	
 	public StarcraftStrategy(String strategyName){
 		this.strategyName = strategyName;
@@ -36,30 +30,6 @@ public class StarcraftStrategy {
 	
 	public void addBuildOrder(StarcraftBuildOrder buildOrder){
 		buildOrders.add(buildOrder);
-	}
-	
-	public void addCounteredBySoft(String softCounter){
-		counteredBySoft.add(softCounter);
-	}
-	
-	public void addCounteredByHard(String hardCounter){
-		counteredByHard.add(hardCounter);
-	}
-	
-	public void addCounterToSoft(String softCounter){
-		counterToSoft.add(softCounter);
-	}
-	
-	public void addCounterToHard(String hardCounter){
-		counterToHard.add(hardCounter);
-	}
-	
-	public void addWeakMap(String mapName){
-		weakMaps.add(mapName);
-	}
-	
-	public void addStrongMap(String mapName){
-		strongMaps.add(mapName);
 	}
 	
 	/**
@@ -129,59 +99,59 @@ public class StarcraftStrategy {
 				buildOrderElement.appendChild(instructionElement);
 			}
 			
+			// create countered by element
+			Element counteredByElement = new Element("countered_by");
+
+			for(String softCounter : buildOrder.getCounteredBySoft()){
+				Element counterElement = new Element("soft");
+				counterElement.appendChild(softCounter);
+				counteredByElement.appendChild(counterElement);
+			}
+			
+			for(String hardCounter : buildOrder.getCounteredByHard()){
+				Element counterElement = new Element("hard");
+				counterElement.appendChild(hardCounter);
+				counteredByElement.appendChild(counterElement);
+			}
+			
+			buildOrderElement.appendChild(counteredByElement);
+			
+			// create counter to element
+			Element counterToElement = new Element("counter_to");
+
+			for(String softCounter : buildOrder.getCounterToSoft()){
+				Element counterElement = new Element("soft");
+				counterElement.appendChild(softCounter);
+				counterToElement.appendChild(counterElement);
+			}
+			
+			for(String hardCounter : buildOrder.getCounterToHard()){
+				Element counterElement = new Element("hard");
+				counterElement.appendChild(hardCounter);
+				counterToElement.appendChild(counterElement);
+			}
+			
+			buildOrderElement.appendChild(counterToElement);
+			
+			// create maps element
+			Element mapsElement = new Element("maps");
+			
+			for(String strongMap : buildOrder.getStrongMaps()){
+				Element mapElement = new Element("strong");
+				mapElement.appendChild(strongMap);
+				mapsElement.appendChild(mapElement);
+			}
+			
+			for(String weakMap : buildOrder.getWeakMaps()){
+				Element mapElement = new Element("weak");
+				mapElement.appendChild(weakMap);
+				mapsElement.appendChild(mapElement);
+			}
+			
+			buildOrderElement.appendChild(mapsElement);
+			
 			root.appendChild(buildOrderElement);
 		}
-		
-		// create countered by element
-		Element counteredByElement = new Element("countered_by");
-
-		for(String softCounter : counteredBySoft){
-			Element counterElement = new Element("soft");
-			counterElement.appendChild(softCounter);
-			counteredByElement.appendChild(counterElement);
-		}
-		
-		for(String hardCounter : counteredByHard){
-			Element counterElement = new Element("hard");
-			counterElement.appendChild(hardCounter);
-			counteredByElement.appendChild(counterElement);
-		}
-		
-		root.appendChild(counteredByElement);
-		
-		// create counter to element
-		Element counterToElement = new Element("counter_to");
-
-		for(String softCounter : counterToSoft){
-			Element counterElement = new Element("soft");
-			counterElement.appendChild(softCounter);
-			counterToElement.appendChild(counterElement);
-		}
-		
-		for(String hardCounter : counterToHard){
-			Element counterElement = new Element("hard");
-			counterElement.appendChild(hardCounter);
-			counterToElement.appendChild(counterElement);
-		}
-		
-		root.appendChild(counterToElement);
-		
-		// create maps element
-		Element mapsElement = new Element("maps");
-		
-		for(String strongMap : strongMaps){
-			Element mapElement = new Element("strong");
-			mapElement.appendChild(strongMap);
-			mapsElement.appendChild(mapElement);
-		}
-		
-		for(String weakMap : weakMaps){
-			Element mapElement = new Element("weak");
-			mapElement.appendChild(weakMap);
-			mapsElement.appendChild(mapElement);
-		}
-		
-		root.appendChild(mapsElement);
 		
 		Document doc = new Document(root);
 		Serializer serializer = new Serializer(new FileOutputStream(file), "UTF-8");
