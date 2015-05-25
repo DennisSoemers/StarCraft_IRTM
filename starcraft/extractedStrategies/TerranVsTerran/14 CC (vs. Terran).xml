@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_14_CC__vs__Terran_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>20</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>21</supply>
+            <type>factory</type>
+        </building>
+        <unit>
+            <supply>23</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>23</supply>
+            <type>bunker</type>
+        </building>
+        <unit>
+            <supply>26</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>26</supply>
+            <type>refinery</type>
+        </building>
+        <countered_by>
+            <hard>Proxy 5 Rax</hard>
+            <hard>Proxy 8 Rax</hard>
+            <hard>Barracks Barracks Supply (BBS)</hard>
+            <hard>Double Expand (Map dependent)</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Andromeda</strong>
+            <strong>Colosseum</strong>
+        </maps>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>20</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>20</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>23</supply>
+            <type>bunker</type>
+        </building>
+        <unit>
+            <supply>25</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <type>starport</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <countered_by>
+            <hard>Proxy 5 Rax</hard>
+            <hard>Proxy 8 Rax</hard>
+            <hard>Barracks Barracks Supply (BBS)</hard>
+            <hard>Double Expand (Map dependent)</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Andromeda</strong>
+            <strong>Colosseum</strong>
+        </maps>
+    </build_order>
+</strategy_14_CC__vs__Terran_>

@@ -18,7 +18,8 @@ public class Launch {
 		String[] filepaths = {
 								"TerranVsTerran/1 Fact FE (vs. Terran)",
 								"TerranVsTerran/1 Port Wraith (vs. Terran)",
-								"TerranVsTerran/1 Rax FE (vs. Terran)"
+								"TerranVsTerran/1 Rax FE (vs. Terran)",
+								"TerranVsTerran/14 CC (vs. Terran)"
 							};
 		StarcraftTextMiner textMiner = new StarcraftTextMiner();
 		

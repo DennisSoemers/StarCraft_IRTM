@@ -96,6 +96,25 @@ public class StarcraftTextMiner{
 		WikiPageTree documentTree = new WikiPageTree(relevantElements);
 		StarcraftStrategy strategy = new StarcraftStrategy(documentTree.getRoot().getElement().text());
 		//documentTree.printTree();
+		
+		// count how many map / counter to / countered by headers we have. If only 1, it will apply to all build orders
+		int numMapHeaders = 0;
+		int numCounteredByHeaders = 0;
+		int numCounterToHeaders = 0;
+		
+		for(WikiPageNode node : documentTree.collectHeaderNodes()){
+			String text = node.getElement().text().trim().toLowerCase();
+			
+			if(text.contains(TERM_MAP)){
+				++numMapHeaders;
+			}
+			else if(text.contains(TERM_COUNTERED)){
+				++numCounteredByHeaders;
+			}
+			else if(text.contains(TERM_COUNTER)){
+				++numCounterToHeaders;
+			}
+		}
 	    
 	    ArrayList<WikiPageNode> leafNodes = documentTree.collectLeafNodes();
 	    HashMap<WikiPageNode, Annotation> leafNodeAnnotations = new HashMap<WikiPageNode, Annotation>();
@@ -256,43 +275,85 @@ public class StarcraftTextMiner{
 	    			{
 	    				ArrayList<String> counters = extractStrategyNames(listElementText);
 	    				
-	    				for(String strategyName : counters){
-	    					lastBuildOrder.addCounteredByHard(strategyName);
+	    				if(numCounteredByHeaders == 1){		// add counters to entire strategy
+	    					for(String strategyName : counters){
+		    					strategy.addCounteredByHard(strategyName);
+		    				}
+	    				}
+	    				else{								// add counters to last build order
+	    					for(String strategyName : counters){
+		    					lastBuildOrder.addCounteredByHard(strategyName);
+		    				}
 	    				}
 	    			}
 	    			else if(leafContentType == ContentTypes.CounteredBySoft){
 	    				ArrayList<String> counters = extractStrategyNames(listElementText);
 	    				
-	    				for(String strategyName : counters){
-	    					lastBuildOrder.addCounteredBySoft(strategyName);
+	    				if(numCounteredByHeaders == 1){		// add counters to entire strategy
+	    					for(String strategyName : counters){
+		    					strategy.addCounteredBySoft(strategyName);
+		    				}
+	    				}
+	    				else{								// add counters to last build order
+	    					for(String strategyName : counters){
+		    					lastBuildOrder.addCounteredBySoft(strategyName);
+		    				}
 	    				}
 	    			}
 	    			else if(leafContentType == ContentTypes.CounterToHard){
 	    				ArrayList<String> counters = extractStrategyNames(listElementText);
 	    				
-	    				for(String strategyName : counters){
-	    					lastBuildOrder.addCounterToHard(strategyName);
+	    				if(numCounterToHeaders == 1){	// add counters to entire strategy
+	    					for(String strategyName : counters){
+		    					strategy.addCounterToHard(strategyName);
+		    				}
+	    				}
+	    				else{							// add counters to last build order
+	    					for(String strategyName : counters){
+		    					lastBuildOrder.addCounterToHard(strategyName);
+		    				}
 	    				}
 	    			}
 	    			else if(leafContentType == ContentTypes.CounterToSoft){
 	    				ArrayList<String> counters = extractStrategyNames(listElementText);
 	    				
-	    				for(String strategyName : counters){
-	    					lastBuildOrder.addCounterToSoft(strategyName);
+	    				if(numCounterToHeaders == 1){	// add counters to entire strategy
+	    					for(String strategyName : counters){
+		    					strategy.addCounterToSoft(strategyName);
+		    				}
+	    				}
+	    				else{							// add counters to last build order
+	    					for(String strategyName : counters){
+		    					lastBuildOrder.addCounterToSoft(strategyName);
+		    				}
 	    				}
 	    			}
 	    			else if(leafContentType == ContentTypes.StrongMaps){
-	    				ArrayList<String> strongMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
+	    				ArrayList<String> strongMapNames = extractMapNames(listElementText);
 	    				
-	    				for(String mapName : strongMapNames){
-	    					lastBuildOrder.addStrongMap(mapName);
+	    				if(numMapHeaders == 1){		// add maps to entire strategy
+	    					for(String mapName : strongMapNames){
+		    					strategy.addStrongMap(mapName);
+		    				}
+	    				}
+	    				else{						// add maps to last build order
+	    					for(String mapName : strongMapNames){
+		    					lastBuildOrder.addStrongMap(mapName);
+		    				}
 	    				}
 	    			}
 	    			else if(leafContentType == ContentTypes.WeakMaps){
-	    				ArrayList<String> weakMapNames = extractMapNames(listElementText, leafNodeAnnotations.get(leaf));
+	    				ArrayList<String> weakMapNames = extractMapNames(listElementText);
 	    				
-	    				for(String mapName : weakMapNames){
-	    					lastBuildOrder.addWeakMap(mapName);
+	    				if(numMapHeaders == 1){		// add maps to entire strategy
+	    					for(String mapName : weakMapNames){
+		    					strategy.addWeakMap(mapName);
+		    				}
+	    				}
+	    				else{						// add maps to last build order
+	    					for(String mapName : weakMapNames){
+		    					lastBuildOrder.addWeakMap(mapName);
+		    				}
 	    				}
 	    			}
 	    		}
@@ -373,41 +434,29 @@ public class StarcraftTextMiner{
 	 * from the given text.
 	 * 
 	 * @param text
-	 * @param annotation
 	 * @return
 	 */
-	public ArrayList<String> extractMapNames(String text, Annotation annotation){
+	public ArrayList<String> extractMapNames(String text){
+	    Annotation annotation = new Annotation(text);
+	    nlpPipeline.annotate(annotation);
+		
 		ArrayList<String> mapNames = new ArrayList<String>();
 		List<CoreMap> sentences = annotation.get(SentencesAnnotation.class);
 		
 		for(CoreMap sentence : sentences) {
 	    	List<CoreLabel> tokens = sentence.get(TokensAnnotation.class);
+	    	ArrayList<String> tokenSequence = new ArrayList<String>();
 	    	
-	    	for(int i = 0; i < tokens.size(); ++i){	    		
-	    		// construct 1-gram, 2-gram, ... up to 5-gram
-	    		String[] nGrams = new String[5];
-	    		int numExtraTokens = 0;
-	    		String nGram = "";
-	    		
-	    		while(i + numExtraTokens < tokens.size()){
-	    			nGram += tokens.get(i + numExtraTokens).get(TextAnnotation.class) + " ";
-	    			nGrams[numExtraTokens] = nGram;
-	    			++numExtraTokens;
-	    			
-	    			if(numExtraTokens == 5){	// don't want more than 5 tokens
-	    				break;
-	    			}
-	    		}
-	    		
-	    		for(int n = 0; n < numExtraTokens - 1; ++n){
-	    			// try the n-gram
-	    			if(StarcraftKnowledgeBase.isMapName(nGrams[n])){
-	    				mapNames.add(nGrams[n]);
-	    				
-	    				// when succesful for n, we can immediately skip the next n tokens since they won't be part of another map name
-	    				i += n;
-	    				break;
-	    			}
+	    	for(CoreLabel token : tokens){
+	    		tokenSequence.add(token.get(TextAnnotation.class));
+	    	}
+	    	
+	    	// use at most 5 tokens to recognize a single map name
+	    	ArrayList<String> nGrams = NlpUtils.extractNGrams(1, 5, tokenSequence);
+	    	
+	    	for(String nGram : nGrams){
+	    		if(StarcraftKnowledgeBase.isMapName(nGram)){
+	    			mapNames.add(nGram);
 	    		}
 	    	}
 	    }

@@ -23,6 +23,12 @@ public class StarcraftStrategy {
 	
 	private String strategyName;
 	private ArrayList<StarcraftBuildOrder> buildOrders = new ArrayList<StarcraftBuildOrder>();
+	private ArrayList<String> counteredBySoft = new ArrayList<String>();
+	private ArrayList<String> counteredByHard = new ArrayList<String>();
+	private ArrayList<String> counterToSoft = new ArrayList<String>();
+	private ArrayList<String> counterToHard = new ArrayList<String>();
+	private ArrayList<String> weakMaps = new ArrayList<String>();
+	private ArrayList<String> strongMaps = new ArrayList<String>();
 	
 	public StarcraftStrategy(String strategyName){
 		this.strategyName = strategyName;
@@ -30,6 +36,54 @@ public class StarcraftStrategy {
 	
 	public void addBuildOrder(StarcraftBuildOrder buildOrder){
 		buildOrders.add(buildOrder);
+	}
+	
+	public void addCounteredBySoft(String softCounter){
+		counteredBySoft.add(softCounter);
+	}
+	
+	public void addCounteredByHard(String hardCounter){
+		counteredByHard.add(hardCounter);
+	}
+	
+	public void addCounterToSoft(String softCounter){
+		counterToSoft.add(softCounter);
+	}
+	
+	public void addCounterToHard(String hardCounter){
+		counterToHard.add(hardCounter);
+	}
+	
+	public void addWeakMap(String mapName){
+		weakMaps.add(mapName);
+	}
+	
+	public void addStrongMap(String mapName){
+		strongMaps.add(mapName);
+	}
+	
+	public ArrayList<String> getCounteredBySoft(){
+		return counteredBySoft;
+	}
+	
+	public ArrayList<String> getCounteredByHard(){
+		return counteredByHard;
+	}
+	
+	public ArrayList<String> getCounterToSoft(){
+		return counterToSoft;
+	}
+	
+	public ArrayList<String> getCounterToHard(){
+		return counterToHard;
+	}
+	
+	public ArrayList<String> getWeakMaps(){
+		return weakMaps;
+	}
+	
+	public ArrayList<String> getStrongMaps(){
+		return strongMaps;
 	}
 	
 	/**
@@ -125,13 +179,29 @@ public class StarcraftStrategy {
 			// create countered by element
 			Element counteredByElement = new Element("countered_by");
 
+			// build-order specific
 			for(String softCounter : buildOrder.getCounteredBySoft()){
 				Element counterElement = new Element("soft");
 				counterElement.appendChild(softCounter);
 				counteredByElement.appendChild(counterElement);
 			}
 			
+			// strategy-wide
+			for(String softCounter : getCounteredBySoft()){
+				Element counterElement = new Element("soft");
+				counterElement.appendChild(softCounter);
+				counteredByElement.appendChild(counterElement);
+			}
+			
+			// build-order specific
 			for(String hardCounter : buildOrder.getCounteredByHard()){
+				Element counterElement = new Element("hard");
+				counterElement.appendChild(hardCounter);
+				counteredByElement.appendChild(counterElement);
+			}
+			
+			// strategy-wide
+			for(String hardCounter : getCounteredByHard()){
 				Element counterElement = new Element("hard");
 				counterElement.appendChild(hardCounter);
 				counteredByElement.appendChild(counterElement);
@@ -142,13 +212,29 @@ public class StarcraftStrategy {
 			// create counter to element
 			Element counterToElement = new Element("counter_to");
 
+			// build-order specific
 			for(String softCounter : buildOrder.getCounterToSoft()){
 				Element counterElement = new Element("soft");
 				counterElement.appendChild(softCounter);
 				counterToElement.appendChild(counterElement);
 			}
 			
+			// strategy-wide
+			for(String softCounter : getCounterToSoft()){
+				Element counterElement = new Element("soft");
+				counterElement.appendChild(softCounter);
+				counterToElement.appendChild(counterElement);
+			}
+			
+			// build-order specific
 			for(String hardCounter : buildOrder.getCounterToHard()){
+				Element counterElement = new Element("hard");
+				counterElement.appendChild(hardCounter);
+				counterToElement.appendChild(counterElement);
+			}
+			
+			// strategy-wide
+			for(String hardCounter : getCounterToHard()){
 				Element counterElement = new Element("hard");
 				counterElement.appendChild(hardCounter);
 				counterToElement.appendChild(counterElement);
@@ -159,13 +245,29 @@ public class StarcraftStrategy {
 			// create maps element
 			Element mapsElement = new Element("maps");
 			
+			// build-order specific
 			for(String strongMap : buildOrder.getStrongMaps()){
 				Element mapElement = new Element("strong");
 				mapElement.appendChild(strongMap);
 				mapsElement.appendChild(mapElement);
 			}
 			
+			// strategy-wide
+			for(String strongMap : getStrongMaps()){
+				Element mapElement = new Element("strong");
+				mapElement.appendChild(strongMap);
+				mapsElement.appendChild(mapElement);
+			}
+			
+			// build-order specific
 			for(String weakMap : buildOrder.getWeakMaps()){
+				Element mapElement = new Element("weak");
+				mapElement.appendChild(weakMap);
+				mapsElement.appendChild(mapElement);
+			}
+			
+			// strategy-wide
+			for(String weakMap : getWeakMaps()){
 				Element mapElement = new Element("weak");
 				mapElement.appendChild(weakMap);
 				mapsElement.appendChild(mapElement);

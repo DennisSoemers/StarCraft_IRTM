@@ -58,6 +58,17 @@ public class WikiPageTree {
 	}
 	
 	/**
+	 * Collects all header nodes of the entire tree
+	 * 
+	 * @return
+	 */
+	public ArrayList<WikiPageNode> collectHeaderNodes(){
+		ArrayList<WikiPageNode> headers = new ArrayList<WikiPageNode>();
+		collectHeaderNodes(rootNode, headers);
+		return headers;
+	}
+	
+	/**
 	 * Collects all leaf nodes of the entire tree
 	 * 
 	 * @return
@@ -108,6 +119,22 @@ public class WikiPageTree {
 	}
 	
 	/**
+	 * Collects all header nodes below the given node
+	 * 
+	 * @param node
+	 * @param leaves The ArrayList to store new leaves in
+	 */
+	private void collectHeaderNodes(WikiPageNode node, ArrayList<WikiPageNode> headers){
+		if(node.getNodeType() == NodeTypes.Header){
+			headers.add(node);
+			
+			for(WikiPageNode child : node.children()){
+				collectHeaderNodes(child, headers);
+			}
+		}
+	}
+	
+	/**
 	 * Collects all leaf nodes below the given node
 	 * 
 	 * @param node
@@ -123,58 +150,6 @@ public class WikiPageTree {
 			leaves.add(node);
 		}
 	}
-	
-	/**
-	 * Traverses the tree in a depth-first manner and informs every element of which other elements add
-	 * add important information/context to it.
-	 * 
-	 * @param node 
-	 * @param headers
-	 * @param text
-	 */
-	/*private void computeDescriptiveElements(WikiPageNode node, ArrayList<Element> headers, ArrayList<Element> text){
-		NodeTypes nodeType = node.getNodeType();
-		
-		if(nodeType != NodeTypes.Header){	// let headers provide context to non-header nodes
-			for(Element headerElement : headers){
-				node.addDescriptiveHeader(headerElement);
-			}
-			
-			if(nodeType == NodeTypes.List){		// also let text provide context to list nodes
-				for(Element textElement : text){
-					node.addDescriptiveText(textElement);
-					System.out.println("TEXT: " + textElement.text() + " describes NODE: " + node.getElement().text());
-				}
-			}
-		}
-		
-		if(nodeType == NodeTypes.Header){	// not a leaf node, so need to deal with everything below it
-			// this header will be relevant to every element below it
-			headers.add(node.getElement());
-			
-			// gather all text nodes on the next level
-			int previousNumTextNodes = text.size();
-			ArrayList<WikiPageNode> children = node.children();
-			for(WikiPageNode child : children){
-				if(child.getNodeType() == NodeTypes.Text){
-					text.add(child.getElement());
-				}
-			}
-			
-			// recursively process all children
-			for(WikiPageNode child : children){
-				computeDescriptiveElements(child, headers, text);
-			}
-			
-			// remove all text nodes gathered from the next level again
-			while(text.size() > previousNumTextNodes){
-				text.remove(text.size() - 1);
-			}
-			
-			// going back up the tree now, so this header will no longer be relevant
-			headers.remove(node.getElement());
-		}
-	}*/
 	
 	private int getDepth(WikiPageNode targetNode, WikiPageNode subtreeRoot, int currentDepth){
 		if(targetNode == subtreeRoot){
