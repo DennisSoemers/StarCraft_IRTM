@@ -5,10 +5,12 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Properties;
 
 import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 
 /**
  * Class with some utility functions for the Stanford NLP library and other String manipulation
@@ -16,6 +18,14 @@ import edu.stanford.nlp.ling.CoreLabel;
  * @author Dennis Soemers
  */
 public class NlpUtils {
+	
+	private static StanfordCoreNLP nlpPipeline;
+	
+	static{
+		Properties props = new Properties();
+		props.setProperty("annotators", "tokenize, ssplit, pos, lemma");
+		nlpPipeline = new StanfordCoreNLP(props);
+	}
 	
 	/**
 	 * From the given sequence of tokens, extracts all n-grams such that n >= minN && n <= maxN.
@@ -43,6 +53,10 @@ public class NlpUtils {
 		}
 		
 		return nGrams;
+	}
+	
+	public static StanfordCoreNLP getNlpPipeline(){
+		return nlpPipeline;
 	}
 	
 	/**

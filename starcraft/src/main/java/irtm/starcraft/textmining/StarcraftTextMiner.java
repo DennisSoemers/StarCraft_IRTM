@@ -15,7 +15,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Properties;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -27,7 +26,6 @@ import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.Annotation;
-import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.util.CoreMap;
 
 /**
@@ -58,13 +56,7 @@ public class StarcraftTextMiner{
 	private final String TERM_BY = "by";
 	private final String TERM_TO = "to";
 	
-	private StanfordCoreNLP nlpPipeline;
-	
 	public StarcraftTextMiner(){
-		// initialize Stanford NLP pipeline
-	    Properties props = new Properties();
-	    props.setProperty("annotators", "tokenize, ssplit, pos, lemma"/*, ner"*/);
-	    nlpPipeline = new StanfordCoreNLP(props);
 	}
 	
 	/**
@@ -141,7 +133,7 @@ public class StarcraftTextMiner{
 		    Annotation document = new Annotation(text);
 		    
 		    // run all Annotators on this text
-		    nlpPipeline.annotate(document);
+		    NlpUtils.getNlpPipeline().annotate(document);
 		    
 		    // store the annotations
 		    leafNodeAnnotations.put(leaf, document);
@@ -438,7 +430,7 @@ public class StarcraftTextMiner{
 	 */
 	public ArrayList<String> extractMapNames(String text){
 	    Annotation annotation = new Annotation(text);
-	    nlpPipeline.annotate(annotation);
+	    NlpUtils.getNlpPipeline().annotate(annotation);
 		
 		ArrayList<String> mapNames = new ArrayList<String>();
 		List<CoreMap> sentences = annotation.get(SentencesAnnotation.class);
