@@ -81,6 +81,22 @@ public class StarcraftStrategy {
 					else if(precondition.getType() == PreconditionTypes.GAS){
 						preconditionElement = new Element("gas");
 					}
+					else if(precondition.getType() == PreconditionTypes.PERCENTAGE){
+						// special case because we have more than a single value
+						// gonna handle this here and continue the loop
+						preconditionElement = new Element("percentage");
+						
+						Element percentageElement = new Element("pct");
+						percentageElement.appendChild("" + precondition.getValue());
+						Element typeElement = new Element("type");
+						typeElement.appendChild(precondition.getUnitOrBuildingType());
+						
+						preconditionElement.appendChild(percentageElement);
+						preconditionElement.appendChild(typeElement);
+						
+						instructionElement.appendChild(preconditionElement);
+						continue;
+					}
 					else{
 						System.err.println("StarcraftStrategy::serialize(): unknown precondition type");
 						continue;

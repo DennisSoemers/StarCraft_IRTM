@@ -3,6 +3,7 @@ package irtm.starcraft.utils;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
@@ -15,6 +16,34 @@ import edu.stanford.nlp.ling.CoreLabel;
  * @author Dennis Soemers
  */
 public class NlpUtils {
+	
+	/**
+	 * From the given sequence of tokens, extracts all n-grams such that n >= minN && n <= maxN.
+	 * 
+	 * @param minN
+	 * @param maxN
+	 * @param tokenSequence
+	 * @return
+	 */
+	public static ArrayList<String> extractNGrams(int minN, int maxN, ArrayList<String> tokenSequence){
+		ArrayList<String> nGrams = new ArrayList<String>();
+		
+		for(int n = minN; n <= maxN; ++n){
+			int extraTokens = n - 1;
+			
+			for(int i = 0; i < tokenSequence.size() && i + extraTokens < tokenSequence.size(); ++i){
+				String nGram = tokenSequence.get(i);
+				
+				for(int j = i + 1; j <= i + extraTokens && j < tokenSequence.size(); ++j){
+					nGram += " " + tokenSequence.get(j);
+				}
+				
+				nGrams.add(nGram);
+			}
+		}
+		
+		return nGrams;
+	}
 	
 	/**
 	 * If the given String s is a word representing a single digit (zero, ..., nine) in English,
