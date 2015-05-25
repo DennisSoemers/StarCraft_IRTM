@@ -50,6 +50,10 @@ public class StarcraftStrategy {
 		
 		// create build order elements
 		for(StarcraftBuildOrder buildOrder : buildOrders){
+			if(buildOrder.isEmpty()){
+				continue;		// no point in serializing a build order that has no instructions
+			}
+			
 			Element buildOrderElement = new Element("build_order");
 			
 			ArrayList<StarcraftBuildOrderInstruction> instructions = buildOrder.getInstructions();

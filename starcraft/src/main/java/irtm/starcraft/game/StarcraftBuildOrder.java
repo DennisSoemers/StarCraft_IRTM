@@ -36,6 +36,12 @@ public class StarcraftBuildOrder {
 	    for(CoreMap sentence : sentences) {
 	    	ArrayList<StarcraftPrecondition> preconditions = new ArrayList<StarcraftPrecondition>();
 	    	List<CoreLabel> tokens = sentence.get(TokensAnnotation.class);
+	    	
+	    	// we don't care about footnotes
+	    	if(tokens.get(0).get(TextAnnotation.class).equals("↑")){
+	    		continue;
+	    	}
+	    	
 	    	// once we found something to build in a sentence, we no longer allow preconditions later in that sentence
 	    	boolean allowPreconditions = true;
 	    	
@@ -190,6 +196,10 @@ public class StarcraftBuildOrder {
 	
 	public ArrayList<StarcraftBuildOrderInstruction> getInstructions(){
 		return instructions;
+	}
+	
+	public boolean isEmpty(){
+		return (instructions.size() == 0);
 	}
 	
 	private void printPreconditionError(String tokenText){

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Rax_FE__vs__Terran_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <unit>
+            <supply>12</supply>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <supply>14</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>15</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>refinery</type>
+        </building>
+        <unit>
+            <supply>15</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>16</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>21</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>bunker</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_1_Rax_FE__vs__Terran_>

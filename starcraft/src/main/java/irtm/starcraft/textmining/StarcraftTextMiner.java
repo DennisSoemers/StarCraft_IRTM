@@ -159,7 +159,6 @@ public class StarcraftTextMiner{
 		    		ArrayList<Element> descriptiveText = leaf.getDescriptiveText();
 			    	for(Element textElement : descriptiveText){
 			    		String s = textElement.text().trim().toLowerCase();
-			    		//System.out.println("TEXT: " + s + " DESCRIBES NODE: " + leaf.getElement().text());
 			    		
 			    		// also need to check text for these terms for wiki pages such as 
 			    		// http://wiki.teamliquid.net/starcraft/1_Fact_FE_%28vs._Terran%29
@@ -180,11 +179,9 @@ public class StarcraftTextMiner{
 		    	
 		    	if(foundTermMap){
 		    		if(foundTermStrong){
-		    			System.out.println("Classifying STRONG MAPS list: [" + htmlElement.text() + "]");
 		    			leaf.setContentType(ContentTypes.StrongMaps);
 		    		}
 		    		else if(foundTermWeak){
-		    			System.out.println("Classifying WEAK MAPS list: [" + htmlElement.text() + "]");
 		    			leaf.setContentType(ContentTypes.WeakMaps);
 		    		}
 		    		else{
@@ -193,11 +190,9 @@ public class StarcraftTextMiner{
 		    	}
 		    	else if(foundTermCountered && foundTermBy){
 		    		if(foundTermSoft){
-		    			System.out.println("Classifying COUNTERED BY SOFT list: [" + htmlElement.text() + "]");
 		    			leaf.setContentType(ContentTypes.CounteredBySoft);
 		    		}
 		    		else if(foundTermHard){
-		    			System.out.println("Classifying COUNTERED BY HARD list: [" + htmlElement.text() + "]");
 		    			leaf.setContentType(ContentTypes.CounteredByHard);
 		    		}
 		    		else{
@@ -206,11 +201,9 @@ public class StarcraftTextMiner{
 		    	}
 		    	else if(foundTermCounter && foundTermTo){
 		    		if(foundTermSoft){
-		    			System.out.println("Classifying COUNTER TO SOFT list: [" + htmlElement.text() + "]");
 		    			leaf.setContentType(ContentTypes.CounterToSoft);
 		    		}
 		    		else if(foundTermHard){
-		    			System.out.println("Classifying COUNTER TO HARD list: [" + htmlElement.text() + "]");
 		    			leaf.setContentType(ContentTypes.CounterToHard);
 		    		}
 		    		else{
@@ -218,7 +211,6 @@ public class StarcraftTextMiner{
 		    		}
 		    	}
 		    	else if(nodeType == NodeTypes.List){	// currently only HTML lists can be build orders
-		    		System.out.println("Classifying BUILD ORDER list: [" + htmlElement.text() + "]");
 		    		leaf.setContentType(ContentTypes.BuildOrder);
 		    	}
 		    }
