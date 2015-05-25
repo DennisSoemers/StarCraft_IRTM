@@ -1,5 +1,7 @@
 package irtm.starcraft.game;
 
+import irtm.starcraft.game.StarcraftPrecondition.PreconditionTypes;
+
 import java.util.ArrayList;
 
 /**
@@ -29,6 +31,25 @@ public class StarcraftBuildOrderInstruction {
 		this.type = type;
 		this.instructionText = instructionText;
 		this.preconditions = preconditions;
+		
+		// some instructions offer multiple choices for supply conditions. We'll just always pick the first listed option
+		// (example: http://wiki.teamliquid.net/starcraft/2_Fact_Vults_%28vs._Terran%29 )
+		boolean supplyConditionFound = false;
+		for(int i = 0; i < preconditions.size(); /**/){
+			StarcraftPrecondition condition = preconditions.get(i);
+			
+			if(condition.getType() == PreconditionTypes.SUPPLY){
+				if(!supplyConditionFound){
+					supplyConditionFound = true;
+				}
+				else{
+					preconditions.remove(i);
+					continue;
+				}
+			}
+			
+			++i;
+		}
 	}
 	
 	public String getInstructionText(){
