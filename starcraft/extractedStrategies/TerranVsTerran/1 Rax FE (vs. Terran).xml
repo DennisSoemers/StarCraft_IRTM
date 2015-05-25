@@ -9,10 +9,10 @@
             <supply>11</supply>
             <type>barracks</type>
         </building>
-        <unit>
+        <scout>
             <supply>12</supply>
             <type>scv</type>
-        </unit>
+        </scout>
         <unit>
             <supply>14</supply>
             <type>marine</type>

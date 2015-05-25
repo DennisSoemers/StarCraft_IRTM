@@ -67,6 +67,9 @@ public class StarcraftStrategy {
 				else if(instruction.getType() == InstructionTypes.UNIT){
 					instructionElement = new Element("unit");
 				}
+				else if(instruction.getType() == InstructionTypes.SCOUT){
+					instructionElement = new Element("scout");
+				}
 				else{
 					System.err.println("StarcraftStrategy::serialize(): unknown instruction type!");
 					continue;

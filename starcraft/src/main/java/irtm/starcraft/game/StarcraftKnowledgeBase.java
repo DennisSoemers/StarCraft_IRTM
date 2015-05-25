@@ -1,5 +1,7 @@
 package irtm.starcraft.game;
 
+import irtm.starcraft.game.StarcraftBuildOrderInstruction.InstructionTypes;
+
 import java.util.Arrays;
 import java.util.HashMap;
 
@@ -648,6 +650,17 @@ public class StarcraftKnowledgeBase {
 		return starcraftDictionary.get(string.trim().toLowerCase());
 	}
 	
+	public static InstructionTypes getInstructionType(String string){
+		string = string.toLowerCase().trim();
+		
+		if(starcraftActionInstructionMap.containsKey(string)){
+			return starcraftActionInstructionMap.get(string);
+		}
+		else{
+			return InstructionTypes.UNKNOWN;
+		}
+	}
+	
 	public static boolean isRace(String string){
 		string = starcraftDictionary.get(string.trim().toLowerCase());
 		
@@ -706,11 +719,17 @@ public class StarcraftKnowledgeBase {
 	
 	/* 
 	 * Hardcoded dictionary mapping from all kinds of words (and abbreviations) commonly used in wiki
-	 * to one of the names used in one of the hardcoded arrays below.
+	 * to one of the names used in one of the hardcoded arrays above.
 	 */
 	static HashMap<String, String> starcraftDictionary;
 	
-	// initialize the hardcoded dictionary
+	/*
+	 * Map of some verbs that we are aware of that commonly describe a certain action,
+	 * to instruction types corresponding to the same actions
+	 */
+	static HashMap<String, InstructionTypes> starcraftActionInstructionMap;
+	
+	// initialize the hardcoded hash maps
 	static{
 		starcraftDictionary = new HashMap<String, String>();
 
@@ -799,5 +818,9 @@ public class StarcraftKnowledgeBase {
 		for(int i = 0; i < MAP_NAMES_8_PLAYER.length; ++i){
 			MAP_NAMES_8_PLAYER[i] = MAP_NAMES_8_PLAYER[i].toLowerCase();
 		}
+		
+		// initialize verb-action mappings
+		starcraftActionInstructionMap = new HashMap<String, InstructionTypes>();
+		starcraftActionInstructionMap.put("scout", InstructionTypes.SCOUT);
 	}
 }

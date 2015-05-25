@@ -8,6 +8,8 @@ import irtm.starcraft.utils.WikiPageNode;
 import java.util.ArrayList;
 import java.util.List;
 
+import edu.stanford.nlp.ling.CoreAnnotations.LemmaAnnotation;
+import edu.stanford.nlp.ling.CoreAnnotations.PartOfSpeechAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
@@ -36,8 +38,9 @@ public class StarcraftBuildOrder {
 	    for(CoreMap sentence : sentences) {
 	    	ArrayList<StarcraftPrecondition> preconditions = new ArrayList<StarcraftPrecondition>();
 	    	List<CoreLabel> tokens = sentence.get(TokensAnnotation.class);
+	    	InstructionTypes instructionType = InstructionTypes.UNKNOWN;
 	    	
-	    	// we don't care about footnotes
+	    	// we don't care about footnotes (see: http://wiki.teamliquid.net/starcraft/1_Rax_FE_%28vs._Terran%29#cite_note-resume-1 )
 	    	if(tokens.get(0).get(TextAnnotation.class).equals("↑")){
 	    		continue;
 	    	}
@@ -45,13 +48,24 @@ public class StarcraftBuildOrder {
 	    	// once we found something to build in a sentence, we no longer allow preconditions later in that sentence
 	    	boolean allowPreconditions = true;
 	    	
-	    	for(int i = 0; i < tokens.size(); ++i){
+	    	for(int i = 0; i < tokens.size(); ++i){	    		
 	    		CoreLabel token = tokens.get(i);
 	    		String tokenText = token.get(TextAnnotation.class);
 	    		String nextTokenText = "";
 	    		
 	    		if(i + 1 < tokens.size()){
 	    			nextTokenText = tokens.get(i + 1).get(TextAnnotation.class);
+	    		}
+	    		
+	    		// first check if we have a verb that describes some action we are aware of
+	    		String pos = token.get(PartOfSpeechAnnotation.class);
+	    		String lemma = token.get(LemmaAnnotation.class);
+	    		if(pos.equals("VB") || pos.equals("VBG")){
+	    			InstructionTypes actionInstruction = StarcraftKnowledgeBase.getInstructionType(lemma);
+	    			
+	    			if(actionInstruction != InstructionTypes.UNKNOWN){
+	    				instructionType = actionInstruction;
+	    			}
 	    		}
 	    		
 	    		if(allowPreconditions){
@@ -133,13 +147,23 @@ public class StarcraftBuildOrder {
 	    			// found an instruction to execute, so no longer allow preconditions in this sentence
 	    			allowPreconditions = false;
 	    			
-	    			if(StarcraftKnowledgeBase.isBuilding(unitOrBuildingText)){
-	    				instructions.add(new StarcraftBuildOrderInstruction(InstructionTypes.BUILDING, 
-	    																	unitOrBuildingText, preconditions));
+	    			// if instruction type still unknown, assume we need to create something
+	    			boolean resetInstructionType = false;
+	    			if(instructionType == InstructionTypes.UNKNOWN){
+	    				if(StarcraftKnowledgeBase.isBuilding(unitOrBuildingText)){
+	    					instructionType = InstructionTypes.BUILDING;
+	    				}
+	    				else if(StarcraftKnowledgeBase.isUnit(unitOrBuildingText)){
+	    					instructionType = InstructionTypes.UNIT;
+	    				}
+	    				
+	    				resetInstructionType = true;
 	    			}
-	    			else if(StarcraftKnowledgeBase.isUnit(unitOrBuildingText)){
-	    				instructions.add(new StarcraftBuildOrderInstruction(InstructionTypes.UNIT, 
-																			unitOrBuildingText, preconditions));
+	    			
+	    			instructions.add(new StarcraftBuildOrderInstruction(instructionType, unitOrBuildingText, preconditions));
+	    			
+	    			if(resetInstructionType){
+	    				instructionType = InstructionTypes.UNKNOWN;
 	    			}
 	    		}
 	    	}

@@ -15,8 +15,10 @@ public class StarcraftBuildOrderInstruction {
 	 * @author Dennis Soemers
 	 */
 	public enum InstructionTypes{
-		BUILDING,
-		UNIT
+		UNKNOWN,	// should probably never be used
+		BUILDING,	// create a building
+		UNIT,		// create a unit
+		SCOUT		// send some unit scouting
 	}
 	
 	private InstructionTypes type;
