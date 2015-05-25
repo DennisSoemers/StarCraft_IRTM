@@ -58,7 +58,13 @@ public class StarcraftTextMiner{
 	private final String TERM_BY = "by";
 	private final String TERM_TO = "to";
 	
+	private StanfordCoreNLP nlpPipeline;
+	
 	public StarcraftTextMiner(){
+		// initialize Stanford NLP pipeline
+	    Properties props = new Properties();
+	    props.setProperty("annotators", "tokenize, ssplit, pos, lemma"/*, ner"*/);
+	    nlpPipeline = new StanfordCoreNLP(props);
 	}
 	
 	/**
@@ -90,11 +96,6 @@ public class StarcraftTextMiner{
 		WikiPageTree documentTree = new WikiPageTree(relevantElements);
 		StarcraftStrategy strategy = new StarcraftStrategy(documentTree.getRoot().getElement().text());
 		//documentTree.printTree();
-		
-		// initialize Stanford NLP pipeline
-	    Properties props = new Properties();
-	    props.setProperty("annotators", "tokenize, ssplit"/*, pos, lemma, ner"*/);
-	    StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 	    
 	    ArrayList<WikiPageNode> leafNodes = documentTree.collectLeafNodes();
 	    HashMap<WikiPageNode, Annotation> leafNodeAnnotations = new HashMap<WikiPageNode, Annotation>();
@@ -121,7 +122,7 @@ public class StarcraftTextMiner{
 		    Annotation document = new Annotation(text);
 		    
 		    // run all Annotators on this text
-		    pipeline.annotate(document);
+		    nlpPipeline.annotate(document);
 		    
 		    // store the annotations
 		    leafNodeAnnotations.put(leaf, document);

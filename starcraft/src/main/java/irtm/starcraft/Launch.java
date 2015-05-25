@@ -15,11 +15,20 @@ import java.io.IOException;
 public class Launch {
 	
 	public static void main(String[] args) throws IOException{
-		String filepath = "TerranVsTerran/1 Rax FE (vs. Terran)";
-		
+		String[] filepaths = {
+								"TerranVsTerran/1 Fact FE (vs. Terran)",
+								"TerranVsTerran/1 Port Wraith (vs. Terran)",
+								"TerranVsTerran/1 Rax FE (vs. Terran)"
+							};
 		StarcraftTextMiner textMiner = new StarcraftTextMiner();
-		StarcraftStrategy strategy = textMiner.processFile(new File("corpus/" + filepath + ".txt"));
-		strategy.serialize(new File("extractedStrategies/" + filepath + ".xml"));
+		
+		for(String filepath : filepaths){
+			System.out.println("processing " + "corpus/" + filepath + ".txt" + "...");
+			StarcraftStrategy strategy = textMiner.processFile(new File("corpus/" + filepath + ".txt"));
+			strategy.serialize(new File("extractedStrategies/" + filepath + ".xml"));
+		}
+		
+		System.out.println("Finished!");
 	}
 
 }
