@@ -2,6 +2,7 @@ package irtm.starcraft.game;
 
 import irtm.starcraft.game.StarcraftBuildOrderInstruction.InstructionTypes;
 import irtm.starcraft.game.StarcraftPrecondition.PreconditionTypes;
+import irtm.starcraft.utils.NlpUtils;
 import irtm.starcraft.utils.WikiPageNode;
 
 import java.util.ArrayList;
@@ -48,7 +49,11 @@ public class StarcraftBuildOrder {
 	    		}
 	    		
 	    		if(allowPreconditions){
-	    			if(nextTokenText.equals("-") || nextTokenText.equals("and") || tokenText.contains("/")){	// found a precondition
+	    			if(	nextTokenText.equals("-") 	|| 
+	    				nextTokenText.equals("and") || 
+	    				tokenText.contains("/") 	|| 
+	    				tokenText.contains("@")			){
+	    				// found a precondition
 			    		if(tokenText.contains("/")){	// probably supply condition in format x/y
 			    			String[] supplyLevels = tokenText.split("/");
 			    			
@@ -64,7 +69,37 @@ public class StarcraftBuildOrder {
 			    			catch(NumberFormatException exception){
 			    				printPreconditionError(tokenText);
 			    			}
-			    		}	// TODO precondition in format @xxx Gas (see: http://wiki.teamliquid.net/starcraft/1_Rax_Gas_%28vs._Zerg%29)
+			    		}
+			    		else if(tokenText.equals("@") && i < tokens.size() - 2 && tokens.get(i+ 2).get(TextAnnotation.class).equals("%")){
+			    			// probably a condition in format of @100% <something> - do something
+			    			String percentageText = tokens.get(i+ 1).get(TextAnnotation.class);
+			    			try{
+			    				int percentage = Integer.parseInt(percentageText);
+			    				
+			    				// collect all tokens that describe what must have reached the specified percentage
+			    				ArrayList<String> tokenSequence = new ArrayList<String>();
+			    				for(int j = i + 3; j < tokens.size(); ++j){
+			    					String t = tokens.get(j).get(TextAnnotation.class);
+			    					
+			    					if(t.equals("-")){
+			    						// we can skip ahead to this token
+			    						i = j;
+			    						break;
+			    					}
+			    					
+			    					tokenSequence.add(t);
+			    				}
+
+			    				ArrayList<String> uniAndBiGrams = NlpUtils.extractNGrams(1, 2, tokenSequence);
+			    				for(String nGram : uniAndBiGrams){
+			    					if(StarcraftKnowledgeBase.isUnitOrBuilding(nGram)){
+			    						preconditions.add(new StarcraftPrecondition(PreconditionTypes.PERCENTAGE, percentage,
+			    																	StarcraftKnowledgeBase.getBaseTerm(nGram)));
+			    					}
+			    				}
+			    			}
+			    			catch(NumberFormatException exception){/**/}
+			    		}
 			    		else{	// try directly parsing as int, maybe condition in format of <supply - thing to build>
 			    			try{
 			    				int requiredSupply = Integer.parseInt(tokenText);

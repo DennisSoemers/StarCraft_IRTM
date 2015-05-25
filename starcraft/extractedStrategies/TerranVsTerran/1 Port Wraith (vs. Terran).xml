@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Port_Wraith__vs__Terran_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>17</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>vulture</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <supply>24</supply>
+            <type>starport</type>
+        </building>
+        <building>
+            <supply>24</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>starport</type>
+            </percentage>
+            <type>control tower</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>starport</type>
+            </percentage>
+            <type>wraith</type>
+        </unit>
+        <building>
+            <supply>28</supply>
+            <type>supply depot</type>
+        </building>
+        <countered_by>
+            <soft>1 Port Wraith</soft>
+            <soft>2 Port Wraith</soft>
+            <soft>2 Factory Vultures</soft>
+            <hard>3 Factory Vultures</hard>
+        </countered_by>
+        <counter_to>
+            <soft>Faster 1 Factory FE</soft>
+            <soft>14 CC</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_1_Port_Wraith__vs__Terran_>
