@@ -1,10 +1,13 @@
 package irtm.starcraft;
 
 import irtm.starcraft.game.StarcraftStrategy;
+import irtm.starcraft.gui.StarcraftIrtmFrame;
 import irtm.starcraft.textmining.StarcraftTextMiner;
 
 import java.io.File;
 import java.io.IOException;
+
+import javax.swing.UIManager;
 
 /**
  * Class with main method to launch the application
@@ -15,6 +18,15 @@ import java.io.IOException;
 public class Launch {
 	
 	public static void main(String[] args) throws IOException{
+		try{
+			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+		}
+		catch(Exception exception){
+			exception.printStackTrace();
+		}
+		
+		new StarcraftIrtmFrame().init();
+		
 		String[] filepaths = {
 								"TerranVsTerran/1 Fact FE (vs. Terran)",
 								"TerranVsTerran/1 Port Wraith (vs. Terran)",

@@ -90,6 +90,16 @@ public class WikiPageTree {
 	}
 	
 	/**
+	 * Returns HTML code to render the text that survived the conversion from
+	 * .html document to WikiPageTree
+	 * 
+	 * @return
+	 */
+	public String getHtml(){
+		return getHtmlRecursion(rootNode, "");
+	}
+	
+	/**
 	 * Returns a list of all nodes at the given depth. It is assumed that the root
 	 * node is at depth = 0
 	 * 
@@ -166,6 +176,22 @@ public class WikiPageTree {
 			
 			return -1;
 		}
+	}
+	
+	private String getHtmlRecursion(WikiPageNode node, String textSoFar){
+		NodeTypes nodeType = node.getNodeType();
+		Element nodeElement = node.getElement();
+		
+		textSoFar += nodeElement.outerHtml();
+		if(nodeType == NodeTypes.Header){
+			ArrayList<WikiPageNode> children = node.children();
+			
+			for(WikiPageNode child : children){
+				textSoFar = getHtmlRecursion(child, textSoFar);
+			}
+		}
+
+		return textSoFar;
 	}
 	
 	private void getNodesAtDepth(int targetDepth, int currentDepth, WikiPageNode subtreeRoot, ArrayList<WikiPageNode> output){

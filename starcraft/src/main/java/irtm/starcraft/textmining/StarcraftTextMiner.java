@@ -58,6 +58,11 @@ public class StarcraftTextMiner{
 	private final String TERM_TO = "to";
 	private final String TERM_BUILD = "build";
 	
+	/** The last strategy that was found by processing files */
+	private StarcraftStrategy lastStrategy;
+	/** The last document tree that was found by processing files */
+	private WikiPageTree lastDocumentTree;
+	
 	public StarcraftTextMiner(){
 	}
 	
@@ -87,16 +92,16 @@ public class StarcraftTextMiner{
 			return null;
 		}
 		
-		WikiPageTree documentTree = new WikiPageTree(relevantElements);
-		StarcraftStrategy strategy = new StarcraftStrategy(documentTree.getRoot().getElement().text());
-		//documentTree.printTree();
+		lastDocumentTree = new WikiPageTree(relevantElements);
+		lastStrategy = new StarcraftStrategy(lastDocumentTree.getRoot().getElement().text());
+		//lastDocumentTree.printTree();
 		
 		// count how many map / counter to / countered by headers we have. If only 1, it will apply to all build orders
 		int numMapHeaders = 0;
 		int numCounteredByHeaders = 0;
 		int numCounterToHeaders = 0;
 		
-		for(WikiPageNode node : documentTree.collectHeaderNodes()){
+		for(WikiPageNode node : lastDocumentTree.collectHeaderNodes()){
 			String text = node.getElement().text().trim().toLowerCase();
 			
 			if(text.contains(TERM_MAP)){
@@ -110,7 +115,7 @@ public class StarcraftTextMiner{
 			}
 		}
 	    
-	    ArrayList<WikiPageNode> leafNodes = documentTree.collectLeafNodes();
+	    ArrayList<WikiPageNode> leafNodes = lastDocumentTree.collectLeafNodes();
 	    HashMap<WikiPageNode, Annotation> leafNodeAnnotations = new HashMap<WikiPageNode, Annotation>();
 	    
 	    // first we loop through all leaf nodes and try to classify what type of content they contain
@@ -246,7 +251,7 @@ public class StarcraftTextMiner{
 	    	ContentTypes leafContentType = leaf.getContentType();
 	    	if(leafContentType == ContentTypes.BuildOrder){
 	    		lastBuildOrder = new StarcraftBuildOrder(leaf, leafNodeAnnotations.get(leaf));
-	    		strategy.addBuildOrder(lastBuildOrder);
+	    		lastStrategy.addBuildOrder(lastBuildOrder);
 	    	}
 	    	else{
 	    		ArrayList<Element> elements = new ArrayList<Element>();
@@ -277,7 +282,7 @@ public class StarcraftTextMiner{
 	    				
 	    				if(numCounteredByHeaders == 1){		// add counters to entire strategy
 	    					for(String strategyName : counters){
-		    					strategy.addCounteredByHard(strategyName);
+	    						lastStrategy.addCounteredByHard(strategyName);
 		    				}
 	    				}
 	    				else{								// add counters to last build order
@@ -291,7 +296,7 @@ public class StarcraftTextMiner{
 	    				
 	    				if(numCounteredByHeaders == 1){		// add counters to entire strategy
 	    					for(String strategyName : counters){
-		    					strategy.addCounteredBySoft(strategyName);
+	    						lastStrategy.addCounteredBySoft(strategyName);
 		    				}
 	    				}
 	    				else{								// add counters to last build order
@@ -305,7 +310,7 @@ public class StarcraftTextMiner{
 	    				
 	    				if(numCounterToHeaders == 1){	// add counters to entire strategy
 	    					for(String strategyName : counters){
-		    					strategy.addCounterToHard(strategyName);
+	    						lastStrategy.addCounterToHard(strategyName);
 		    				}
 	    				}
 	    				else{							// add counters to last build order
@@ -319,7 +324,7 @@ public class StarcraftTextMiner{
 	    				
 	    				if(numCounterToHeaders == 1){	// add counters to entire strategy
 	    					for(String strategyName : counters){
-		    					strategy.addCounterToSoft(strategyName);
+	    						lastStrategy.addCounterToSoft(strategyName);
 		    				}
 	    				}
 	    				else{							// add counters to last build order
@@ -333,7 +338,7 @@ public class StarcraftTextMiner{
 	    				
 	    				if(numMapHeaders == 1){		// add maps to entire strategy
 	    					for(String mapName : strongMapNames){
-		    					strategy.addStrongMap(mapName);
+	    						lastStrategy.addStrongMap(mapName);
 		    				}
 	    				}
 	    				else{						// add maps to last build order
@@ -347,7 +352,7 @@ public class StarcraftTextMiner{
 	    				
 	    				if(numMapHeaders == 1){		// add maps to entire strategy
 	    					for(String mapName : weakMapNames){
-		    					strategy.addWeakMap(mapName);
+	    						lastStrategy.addWeakMap(mapName);
 		    				}
 	    				}
 	    				else{						// add maps to last build order
@@ -360,7 +365,7 @@ public class StarcraftTextMiner{
 	    	}
 	    }
 		
-		return strategy;
+		return lastStrategy;
 	}
 	
 	/**
@@ -544,6 +549,15 @@ public class StarcraftTextMiner{
 		}
 		
 		return strategyNames;
+	}
+	
+	/**
+	 * Returns the last document tree that was computed whilst processing files
+	 * 
+	 * @return
+	 */
+	public WikiPageTree getLastDocumentTree(){
+		return lastDocumentTree;
 	}
 	
 	/**
