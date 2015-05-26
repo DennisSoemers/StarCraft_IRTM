@@ -83,8 +83,8 @@ public class StarcraftTextMiner{
 		
 		// veryify that all the special cases that need to be found and removed were indeed found
 		if(!categoryLinksFound || !footerFound || !leftColumnFound || !tableOfContentsFound){
-			System.err.println("Did not find all of the required special cases! (" + 
-								categoryLinksFound + ", " + footerFound + ", " + leftColumnFound + ", " + tableOfContentsFound + ")");
+			System.err.println("Rejecting badly formatted wiki page: " + file.getAbsolutePath() + "!");
+			return null;
 		}
 		
 		WikiPageTree documentTree = new WikiPageTree(relevantElements);
