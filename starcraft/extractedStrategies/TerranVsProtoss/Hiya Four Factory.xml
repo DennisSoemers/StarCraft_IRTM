@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Hiya_4_Fac>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>supply depot</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>27</supply>
+            <type>command center</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <type>factory</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>academy</type>
+        </building>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <unit>
+            <type>vulture</type>
+        </unit>
+        <unit>
+            <type>spider mine</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Hiya_4_Fac>

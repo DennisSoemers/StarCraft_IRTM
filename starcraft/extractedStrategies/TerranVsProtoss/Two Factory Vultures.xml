@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_2_Fact_Vult_Mines__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>18</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>22</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>vulture</type>
+        </unit>
+        <building>
+            <supply>28</supply>
+            <type>supply depot</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_2_Fact_Vult_Mines__vs__Protoss_>

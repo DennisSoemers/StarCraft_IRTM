@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Fast_Nuke>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>20</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>24</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>27</supply>
+            <type>starport</type>
+        </building>
+        <building>
+            <supply>27</supply>
+            <type>control tower</type>
+        </building>
+        <building>
+            <supply>27</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>31</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>33</supply>
+            <type>science facility</type>
+        </building>
+        <building>
+            <supply>33</supply>
+            <type>covert ops</type>
+        </building>
+        <building>
+            <supply>34</supply>
+            <type>academy</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <type>nuclear silo</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Fast_Nuke>

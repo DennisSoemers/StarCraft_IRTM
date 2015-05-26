@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_2_Rax_Tech>
+    <build_order>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <building>
+            <type>bunker</type>
+        </building>
+        <building>
+            <type>bunker</type>
+        </building>
+        <building>
+            <type>academy</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <unit>
+            <type>marine</type>
+        </unit>
+        <unit>
+            <type>mutalisk</type>
+        </unit>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>starport</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>refinery</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>starport</type>
+            </percentage>
+            <type>science facility</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>starport</type>
+            </percentage>
+            <type>engineering bay</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_2_Rax_Tech>

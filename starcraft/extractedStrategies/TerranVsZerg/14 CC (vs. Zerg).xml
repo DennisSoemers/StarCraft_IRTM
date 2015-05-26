@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_14_CC__vs__Zerg_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>17</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>18</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>22</supply>
+            <type>academy</type>
+        </building>
+        <building>
+            <supply>30</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>36</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>40</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>42</supply>
+            <type>engineering bay</type>
+        </building>
+        <unit>
+            <supply>42</supply>
+            <type>mutalisk</type>
+        </unit>
+        <building>
+            <supply>42</supply>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <supply>46</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>50</supply>
+            <type>factory</type>
+        </building>
+        <countered_by>
+            <soft>12</soft>
+            <soft>3 3 14 14cc</soft>
+            <hard>4-7 Pool</hard>
+            <hard>9 Pool</hard>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>62</supply>
+            <type>starport</type>
+        </building>
+        <building>
+            <supply>72</supply>
+            <type>science facility</type>
+        </building>
+        <building>
+            <supply>72</supply>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <supply>80</supply>
+            <type>barracks</type>
+        </building>
+        <countered_by>
+            <soft>12</soft>
+            <soft>3 3 14 14cc</soft>
+            <hard>4-7 Pool</hard>
+            <hard>9 Pool</hard>
+        </countered_by>
+        <counter_to>
+            <soft>12</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_14_CC__vs__Zerg_>

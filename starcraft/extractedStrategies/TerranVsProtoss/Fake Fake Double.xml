@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Fake_Fake_Double__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>refinery</type>
+        </building>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <unit>
+            <supply>14</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>15</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>17</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>machine shop</type>
+        </building>
+        <unit>
+            <supply>19</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>20</supply>
+            <type>factory</type>
+        </building>
+        <unit>
+            <supply>21</supply>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <supply>23</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>24</supply>
+            <type>marine</type>
+        </unit>
+        <unit>
+            <supply>25</supply>
+            <type>vulture</type>
+        </unit>
+        <countered_by>
+            <soft>2 Gate Goon Range Terran)</soft>
+            <hard>DT Fast Expand Terran)</hard>
+            <hard>DT Drop Terran)</hard>
+            <hard>2 Gate DT</hard>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>machine shop</type>
+        </building>
+        <countered_by>
+            <soft>2 Gate Goon Range Terran)</soft>
+            <hard>DT Fast Expand Terran)</hard>
+            <hard>DT Drop Terran)</hard>
+            <hard>2 Gate DT</hard>
+        </countered_by>
+        <counter_to>
+            <soft>10 Gates Terran)</soft>
+            <soft>15 Gates Terran)</soft>
+            <soft>12 Nexus</soft>
+            <hard>Fast Expansion Builds</hard>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_Fake_Fake_Double__vs__Protoss_>

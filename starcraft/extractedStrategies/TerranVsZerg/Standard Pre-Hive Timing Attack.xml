@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Standard_Pre_Hive_Timing_Attack>
+    <build_order>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>18</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>22</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>23</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>25</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>refinery</type>
+            </percentage>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>32</supply>
+            <type>academy</type>
+        </building>
+        <building>
+            <supply>38</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>38</supply>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>academy</type>
+            </percentage>
+            <type>academy</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>engineering bay</type>
+            </percentage>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <supply>48</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>48</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>52</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>58</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>60</supply>
+            <type>starport</type>
+        </building>
+        <building>
+            <supply>64</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>70</supply>
+            <type>science facility</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Standard_Pre_Hive_Timing_Attack>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Gundam_Rush>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>refinery</type>
+        </building>
+        <unit>
+            <supply>13</supply>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <supply>13</supply>
+            <type>scout</type>
+        </unit>
+        <building>
+            <supply>17</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>barracks</type>
+            </percentage>
+            <type>marine</type>
+        </unit>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>70</pct>
+                <type>machine shop</type>
+            </percentage>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>machine shop</type>
+            </percentage>
+            <type>siege tank</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>machine shop</type>
+            </percentage>
+            <type>spider mine</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>machine shop</type>
+            </percentage>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>vulture</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Gundam_Rush>

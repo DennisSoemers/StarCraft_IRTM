@@ -88,6 +88,7 @@ public class StarcraftIrtmFrame extends JFrame{
 					
 		});
 		fileChooser.setAcceptAllFileFilterUsed(false);
+		fileChooser.setFileSelectionMode(JFileChooser.FILES_AND_DIRECTORIES);
 		
 		// set up listeners
 		setupListeners();
@@ -103,17 +104,63 @@ public class StarcraftIrtmFrame extends JFrame{
 		mainPane.setDividerLocation(0.5);
 	}
 	
+	private void recursivelyProcess(StarcraftTextMiner textMiner, File sourceFile, File targetFile){
+		if(sourceFile.isDirectory()){
+			File[] children = sourceFile.listFiles();
+			
+			for(File child : children){
+				if(child.isDirectory()){
+					File targetSubdirectory = new File(targetFile.getAbsoluteFile() + File.separator + child.getName());
+					recursivelyProcess(textMiner, child, targetSubdirectory);
+				}
+				else{
+					String fileName = child.getName();
+					
+					if(fileName.endsWith(".txt") || fileName.endsWith(".html")){
+						try{
+							System.out.println("Processing " + child.getAbsolutePath() + "...");
+							StarcraftStrategy strategy = textMiner.processFile(child);
+							
+							if(strategy != null){
+								String targetFileName = targetFile.getAbsolutePath() + File.separator + fileName;
+								if(targetFileName.endsWith(".txt")){
+									targetFileName = targetFileName.replace(".txt", ".xml");
+								}
+								else{
+									targetFileName = targetFileName.replace(".html", ".xml");
+								}
+								
+								strategy.serialize(new File(targetFileName));
+							}
+						}
+						catch(IOException exception){
+							exception.printStackTrace();
+						}
+					}
+				}
+			}
+		}
+	}
+	
 	private void setupListeners(){
 		loadDataMenuItem.addActionListener(new ActionListener(){
 
 			public void actionPerformed(ActionEvent event) {
-				int returnValue = fileChooser.showOpenDialog(StarcraftIrtmFrame.this);
+				int returnValue = fileChooser.showDialog(StarcraftIrtmFrame.this, "Choose entire corpus or single file to load");
 				
 				if(returnValue == JFileChooser.APPROVE_OPTION){
 					File openedFile = fileChooser.getSelectedFile();
 					try {
 						if(openedFile.isDirectory()){
-							// TODO process entire corpus
+							returnValue = fileChooser.showDialog(StarcraftIrtmFrame.this, "Choose directory to save results in");
+							
+							if(returnValue == JFileChooser.APPROVE_OPTION){
+								File targetDirectory = fileChooser.getSelectedFile();
+								
+								if(targetDirectory.exists() && targetDirectory.isDirectory()){
+									recursivelyProcess(new StarcraftTextMiner(), openedFile, targetDirectory);
+								}
+							}
 						}
 						else if(openedFile.exists()){
 							StarcraftTextMiner textMiner = new StarcraftTextMiner();

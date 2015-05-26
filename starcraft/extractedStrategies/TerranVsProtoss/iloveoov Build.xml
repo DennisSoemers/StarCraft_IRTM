@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_iloveoov_Build>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>21</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>21</supply>
+            <type>machine shop</type>
+        </building>
+        <countered_by>
+            <soft>Reach 3rd</soft>
+            <soft>2 However</soft>
+            <soft>Flash</soft>
+            <soft>Double Armory</soft>
+            <soft>2 Carrier.</soft>
+            <soft>2 Arbiter.</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>academy</type>
+        </building>
+        <building>
+            <type>starport</type>
+        </building>
+        <building>
+            <type>command center</type>
+        </building>
+        <building>
+            <type>command center</type>
+        </building>
+        <building>
+            <type>science facility</type>
+        </building>
+        <countered_by>
+            <soft>Reach 3rd</soft>
+            <soft>2 However</soft>
+            <soft>Flash</soft>
+            <soft>Double Armory</soft>
+            <soft>2 Carrier.</soft>
+            <soft>2 Arbiter.</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>command center</type>
+        </building>
+        <unit>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <type>command center</type>
+        </building>
+        <building>
+            <type>gateway</type>
+        </building>
+        <unit>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <countered_by>
+            <soft>Reach 3rd</soft>
+            <soft>2 However</soft>
+            <soft>Flash</soft>
+            <soft>Double Armory</soft>
+            <soft>2 Carrier.</soft>
+            <soft>2 Arbiter.</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>vulture</type>
+        </unit>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <countered_by>
+            <soft>Reach 3rd</soft>
+            <soft>2 However</soft>
+            <soft>Flash</soft>
+            <soft>Double Armory</soft>
+            <soft>2 Carrier.</soft>
+            <soft>2 Arbiter.</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <scout>
+            <type>scv</type>
+        </scout>
+        <unit>
+            <type>reaver</type>
+        </unit>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <type>gateway</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <countered_by>
+            <soft>Reach 3rd</soft>
+            <soft>2 However</soft>
+            <soft>Flash</soft>
+            <soft>Double Armory</soft>
+            <soft>2 Carrier.</soft>
+            <soft>2 Arbiter.</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <unit>
+            <type>vulture</type>
+        </unit>
+        <unit>
+            <type>vulture</type>
+        </unit>
+        <countered_by>
+            <soft>Reach 3rd</soft>
+            <soft>2 However</soft>
+            <soft>Flash</soft>
+            <soft>Double Armory</soft>
+            <soft>2 Carrier.</soft>
+            <soft>2 Arbiter.</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>dropship</type>
+        </unit>
+        <unit>
+            <type>dropship</type>
+        </unit>
+        <countered_by>
+            <soft>Reach 3rd</soft>
+            <soft>2 However</soft>
+            <soft>Flash</soft>
+            <soft>Double Armory</soft>
+            <soft>2 Carrier.</soft>
+            <soft>2 Arbiter.</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>reaver</type>
+        </unit>
+        <building>
+            <type>starport</type>
+        </building>
+        <unit>
+            <type>wraith</type>
+        </unit>
+        <countered_by>
+            <soft>Reach 3rd</soft>
+            <soft>2 However</soft>
+            <soft>Flash</soft>
+            <soft>Double Armory</soft>
+            <soft>2 Carrier.</soft>
+            <soft>2 Arbiter.</soft>
+        </countered_by>
+        <counter_to>
+            <soft>Rapidly Protoss.</soft>
+            <soft>2 DT Arbiter 3rd</soft>
+            <soft>Greedy Protoss</soft>
+            <soft>12 Nexus</soft>
+            <soft>14 Nexus</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_iloveoov_Build>

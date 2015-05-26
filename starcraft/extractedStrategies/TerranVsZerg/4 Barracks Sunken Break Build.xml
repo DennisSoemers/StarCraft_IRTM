@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_4_Barracks_Sunken_Break_Build>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <building>
+            <supply>14</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <building>
+            <supply>21</supply>
+            <type>command center</type>
+        </building>
+        <countered_by>
+            <soft>9 Pool</soft>
+            <hard>3 Hatch Zergling</hard>
+            <hard>2 Hatch Muta</hard>
+            <hard>2 Hatch Lurker</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Requiem</strong>
+        </maps>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>25</supply>
+            <type>bunker</type>
+        </building>
+        <building>
+            <supply>26</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>26</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>26</supply>
+            <type>academy</type>
+        </building>
+        <unit>
+            <supply>26</supply>
+            <type>marine</type>
+        </unit>
+        <unit>
+            <supply>27</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>28</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>40</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>48</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>48</supply>
+            <type>engineering bay</type>
+        </building>
+        <countered_by>
+            <soft>9 Pool</soft>
+            <hard>3 Hatch Zergling</hard>
+            <hard>2 Hatch Muta</hard>
+            <hard>2 Hatch Lurker</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Requiem</strong>
+        </maps>
+    </build_order>
+    <build_order>
+        <building>
+            <type>barracks</type>
+        </building>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>26</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>26</supply>
+            <type>academy</type>
+        </building>
+        <unit>
+            <supply>26</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>31</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>39</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>47</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>51</supply>
+            <type>engineering bay</type>
+        </building>
+        <countered_by>
+            <soft>9 Pool</soft>
+            <hard>3 Hatch Zergling</hard>
+            <hard>2 Hatch Muta</hard>
+            <hard>2 Hatch Lurker</hard>
+        </countered_by>
+        <counter_to>
+            <hard>3 Hatch Muta</hard>
+            <hard>3 Hatch Lurker</hard>
+        </counter_to>
+        <maps>
+            <strong>Requiem</strong>
+        </maps>
+    </build_order>
+</strategy_4_Barracks_Sunken_Break_Build>

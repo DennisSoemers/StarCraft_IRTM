@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<strategy_2_Rax_FE__vs__Zerg_>
+<strategy_Sparks_Terran>
     <build_order>
         <building>
             <supply>9</supply>
@@ -13,34 +13,35 @@
             <supply>13</supply>
             <type>barracks</type>
         </building>
+        <unit>
+            <type>marine</type>
+        </unit>
+        <unit>
+            <supply>12</supply>
+            <type>scout</type>
+        </unit>
         <building>
-            <supply>14</supply>
+            <supply>15</supply>
             <type>supply depot</type>
         </building>
         <building>
-            <supply>18</supply>
+            <supply>20</supply>
             <type>refinery</type>
         </building>
         <building>
-            <supply>22</supply>
+            <supply>24</supply>
             <type>academy</type>
         </building>
         <building>
-            <supply>24</supply>
-            <type>supply depot</type>
+            <type>barracks</type>
         </building>
         <countered_by>
-            <soft>3 Hatch Muta</soft>
+            <soft>2 Hatchery Mutalisks</soft>
+            <soft>2 Hatchery Lurker</soft>
         </countered_by>
         <counter_to>
-            <soft>2 Hatch Muta</soft>
-            <soft>2 Hatch Lurker</soft>
+            <soft>3 Hatchery Mutalisks</soft>
         </counter_to>
-        <maps>
-            <strong>Destination</strong>
-            <strong>Raid Assault</strong>
-            <weak>Arcadia</weak>
-            <weak>Loki</weak>
-        </maps>
+        <maps/>
     </build_order>
-</strategy_2_Rax_FE__vs__Zerg_>
+</strategy_Sparks_Terran>

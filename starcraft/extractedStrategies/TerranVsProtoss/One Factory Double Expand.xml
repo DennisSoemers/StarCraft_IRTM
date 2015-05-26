@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Factory_Double_Expand__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>machine shop</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>machine shop</type>
+            </percentage>
+            <type>vulture</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>machine shop</type>
+            </percentage>
+            <type>spider mine</type>
+        </unit>
+        <building>
+            <supply>21</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>24</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>36</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>38</supply>
+            <type>factory</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>command center</type>
+        </building>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <type>factory</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_1_Factory_Double_Expand__vs__Protoss_>

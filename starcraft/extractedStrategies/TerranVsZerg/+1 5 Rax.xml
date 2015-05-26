@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy__1_5_Rax>
+    <build_order>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>command center</type>
+        </building>
+        <countered_by>
+            <soft>Early Speedling</soft>
+            <soft>3Hatch Lurker</soft>
+            <hard>2Hatch Muta</hard>
+            <hard>2Hatch Lurker</hard>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>refinery</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <type>bunker</type>
+        </building>
+        <building>
+            <type>academy</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <countered_by>
+            <soft>Early Speedling</soft>
+            <soft>3Hatch Lurker</soft>
+            <hard>2Hatch Muta</hard>
+            <hard>2Hatch Lurker</hard>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <type>academy</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>engineering bay</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>engineering bay</type>
+            </percentage>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>barracks</type>
+        </building>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <type>marine</type>
+        </unit>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <countered_by>
+            <soft>Early Speedling</soft>
+            <soft>3Hatch Lurker</soft>
+            <hard>2Hatch Muta</hard>
+            <hard>2Hatch Lurker</hard>
+        </countered_by>
+        <counter_to>
+            <soft>3Hatch Muta</soft>
+            <hard>Fast 3rd Base</hard>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy__1_5_Rax>

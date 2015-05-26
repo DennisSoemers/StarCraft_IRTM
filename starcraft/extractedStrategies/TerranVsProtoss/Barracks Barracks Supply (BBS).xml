@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Barracks_Barracks_Supply__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>barracks</type>
+        </building>
+        <unit>
+            <supply>8</supply>
+            <type>scv</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>10</supply>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>barracks</type>
+            </percentage>
+            <type>scout</type>
+        </unit>
+        <building>
+            <supply>14</supply>
+            <type>supply depot</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Barracks_Barracks_Supply__vs__Protoss_>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Bunker_Rush__vs__Zerg_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>10</supply>
+            <type>scout</type>
+        </unit>
+        <scout>
+            <type>scout</type>
+        </scout>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <countered_by>
+            <soft>12 Pool</soft>
+            <hard>4 Pool</hard>
+            <hard>9 Pool</hard>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>barracks</type>
+        </building>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>barracks</type>
+        </building>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <countered_by>
+            <soft>12 Pool</soft>
+            <hard>4 Pool</hard>
+            <hard>9 Pool</hard>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>bunker</type>
+        </building>
+        <building>
+            <type>bunker</type>
+        </building>
+        <countered_by>
+            <soft>12 Pool</soft>
+            <hard>4 Pool</hard>
+            <hard>9 Pool</hard>
+        </countered_by>
+        <counter_to>
+            <hard>12 Hatch</hard>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_Bunker_Rush__vs__Zerg_>

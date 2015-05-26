@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Rax_FE__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>15</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>refinery</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>16</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>17</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>18</supply>
+            <type>refinery</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>21</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>21</supply>
+            <type>bunker</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>25</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>28</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>30</supply>
+            <type>refinery</type>
+        </building>
+        <unit>
+            <supply>31</supply>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <supply>37</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>44</supply>
+            <type>engineering bay</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>25</supply>
+            <type>engineering bay</type>
+        </building>
+        <unit>
+            <supply>28</supply>
+            <type>siege tank</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <unit>
+            <type>marine</type>
+        </unit>
+        <building>
+            <type>command center</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_1_Rax_FE__vs__Protoss_>

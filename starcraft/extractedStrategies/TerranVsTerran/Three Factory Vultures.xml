@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Three_Factory_Vultures>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>refinery</type>
+        </building>
+        <unit>
+            <supply>11</supply>
+            <type>scout</type>
+        </unit>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>16</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>18</supply>
+            <type>factory</type>
+        </building>
+        <unit>
+            <supply>18</supply>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>20</supply>
+            <type>factory</type>
+        </building>
+        <unit>
+            <supply>20</supply>
+            <type>marine</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>vulture</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>factory</type>
+            </percentage>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <supply>22</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>25</supply>
+            <type>vulture</type>
+        </unit>
+        <building>
+            <supply>25</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>25</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>27</supply>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <supply>30</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>32</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>32</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>32</supply>
+            <type>factory</type>
+        </building>
+        <countered_by/>
+        <counter_to>
+            <soft>1 Factory Expansion</soft>
+            <soft>1 Port Wraith</soft>
+            <hard>13 CC</hard>
+            <hard>14 CC</hard>
+            <hard>2 Port Wraith</hard>
+            <hard>1 Port Wraith</hard>
+            <hard>FE</hard>
+        </counter_to>
+        <maps>
+            <strong>Blue Storm</strong>
+            <strong>Destination</strong>
+            <strong>Python</strong>
+            <strong>Othello</strong>
+            <weak>Lost Temple</weak>
+            <weak>Katrina</weak>
+            <weak>Tau Cross</weak>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+</strategy_Three_Factory_Vultures>

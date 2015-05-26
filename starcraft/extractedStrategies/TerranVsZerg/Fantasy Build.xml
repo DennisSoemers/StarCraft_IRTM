@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Fantasy_Build>
+    <build_order>
+        <building>
+            <type>refinery</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <type>starport</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <unit>
+            <type>vulture</type>
+        </unit>
+        <building>
+            <type>command center</type>
+        </building>
+        <unit>
+            <type>dropship</type>
+        </unit>
+        <building>
+            <type>armory</type>
+        </building>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <building>
+            <type>factory</type>
+        </building>
+        <unit>
+            <type>valkyrie</type>
+        </unit>
+        <countered_by>
+            <soft>2 Hatchery Mutalisks</soft>
+            <soft>3 Hatch Hydralisk Overlord Speed</soft>
+        </countered_by>
+        <counter_to>
+            <soft>3 Hatchery Mutalisks</soft>
+        </counter_to>
+        <maps>
+            <strong>Destination</strong>
+            <strong>Medusa</strong>
+            <strong>Raid Assault</strong>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>zergling</type>
+        </unit>
+        <unit>
+            <type>vulture</type>
+        </unit>
+        <scout>
+            <type>hydralisk</type>
+        </scout>
+        <unit>
+            <type>dropship</type>
+        </unit>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <unit>
+            <type>goliath</type>
+        </unit>
+        <countered_by>
+            <soft>2 Hatchery Mutalisks</soft>
+            <soft>3 Hatch Hydralisk Overlord Speed</soft>
+        </countered_by>
+        <counter_to>
+            <soft>3 Hatchery Mutalisks</soft>
+        </counter_to>
+        <maps>
+            <strong>Destination</strong>
+            <strong>Medusa</strong>
+            <strong>Raid Assault</strong>
+        </maps>
+    </build_order>
+</strategy_Fantasy_Build>

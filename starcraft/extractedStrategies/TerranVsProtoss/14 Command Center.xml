@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_14_CC__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <countered_by>
+            <soft>Fast Dark Templar</soft>
+            <hard>3 Gate Dragoon Range</hard>
+            <hard>Bunker Dragoons</hard>
+            <hard>10 Gate</hard>
+            <hard>15 Gate</hard>
+            <hard>Bulldog</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Blitz</strong>
+            <strong>Katrina</strong>
+            <weak>Requiem</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>marine</type>
+        </unit>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>gateway</type>
+        </building>
+        <building>
+            <type>bunker</type>
+        </building>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <type>bunker</type>
+        </building>
+        <unit>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <type>gateway</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <countered_by>
+            <soft>Fast Dark Templar</soft>
+            <hard>3 Gate Dragoon Range</hard>
+            <hard>Bunker Dragoons</hard>
+            <hard>10 Gate</hard>
+            <hard>15 Gate</hard>
+            <hard>Bulldog</hard>
+        </countered_by>
+        <counter_to>
+            <soft>14 Nexus</soft>
+        </counter_to>
+        <maps>
+            <strong>Blitz</strong>
+            <strong>Katrina</strong>
+            <weak>Requiem</weak>
+        </maps>
+    </build_order>
+</strategy_14_CC__vs__Protoss_>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Factory_Starport__vs__Zerg_>
+    <build_order>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>command center</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>starport</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>science facility</type>
+        </building>
+        <building>
+            <type>starport</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <type>academy</type>
+        </building>
+        <building>
+            <type>science facility</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps>
+            <strong>Triathlon</strong>
+            <strong>Fortress</strong>
+        </maps>
+    </build_order>
+</strategy_1_Factory_Starport__vs__Zerg_>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_TvZ_9_Minute_Push>
+    <build_order>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>command center</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>academy</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>comsat station</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <building>
+            <type>starport</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <building>
+            <type>science facility</type>
+        </building>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <type>control tower</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <unit>
+            <type>mutalisk</type>
+        </unit>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <unit>
+            <type>lurker</type>
+        </unit>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <unit>
+            <type>lurker</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps>
+            <strong>Python</strong>
+            <strong>Luna</strong>
+            <strong>Fighting Spirit</strong>
+            <weak>Destination</weak>
+        </maps>
+    </build_order>
+</strategy_TvZ_9_Minute_Push>

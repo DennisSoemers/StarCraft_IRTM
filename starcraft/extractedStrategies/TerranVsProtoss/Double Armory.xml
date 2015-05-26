@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Double_Armory__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>refinery</type>
+        </building>
+        <unit>
+            <supply>13</supply>
+            <type>scout</type>
+        </unit>
+        <unit>
+            <supply>13</supply>
+            <type>scv</type>
+        </unit>
+        <building>
+            <supply>15</supply>
+            <type>factory</type>
+        </building>
+        <unit>
+            <supply>15</supply>
+            <type>scv</type>
+        </unit>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>15</supply>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <supply>16</supply>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <type>marine</type>
+        </unit>
+        <building>
+            <supply>21</supply>
+            <type>command center</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>machine shop</type>
+            </percentage>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <supply>24</supply>
+            <type>supply depot</type>
+        </building>
+        <countered_by>
+            <soft>Protoss</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>33</supply>
+            <type>armory</type>
+        </building>
+        <building>
+            <supply>33</supply>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <supply>38</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <unit>
+            <type>goliath</type>
+        </unit>
+        <building>
+            <supply>46</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>engineering bay</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>engineering bay</type>
+            </percentage>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>49</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>49</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>50</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <type>starport</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>starport</type>
+            </percentage>
+            <type>science facility</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>starport</type>
+            </percentage>
+            <type>armory</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>starport</type>
+            </percentage>
+            <type>academy</type>
+        </building>
+        <countered_by>
+            <soft>Protoss</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Double_Armory__vs__Protoss_>

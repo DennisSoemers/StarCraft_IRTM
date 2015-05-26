@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Rax_Gas__vs__Zerg_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>factory</type>
+        </building>
+        <countered_by>
+            <soft>None.</soft>
+            <hard>None.</hard>
+        </countered_by>
+        <counter_to>
+            <soft>Pool</soft>
+            <hard>None.</hard>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_1_Rax_Gas__vs__Zerg_>

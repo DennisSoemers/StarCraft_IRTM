@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<strategy_2_Rax_FE__vs__Zerg_>
+<strategy_Bionic_Terran_vs__Zerg_Guide>
     <build_order>
         <building>
             <supply>9</supply>
@@ -18,29 +18,38 @@
             <type>supply depot</type>
         </building>
         <building>
-            <supply>18</supply>
+            <supply>15</supply>
             <type>refinery</type>
         </building>
         <building>
-            <supply>22</supply>
+            <supply>18</supply>
             <type>academy</type>
         </building>
         <building>
-            <supply>24</supply>
-            <type>supply depot</type>
+            <supply>34</supply>
+            <type>command center</type>
         </building>
-        <countered_by>
-            <soft>3 Hatch Muta</soft>
-        </countered_by>
-        <counter_to>
-            <soft>2 Hatch Muta</soft>
-            <soft>2 Hatch Lurker</soft>
-        </counter_to>
-        <maps>
-            <strong>Destination</strong>
-            <strong>Raid Assault</strong>
-            <weak>Arcadia</weak>
-            <weak>Loki</weak>
-        </maps>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
     </build_order>
-</strategy_2_Rax_FE__vs__Zerg_>
+    <build_order>
+        <unit>
+            <type>mutalisk</type>
+        </unit>
+        <unit>
+            <type>lurker</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>barracks</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Bionic_Terran_vs__Zerg_Guide>

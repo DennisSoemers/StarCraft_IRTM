@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Factory_Tanks__vs__Zerg_>
+    <build_order>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <unit>
+            <type>siege tank</type>
+        </unit>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <countered_by/>
+        <counter_to>
+            <soft>Zerg"</soft>
+            <soft>Terran</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_1_Factory_Tanks__vs__Zerg_>

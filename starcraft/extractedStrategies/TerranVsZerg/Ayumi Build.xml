@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Ayumi_Build>
+    <build_order>
+        <unit>
+            <type>scv</type>
+        </unit>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>20</supply>
+            <type>command center</type>
+        </building>
+        <building>
+            <supply>23</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>29</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>35</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>refinery</type>
+            </percentage>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>37</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>38</supply>
+            <type>academy</type>
+        </building>
+        <building>
+            <supply>44</supply>
+            <type>supply depot</type>
+        </building>
+        <countered_by>
+            <soft>9 Pool</soft>
+            <hard>6 Pool</hard>
+            <hard>5 Pool</hard>
+            <hard>4 Pool</hard>
+            <hard>3 Hatch Zergling</hard>
+            <hard>2 Hatch Muta</hard>
+            <hard>2 Hatch Lurker</hard>
+        </countered_by>
+        <counter_to>
+            <hard>3 Hatch Muta</hard>
+            <hard>3 Hatch Lurker</hard>
+        </counter_to>
+        <maps>
+            <strong>Requiem</strong>
+        </maps>
+    </build_order>
+</strategy_Ayumi_Build>

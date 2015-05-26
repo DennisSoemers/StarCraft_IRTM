@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Walling_as_Terran>
+    <build_order>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>factory</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <type>armory</type>
+        </building>
+        <building>
+            <type>control tower</type>
+        </building>
+        <building>
+            <type>armory</type>
+        </building>
+        <building>
+            <type>armory</type>
+        </building>
+        <building>
+            <type>academy</type>
+        </building>
+        <building>
+            <type>machine shop</type>
+        </building>
+        <building>
+            <type>armory</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <building>
+            <type>comsat station</type>
+        </building>
+        <building>
+            <type>armory</type>
+        </building>
+        <building>
+            <type>missile turret</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Walling_as_Terran>

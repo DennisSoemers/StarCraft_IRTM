@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Proxy_Factory__vs__Zerg_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>barracks</type>
+        </building>
+        <unit>
+            <supply>8</supply>
+            <type>scv</type>
+        </unit>
+        <building>
+            <supply>8</supply>
+            <type>refinery</type>
+        </building>
+        <unit>
+            <supply>8</supply>
+            <type>scv</type>
+        </unit>
+        <building>
+            <supply>8</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>8</supply>
+            <type>supply depot</type>
+        </building>
+        <unit>
+            <supply>9</supply>
+            <type>scv</type>
+        </unit>
+        <unit>
+            <supply>10</supply>
+            <type>scv</type>
+        </unit>
+        <building>
+            <supply>10</supply>
+            <type>factory</type>
+        </building>
+        <countered_by>
+            <hard>4 Pool</hard>
+            <hard>5 Pool</hard>
+            <hard>9 Pool</hard>
+        </countered_by>
+        <counter_to>
+            <soft>12</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_Proxy_Factory__vs__Zerg_>

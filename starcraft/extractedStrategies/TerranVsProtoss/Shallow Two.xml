@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Shallow_Two_vs__Protoss_>
+    <build_order>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <type>bunker</type>
+        </building>
+        <building>
+            <type>refinery</type>
+        </building>
+        <building>
+            <type>academy</type>
+        </building>
+        <building>
+            <type>academy</type>
+        </building>
+        <building>
+            <type>comsat station</type>
+        </building>
+        <building>
+            <type>command center</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Shallow_Two_vs__Protoss_>

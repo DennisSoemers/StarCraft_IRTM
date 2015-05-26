@@ -93,6 +93,10 @@ public class StarcraftStrategy {
 	 */
 	public void serialize(File file) throws IOException{
 		if(!file.exists()){
+			if(file.getParentFile() != null){
+				file.getParentFile().mkdirs();
+			}
+			
 			file.createNewFile();
 		}
 		
@@ -457,7 +461,7 @@ public class StarcraftStrategy {
 	 * @return
 	 */
 	private String legalizeString(String s){
-		s = s.replaceAll("\\p{P}", " ").replaceAll(" ", "_");
+		s = s.replaceAll("\\p{P}", " ").replaceAll("\\+", " ").replaceAll(" ", "_");
 		
 		try{
 			Integer.parseInt(s.substring(0, 1));

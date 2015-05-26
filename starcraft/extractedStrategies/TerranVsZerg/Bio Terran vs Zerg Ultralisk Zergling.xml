@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Bio_Terran_vs_Zerg_Ultralisk_Zergling>
+    <build_order>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Bio_Terran_vs_Zerg_Ultralisk_Zergling>
