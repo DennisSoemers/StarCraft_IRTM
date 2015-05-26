@@ -78,6 +78,10 @@ public class StarcraftStrategy {
 		return counterToHard;
 	}
 	
+	public String getName(){
+		return strategyName;
+	}
+	
 	public ArrayList<String> getWeakMaps(){
 		return weakMaps;
 	}

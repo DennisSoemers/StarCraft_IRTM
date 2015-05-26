@@ -1,6 +1,7 @@
 package irtm.starcraft.gui;
 
 import irtm.starcraft.game.StarcraftStrategy;
+import irtm.starcraft.game.StarcraftStrategyGraph;
 import irtm.starcraft.textmining.StarcraftTextMiner;
 import irtm.starcraft.utils.WikiPageTree;
 
@@ -40,6 +41,8 @@ public class StarcraftIrtmFrame extends JFrame{
 			private JEditorPane rightTextPane;
 	
 	private JFileChooser fileChooser;
+	
+	private StarcraftStrategyGraph strategyGraph;
 	
 	public StarcraftIrtmFrame(){
 		super("StarCraft: Brood War - Strategy Retriever");
@@ -131,6 +134,21 @@ public class StarcraftIrtmFrame extends JFrame{
 								}
 								
 								strategy.serialize(new File(targetFileName));
+								
+								// save info for graph
+								String strategyName = strategy.getName();
+								for(String hardCounteredBy : strategy.getCounteredByHard()){
+									strategyGraph.addCounter(hardCounteredBy, strategyName, 1.f);
+								}
+								for(String softCounteredBy : strategy.getCounteredBySoft()){
+									strategyGraph.addCounter(softCounteredBy, strategyName, 0.5f);
+								}
+								for(String hardCounterTo : strategy.getCounterToHard()){
+									strategyGraph.addCounter(strategyName, hardCounterTo, 1.f);
+								}
+								for(String softCounterTo : strategy.getCounterToSoft()){
+									strategyGraph.addCounter(strategyName, softCounterTo, 0.5f);
+								}
 							}
 						}
 						catch(IOException exception){
@@ -158,7 +176,9 @@ public class StarcraftIrtmFrame extends JFrame{
 								File targetDirectory = fileChooser.getSelectedFile();
 								
 								if(targetDirectory.exists() && targetDirectory.isDirectory()){
+									strategyGraph = new StarcraftStrategyGraph();
 									recursivelyProcess(new StarcraftTextMiner(), openedFile, targetDirectory);
+									strategyGraph.serialize(targetDirectory);
 								}
 							}
 						}
