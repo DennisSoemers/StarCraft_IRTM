@@ -214,7 +214,8 @@ public class StarcraftTextMiner{
 		    			leaf.setContentType(ContentTypes.CounteredByHard);
 		    		}
 		    		else{
-		    			System.err.println("DONT KNOW HOW TO CLASSIFY COUNTERED BY list: [" + htmlElement.text() + "]");
+		    			// simply gonna assume it's a soft counter if not specified
+		    			leaf.setContentType(ContentTypes.CounteredBySoft);
 		    		}
 		    	}
 		    	else if(foundTermCounter && foundTermTo){
@@ -225,7 +226,8 @@ public class StarcraftTextMiner{
 		    			leaf.setContentType(ContentTypes.CounterToHard);
 		    		}
 		    		else{
-		    			System.err.println("DONT KNOW HOW TO CLASSIFY COUNTER TO list: [" + htmlElement.text() + "]");
+		    			// simply gonna assume it's a soft counter if not specified
+		    			leaf.setContentType(ContentTypes.CounterToSoft);
 		    		}
 		    	}
 		    	else if(nodeType == NodeTypes.List && foundTermBuild){	// currently only HTML lists can be build orders
