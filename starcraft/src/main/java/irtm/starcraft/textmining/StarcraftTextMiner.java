@@ -56,6 +56,7 @@ public class StarcraftTextMiner{
 	private final String TERM_HARD = "hard";
 	private final String TERM_BY = "by";
 	private final String TERM_TO = "to";
+	private final String TERM_BUILD = "build";
 	
 	public StarcraftTextMiner(){
 	}
@@ -150,6 +151,7 @@ public class StarcraftTextMiner{
 		    	boolean foundTermHard = false;
 		    	boolean foundTermBy = false;
 		    	boolean foundTermTo = false;
+		    	boolean foundTermBuild = false;
 		    	
 		    	ArrayList<Element> descriptiveHeaders = leaf.getDescriptiveHeaders();
 		    	for(Element header : descriptiveHeaders){
@@ -164,6 +166,7 @@ public class StarcraftTextMiner{
 		    		foundTermHard = foundTermHard || headerText.contains(TERM_HARD);
 		    		foundTermBy = foundTermBy || headerText.contains(TERM_BY);
 		    		foundTermTo = foundTermTo || headerText.contains(TERM_TO);
+		    		foundTermBuild = foundTermBuild || headerText.contains(TERM_BUILD);
 		    	}
 		    	
 		    	if(nodeType == NodeTypes.List){
@@ -198,7 +201,9 @@ public class StarcraftTextMiner{
 		    			leaf.setContentType(ContentTypes.WeakMaps);
 		    		}
 		    		else{
-		    			System.err.println("DONT KNOW HOW TO CLASSIFY MAPS list: [" + htmlElement.text() + "]");
+		    			// not printing the error here, sometimes there simply isn't a clear list of strong or weak maps
+		    			// (see: http://wiki.teamliquid.net/starcraft/2_Port_Wraith )
+		    			//System.err.println("DONT KNOW HOW TO CLASSIFY MAPS list: [" + htmlElement.text() + "]");
 		    		}
 		    	}
 		    	else if(foundTermCountered && foundTermBy){
@@ -223,7 +228,7 @@ public class StarcraftTextMiner{
 		    			System.err.println("DONT KNOW HOW TO CLASSIFY COUNTER TO list: [" + htmlElement.text() + "]");
 		    		}
 		    	}
-		    	else if(nodeType == NodeTypes.List){	// currently only HTML lists can be build orders
+		    	else if(nodeType == NodeTypes.List && foundTermBuild){	// currently only HTML lists can be build orders
 		    		leaf.setContentType(ContentTypes.BuildOrder);
 		    	}
 		    }

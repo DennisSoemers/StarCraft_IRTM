@@ -20,7 +20,8 @@ public class Launch {
 								"TerranVsTerran/1 Port Wraith (vs. Terran)",
 								"TerranVsTerran/1 Rax FE (vs. Terran)",
 								"TerranVsTerran/14 CC (vs. Terran)",
-								"TerranVsTerran/2 Fact Vults (vs. Terran)"
+								"TerranVsTerran/2 Fact Vults (vs. Terran)",
+								"TerranVsTerran/2 Port Wraith"
 							};
 		StarcraftTextMiner textMiner = new StarcraftTextMiner();
 		

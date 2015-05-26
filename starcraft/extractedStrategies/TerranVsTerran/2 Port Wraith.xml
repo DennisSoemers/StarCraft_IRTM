@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_2_Port_Wraith>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>barracks</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>refinery</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>factory</type>
+        </building>
+        <building>
+            <supply>22</supply>
+            <type>supply depot</type>
+        </building>
+        <building>
+            <supply>30</supply>
+            <type>supply depot</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_2_Port_Wraith>
