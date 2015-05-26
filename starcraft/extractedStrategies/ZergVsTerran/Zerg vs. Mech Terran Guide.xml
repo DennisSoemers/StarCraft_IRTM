@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Zerg_vs__Mech_Terran_Guide>
+    <build_order>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>extractor</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>sunken colony</type>
+        </building>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk den</type>
+            </percentage>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>extractor</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Zerg_vs__Mech_Terran_Guide>

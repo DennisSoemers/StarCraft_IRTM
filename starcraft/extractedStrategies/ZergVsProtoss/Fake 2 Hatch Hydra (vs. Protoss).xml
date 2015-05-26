@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Fake_2_Hatch_Hydra__vs__Protoss_>
+    <build_order>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk den</type>
+            </percentage>
+            <type>hydralisk</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Fake_2_Hatch_Hydra__vs__Protoss_>

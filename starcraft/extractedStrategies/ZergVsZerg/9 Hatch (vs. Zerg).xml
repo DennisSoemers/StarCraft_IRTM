@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_9_Hatch__vs__Zerg_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>8</supply>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <supply>7</supply>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <supply>7</supply>
+            <type>drone</type>
+        </unit>
+        <countered_by>
+            <soft>12 Pool</soft>
+            <soft>12 Hatch</soft>
+            <hard>4 Pool</hard>
+            <hard>5 Pool</hard>
+        </countered_by>
+        <counter_to>
+            <soft>9 Pool</soft>
+            <soft>11 Gas 10 Pool</soft>
+            <hard>6 Pool Pool</hard>
+            <hard>7 Pool Pool</hard>
+            <hard>8 Pool Pool</hard>
+        </counter_to>
+        <maps>
+            <strong>Blue Storm</strong>
+        </maps>
+    </build_order>
+</strategy_9_Hatch__vs__Zerg_>

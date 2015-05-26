@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_2_Gateway_Dark_Templar__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <unit>
+            <supply>13</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>16</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>18</supply>
+            <type>cybernetics core</type>
+        </building>
+        <unit>
+            <supply>19</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>22</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>23</supply>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <supply>27</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>29</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>29</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>29</supply>
+            <type>templar archives</type>
+        </building>
+        <building>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <type>dark templar</type>
+        </unit>
+        <building>
+            <type>forge</type>
+        </building>
+        <building>
+            <type>pylon</type>
+        </building>
+        <building>
+            <type>nexus</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_2_Gateway_Dark_Templar__vs__Protoss_>

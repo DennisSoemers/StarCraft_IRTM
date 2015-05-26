@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_4_Gate_Goon__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>13</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>17</supply>
+            <type>cybernetics core</type>
+        </building>
+        <unit>
+            <supply>18</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>22</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>23</supply>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <supply>27</supply>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <supply>31</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>33</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>41</supply>
+            <type>pylon</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_4_Gate_Goon__vs__Protoss_>

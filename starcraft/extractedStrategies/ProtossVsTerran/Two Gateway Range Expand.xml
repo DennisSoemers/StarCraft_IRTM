@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_2_Gate_Range_Expand>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>17</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>18</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>20</supply>
+            <type>nexus</type>
+        </building>
+        <unit>
+            <supply>20</supply>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <supply>22</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>24</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>31</supply>
+            <type>robotics facility</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_2_Gate_Range_Expand>

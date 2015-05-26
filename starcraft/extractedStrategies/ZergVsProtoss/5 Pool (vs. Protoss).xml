@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_5_Pool__vs__Protoss_>
+    <build_order>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <countered_by>
+            <soft>2 Gateway</soft>
+            <soft>1 Gate Tech</soft>
+        </countered_by>
+        <counter_to>
+            <soft>14 Nexus</soft>
+            <soft>Fast Expand</soft>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <weak>Python</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <building>
+            <type>extractor</type>
+        </building>
+        <building>
+            <type>extractor</type>
+        </building>
+        <countered_by>
+            <soft>2 Gateway</soft>
+            <soft>1 Gate Tech</soft>
+        </countered_by>
+        <counter_to>
+            <soft>14 Nexus</soft>
+            <soft>Fast Expand</soft>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <weak>Python</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <building>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <building>
+            <type>extractor</type>
+        </building>
+        <countered_by>
+            <soft>2 Gateway</soft>
+            <soft>1 Gate Tech</soft>
+        </countered_by>
+        <counter_to>
+            <soft>14 Nexus</soft>
+            <soft>Fast Expand</soft>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <weak>Python</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <countered_by>
+            <soft>2 Gateway</soft>
+            <soft>1 Gate Tech</soft>
+        </countered_by>
+        <counter_to>
+            <soft>14 Nexus</soft>
+            <soft>Fast Expand</soft>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <weak>Python</weak>
+        </maps>
+    </build_order>
+</strategy_5_Pool__vs__Protoss_>

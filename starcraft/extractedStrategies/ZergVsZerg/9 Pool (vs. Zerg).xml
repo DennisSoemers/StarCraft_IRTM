@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_9_Pool__vs__Zerg_>
+    <build_order>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <building>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>spawning pool</type>
+            </percentage>
+            <type>spawning pool</type>
+        </building>
+        <countered_by>
+            <soft>12 Pool</soft>
+            <soft>OverPool</soft>
+            <soft>11 Gas 10 Pool</soft>
+        </countered_by>
+        <counter_to>
+            <hard>12 Hatch</hard>
+            <hard>5 Pool</hard>
+        </counter_to>
+        <maps>
+            <strong>Blue Storm</strong>
+            <weak>Fantasy</weak>
+            <weak>Katrina</weak>
+        </maps>
+    </build_order>
+</strategy_9_Pool__vs__Zerg_>

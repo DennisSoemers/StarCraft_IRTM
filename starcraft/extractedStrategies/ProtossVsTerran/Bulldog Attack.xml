@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Bulldog__vs__Terran_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>17</supply>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <supply>20</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>20</supply>
+            <type>gateway</type>
+        </building>
+        <unit>
+            <supply>20</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>22</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>29</supply>
+            <type>robotics facility</type>
+        </building>
+        <building>
+            <supply>33</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>37</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>38</supply>
+            <type>shuttle</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Bulldog__vs__Terran_>

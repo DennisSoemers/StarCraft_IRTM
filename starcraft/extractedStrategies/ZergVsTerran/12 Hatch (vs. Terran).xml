@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_12_Hatch__vs__Terran_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>12</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>spawning pool</type>
+        </building>
+        <countered_by>
+            <soft>8 Rax</soft>
+            <soft>Bunker Rush Zerg)</soft>
+            <soft>14 CC Zerg)</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_12_Hatch__vs__Terran_>

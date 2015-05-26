@@ -80,14 +80,15 @@ public class StarcraftBuildOrder {
 			    			if(supplyLevels.length != 2){
 			    				printPreconditionError(tokenText);
 			    			}
-			    			
-			    			try{
-			    				int requiredSupply = Integer.parseInt(supplyLevels[0]);
-			    				preconditions.add(new StarcraftPrecondition(PreconditionTypes.SUPPLY, requiredSupply));
-			    				continue;
-			    			}
-			    			catch(NumberFormatException exception){
-			    				printPreconditionError(tokenText);
+			    			else{
+			    				try{
+				    				int requiredSupply = Integer.parseInt(supplyLevels[0]);
+				    				preconditions.add(new StarcraftPrecondition(PreconditionTypes.SUPPLY, requiredSupply));
+				    				continue;
+				    			}
+				    			catch(NumberFormatException exception){
+				    				printPreconditionError(tokenText);
+				    			}
 			    			}
 			    		}
 			    		else if(tokenText.equals("@") && i < tokens.size() - 2 && tokens.get(i+ 2).get(TextAnnotation.class).equals("%")){

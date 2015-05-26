@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_3_Hatch_Hydralisk__vs__Protoss_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>12</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <supply>16</supply>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk den</type>
+            </percentage>
+            <type>hydralisk</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk den</type>
+            </percentage>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk</type>
+            </percentage>
+            <type>hydralisk</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk</type>
+            </percentage>
+            <type>extractor</type>
+        </building>
+        <countered_by>
+            <hard>4</hard>
+        </countered_by>
+        <counter_to>
+            <soft>Protoss Fast Expand</soft>
+        </counter_to>
+        <maps>
+            <strong>Tau Cross</strong>
+            <strong>Python</strong>
+            <weak>Destination</weak>
+        </maps>
+    </build_order>
+</strategy_3_Hatch_Hydralisk__vs__Protoss_>

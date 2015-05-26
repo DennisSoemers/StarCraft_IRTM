@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Hatch_Lurker>
+    <build_order>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <building>
+            <type>lair</type>
+        </building>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <building>
+            <type>lair</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>lurker</type>
+            </percentage>
+            <type>lurker</type>
+        </unit>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>lurker</type>
+            </percentage>
+            <type>lurker</type>
+        </unit>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <unit>
+            <type>lurker</type>
+        </unit>
+        <countered_by>
+            <hard>2 Port Wraith</hard>
+            <hard>Missile Turret</hard>
+            <hard>Bunker</hard>
+            <hard>Failure</hard>
+        </countered_by>
+        <counter_to>
+            <soft>1 Rax FE</soft>
+            <soft>2 Rax FE</soft>
+            <hard>14CC</hard>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_1_Hatch_Lurker>

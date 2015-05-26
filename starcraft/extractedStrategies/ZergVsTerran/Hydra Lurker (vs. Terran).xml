@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Hydra_Lurker__vs__Terran_>
+    <build_order>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>12</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>hatchery</type>
+        </building>
+        <unit>
+            <supply>16</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>16</supply>
+            <type>extractor</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <type>zergling</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>60</pct>
+                <type>lair</type>
+            </percentage>
+            <type>hydralisk</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>90</pct>
+                <type>lair</type>
+            </percentage>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>lurker</type>
+        </unit>
+        <countered_by>
+            <hard>2</hard>
+            <hard>3+ Factory Tanks</hard>
+        </countered_by>
+        <counter_to>
+            <soft>SK Terran</soft>
+        </counter_to>
+        <maps>
+            <strong>Arcadia</strong>
+            <strong>Andromeda</strong>
+            <strong>Python</strong>
+        </maps>
+    </build_order>
+</strategy_Hydra_Lurker__vs__Terran_>

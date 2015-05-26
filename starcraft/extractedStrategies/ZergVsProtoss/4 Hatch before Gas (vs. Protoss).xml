@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_4_Hatch_before_Gas__vs__Protoss_>
+    <build_order>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>extractor</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>extractor</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>evolution chamber</type>
+            </percentage>
+            <type>extractor</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>extractor</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>evolution chamber</type>
+            </percentage>
+            <type>evolution chamber</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>evolution chamber</type>
+            </percentage>
+            <type>evolution chamber</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <unit>
+            <type>zergling</type>
+        </unit>
+        <building>
+            <type>spire</type>
+        </building>
+        <countered_by/>
+        <counter_to>
+            <soft>Protoss FE</soft>
+        </counter_to>
+        <maps>
+            <strong>Andromeda</strong>
+            <strong>Colosseum</strong>
+        </maps>
+    </build_order>
+</strategy_4_Hatch_before_Gas__vs__Protoss_>

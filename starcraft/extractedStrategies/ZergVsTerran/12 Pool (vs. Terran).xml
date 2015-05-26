@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_12_Pool__vs__Terran_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>9</supply>
+            <type>scout</type>
+        </unit>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>barracks</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>sunken colony</type>
+        </building>
+        <countered_by>
+            <soft>Any Terran</soft>
+            <hard>Any Wall-In</hard>
+            <hard>Mech 2 Port Wraith</hard>
+        </countered_by>
+        <counter_to>
+            <soft>14 CC</soft>
+            <soft>Any Barracks Terran</soft>
+            <hard>8 Rax</hard>
+        </counter_to>
+        <maps>
+            <strong>Match Point</strong>
+        </maps>
+    </build_order>
+</strategy_12_Pool__vs__Terran_>

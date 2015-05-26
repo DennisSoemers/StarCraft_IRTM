@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_3_Hatch_before_Pool__vs__Protoss_>
+    <build_order>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <countered_by>
+            <soft>Any Gateway</soft>
+        </countered_by>
+        <counter_to>
+            <soft>FE</soft>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <strong>Andromeda</strong>
+            <strong>Holy World</strong>
+            <weak>Peaks of Baekdu</weak>
+            <weak>Python</weak>
+        </maps>
+    </build_order>
+</strategy_3_Hatch_before_Pool__vs__Protoss_>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_9_Pool__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <unit>
+            <supply>8</supply>
+            <type>drone</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <supply>10</supply>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>spawning pool</type>
+            </percentage>
+            <type>hatchery</type>
+        </building>
+        <countered_by>
+            <soft>2 Gateway</soft>
+        </countered_by>
+        <counter_to>
+            <soft>FE 1 Cannon</soft>
+            <hard>14 Nexus</hard>
+            <hard>Proxy Gateways</hard>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <strong>Carthage</strong>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+</strategy_9_Pool__vs__Protoss_>

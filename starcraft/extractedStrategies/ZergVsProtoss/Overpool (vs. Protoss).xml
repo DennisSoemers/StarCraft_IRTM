@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Overpool__vs__Protoss_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>hatchery</type>
+        </building>
+        <countered_by/>
+        <counter_to>
+            <soft>Protoss Fast Expand</soft>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <strong>Carthage</strong>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>hatchery</type>
+        </building>
+        <countered_by/>
+        <counter_to>
+            <soft>Protoss Fast Expand</soft>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <strong>Carthage</strong>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>9</supply>
+            <type>extractor</type>
+        </building>
+        <countered_by/>
+        <counter_to>
+            <soft>Protoss Fast Expand</soft>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <strong>Carthage</strong>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <unit>
+            <supply>10</supply>
+            <type>drone</type>
+        </unit>
+        <building>
+            <supply>10</supply>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <supply>10</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>10</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>spawning pool</type>
+            </percentage>
+            <type>zergling</type>
+        </unit>
+        <countered_by/>
+        <counter_to>
+            <soft>Protoss Fast Expand</soft>
+        </counter_to>
+        <maps>
+            <strong>Medusa</strong>
+            <strong>Carthage</strong>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+</strategy_Overpool__vs__Protoss_>

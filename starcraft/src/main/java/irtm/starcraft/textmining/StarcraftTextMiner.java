@@ -264,10 +264,6 @@ public class StarcraftTextMiner{
 	    			elements.add(leaf.getElement());
 	    		}
 	    		
-	    		if(lastBuildOrder == null && leafContentType != ContentTypes.Unknown){
-	    			System.err.println("Encountered data to be added to a build order before encountering any build orders!");
-	    		}
-	    		
 	    		for(Element element : elements){
 	    			String listElementText = element.text();
 	    			
@@ -280,7 +276,7 @@ public class StarcraftTextMiner{
 	    			{
 	    				ArrayList<String> counters = extractStrategyNames(listElementText);
 	    				
-	    				if(numCounteredByHeaders == 1){		// add counters to entire strategy
+	    				if(numCounteredByHeaders == 1 || lastBuildOrder == null){		// add counters to entire strategy
 	    					for(String strategyName : counters){
 	    						lastStrategy.addCounteredByHard(strategyName);
 		    				}
@@ -294,7 +290,7 @@ public class StarcraftTextMiner{
 	    			else if(leafContentType == ContentTypes.CounteredBySoft){
 	    				ArrayList<String> counters = extractStrategyNames(listElementText);
 	    				
-	    				if(numCounteredByHeaders == 1){		// add counters to entire strategy
+	    				if(numCounteredByHeaders == 1 || lastBuildOrder == null){		// add counters to entire strategy
 	    					for(String strategyName : counters){
 	    						lastStrategy.addCounteredBySoft(strategyName);
 		    				}
@@ -308,7 +304,7 @@ public class StarcraftTextMiner{
 	    			else if(leafContentType == ContentTypes.CounterToHard){
 	    				ArrayList<String> counters = extractStrategyNames(listElementText);
 	    				
-	    				if(numCounterToHeaders == 1){	// add counters to entire strategy
+	    				if(numCounterToHeaders == 1 || lastBuildOrder == null){	// add counters to entire strategy
 	    					for(String strategyName : counters){
 	    						lastStrategy.addCounterToHard(strategyName);
 		    				}
@@ -322,7 +318,7 @@ public class StarcraftTextMiner{
 	    			else if(leafContentType == ContentTypes.CounterToSoft){
 	    				ArrayList<String> counters = extractStrategyNames(listElementText);
 	    				
-	    				if(numCounterToHeaders == 1){	// add counters to entire strategy
+	    				if(numCounterToHeaders == 1 || lastBuildOrder == null){	// add counters to entire strategy
 	    					for(String strategyName : counters){
 	    						lastStrategy.addCounterToSoft(strategyName);
 		    				}
@@ -336,7 +332,7 @@ public class StarcraftTextMiner{
 	    			else if(leafContentType == ContentTypes.StrongMaps){
 	    				ArrayList<String> strongMapNames = extractMapNames(listElementText);
 	    				
-	    				if(numMapHeaders == 1){		// add maps to entire strategy
+	    				if(numMapHeaders == 1 || lastBuildOrder == null){		// add maps to entire strategy
 	    					for(String mapName : strongMapNames){
 	    						lastStrategy.addStrongMap(mapName);
 		    				}
@@ -350,7 +346,7 @@ public class StarcraftTextMiner{
 	    			else if(leafContentType == ContentTypes.WeakMaps){
 	    				ArrayList<String> weakMapNames = extractMapNames(listElementText);
 	    				
-	    				if(numMapHeaders == 1){		// add maps to entire strategy
+	    				if(numMapHeaders == 1 || lastBuildOrder == null){		// add maps to entire strategy
 	    					for(String mapName : weakMapNames){
 	    						lastStrategy.addWeakMap(mapName);
 		    				}
@@ -515,6 +511,10 @@ public class StarcraftTextMiner{
 			String[] strategyTokens = strategyTokenSequence.split(" ");
 			strategyTokenSequence = "";
 			for(String token : strategyTokens){
+				if(token.equals("")){
+					continue;
+				}
+				
 				if(StringUtils.isCapitalized(token) || StringUtils.isNumeric(token.substring(0, 1))){
 					strategyTokenSequence += token + " ";
 				}

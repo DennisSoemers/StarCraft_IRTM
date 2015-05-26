@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_User_GeckoXp_Strategy>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_User_GeckoXp_Strategy>

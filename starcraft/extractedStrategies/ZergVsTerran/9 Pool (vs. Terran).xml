@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_9_Pool__vs__Terran_>
+    <build_order>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <unit>
+            <supply>8</supply>
+            <type>drone</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <supply>8</supply>
+            <type>drone</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <supply>10</supply>
+            <type>overlord</type>
+        </unit>
+        <countered_by>
+            <soft>2 Rax FE</soft>
+            <soft>Non-proxy 8 Rax</soft>
+            <hard>Zergling-tight Walls</hard>
+        </countered_by>
+        <counter_to>
+            <soft>1 Rax FE</soft>
+            <hard>14 CC</hard>
+            <hard>Proxy Barracks</hard>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_9_Pool__vs__Terran_>

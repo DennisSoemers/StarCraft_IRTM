@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Corsair_Reaver__vs__Zerg_>
+    <build_order>
+        <building>
+            <type>stargate</type>
+        </building>
+        <unit>
+            <type>corsair</type>
+        </unit>
+        <building>
+            <type>robotics facility</type>
+        </building>
+        <unit>
+            <type>shuttle</type>
+        </unit>
+        <unit>
+            <type>reaver</type>
+        </unit>
+        <unit>
+            <type>shuttle</type>
+        </unit>
+        <building>
+            <type>stargate</type>
+        </building>
+        <building>
+            <type>fleet beacon</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Corsair_Reaver__vs__Zerg_>

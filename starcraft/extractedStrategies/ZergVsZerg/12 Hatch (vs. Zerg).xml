@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_12_Hatch__vs__Zerg_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>12</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>spawning pool</type>
+        </building>
+        <countered_by>
+            <soft>Overpool Notes)</soft>
+            <hard>4 Pool</hard>
+            <hard>5 Pool</hard>
+            <hard>9 Pool Notes)</hard>
+        </countered_by>
+        <counter_to>
+            <soft>12 Pool</soft>
+            <soft>9 Hatch</soft>
+        </counter_to>
+        <maps>
+            <strong>Andromeda</strong>
+            <weak>Blue Storm</weak>
+        </maps>
+    </build_order>
+</strategy_12_Hatch__vs__Zerg_>

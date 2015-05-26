@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Overpool__vs__Zerg_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>9</supply>
+            <type>extractor</type>
+        </building>
+        <countered_by>
+            <soft>12 Pool Zerg)</soft>
+        </countered_by>
+        <counter_to>
+            <soft>9 Pool</soft>
+            <hard>12 Hatch</hard>
+            <hard>5 Pool</hard>
+        </counter_to>
+        <maps>
+            <strong>Othello</strong>
+            <strong>Python</strong>
+            <strong>Blue Storm</strong>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <unit>
+            <supply>8</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>9</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>10</supply>
+            <type>drone</type>
+        </unit>
+        <countered_by>
+            <soft>12 Pool Zerg)</soft>
+        </countered_by>
+        <counter_to>
+            <soft>9 Pool</soft>
+            <hard>12 Hatch</hard>
+            <hard>5 Pool</hard>
+        </counter_to>
+        <maps>
+            <strong>Othello</strong>
+            <strong>Python</strong>
+            <strong>Blue Storm</strong>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>zergling</type>
+        </unit>
+        <building>
+            <type>lair</type>
+        </building>
+        <unit>
+            <supply>18</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>creep colony</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <countered_by>
+            <soft>12 Pool Zerg)</soft>
+        </countered_by>
+        <counter_to>
+            <soft>9 Pool</soft>
+            <hard>12 Hatch</hard>
+            <hard>5 Pool</hard>
+        </counter_to>
+        <maps>
+            <strong>Othello</strong>
+            <strong>Python</strong>
+            <strong>Blue Storm</strong>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <building>
+            <type>creep colony</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>creep colony</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <countered_by>
+            <soft>12 Pool Zerg)</soft>
+        </countered_by>
+        <counter_to>
+            <soft>9 Pool</soft>
+            <hard>12 Hatch</hard>
+            <hard>5 Pool</hard>
+        </counter_to>
+        <maps>
+            <strong>Othello</strong>
+            <strong>Python</strong>
+            <strong>Blue Storm</strong>
+            <weak>Andromeda</weak>
+        </maps>
+    </build_order>
+</strategy_Overpool__vs__Zerg_>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_5_Gate_Ranged_Goons__vs__Zerg_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>forge</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>forge</type>
+            </percentage>
+            <type>photon cannon</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>18</supply>
+            <type>nexus</type>
+        </building>
+        <building>
+            <supply>19</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>19</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>gateway</type>
+            </percentage>
+            <type>cybernetics core</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>gateway</type>
+            </percentage>
+            <type>zealot</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>cybernetics core</type>
+            </percentage>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>cybernetics core</type>
+            </percentage>
+            <type>assimilator</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>forge</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_5_Gate_Ranged_Goons__vs__Zerg_>

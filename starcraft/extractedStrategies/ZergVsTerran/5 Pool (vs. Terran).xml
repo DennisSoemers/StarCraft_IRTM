@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_5_Pool__vs__Terran_>
+    <build_order>
+        <unit>
+            <supply>4</supply>
+            <type>drone</type>
+        </unit>
+        <building>
+            <supply>5</supply>
+            <type>spawning pool</type>
+        </building>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <building>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <building>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <countered_by>
+            <soft>8 Barracks Rax) Terran</soft>
+            <soft>11 Barracks</soft>
+            <hard>9 Barracks Bunker</hard>
+            <hard>10 Barracks</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Blood Bath</strong>
+            <weak>Arkanoid</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>larva</type>
+        </unit>
+        <unit>
+            <type>zergling</type>
+        </unit>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <countered_by>
+            <soft>8 Barracks Rax) Terran</soft>
+            <soft>11 Barracks</soft>
+            <hard>9 Barracks Bunker</hard>
+            <hard>10 Barracks</hard>
+        </countered_by>
+        <counter_to>
+            <soft>1 Rax Gas</soft>
+            <soft>1 Rax FE</soft>
+            <hard>14 CC</hard>
+        </counter_to>
+        <maps>
+            <strong>Blood Bath</strong>
+            <weak>Arkanoid</weak>
+        </maps>
+    </build_order>
+</strategy_5_Pool__vs__Terran_>

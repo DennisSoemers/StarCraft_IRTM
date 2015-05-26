@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Gate_Reaver>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>18</supply>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <supply>20</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>21</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>26</supply>
+            <type>robotics facility</type>
+        </building>
+        <building>
+            <supply>29</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>34</supply>
+            <type>observatory</type>
+        </building>
+        <unit>
+            <supply>34</supply>
+            <type>observer</type>
+        </unit>
+        <building>
+            <supply>37</supply>
+            <type>nexus</type>
+        </building>
+        <countered_by>
+            <soft>2 Fact JoyO Rush</soft>
+            <soft>Siege Expand</soft>
+            <hard>Terran Drop</hard>
+            <hard>Wraiths</hard>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>robotics facility</type>
+        </building>
+        <unit>
+            <type>shuttle</type>
+        </unit>
+        <building>
+            <type>engineering bay</type>
+        </building>
+        <unit>
+            <type>dragoon</type>
+        </unit>
+        <countered_by>
+            <soft>2 Fact JoyO Rush</soft>
+            <soft>Siege Expand</soft>
+            <hard>Terran Drop</hard>
+            <hard>Wraiths</hard>
+        </countered_by>
+        <counter_to>
+            <soft>FD Terran</soft>
+            <soft>2 Fact Gundam Rush</soft>
+            <soft>2 Fact Vulture</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_1_Gate_Reaver>

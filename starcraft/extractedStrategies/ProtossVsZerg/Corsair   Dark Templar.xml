@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Corsair_Dark_Templar__vs__Zerg_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <unit>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>cybernetics core</type>
+            </percentage>
+            <type>stargate</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>stargate</type>
+            </percentage>
+            <type>corsair</type>
+        </unit>
+        <building>
+            <type>templar archives</type>
+        </building>
+        <building>
+            <type>forge</type>
+        </building>
+        <building>
+            <type>gateway</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>templar archives</type>
+            </percentage>
+            <type>dark templar</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>pylon</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>stargate</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Corsair_Dark_Templar__vs__Zerg_>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_The_Stove>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>cybernetics core</type>
+        </building>
+        <unit>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <type>stargate</type>
+        </building>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <building>
+            <type>templar archives</type>
+        </building>
+        <unit>
+            <type>dark templar</type>
+        </unit>
+        <unit>
+            <type>arbiter</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>cybernetics core</type>
+        </building>
+        <unit>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <type>stargate</type>
+        </building>
+        <unit>
+            <type>scout</type>
+        </unit>
+        <building>
+            <type>templar archives</type>
+        </building>
+        <unit>
+            <type>dark templar</type>
+        </unit>
+        <unit>
+            <type>dark archon</type>
+        </unit>
+        <unit>
+            <type>arbiter</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_The_Stove>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Corsair_Carrier__vs__Zerg_>
+    <build_order>
+        <building>
+            <type>cybernetics core</type>
+        </building>
+        <unit>
+            <type>interceptor</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Corsair_Carrier__vs__Zerg_>

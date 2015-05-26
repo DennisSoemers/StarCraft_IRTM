@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_1_Gate_Core__vs__Terran_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>cybernetics core</type>
+        </building>
+        <countered_by>
+            <soft>2 Factory Builds</soft>
+        </countered_by>
+        <counter_to>
+            <soft>Siege Expand</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <unit>
+            <supply>13</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>16</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>18</supply>
+            <type>cybernetics core</type>
+        </building>
+        <countered_by>
+            <soft>2 Factory Builds</soft>
+        </countered_by>
+        <counter_to>
+            <soft>Siege Expand</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <unit>
+            <supply>13</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>16</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>17</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>20</supply>
+            <type>cybernetics core</type>
+        </building>
+        <countered_by>
+            <soft>2 Factory Builds</soft>
+        </countered_by>
+        <counter_to>
+            <soft>Siege Expand</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_1_Gate_Core__vs__Terran_>

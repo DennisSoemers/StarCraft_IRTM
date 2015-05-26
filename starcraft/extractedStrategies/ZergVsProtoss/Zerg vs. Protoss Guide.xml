@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Zerg_vs__Protoss_Guide>
+    <build_order>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Zerg_vs__Protoss_Guide>

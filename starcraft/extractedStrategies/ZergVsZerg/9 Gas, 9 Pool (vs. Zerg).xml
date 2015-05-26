@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_9_Gas__9_Pool__vs__Zerg_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>9</supply>
+            <type>extractor</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>lair</type>
+        </building>
+        <unit>
+            <supply>11</supply>
+            <type>zergling</type>
+        </unit>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>17</supply>
+            <type>overlord</type>
+        </unit>
+        <countered_by>
+            <soft>12 Hatch</soft>
+            <soft>9 Gas</soft>
+            <soft>10 Pool</soft>
+        </countered_by>
+        <counter_to>
+            <soft>9 Pool</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_9_Gas__9_Pool__vs__Zerg_>

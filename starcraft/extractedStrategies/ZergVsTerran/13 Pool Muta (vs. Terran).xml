@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_13_Pool_Muta__vs__Terran_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>13</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>extractor</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>hatchery</type>
+        </building>
+        <countered_by>
+            <soft>8 Rax</soft>
+            <soft>1 Rax FE</soft>
+            <hard>2 Rax FE</hard>
+            <hard>Most Terran 1 Base Play</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Outsider</strong>
+            <strong>Medusa</strong>
+            <strong>Heartbreak Ridge</strong>
+            <weak>Python</weak>
+            <weak>Tau Cross</weak>
+            <weak>Destination</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <supply>15</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>16</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>creep colony</type>
+        </building>
+        <building>
+            <type>sunken colony</type>
+        </building>
+        <unit>
+            <supply>20</supply>
+            <type>drone</type>
+        </unit>
+        <countered_by>
+            <soft>8 Rax</soft>
+            <soft>1 Rax FE</soft>
+            <hard>2 Rax FE</hard>
+            <hard>Most Terran 1 Base Play</hard>
+        </countered_by>
+        <counter_to>
+            <hard>Fantasy Build</hard>
+            <hard>Iloveoov Fake Mech</hard>
+            <hard>1 Vulture 2 Factory Goliaths</hard>
+            <hard>1 Vulture Biomech</hard>
+            <hard>M&amp;M)</hard>
+        </counter_to>
+        <maps>
+            <strong>Outsider</strong>
+            <strong>Medusa</strong>
+            <strong>Heartbreak Ridge</strong>
+            <weak>Python</weak>
+            <weak>Tau Cross</weak>
+            <weak>Destination</weak>
+        </maps>
+    </build_order>
+</strategy_13_Pool_Muta__vs__Terran_>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Overgas__vs_Zerg_>
+    <build_order>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>extractor</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Overgas__vs_Zerg_>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_5_Pool__vs__Zerg_>
+    <build_order>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <type>drone</type>
+        </unit>
+        <countered_by>
+            <soft>12 Pool</soft>
+            <hard>9 Pool</hard>
+            <hard>Overpool</hard>
+        </countered_by>
+        <counter_to>
+            <soft>12 Pool</soft>
+            <soft>11 Gas 10 Pool Lings</soft>
+            <hard>12 Hatch</hard>
+        </counter_to>
+        <maps>
+            <strong>Blood Bath</strong>
+            <strong>Andromeda</strong>
+            <strong>Longinus</strong>
+            <strong>Tau Cross</strong>
+        </maps>
+    </build_order>
+</strategy_5_Pool__vs__Zerg_>

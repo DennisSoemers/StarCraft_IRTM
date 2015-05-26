@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_9_Gas__10_Pool__vs__Zerg_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>extractor</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>lair</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <unit>
+            <supply>17</supply>
+            <type>zergling</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>spire</type>
+            </percentage>
+            <type>scourge</type>
+        </unit>
+        <countered_by>
+            <soft>12 Hatch</soft>
+        </countered_by>
+        <counter_to>
+            <soft>Overpool</soft>
+            <soft>9 Gas</soft>
+            <soft>9 Pool</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_9_Gas__10_Pool__vs__Zerg_>

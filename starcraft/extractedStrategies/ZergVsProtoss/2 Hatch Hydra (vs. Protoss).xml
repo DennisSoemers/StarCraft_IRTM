@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_2_Hatch_Hydra__vs__Protoss_>
+    <build_order>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>extractor</type>
+            </percentage>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <supply>16</supply>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <countered_by>
+            <soft>Well Sim-City.</soft>
+            <soft>1 Gate Tech You 1 Gate Tech.</soft>
+        </countered_by>
+        <counter_to>
+            <soft>Poorly Sim-City.</soft>
+        </counter_to>
+        <maps>
+            <strong>Destination</strong>
+            <weak>Medusa</weak>
+        </maps>
+    </build_order>
+</strategy_2_Hatch_Hydra__vs__Protoss_>

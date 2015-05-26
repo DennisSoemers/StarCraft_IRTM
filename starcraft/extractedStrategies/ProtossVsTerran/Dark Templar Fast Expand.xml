@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_DT_Fast_Expand__vs__Terran_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>cybernetics core</type>
+        </building>
+        <unit>
+            <supply>14</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>16</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>18</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>23</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>24</supply>
+            <type>templar archives</type>
+        </building>
+        <unit>
+            <supply>24</supply>
+            <type>dark templar</type>
+        </unit>
+        <building>
+            <supply>24</supply>
+            <type>nexus</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_DT_Fast_Expand__vs__Terran_>

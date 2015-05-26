@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_2_Hatch_Muta__vs__Terran_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>12</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>extractor</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <unit>
+            <supply>16</supply>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <type>zergling</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>85</pct>
+                <type>lair</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <type>larva</type>
+        </unit>
+        <countered_by>
+            <soft>Tank Rush Debatable. Depends However</soft>
+            <soft>Sunkens Mutalisks</soft>
+            <soft>Sparks Terran If Sunkens</soft>
+            <soft>Terran However</soft>
+            <soft>Mutalisks Terran's The</soft>
+            <soft>Marine</soft>
+            <soft>Medic</soft>
+            <hard>Proxy Barracks Bunker Rush A 12 Hatch</hard>
+            <hard>BBS A 12 Hatch</hard>
+            <hard>Bunker Rush</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Blue Storm</strong>
+            <strong>Match Point</strong>
+            <strong>Flight-Dreamliner</strong>
+            <weak>Fantasy</weak>
+            <weak>Katrina</weak>
+            <weak>Tau Cross</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>12</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>extractor</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <unit>
+            <type>zergling</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>spire</type>
+            </percentage>
+            <type>lair</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>spire</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <unit>
+            <type>larva</type>
+        </unit>
+        <building>
+            <type>spire</type>
+        </building>
+        <countered_by>
+            <soft>Tank Rush Debatable. Depends However</soft>
+            <soft>Sunkens Mutalisks</soft>
+            <soft>Sparks Terran If Sunkens</soft>
+            <soft>Terran However</soft>
+            <soft>Mutalisks Terran's The</soft>
+            <soft>Marine</soft>
+            <soft>Medic</soft>
+            <hard>Proxy Barracks Bunker Rush A 12 Hatch</hard>
+            <hard>BBS A 12 Hatch</hard>
+            <hard>Bunker Rush</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Blue Storm</strong>
+            <strong>Match Point</strong>
+            <strong>Flight-Dreamliner</strong>
+            <weak>Fantasy</weak>
+            <weak>Katrina</weak>
+            <weak>Tau Cross</weak>
+        </maps>
+    </build_order>
+</strategy_2_Hatch_Muta__vs__Terran_>

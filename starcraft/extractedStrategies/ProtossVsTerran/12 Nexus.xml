@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_12_Nexus>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>nexus</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <supply>17</supply>
+            <type>gateway</type>
+        </building>
+        <countered_by>
+            <soft>Barracks</soft>
+            <soft>14 CC</soft>
+            <soft>Proxy 5 Rax</soft>
+        </countered_by>
+        <counter_to>
+            <soft>Siege Expand</soft>
+            <soft>FD Pushes</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>nexus</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>assimilator</type>
+        </building>
+        <unit>
+            <supply>15</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>17</supply>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <supply>17</supply>
+            <type>gateway</type>
+        </building>
+        <countered_by>
+            <soft>Barracks</soft>
+            <soft>14 CC</soft>
+            <soft>Proxy 5 Rax</soft>
+        </countered_by>
+        <counter_to>
+            <soft>Siege Expand</soft>
+            <soft>FD Pushes</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_12_Nexus>

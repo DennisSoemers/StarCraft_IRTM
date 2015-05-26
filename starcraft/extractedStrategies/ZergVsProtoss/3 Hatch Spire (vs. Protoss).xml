@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_3_Hatch_Spire__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>12</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>16</supply>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <supply>16</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>lair</type>
+        </building>
+        <building>
+            <type>extractor</type>
+        </building>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>spire</type>
+            </percentage>
+            <type>scourge</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps>
+            <strong>Andromeda</strong>
+            <strong>Blue Storm</strong>
+        </maps>
+    </build_order>
+</strategy_3_Hatch_Spire__vs__Protoss_>

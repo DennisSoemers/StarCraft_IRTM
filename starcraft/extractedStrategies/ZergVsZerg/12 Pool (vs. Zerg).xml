@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_12_Pool__vs__Zerg_>
+    <build_order>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>12</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>extractor</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <building>
+            <type>spire</type>
+        </building>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <type>spire</type>
+        </building>
+        <unit>
+            <type>scourge</type>
+        </unit>
+        <countered_by>
+            <soft>4-7 Pool Notes)</soft>
+            <soft>12 Hatch</soft>
+            <hard>4-7 Pool Notes)</hard>
+        </countered_by>
+        <counter_to>
+            <soft>9</soft>
+            <soft>Overpool</soft>
+        </counter_to>
+        <maps>
+            <strong>Faoi</strong>
+            <strong>Hannibal</strong>
+            <strong>Medusa</strong>
+            <strong>Longinus</strong>
+            <weak>Ride of Valkyries</weak>
+        </maps>
+    </build_order>
+</strategy_12_Pool__vs__Zerg_>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_One_Base_Speedzeal__vs__Zerg_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <unit>
+            <supply>13</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>16</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>17</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>20</supply>
+            <type>cybernetics core</type>
+        </building>
+        <unit>
+            <supply>21</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>23</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>25</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>29</supply>
+            <type>gateway</type>
+        </building>
+        <unit>
+            <supply>29</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>31</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>37</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>37</supply>
+            <type>templar archives</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps>
+            <strong>Outsider</strong>
+            <strong>Lost Temple</strong>
+            <strong>Luna</strong>
+            <strong>Python</strong>
+            <weak>Andromeda</weak>
+            <weak>Fighting Spirit</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <unit>
+            <type>dragoon</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps>
+            <strong>Outsider</strong>
+            <strong>Lost Temple</strong>
+            <strong>Luna</strong>
+            <strong>Python</strong>
+            <weak>Andromeda</weak>
+            <weak>Fighting Spirit</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <scout>
+            <type>probe</type>
+        </scout>
+        <scout>
+            <type>zergling</type>
+        </scout>
+        <unit>
+            <type>overlord</type>
+        </unit>
+        <unit>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <type>gateway</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps>
+            <strong>Outsider</strong>
+            <strong>Lost Temple</strong>
+            <strong>Luna</strong>
+            <strong>Python</strong>
+            <weak>Andromeda</weak>
+            <weak>Fighting Spirit</weak>
+        </maps>
+    </build_order>
+</strategy_One_Base_Speedzeal__vs__Zerg_>

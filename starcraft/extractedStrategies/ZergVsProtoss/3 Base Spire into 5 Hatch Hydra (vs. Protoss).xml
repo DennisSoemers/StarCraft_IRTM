@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_3_Base_Spire_into_5_Hatch_Hydra__vs__Protoss_>
+    <build_order>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>forge</type>
+        </building>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <building>
+            <type>lair</type>
+        </building>
+        <unit>
+            <type>zergling</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>100</pct>
+                <type>lair</type>
+            </percentage>
+            <type>spire</type>
+        </building>
+        <building>
+            <supply>32</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <supply>32</supply>
+            <type>extractor</type>
+        </building>
+        <unit>
+            <supply>35</supply>
+            <type>hydralisk</type>
+        </unit>
+        <building>
+            <supply>35</supply>
+            <type>hatchery</type>
+        </building>
+        <unit>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>spire</type>
+            </percentage>
+            <type>scourge</type>
+        </unit>
+        <unit>
+            <supply>42</supply>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>hydralisk</type>
+            </percentage>
+            <type>hydralisk</type>
+        </unit>
+        <unit>
+            <supply>110</supply>
+            <type>lurker</type>
+        </unit>
+        <building>
+            <supply>110</supply>
+            <type>hatchery</type>
+        </building>
+        <countered_by>
+            <soft>Mass Goon</soft>
+            <soft>Templar Midgame This Mass Goon</soft>
+            <soft>Templar</soft>
+            <soft>Mutalisks Dragoons. Instead</soft>
+            <soft>Zerg Hydralisks</soft>
+            <soft>Zerglings.</soft>
+            <soft>Corsair</soft>
+            <soft>Reaver Similar Dragoon</soft>
+            <soft>Templar</soft>
+            <soft>Corsair</soft>
+            <soft>Reaver</soft>
+            <soft>Mutalisk Instead</soft>
+            <soft>Zerg</soft>
+            <soft>Protoss Hydralisk</soft>
+            <hard>1 Base Protoss The 3 Base Spire 5 Hatch Hydra Protoss
+                Fast Expansion.</hard>
+            <hard>Speedlot Against Speedlot</hard>
+            <hard>Mutalisks Protoss</hard>
+            <hard>Fast Maelstrom A Dark Archon Mutalisks</hard>
+            <hard>Zerg Even Dark Archons</hard>
+            <hard>Zerg However</hard>
+            <hard>Dark Archon</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Destination</strong>
+            <strong>Heartbreak Ridge</strong>
+            <weak>Longinus</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <building>
+            <type>factory</type>
+        </building>
+        <countered_by>
+            <soft>Mass Goon</soft>
+            <soft>Templar Midgame This Mass Goon</soft>
+            <soft>Templar</soft>
+            <soft>Mutalisks Dragoons. Instead</soft>
+            <soft>Zerg Hydralisks</soft>
+            <soft>Zerglings.</soft>
+            <soft>Corsair</soft>
+            <soft>Reaver Similar Dragoon</soft>
+            <soft>Templar</soft>
+            <soft>Corsair</soft>
+            <soft>Reaver</soft>
+            <soft>Mutalisk Instead</soft>
+            <soft>Zerg</soft>
+            <soft>Protoss Hydralisk</soft>
+            <hard>1 Base Protoss The 3 Base Spire 5 Hatch Hydra Protoss
+                Fast Expansion.</hard>
+            <hard>Speedlot Against Speedlot</hard>
+            <hard>Mutalisks Protoss</hard>
+            <hard>Fast Maelstrom A Dark Archon Mutalisks</hard>
+            <hard>Zerg Even Dark Archons</hard>
+            <hard>Zerg However</hard>
+            <hard>Dark Archon</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Destination</strong>
+            <strong>Heartbreak Ridge</strong>
+            <weak>Longinus</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <building>
+            <type>hatchery</type>
+        </building>
+        <countered_by>
+            <soft>Mass Goon</soft>
+            <soft>Templar Midgame This Mass Goon</soft>
+            <soft>Templar</soft>
+            <soft>Mutalisks Dragoons. Instead</soft>
+            <soft>Zerg Hydralisks</soft>
+            <soft>Zerglings.</soft>
+            <soft>Corsair</soft>
+            <soft>Reaver Similar Dragoon</soft>
+            <soft>Templar</soft>
+            <soft>Corsair</soft>
+            <soft>Reaver</soft>
+            <soft>Mutalisk Instead</soft>
+            <soft>Zerg</soft>
+            <soft>Protoss Hydralisk</soft>
+            <hard>1 Base Protoss The 3 Base Spire 5 Hatch Hydra Protoss
+                Fast Expansion.</hard>
+            <hard>Speedlot Against Speedlot</hard>
+            <hard>Mutalisks Protoss</hard>
+            <hard>Fast Maelstrom A Dark Archon Mutalisks</hard>
+            <hard>Zerg Even Dark Archons</hard>
+            <hard>Zerg However</hard>
+            <hard>Dark Archon</hard>
+        </countered_by>
+        <counter_to/>
+        <maps>
+            <strong>Destination</strong>
+            <strong>Heartbreak Ridge</strong>
+            <weak>Longinus</weak>
+        </maps>
+    </build_order>
+</strategy_3_Base_Spire_into_5_Hatch_Hydra__vs__Protoss_>

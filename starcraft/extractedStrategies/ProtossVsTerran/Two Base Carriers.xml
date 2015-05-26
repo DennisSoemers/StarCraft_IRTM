@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_2_Base_Carrier__vs__Terran_>
+    <build_order>
+        <building>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <type>robotics facility</type>
+        </building>
+        <building>
+            <type>stargate</type>
+        </building>
+        <building>
+            <type>stargate</type>
+        </building>
+        <unit>
+            <type>carrier</type>
+        </unit>
+        <unit>
+            <type>interceptor</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_2_Base_Carrier__vs__Terran_>

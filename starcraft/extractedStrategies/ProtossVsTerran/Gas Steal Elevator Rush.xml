@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Gas_Steal_Elevator_Rush__vs__Terran_>
+    <build_order>
+        <unit>
+            <supply>7</supply>
+            <type>probe</type>
+        </unit>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>11</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>13</supply>
+            <type>assimilator</type>
+        </building>
+        <unit>
+            <supply>13</supply>
+            <type>probe</type>
+        </unit>
+        <building>
+            <supply>14</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>14</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>18</supply>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <supply>22</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>24</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>24</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>27</supply>
+            <type>robotics facility</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>robotics facility</type>
+            </percentage>
+            <type>shuttle</type>
+        </unit>
+        <building>
+            <percentage>
+                <pct>50</pct>
+                <type>shuttle</type>
+            </percentage>
+            <type>engineering bay</type>
+        </building>
+        <building>
+            <supply>40</supply>
+            <type>robotics facility</type>
+        </building>
+        <unit>
+            <supply>46</supply>
+            <type>shuttle</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>shuttle</type>
+            </percentage>
+            <type>reaver</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Gas_Steal_Elevator_Rush__vs__Terran_>

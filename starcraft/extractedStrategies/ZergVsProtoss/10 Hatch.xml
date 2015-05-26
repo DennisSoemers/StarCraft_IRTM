@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_10_Hatch>
+    <build_order>
+        <building>
+            <supply>10</supply>
+            <type>hatchery</type>
+        </building>
+        <unit>
+            <supply>8</supply>
+            <type>drone</type>
+        </unit>
+        <unit>
+            <supply>9</supply>
+            <type>overlord</type>
+        </unit>
+        <building>
+            <supply>10</supply>
+            <type>hatchery</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <countered_by>
+            <soft>Protoss FE Zerg) Nexus Forge.</soft>
+        </countered_by>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <unit>
+            <supply>18</supply>
+            <type>overlord</type>
+        </unit>
+        <countered_by>
+            <soft>Protoss FE Zerg) Nexus Forge.</soft>
+        </countered_by>
+        <counter_to>
+            <soft>2 Gateway Zerg).</soft>
+        </counter_to>
+        <maps/>
+    </build_order>
+</strategy_10_Hatch>

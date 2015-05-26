@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_3_Gate_Speedzeal__vs__Protoss_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>gateway</type>
+        </building>
+        <unit>
+            <supply>13</supply>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <supply>15</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>21</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>27</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <type>gateway</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <scout>
+            <type>probe</type>
+        </scout>
+        <unit>
+            <type>zealot</type>
+        </unit>
+        <building>
+            <type>pylon</type>
+        </building>
+        <building>
+            <type>cybernetics core</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_3_Gate_Speedzeal__vs__Protoss_>

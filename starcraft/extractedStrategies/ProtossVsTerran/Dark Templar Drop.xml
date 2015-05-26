@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_DT_Drop__vs__Terran_>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>17</supply>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <supply>20</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>21</supply>
+            <type>pylon</type>
+        </building>
+        <unit>
+            <supply>22</supply>
+            <type>dragoon</type>
+        </unit>
+        <unit>
+            <supply>25</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>29</supply>
+            <type>nexus</type>
+        </building>
+        <unit>
+            <supply>30</supply>
+            <type>dragoon</type>
+        </unit>
+        <building>
+            <supply>33</supply>
+            <type>robotics facility</type>
+        </building>
+        <building>
+            <type>templar archives</type>
+        </building>
+        <building>
+            <type>gateway</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>robotics facility</type>
+            </percentage>
+            <type>shuttle</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>templar archives</type>
+            </percentage>
+            <type>dark templar</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
+            <supply>8</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <supply>10</supply>
+            <type>gateway</type>
+        </building>
+        <building>
+            <supply>12</supply>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <supply>14</supply>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <supply>15</supply>
+            <type>pylon</type>
+        </building>
+        <building>
+            <type>robotics facility</type>
+        </building>
+        <building>
+            <type>templar archives</type>
+        </building>
+        <building>
+            <type>gateway</type>
+        </building>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>robotics facility</type>
+            </percentage>
+            <type>shuttle</type>
+        </unit>
+        <unit>
+            <percentage>
+                <pct>100</pct>
+                <type>templar archives</type>
+            </percentage>
+            <type>dark templar</type>
+        </unit>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_DT_Drop__vs__Terran_>

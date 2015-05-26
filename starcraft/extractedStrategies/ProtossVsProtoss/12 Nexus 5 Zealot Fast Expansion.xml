@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_Fast_Expand__vs__Protoss_>
+    <build_order>
+        <building>
+            <type>pylon</type>
+        </building>
+        <building>
+            <type>nexus</type>
+        </building>
+        <building>
+            <type>gateway</type>
+        </building>
+        <building>
+            <type>gateway</type>
+        </building>
+        <building>
+            <type>pylon</type>
+        </building>
+        <building>
+            <type>assimilator</type>
+        </building>
+        <building>
+            <type>cybernetics core</type>
+        </building>
+        <building>
+            <type>forge</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+</strategy_Fast_Expand__vs__Protoss_>
