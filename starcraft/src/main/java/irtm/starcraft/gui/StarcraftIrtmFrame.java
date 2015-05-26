@@ -18,6 +18,8 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JScrollPane;
 import javax.swing.JSplitPane;
+import javax.swing.border.EtchedBorder;
+import javax.swing.border.TitledBorder;
 import javax.swing.filechooser.FileFilter;
 
 /**
@@ -54,15 +56,18 @@ public class StarcraftIrtmFrame extends JFrame{
 		leftPane = new JScrollPane();
 		leftPane.setBackground(Color.WHITE);
 		leftTextPane = new JEditorPane();
+		leftTextPane.setContentType("text/html");
 		leftPane.setViewportView(leftTextPane);
+		leftPane.setBorder(new TitledBorder ( new EtchedBorder (), "Extracted Strategy" ));
 		rightPane = new JScrollPane();
 		rightPane.setBackground(Color.WHITE);
 		rightTextPane = new JEditorPane();
 		rightTextPane.setContentType("text/html");
+		rightTextPane.setEditable(false);
 		rightPane.setViewportView(rightTextPane);
+		rightPane.setBorder(new TitledBorder ( new EtchedBorder (), "Original Page" ));
 		
 		mainPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
-		mainPane.setBackground(Color.WHITE);
 		mainPane.setLeftComponent(leftPane);
 		mainPane.setRightComponent(rightPane);
 		setContentPane(mainPane);
@@ -116,6 +121,7 @@ public class StarcraftIrtmFrame extends JFrame{
 							
 							if(strategy != null){
 								WikiPageTree documentTree = textMiner.getLastDocumentTree();
+								leftTextPane.setText(strategy.toHtml());
 								rightTextPane.setText(documentTree.getHtml());
 							}
 						}

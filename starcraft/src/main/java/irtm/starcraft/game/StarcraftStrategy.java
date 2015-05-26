@@ -284,6 +284,171 @@ public class StarcraftStrategy {
 		serializer.setMaxLength(80);
 		serializer.write(doc);
 	}
+	
+	/**
+	 * Produces simple HTML text to describe the strategy
+	 * 
+	 * @return
+	 */
+	public String toHtml(){
+		String html = "";
+		html += "<h1>" + strategyName + "</h1>";
+		
+		for(StarcraftBuildOrder buildOrder : buildOrders){
+			if(buildOrder.isEmpty()){
+				continue;		// no point in serializing a build order that has no instructions
+			}
+			
+			html += "<h2>Build Order</h2>";
+			
+			ArrayList<StarcraftBuildOrderInstruction> instructions = buildOrder.getInstructions();
+			html += "<ul>";
+			for(StarcraftBuildOrderInstruction instruction : instructions){
+				html += "<li>";
+				
+				String instructionText = "";
+				for(int i = 0; i < instruction.getPreconditions().size(); ++i){
+					StarcraftPrecondition precondition = instruction.getPreconditions().get(i);
+
+					if(precondition.getType() == PreconditionTypes.SUPPLY){
+						instructionText += "Required Supply: " + precondition.getValue();
+					}
+					else if(precondition.getType() == PreconditionTypes.MINERALS){
+						instructionText += "Required Minerals: " + precondition.getValue();
+					}
+					else if(precondition.getType() == PreconditionTypes.GAS){
+						instructionText += "Required Gas: " + precondition.getValue();
+					}
+					else if(precondition.getType() == PreconditionTypes.PERCENTAGE){
+						instructionText += "@" + precondition.getValue() + "% " + precondition.getUnitOrBuildingType();
+					}
+					else{
+						continue;
+					}
+					
+					if(i != instruction.getPreconditions().size() - 1){
+						instructionText += ", ";
+					}
+				}
+				
+				instructionText += " - ";
+				
+				if(instruction.getType() == InstructionTypes.BUILDING){
+					instructionText += "Create Building: ";
+				}
+				else if(instruction.getType() == InstructionTypes.UNIT){
+					instructionText += "Create Unit: ";
+				}
+				else if(instruction.getType() == InstructionTypes.SCOUT){
+					instructionText += "Send Scout: ";
+				}
+				else{
+					continue;
+				}
+				
+				instructionText += instruction.getInstructionText();
+				html += instructionText;
+				
+				html += "</li>";
+			}
+			html += "</ul>";
+			
+			html += "<h2>Countered By</h2>\n";
+			html += "<h3>Soft Counters</h3>\n";
+			html += "<ul>\n";
+
+			// build-order specific
+			for(String softCounter : buildOrder.getCounteredBySoft()){
+				html += "<li>" + softCounter + "</li>\n";
+			}
+			
+			// strategy-wide
+			for(String softCounter : getCounteredBySoft()){
+				html += "<li>" + softCounter + "</li>\n";
+			}
+			
+			html += "</ul>\n";
+			
+			html += "<h3>Hard Counters</h3>\n";
+			html += "<ul>\n";
+			
+			// build-order specific
+			for(String hardCounter : buildOrder.getCounteredByHard()){
+				html += "<li>" + hardCounter + "</li>\n";
+			}
+			
+			// strategy-wide
+			for(String hardCounter : getCounteredByHard()){
+				html += "<li>" + hardCounter + "</li>\n";
+			}
+			
+			html += "</ul>\n";
+			
+			html += "<h2>Counter To</h2>\n";
+			html += "<h3>Soft Counters</h3>\n";
+			html += "<ul>\n";
+
+			// build-order specific
+			for(String softCounter : buildOrder.getCounterToSoft()){
+				html += "<li>" + softCounter + "</li>\n";
+			}
+			
+			// strategy-wide
+			for(String softCounter : getCounterToSoft()){
+				html += "<li>" + softCounter + "</li>\n";
+			}
+			
+			html += "</ul>\n";
+			
+			html += "<h3>Hard Counters</h3>\n";
+			html += "<ul>\n";
+			
+			// build-order specific
+			for(String hardCounter : buildOrder.getCounterToHard()){
+				html += "<li>" + hardCounter + "</li>\n";
+			}
+			
+			// strategy-wide
+			for(String hardCounter : getCounterToHard()){
+				html += "<li>" + hardCounter + "</li>\n";
+			}
+			
+			html += "</ul>\n";
+			
+			html += "<h2>Counter To</h2>\n";
+			html += "<h3>Strong Maps</h3>\n";
+			html += "<ul>\n";
+			
+			// build-order specific
+			for(String strongMap : buildOrder.getStrongMaps()){
+				html += "<li>" + strongMap + "</li>\n";
+			}
+			
+			// strategy-wide
+			for(String strongMap : getStrongMaps()){
+				html += "<li>" + strongMap + "</li>\n";
+			}
+			
+			html += "</ul>\n";
+			
+			html += "<h3>Weak Maps</h3>\n";
+			html += "<ul>\n";
+			
+			// build-order specific
+			for(String weakMap : buildOrder.getWeakMaps()){
+				html += "<li>" + weakMap + "</li>\n";
+			}
+			
+			// strategy-wide
+			for(String weakMap : getWeakMaps()){
+				html += "<li>" + weakMap + "</li>\n";
+			}
+			
+			html += "</ul>\n";
+		}
+		
+		return html;
+	}
 
 	/**
 	 * Returns a copy of the given string that is legal to use as name for XML elements
