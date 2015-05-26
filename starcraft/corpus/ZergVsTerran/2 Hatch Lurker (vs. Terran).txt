@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>2 Hatch Lurker (vs. Terran) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="2 Hatch Lurker (vs. Terran)" href="/starcraft/index.php?title=Special:ExportRDF/2_Hatch_Lurker_(vs._Terran)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2_Hatch_Lurker_(vs._Terran)","wgTitle":"2 Hatch Lurker (vs. Terran)","wgCurRevisionId":119869,"wgRevisionId":119869,"wgArticleId":298,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategy stubs","Stubs","Strategies","Zerg Build Orders","ZvT Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2_Hatch_Lurker_(vs._Terran)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119869});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2_Hatch_Lurker_vs_Terran skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">2 Hatch Lurker (vs. Terran)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="margin: -1px auto 0px;border: 1px solid #aaa; border-left: 10px solid rgb(154, 172, 199); background:rgb(250,250,250); width:600px">
+
+<tr>
+<td> <a href="/starcraft/index.php?title=File:Chess_plt45.png&amp;filetimestamp=20090607023641&amp;" class="image"><img alt="" src="/starcraft/images/b/b2/Chess_plt45.png" width="60" height="60" /></a>
+</td>
+<td style="padding: 0.25em 0.5em;"> This article is a <a href="/starcraft/Strategy" title="Strategy">Strategy</a> <a href="/starcraft/Category:Stubs" title="Category:Stubs">stub</a>. You can help Liquipedia by <a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit">expanding it</a>.
+</td></tr></table>
+<div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="21" height="19" /></a> 2 Hatch Lurker</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:3lurker.png&amp;filetimestamp=20081127074038&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/8b/3lurker.png/294px-3lurker.png" width="294" height="221" srcset="/starcraft/images/thumb/8/8b/3lurker.png/441px-3lurker.png 1.5x, /starcraft/images/thumb/8/8b/3lurker.png/588px-3lurker.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">ZvT</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<p>This build sacrifices economy in exchange for faster <a href="/starcraft/Lurker" title="Lurker">Lurkers</a>. This build is more all-in than the 2 Hatch Muta build because it is difficult to damage Terran unless Terran's natural completely goes down. Therefore, this build is less commonly seen than <a href="/starcraft/2_Hatch_Muta_(vs._Terran)" title="2 Hatch Muta (vs. Terran)">2 Hatch Mutas</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#12_Hatch_Variation"><span class="tocnumber">1</span> <span class="toctext">12 Hatch Variation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#12_Hatch_Variation_Build_Order"><span class="tocnumber">1.1</span> <span class="toctext">12 Hatch Variation Build Order</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#12_Pool_Variation"><span class="tocnumber">2</span> <span class="toctext">12 Pool Variation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#12_Pool_Build_Order"><span class="tocnumber">2.1</span> <span class="toctext">12 Pool Build Order</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#9_Pool_Variation"><span class="tocnumber">3</span> <span class="toctext">9 Pool Variation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#9_Pool_Build_Order"><span class="tocnumber">3.1</span> <span class="toctext">9 Pool Build Order</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Drop_Variation"><span class="tocnumber">4</span> <span class="toctext">Drop Variation</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Countered_By"><span class="tocnumber">5</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Hard_Counters"><span class="tocnumber">5.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Soft_Counters"><span class="tocnumber">5.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Counter_To"><span class="tocnumber">6</span> <span class="toctext">Counter To</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Hard_Counters_2"><span class="tocnumber">6.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Soft_Counters_2"><span class="tocnumber">6.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Notable_Maps"><span class="tocnumber">7</span> <span class="toctext">Notable Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Strong"><span class="tocnumber">7.1</span> <span class="toctext">Strong</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Weak"><span class="tocnumber">7.2</span> <span class="toctext">Weak</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Mentality"><span class="tocnumber">8</span> <span class="toctext">Mentality</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Transition"><span class="tocnumber">9</span> <span class="toctext">Transition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#VODs"><span class="tocnumber">9.1</span> <span class="toctext">VODs</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="12_Hatch_Variation">12 Hatch Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=1" title="Edit section: 12 Hatch Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 12 Hatch Variation aims to get a stronger economy. This allows for more variation in the build, including the possibility to transition into normal play and also to possibly break the Terran's natural using Speedlings.
+</p>
+<h3><span class="mw-headline" id="12_Hatch_Variation_Build_Order">12 Hatch Variation Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=2" title="Edit section: 12 Hatch Variation Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li> 9 - <a href="/starcraft/Overlord" title="Overlord">Overlord</a>
+</li>
+<li> 12 - <a href="/starcraft/Hatchery" title="Hatchery">Hatchery</a>
+</li>
+<li> 11 - <a href="/starcraft/Spawning_Pool" title="Spawning Pool">Spawning Pool</a>
+</li>
+<li> 10 - <a href="/starcraft/Extractor" title="Extractor">Extractor</a> (13, if playing economically)
+</li>
+<li> NOTE: 3 <a href="/starcraft/Drone" title="Drone">Drones</a> after pool for 6(+2) <a href="/starcraft/Zergling" title="Zergling">Zerglings</a>, 4 drones after pool for 4(+2) Lings
+</li>
+<li> 16 - Overlord
+</li>
+<li> @100 Gas - <a href="/starcraft/Lair" title="Lair">Lair</a>
+</li>
+<li> NOTE - Make <a href="/starcraft/Sunken_Colony" title="Sunken Colony">Sunken Colonies</a> as necessary, and remember that you are getting faster Lurkers than a 3 Hatchery Lurk build so you may require less
+</li>
+<li> @ 100 Gas - Zergling Speed
+</li>
+<li> 22 - Overlord
+</li>
+<li> @50% Lair - <a href="/starcraft/Hydralisk_Den" title="Hydralisk Den">Hydralisk Den</a>
+</li>
+<li> @90% Lair - Second Extractor
+</li>
+<li> @100% Lair - Lurker Aspect, optional <a href="/starcraft/Spire" title="Spire">Spire</a> (you will have to get Spire eventually regardless, but getting it now is for trickery reasons)
+</li>
+<li> NOTE - Start building <a href="/starcraft/Hydralisk" title="Hydralisk">Hydralisks</a> at 50% Lurker Aspect, and before that point, you may want to get Speedlings to support your Lurker push.
+</li>
+<li> 30 - 2 Overlords
+</li>
+<li> NOTE - When Lurkers hatch (or before), you should place your third hatch at an expansion.
+</li>
+</ul>
+<h2><span class="mw-headline" id="12_Pool_Variation">12 Pool Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=3" title="Edit section: 12 Pool Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>By going 12 Pool first, Zerg aims to get Lurkers around 30 seconds faster than in the 12 Hatch variation. However, resources are much tighter in this variation, so the build must be strictly adhered to lest you lose a Lurker due to a lack of resources.
+</p>
+<h3><span class="mw-headline" id="12_Pool_Build_Order">12 Pool Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=4" title="Edit section: 12 Pool Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>9 - Overlord
+</li>
+<li>12 - Spawning Pool
+</li>
+<li>11 - Extractor
+</li>
+<li>11 - Hatchery
+</li>
+<li>2 Drones and 4 Zerglings
+</li>
+<li>@100gas — Lair
+</li>
+<li>3 Drones
+</li>
+<li>100gas — Ling Speed
+</li>
+<li>@50%lair — Hydralisk Den
+</li>
+<li>4 Zerglings
+</li>
+<li>@100%Den — Lurker Aspect
+</li>
+<li>@50%Aspect — x3–4 Hydras
+</li>
+<li>Take natural gas
+</li>
+</ul>
+<h2><span class="mw-headline" id="9_Pool_Variation">9 Pool Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=5" title="Edit section: 9 Pool Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 9 Pool is considered an all-in, unless you have severely damaged the Terran's economy.
+</p>
+<h3><span class="mw-headline" id="9_Pool_Build_Order">9 Pool Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=6" title="Edit section: 9 Pool Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>9 - Spawning Pool
+</li>
+<li>8 - Drone
+</li>
+<li>9 - Extractor
+</li>
+<li>8 - Drone
+</li>
+<li>9 - Cancel the Extractor, mine with the Drone.
+</li>
+<li>10 - Overlord
+</li>
+<li>10 - Scout with the extra Drone.
+</li>
+<li>10 - 6 Zerglings
+</li>
+<li>13 - Attack enemy base if found, aim to destroy SCVs and any Marines they might have.
+</li>
+<li>13 - Extractor
+</li>
+<li>12 - Drone
+</li>
+<li>13 - Hatchery
+</li>
+<li>12 - Switch 2-3 Drones to gas
+</li>
+<li>12 - 3-4 Drones to replace lost mineral Drones
+</li>
+<li>15 - Lair on natural
+</li>
+<li>50%Lair - Hydralisk Den
+</li>
+<li>100%Den - Lurker Aspect
+</li>
+<li>50% Aspect - 2-3 Hydralisk
+</li>
+</ul>
+<h2><span class="mw-headline" id="Drop_Variation">Drop Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=7" title="Edit section: Drop Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Due to the all-in nature of the build, it is not uncommon to see Zergs dropping 2 Lurkers into the Terran's base with a slow Overlord. In this variation, the 12 Hatch variation is used, and the only difference is that after the Lair finishes, drop tech is started. Make sure to place an Overlord in position with 2 Lurkers once drop tech finishes. This build is most effective on maps where Overlords have only a short distance to move to reach the Terran main. This means that maps like <a href="/starcraft/Moon_Glaive" title="Moon Glaive">Moon Glaive</a> are good for this build.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=8" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=9" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li> <a href="/starcraft/2_Port_Wraith_(vs._Zerg)" title="2 Port Wraith (vs. Zerg)">2 Port Wraith</a> - Zerg must adapt and change his build in order to counter this.
+</li>
+<li> <a href="/starcraft/1_Rax_Gas" title="1 Rax Gas" class="mw-redirect">1 Rax Gas</a> (Mech)
+</li>
+</ul>
+<h3><span class="mw-headline" id="Soft_Counters">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=10" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li> <a href="/starcraft/Sparks_Terran" title="Sparks Terran">Sparks Terran</a>
+</li>
+<li> Early Academy Builds
+</li>
+</ul>
+<h2><span class="mw-headline" id="Counter_To">Counter To</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=11" title="Edit section: Counter To">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters_2">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=12" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li> None
+</li>
+</ul>
+<h3><span class="mw-headline" id="Soft_Counters_2">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=13" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li> <a href="/starcraft/1_Rax_FE_(vs._Zerg)" title="1 Rax FE (vs. Zerg)">1 Rax FE</a> that skimps on defense
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=14" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Strong">Strong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=15" title="Edit section: Strong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/starcraft/Medusa" title="Medusa">Medusa</a>
+</p>
+<h3><span class="mw-headline" id="Weak">Weak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=16" title="Edit section: Weak">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=17" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>With your early Lurker/Ling force your goal should be to be aggressive and establish a contain while possibly dealing some damage depending on your micromangament ability and how much minerals the Terran invested in defense (no bunker or turrets as a sure sign to put additional pressure on the Terran). During this your <a href="/starcraft/index.php?title=Third_Gas_Expansion&amp;action=edit&amp;redlink=1" class="new" title="Third Gas Expansion (page does not exist)">Third Gas Expansion</a>.
+</p><p>This build is also just one variation of the 2 Hatch Lurker build, and it should be kept in mind that your Terran opponent should be looking for an array of followups such as drop, Mutalisks or fast Hive. In other words, not letting him scout what you're doing is very beneficial.
+</p>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=18" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If you managed to set up a contain then the game should go into a 'standard' bionic Terran vs Zerg game. Following by saturating your third base and engaging the inevitable Terran Ball while you make your way to Defilers and Hive play.
+</p>
+<h3><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit&amp;section=19" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/11776_July_vs_Really/vod">July vs. Really on Heartbreak Ridge</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/11324_Luxury_vs_RuBy/vod">Luxury vs. Ruby on Sin Chupung-Ryeong</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/9579_Hwasin_vs_Jaedong/vod">Hwasin vs. Jaedong on Colosseum</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/10621_Hwasin_vs_maGma/vod">Hwasin vs. maGma on Byzantium 2</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.108 seconds
+Real time usage: 0.153 seconds
+Preprocessor visited node count: 327/1000000
+Preprocessor generated node count: 1560/1000000
+Post�?expand include size: 3436/2097152 bytes
+Template argument size: 419/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:298-0!*!0!!en!2!* and timestamp 20150521144613
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;oldid=119869">http://wiki.teamliquid.net/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;oldid=119869</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategy_stubs" title="Category:Strategy stubs">Strategy stubs</a></li><li><a href="/starcraft/Category:Stubs" title="Category:Stubs">Stubs</a></li><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Zerg_Build_Orders" title="Category:Zerg Build Orders">Zerg Build Orders</a></li><li><a href="/starcraft/Category:ZvT_Builds" title="Category:ZvT Builds">ZvT Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/2_Hatch_Lurker_(vs._Terran)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:2_Hatch_Lurker_(vs._Terran)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=2+Hatch+Lurker+%28vs.+Terran%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/2_Hatch_Lurker_(vs._Terran)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/2_Hatch_Lurker_(vs._Terran)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;oldid=119869" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=2_Hatch_Lurker_(vs._Terran)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/2_Hatch_Lurker_(vs._Terran)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:49.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.298 secs. --></body></html>

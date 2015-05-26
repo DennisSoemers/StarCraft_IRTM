@@ -74,7 +74,7 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <div class="infobox-cell-2 infobox-description">Popularized by:</div>
 <div class="infobox-cell-2"><a href="/starcraft/Mong" title="Mong">Mong</a> amongst others</div>
 </div></div>
-<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
 </div>
 <p>The goal of this build is to kill the opponent outright or severely cripple him by using an unexpected Medic Marine push. The name of this build comes from the more famous TvP bio build, <a href="/starcraft/Deep_Six" title="Deep Six" class="mw-redirect">Deep Six</a>. Instead of using a later bio timing with six barracks, the Shallow Two uses an early timing with only two barracks. This build is very basic and mostly suited as an all-in attack as transitions into standard TvP can be difficult if no damage is dealt to the Protoss. For this build to work, at least the natural nexus must be destroyed, while getting your own natural expansion up. If you take out his natural, feel free to transition into a 4-6 fact timing push follow up as he likely won't have the economy nor army to hold it off.
 </p>
@@ -147,8 +147,8 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.080 seconds
-Real time usage: 0.091 seconds
+CPU time usage: 0.084 seconds
+Real time usage: 0.087 seconds
 Preprocessor visited node count: 288/1000000
 Preprocessor generated node count: 1502/1000000
 Postâ€?expand include size: 3285/2097152 bytes
@@ -157,7 +157,7 @@ Highest expansion depth: 6/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:14076-0!*!0!!en!2!* and timestamp 20150427121602
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:14076-0!*!0!!en!2!* and timestamp 20150526200249
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Shallow_Two(vs._Protoss)&amp;oldid=120219">http://wiki.teamliquid.net/starcraft/index.php?title=Shallow_Two(vs._Protoss)&amp;oldid=120219</a>"</div>
@@ -368,4 +368,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.235 secs. --></body></html>
+<!-- Served in 0.228 secs. --></body></html>

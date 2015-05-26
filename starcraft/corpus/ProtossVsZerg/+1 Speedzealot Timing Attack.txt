@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>+1 Speedzealot (vs Zerg) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="+1 Speedzealot (vs Zerg)" href="/starcraft/index.php?title=Special:ExportRDF/%2B1_Speedzealot_(vs_Zerg)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"+1_Speedzealot_(vs_Zerg)","wgTitle":"+1 Speedzealot (vs Zerg)","wgCurRevisionId":119988,"wgRevisionId":119988,"wgArticleId":717,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Protoss Build Orders","PvZ Builds","Protoss Beginner Strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"+1_Speedzealot_(vs_Zerg)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119988});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-_1_Speedzealot_vs_Zerg skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">+1 Speedzealot (vs Zerg)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a> +1 Speedzeal</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:Speedzeal.png&amp;filetimestamp=20090317205919&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/29/Speedzeal.png/294px-Speedzeal.png" width="294" height="221" srcset="/starcraft/images/thumb/2/29/Speedzeal.png/441px-Speedzeal.png 1.5x, /starcraft/images/thumb/2/29/Speedzeal.png/588px-Speedzeal.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Execution"><span class="tocnumber">3</span> <span class="toctext">Execution</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Transitions"><span class="tocnumber">4</span> <span class="toctext">Transitions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Counters"><span class="tocnumber">5</span> <span class="toctext">Counters</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notable_Maps"><span class="tocnumber">6</span> <span class="toctext">Notable Maps</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_Games"><span class="tocnumber">7</span> <span class="toctext">Notable Games</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "<b>+1 Speedzealot</b>" Build Order enables the Protoss to prepare a timed attack with Zealots after opening with a <a href="/starcraft/Protoss_FE_(vs._Zerg)" title="Protoss FE (vs. Zerg)">Fast Expansion</a>. The timing attack is designed to hit a careless Zerg before he has units to deal with Zealots and their +1 Weapon and speed upgrades. However, in modern Protoss vs. Zerg this timing attack is anticipated by most Zerg Build Orders. Therefore, Protoss needs to judge whether or not this strategy will be blocked or not, depending on the maps and the opening of Zerg. 
+</p><p><br /> 
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i>The "<b>+1 Speedzealot</b>" Build Order uses a <a href="/starcraft/Protoss_FE_(vs._Zerg)" title="Protoss FE (vs. Zerg)">Fast Expansion</a>. The timing of the Build might change, depending on the scouting information. The exemplary Build uses a 14 Nexus timing.</i>
+</dd>
+</dl>
+<p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:500px;"> "14 Nexus FE &amp; +1 Speedzealot" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>8 - Pylon at <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a><sup id="cite_ref-scout_0-0" class="reference"><a href="#cite_note-scout-0">[1]</a></sup>
+</li>
+<li>10 - Forge<sup id="cite_ref-SimCity_1-0" class="reference"><a href="#cite_note-SimCity-1">[2]</a></sup> 
+</li>
+<li>14 - Nexus<sup id="cite_ref-nexus_2-0" class="reference"><a href="#cite_note-nexus-2">[3]</a></sup>
+</li>
+<li>14 - Photon Cannon<sup id="cite_ref-cannon_3-0" class="reference"><a href="#cite_note-cannon-3">[4]</a></sup>
+</li>
+<li>16 - Gateway at <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a>
+</li>
+<li>16 - Assimilator at Main Base
+</li>
+<li>@100% Nexus: Zealot<sup id="cite_ref-zealot1_4-0" class="reference"><a href="#cite_note-zealot1-4">[5]</a></sup><sup id="cite_ref-zealot2_5-0" class="reference"><a href="#cite_note-zealot2-5">[6]</a></sup>
+</li>
+<li>@100% Assimilator - gather Vespene Gas
+</li>
+<li>21 - Cybernetics Core
+</li>
+<li>@100 Gas - +1 Ground Weapon Upgrade in Forge
+</li>
+<li>24 - Pylon in Main Base<sup id="cite_ref-Pylon_6-0" class="reference"><a href="#cite_note-Pylon-6">[7]</a></sup>
+</li>
+<li>27 - Citadel of Adun
+</li>
+<li>two more Gateways<sup id="cite_ref-gateway2_7-0" class="reference"><a href="#cite_note-gateway2-7">[8]</a></sup>
+</li>
+<li>@100% Citadel - Speedupgrade
+</li>
+<li>second Assimilator at Natural Expansion<sup id="cite_ref-probe2_8-0" class="reference"><a href="#cite_note-probe2-8">[9]</a></sup>
+</li>
+<li>Constant Zealot production<sup id="cite_ref-Pylon2_9-0" class="reference"><a href="#cite_note-Pylon2-9">[10]</a></sup>
+</li>
+<li>@100% Legspeed - Attack<sup id="cite_ref-attack_10-0" class="reference"><a href="#cite_note-attack-10">[11]</a></sup>
+</li>
+<li>Templar Archive
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-scout-0"><a href="#cite_ref-scout_0-0">↑</a> Probe is sent to scout</li>
+<li id="cite_note-SimCity-1"><a href="#cite_ref-SimCity_1-0">↑</a> Building placement should be done carefully. More information is available in the  <a href="/starcraft/Protoss_Fast_Expand_Forge_Walling" title="Protoss Fast Expand Forge Walling">Protoss Fast Expand Forge Walling</a> article</li>
+<li id="cite_note-nexus-2"><a href="#cite_ref-nexus_2-0">↑</a> The Nexus can be build at 13 Supply on some maps like <a href="/starcraft/Longinus" title="Longinus">Longinus</a></li>
+<li id="cite_note-cannon-3"><a href="#cite_ref-cannon_3-0">↑</a> Number of Cannons depends on the scouted behaviour of Zerg. More Zerglings mean a second Cannon, build order following needs to be changed in this scenario</li>
+<li id="cite_note-zealot1-4"><a href="#cite_ref-zealot1_4-0">↑</a> Zealots will be trained constantly from the first Gateway</li>
+<li id="cite_note-zealot2-5"><a href="#cite_ref-zealot2_5-0">↑</a> One single Dragoon can be built first to kill a scouting Overlord. This is <b>optional</b></li>
+<li id="cite_note-Pylon-6"><a href="#cite_ref-Pylon_6-0">↑</a> Pylon needs space, as Gateways will be built around it</li>
+<li id="cite_note-gateway2-7"><a href="#cite_ref-gateway2_7-0">↑</a> A third Gateway can be added to train more Zealots. To do so, the Probe production must be stopped from here on and resumed when the attack starts</li>
+<li id="cite_note-probe2-8"><a href="#cite_ref-probe2_8-0">↑</a> Resume Probe production if you built a third Gateway after the Citadel</li>
+<li id="cite_note-Pylon2-9"><a href="#cite_ref-Pylon2_9-0">↑</a> Pylons must be added to avoid supply blocks</li>
+<li id="cite_note-attack-10"><a href="#cite_ref-attack_10-0">↑</a> Speedupgrade and +1 Weapons should finish at the same time, 8 - 12 Zealots should be ready</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+<h2><span class="mw-headline" id="Execution">Execution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;section=3" title="Edit section: Execution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The execution of this Build Order is straight forward. The Protoss follows the Build and tries to train as much Zealots as possible before the Speed and the +1 Ground Weapon Upgrades finish. Shortly before both finish (around 95%) the Protoss moves out and tries to attack the Zerg base. If he hits the timing correctly, the Zerg has not enough units to block the attack completely and can be overpowered in ideal scenarios. Regardless, the Protoss needs to deal a relatively big amount of damage before he either retreats or the Zealots are lost. 
+</p><p>For the attack the Protoss can either try to take out a Zerg expansion completely, or in cases in which enough static defenses are in place, attempt a runby into the Main Base. In rare cases the entire army can be exchanged against a Hatchery or expensive tech buildings. The trade off needs to be done with care, as the Zerg will most likely be still able to counter. Any following counter should be delayed as long as possible, to buy time to adapt to the changed situation.
+</p>
+<h2><span class="mw-headline" id="Transitions">Transitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;section=4" title="Edit section: Transitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Depending on the damage the initial +1 Speedzealot Attack has dealt, Protoss can use different follow ups. One aims to expand safely to a third base (in addition to the Natural Expansion and Main Base), while the second option aims to gain air superiority. Both possible transitions are identical with the <a href="/starcraft/%2B1_Speedzealot_(vs_Zerg)#Build_Order" title="+1 Speedzealot (vs Zerg)">Basic Build</a> until the step "<i>@100% Leg Speed - Attack</i>". 
+</p><p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "Option 1: Expand" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li> <a href="/starcraft/%2B1_Speedzealot_(vs_Zerg)#Build_Order" title="+1 Speedzealot (vs Zerg)">Basic Build</a>
+</li>
+<li> @100% Leg Speed - Attack
+</li>
+<li> @200 Vespene Gas - Templar Archives
+</li>
+<li> @100% Templar Archives - 1 Dark Templar and 2 High Templar
+</li>
+<li> @~95% +1 Ground Attack - 2 Gateways
+</li>
+<li> @100% High Templar - Psionic Storm Upgrade
+</li>
+<li> @100% 2 Gateways - 5 Dragoons<sup id="cite_ref-cut_11-0" class="reference"><a href="#cite_note-cut-11">[1]</a></sup>
+</li>
+</ul>
+<table cellspacing="0" cellpadding="10" class="multicol" style="background:transparent; width:95%;">
+<p></p>
+<tr>
+<td width="50%" align="left" valign="top">
+<dl>
+<dt>Lurkers are out
+</dt>
+</dl>
+<ul>
+<li>Robotics Facility
+</li>
+<li>Observatory
+</li>
+<li>third Nexus<sup id="cite_ref-resume_12-0" class="reference"><a href="#cite_note-resume-12">[2]</a></sup>
+</li>
+<li>3 more Gateways
+</li>
+</ul>
+<p></p>
+</td>
+<td width="50%" align="left" valign="top">
+<dl>
+<dt>No Lurkers are out
+</dt>
+</dl>
+<ul>
+<li>third Nexus<sup id="cite_ref-resume_12-1" class="reference"><a href="#cite_note-resume-12">[2]</a></sup>
+</li>
+<li>3 more Gateways
+</li>
+<li>Robotics Facility
+</li>
+<li>Observatory
+</li>
+</ul>
+<p></p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-cut-11"><a href="#cite_ref-cut_11-0">↑</a> Stop Probe production</li>
+<li id="cite_note-resume-12">↑ <sup><a href="#cite_ref-resume_12-0">2.0</a></sup> <sup><a href="#cite_ref-resume_12-1">2.1</a></sup> Resume Probe Production</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+<p>The expansion build is self explaining. While the Zealots try to harass or kill the Zerg, the Protoss tries to expand a second time to a third base. Ideally, the Zealots distract the Zerg until the third Nexus is up and safe. If Lurkers are used to counter the Zealot attack, Protoss should delay the expansion a bit and add Observers to his army first. Depending on the Zerg reaction, Protoss will switch to a Dragoon/Zealot/High Templar army mix.
+</p><p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "Option 2: Air Superiority" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li> <a href="/starcraft/%2B1_Speedzealot_(vs_Zerg)#Build_Order" title="+1 Speedzealot (vs Zerg)">Basic Build</a>
+</li>
+<li> @100% Legspeed - Attack
+</li>
+<li> @300 Gas - two Stargates<sup id="cite_ref-cut_13-0" class="reference"><a href="#cite_note-cut-13">[1]</a></sup>
+</li>
+<li> @200 Gas - Templar Archives
+</li>
+<li> Dark Templar and constant Corsair Production
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-cut-13"><a href="#cite_ref-cut_13-0">↑</a> Stop Probe production</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+<p>The second possible transition, often referred to as Jangbi Variation, is a mid-game all-in. The Corsair/Dark Templar follow up try to destroy a Zerg, who did not counter with Mutalisks. If performed correctly, the Zealots will counter Hydralisks off four or five Hatches, while the Corsairs kill the Overlords. If Zerg tried to counter with Lurkers, the Overlords are still vulnerable. A following Dark Templar harassment should deal great damage to Zerg. 
+</p><p>If Protoss misses to deal enough damage with this transition, he is in a greater disadvantage, as he can't take a third base easily.
+</p>
+<h2><span class="mw-headline" id="Counters">Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;section=5" title="Edit section: Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Build Order was a rather popular strategy before <a href="/starcraft/SAviOr" title="SAviOr">sAviOr</a> started to reign over Protoss. He efficiently combined macro oriented openings with advanced building placement at expansion spots. The incoming speed Zealots usually hit at a time frame in which Zerg only has Zerglings without the +1 Carapace Upgrade or relatively few Hydralisks. Most 3 Hatchery openings are therefore vulnerable to this kind of timing. However, since sAviOr and other Zerg could now wall themselves in effectively, the Zealot harass could be defended without greater losses. Either Lurkers or Mutalisks could then contain the Protoss long enough for Zerg to build up a massive army or take expansions safely. 
+</p><p>Furthermore, two Hatchery Build Orders rushing for either Lurkers or Mutalisks usually counter this strategy efficiently, as both units will be ready shortly before the Protoss can launch an attack. 
+</p><p>The Build Order might still be used in rare scenarios as reaction to Zerg openings. In modern Protoss vs. Zerg, the Zerg usually opens with a so-called Neo Sauron Opening, expanding not only to his Natural Expansion, but also to a third base. On maps where the Zerg can't block an early Zealot attack the +1 Rush remains an option. However, the Build Order will be increasingly harder to perform the more experienced a Zerg is. It's nearly impossible to hide the underlying intention of the Build Order, as Scouting Overlords can not be chased away efficiently. The spinning Forge also indicates the +1 Ground Weapon Upgrade and thus is a clear indicator of this strategy. The lack of Corsairs are the last alarm sign for Zerg, which give away the incoming Zealots. Consequently, if this strategy is used, the Protoss has to hit his timings perfectly and deal a maximum of damage to his opponent if he hopes to win. 
+</p><p><br /> 
+</p>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;section=6" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This build works best on maps with larger entrances to the Zerg Natural Expansion and short travelling distances 
+</p>
+<ul>
+<li><a href="/starcraft/Python" title="Python">Python</a>
+</li>
+<li><a href="/starcraft/Longinus" title="Longinus">Longinus</a>
+</li>
+<li><a href="/starcraft/Tau_Cross" title="Tau Cross">Tau Cross</a> (if Zerg does not take another Natural Expansion)
+</li>
+<li><a href="/starcraft/Circuit_Breakers" title="Circuit Breakers" class="mw-redirect">Circuit Breakers</a> (if Zerg does not take another Natural Expansion as third base)
+</li>
+<li><a href="/starcraft/Outsider" title="Outsider">Outsider</a> (allows to use a Gateway first Expansion and offers more Zealots with almost the same timing)
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;section=7" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Colosseum.jpg&amp;filetimestamp=20110629163406&amp;" class="image" title="Colosseum"><img alt="Colosseum" src="/starcraft/images/thumb/b/be/Colosseum.jpg/100px-Colosseum.jpg" width="100" height="100" srcset="/starcraft/images/thumb/b/be/Colosseum.jpg/150px-Colosseum.jpg 1.5x, /starcraft/images/thumb/b/be/Colosseum.jpg/200px-Colosseum.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/JangBi" title="JangBi">JangBi</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Jangbi uses his Jangbi Strategy; aka double Stargate // Dark Templar.
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Calm" title="Calm">Calm</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2009-07-19</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/19728_Calm_vs_JangBi/vod">08-09 Proleague Playoffs Round 1 Super Ace VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.368 seconds
+Real time usage: 0.446 seconds
+Preprocessor visited node count: 885/1000000
+Preprocessor generated node count: 6501/1000000
+Post�?expand include size: 7466/2097152 bytes
+Template argument size: 2745/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:717-0!*!0!!en!2!* and timestamp 20150526200231
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;oldid=119988">http://wiki.teamliquid.net/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;oldid=119988</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Protoss_Build_Orders" title="Category:Protoss Build Orders">Protoss Build Orders</a></li><li><a href="/starcraft/Category:PvZ_Builds" title="Category:PvZ Builds">PvZ Builds</a></li><li><a href="/starcraft/Category:Protoss_Beginner_Strategy" title="Category:Protoss Beginner Strategy">Protoss Beginner Strategy</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/%2B1_Speedzealot_(vs_Zerg)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:%2B1_Speedzealot_(vs_Zerg)&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=%2B1+Speedzealot+%28vs+Zerg%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/%2B1_Speedzealot_(vs_Zerg)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/%2B1_Speedzealot_(vs_Zerg)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;oldid=119988" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=%2B1_Speedzealot_(vs_Zerg)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/%2B1_Speedzealot_(vs_Zerg)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:52.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.591 secs. --></body></html>

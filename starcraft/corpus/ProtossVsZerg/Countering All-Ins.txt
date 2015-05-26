@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Protoss Counter to Zerg All-ins - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Protoss Counter to Zerg All-ins" href="/starcraft/index.php?title=Special:ExportRDF/Protoss_Counter_to_Zerg_All-ins&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Protoss_Counter_to_Zerg_All-ins","wgTitle":"Protoss Counter to Zerg All-ins","wgCurRevisionId":120006,"wgRevisionId":120006,"wgArticleId":762,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Protoss Build Orders","PvZ Builds","Missing games","Protoss Beginner Strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Protoss_Counter_to_Zerg_All-ins","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120006});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Protoss_Counter_to_Zerg_All-ins skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Protoss Counter to Zerg All-ins</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a> Protoss Counter to All-Ins</div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#General_Meassures"><span class="tocnumber">2</span> <span class="toctext">General Meassures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Building_Placement"><span class="tocnumber">2.1</span> <span class="toctext">Building Placement</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Mentality_and_stress"><span class="tocnumber">2.2</span> <span class="toctext">Mentality and stress</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Scouting"><span class="tocnumber">2.3</span> <span class="toctext">Scouting</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#4.2C_5.2C_6_Pools"><span class="tocnumber">3</span> <span class="toctext">4, 5, 6 Pools</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Build_Order_Adaptions"><span class="tocnumber">3.1</span> <span class="toctext">Build Order Adaptions</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Probes"><span class="tocnumber">3.2</span> <span class="toctext">Probes</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Transition"><span class="tocnumber">3.3</span> <span class="toctext">Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Zergling_Busts"><span class="tocnumber">4</span> <span class="toctext">Zergling Busts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Build_Order_and_Adaptions"><span class="tocnumber">4.1</span> <span class="toctext">Build Order and Adaptions</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Transition_2"><span class="tocnumber">4.2</span> <span class="toctext">Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Two_Hatchery_Mutalisks"><span class="tocnumber">5</span> <span class="toctext">Two Hatchery Mutalisks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Build_Order_and_Adaptions_2"><span class="tocnumber">5.1</span> <span class="toctext">Build Order and Adaptions</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Transition_3"><span class="tocnumber">5.2</span> <span class="toctext">Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#One.2FTwo_Hatchery_Lurkers"><span class="tocnumber">6</span> <span class="toctext">One/Two Hatchery Lurkers</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Build_Order_and_Adaptions_3"><span class="tocnumber">6.1</span> <span class="toctext">Build Order and Adaptions</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Transition_4"><span class="tocnumber">6.2</span> <span class="toctext">Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Hydralisk_Busts"><span class="tocnumber">7</span> <span class="toctext">Hydralisk Busts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Build_Order_Adaptions_2"><span class="tocnumber">7.1</span> <span class="toctext">Build Order Adaptions</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Transition_5"><span class="tocnumber">7.2</span> <span class="toctext">Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Slow_Drops"><span class="tocnumber">8</span> <span class="toctext">Slow Drops</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Build_Order_Adaptions_3"><span class="tocnumber">8.1</span> <span class="toctext">Build Order Adaptions</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Transition_6"><span class="tocnumber">8.2</span> <span class="toctext">Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#External_Links"><span class="tocnumber">9</span> <span class="toctext">External Links</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#Notable_Games"><span class="tocnumber">10</span> <span class="toctext">Notable Games</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since the <a href="/starcraft/Protoss_FE_(vs._Zerg)" title="Protoss FE (vs. Zerg)">Fast Expansion</a> Builds were popularized, Zerg developed a number of so-called "All-In" strategies, often also referred to as "Cheese". These openings aim to prepare either a timed attack early on, or a smaller attack by higher tech units such as <a href="/starcraft/Mutalisk" title="Mutalisk">Mutalisks</a>. Key to these strategies is the knowledge that Protoss leaves out <a href="/starcraft/Zealot" title="Zealot">Zealots</a> if opening with a faster Nexus, which is only guarded by Photon Cannons. Depending on the Zerg's opening, Protoss needs to adapt. 
+</p><p>This article aims to provide a list of possible reactions if Protoss opens with a Forge Fast Expansion at his <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a>. If Protoss opens with a One Base Build Order or a Gateway Expansion, most of the following reactions do not matter, as Protoss will be able to train Zealots earlier. 
+</p><p><br />
+</p>
+<center>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "Forge Fast Expand" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li> 8 - Pylon at <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a>
+</li>
+<li> 10 - Forge
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> </div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</center>
+<h2><span class="mw-headline" id="General_Meassures">General Meassures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=2" title="Edit section: General Meassures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Regarless of Zerg's strategy, any Protoss player needs to fulfill several requriements to optimize his reaction.
+</p>
+<h3><span class="mw-headline" id="Building_Placement">Building Placement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=3" title="Edit section: Building Placement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Build Order given in the Overview section describes the first two steps for Protoss. He will place down his first Pylon at eight supply close to his <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a>, followed by a <a href="/starcraft/Forge" title="Forge">Forge</a> at ten or eleven supply, depending on the map. In order to efficiently fight off any kind of All-In, the very first important counter measure for a Protoss is the building placement. The Forge is used to create a physical barrier, in combination with a later added <a href="/starcraft/Gateway" title="Gateway">Gateway</a>. Creating this barrier is called "Walling In". However, if the buildings are built slightly wrong, some units, notably <a href="/starcraft/Zergling" title="Zergling">Zerglings</a>, can pass by. 
+</p>
+<dl>
+<dd><i>To read more on building placement, see also: <a href="/starcraft/Protoss_Fast_Expand_Forge_Walling" title="Protoss Fast Expand Forge Walling">Protoss Fast Expand Forge Walling</a> article</i>
+</dd>
+</dl>
+<h3><span class="mw-headline" id="Mentality_and_stress">Mentality and stress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=4" title="Edit section: Mentality and stress">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Zerg will dictate the game flow by opening with a very aggressive Build Order, which automatically puts the Protoss in a defensive and reactionary position. Naturally, a Protoss player will now be stressed out, as he will understand that the next minutes will determine who wins and who loses. Standard, macro-oriented Build Orders allow for minor mistakes, but flaws in micromanagement, building placement and other factors can mean the end for the Protoss player. 
+</p><p>It is a pivotal mistake to forget that the same holds true for Zerg. Generally speaking, the harder he tries, the better he has to perform, while Protoss still has a very tiny error margin. Returning the favour by reacting calmly increases the amount of stress the Zerg will experience. The better a Protoss knows what to do next, the more the can focus on micromanagement and thus the safer he will feel. The longer Protoss survives, the lower the chances for Zerg's victory.
+</p>
+<h3><span class="mw-headline" id="Scouting">Scouting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=5" title="Edit section: Scouting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is extremely important to gain information as soon as possible. Usually, Protoss will send his Probe at eight supply to build the initial Pylon and then he uses it as a scout. The Probe must survive as long as possible. The number of <a href="/starcraft/Hatchery" title="Hatchery">Hatcheries</a>, the timing of Zerg building his <a href="/starcraft/Extractor" title="Extractor">Extractor</a>(s), as well as the timing of the <a href="/starcraft/Spawning_Pool" title="Spawning Pool">Spawning Pool</a> are most times the most important hints. If the first Probe is lost, a second one should be sent out immediately. Losing mining time is not too important in this stage of the game, considering the vast amount of negative consequences, which arise from not knowing the Zerg's strategy.
+</p>
+<h2><span class="mw-headline" id="4.2C_5.2C_6_Pools">4, 5, 6 Pools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=6" title="Edit section: 4, 5, 6 Pools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>4, 5, or 6 Pools describe a Spawning Pool first Build Order by Zerg. Each version allow Zerg to train six Zerglings before the first two Photon Cannons of Protoss can be build in the <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a>. Depending on the map, the reactions of Protoss vary. 
+</p>
+<h3><span class="mw-headline" id="Build_Order_Adaptions">Build Order Adaptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=7" title="Edit section: Build Order Adaptions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On <b>Four Player Maps</b> the Build Orders might be scouted very late, at a time the first Zerglings are already on their way. However, Zerg does need to know where to attack first, meaning he has to know the Protoss' spawning position. If no Overlord or Drone has been spotted, the game might be already lost, if Zerg could guess the spawning position from ruling out two other positions. If Zerg scouts late, Photon Cannons will be up in time. In this scenario, a Protoss still needs to pull Probes from his Main Base and block the Zerglings from the Photon Cannons (which will still be about 80% finished) and from running into the main base of Protoss. If they hit without Protos scouting them, the game is over, as there is no way Protoss can react. If he scouts them, the pattern is the same as on two player maps. 
+</p><p>On <b>two or three player maps</b>, the Zerglings should be scouted very fast. Protoss now should add a Pylon in his main base and add a Photon Cannon as soon as the Pylon has energy. Placing it down has the highest priority, placing it in a way it covers the Nexus and all Mineral Patches comes second, placing it in a way that Zerglings might not attack it properly is third. If done properly, the cannon will be up shortly before the Zerglings are in. Losing the Forge and the Pylon at the Natural can not be prevented. Therefore, placing down a second Cannon before a Gateway should be considered. The more area the Cannons cover, the more useless the Zerglings will be.
+</p>
+<h3><span class="mw-headline" id="Probes">Probes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=8" title="Edit section: Probes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The scouting Probe can be used to buy time for Protoss. On maps like <a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a>, the Probe can block the small gap leading out from the Natural Expansion. As every second matters, Zerg needs to kill it first, before being able to pass through - or take a long detour. The same logic can be applied to other maps, by trying to block Zerglings being sent with the move command. The longer Zerglings are distracted, the more time Protoss buys for his Cannons. Moreover, a few Probes can be sacrificed to block the choke point (especially ramps).
+</p><p>If the scouting Probe is still alive once the Zerglings are out, they can try to harass the few Drones of Zerg. Zerg will lose mining time and the following units will be trained slightly slower. At this point Protoss can't do much besides microing this Probe either way.
+</p><p>If Zerg tries to kill the Pylon or the first Cannon in the Protoss main, the Probes are required to protect the Cannon. Losing Probes is not too bad, as Protoss will have an economical advantage. Probes can be slided or stacked by ordering them to mine from the same Mineral Patch, sending them to another Patch which is in the way of the Zerglings. Once the stacked Probes hover over the Zerglings, a stop command will drill all units away. If an attack command is performed shortly after, the Probes will attack and might kill a few Zerglings.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=9" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If Protoss survives, he almost won the game. It is pivotal to not underestimate the Zerglings. Zerg usually tries to build up to 16 Zerglings and then order a last attack. Protoss naturally will add at least one Gateway and start producing Zealots. Zealots are then used to win the game. 
+</p><p>If Protoss lost many Probes, while the Zerg lost all his Zerglings, the game follows a somewhat ordinary pattern. Protoss should produce more Probes, add Zealots and play safe, going for a Fast Expansion as fast as possible. 
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Zergling_Busts">Zergling Busts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=10" title="Edit section: Zergling Busts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the easiest ways for Zerg to end a game vs. a Forge Fast Expandsion is to build up a massive Zergling army, which are used to break the Protoss <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a>. Breaking this early on is usually referred to as a "<b>Bust</b>". Scouting such a strategy is often relatively hard. The following table lists possible hints.
+</p>
+<center>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "Signs: Zergling Bust" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<p><br />
+</p>
+<dl>
+<dt>9 Pool Speed Zerglings
+</dt>
+</dl>
+<ul>
+<li> 6 Drones mining Minerals at Zerg Main Base
+</li>
+<li> Extractor and 3 Drones mining Gas
+</li>
+<li> 6 Zerglings
+</li>
+</ul>
+<dl>
+<dt>2 or 3 Hatchery Zerglings
+</dt>
+</dl>
+<ul>
+<li> two or three Hatcheries on two or three bases with:
+</li>
+<li> only one Extractor, which is not being mined from
+</li>
+<li> very low Drone count
+</li>
+<li> no second Extractor in sight
+</li>
+<li> Zerglings being built
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> </div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</center>
+<p>The 9 Pool Speed usually gives away that Zerg will try to attempt a runby. For this opening Zerg sacrifices faster Hatcheries and gives Protoss an economical advantage. He usually has to compensate by dealing damage to Protoss. It doesn't neccesarily mean that Protoss needs to be killed, but since it's pivotal to not take damage, a Zergling bust or runby should be prevented at any cost. In other scenarios Zerg switches back to an ordinary greedy Build Order, which puts an overly defensive Protoss in a bad economical position. However, this can be compensated later on.
+</p><p>Scouting two or three Hatchery Zergling all-ins is harder, as Zerglings can be hidden on the map from the scouting Probe. If Zerg does not follow his bases with a <a href="/starcraft/Lair" title="Lair">Lair</a> (thus stops mining after 100 Gas) and does not add Drones anywhere, Protoss should prepare for a Zergling all-in. It does take some experience to not mix up these opening with other openings, such as four Hatchery before Gas. 
+</p>
+<h3><span class="mw-headline" id="Build_Order_and_Adaptions">Build Order and Adaptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=11" title="Edit section: Build Order and Adaptions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If Protoss is aware of this opening, the adaptions are rather easy. The better the wall-in at the Protoss natural is, the less threat a Zergling all-in poses.
+</p>
+<dl>
+<dd><i>To read more on building placement, see also: <a href="/starcraft/Protoss_Fast_Expand_Forge_Walling" title="Protoss Fast Expand Forge Walling">Protoss Fast Expand Forge Walling</a> article</i>
+</dd>
+</dl>
+<p>Furthermore, more cannons than usual should be added. Four Photon Cannons are usually enough to prevent a successful Zergling bust, if the building placement is done correctly. Protoss should furthermore be sure to not have a so-called "Artosis Pylon", which could be taken out swiftly, thus unpowering all Cannons, which in return render them useless. In rare cases, Protoss can also add Probes to his defense, in order to block the Zergling's way to the Photon Cannons or their way into the Protoss main base.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Transition_2">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=12" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If Zerg can not attack with his Zerglings or fails, Protoss already won, if he slowly teched on to better units. However, attacking carelessly with Zealots is a risky counter. Even if Zerg can not defend against Corsairs, he might be able to pump up to 24 Zerglings in under a minute, making a second all-in attack successful. Building up a critical mass of Zealots or slowly teching onto Corsairs or related higher tech units is a safer option. 
+</p><p>Regardless of the outcome of an all-in, Protoss should not undersestimate a second wave of Zerglings in any case.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Two_Hatchery_Mutalisks">Two Hatchery Mutalisks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=13" title="Edit section: Two Hatchery Mutalisks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A Two Hatchery Mutalisk all-in is comparatively easy to scout. The hints given by Zerg are rather obvious, as Protoss will most likely be able to scout them in time. 
+</p>
+<center>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "Signs: Mutalisk Bust" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>Extractor is being built early on, Gas production is not being stopped
+</li>
+<li>early <a href="/starcraft/Lair" title="Lair">Lair</a>, not third Hatchery going up
+</li>
+<li>early second <a href="/starcraft/Extractor" title="Extractor">Extractor</a> being built
+</li>
+<li>very low Drone count on the Zerg Natural Expansion
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> </div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</center>
+<h3><span class="mw-headline" id="Build_Order_and_Adaptions_2">Build Order and Adaptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=14" title="Edit section: Build Order and Adaptions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In many cases Zerg will open with a 9 Pool Speedling build and try to runby the Natural Expansion. Therefore, Protoss should try to prevent it with smart building placement and Probes blocking the path. If Zerglings reach the Main Base a good defense will become difficult, as Photon Cannons will be delayed by a lot.
+</p>
+<dl>
+<dd><i>To read more on building placement, see also: <a href="/starcraft/Protoss_Fast_Expand_Forge_Walling" title="Protoss Fast Expand Forge Walling">Protoss Fast Expand Forge Walling</a> article</i>
+</dd>
+</dl>
+<p>In any case, a Stargate should be built with a higher priority, everything else can be delayed. To reach this goal Protoss can even stop Probe production. At least one cannon should be built in the Protoss Main Base to support the first Corsair against the first six Mutalisks. After the first Corsair is finished, another two Cannons should go up, as Zerg could try to attempt a brute force attack with Scourge and Mutalisks. 
+</p><p>If Zerg sacrificed his Zerglings early on, Protoss can attempt to use his first few Zealots to attack the Zerg Main Base, thus forcing the Mutalisks to defend, while Protoss adds more Corsairs to his army. 
+</p><p>If Zerg does not attack the Main Base and still has a larger amount of Zerglings, he can try to bust the Natural Expansion with his unit mix. If Zealots have not been trained, this could easily throw off Protoss. Especially additional Scourge can neutralize a low Corsair count, rendering the possibilites to stop this bust. More Photon Cannons help the Protoss to deal with such an attempt.
+</p>
+<h3><span class="mw-headline" id="Transition_3">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=15" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If Protoss is safe against attacks on his Main Base and his Natural Expansion, he can either mass Corsairs to counter the Mutalisks or tech towards a Templar Archive and Archons. A timed attack in between the early and the mid-game is usually very effective, as Zerg has too few Drones to compensate for a big army. If the attack fails, the Zerg will still be in a great economical disadvantage. 
+</p><p>If Protoss lost either his Main Base or his Natural Expansion, he can try to fortify the base which is left over. After a successful raid by Mutalisks, the Mutalisks should be heavily damaged. In such a scenario, a Protoss can still try to throw a larger Speedzealot attack at Zerg and slowly regain control over his lost base. Adding Pylons and lost tech buildings such as a Cybernetics Core, Templar Archives or Stargates has a higher priority. Protoss should also try to group his buildings close together, in order to offer a minimum of area vulnerable to Mutalisks.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="One.2FTwo_Hatchery_Lurkers">One/Two Hatchery Lurkers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=16" title="Edit section: One/Two Hatchery Lurkers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A fast tech towards Lurkers off one or two Hatcheries is a very powerful opening. Since it is only being used in very few games, most Protoss underestimate the raw power of a low count of Lurkers. 
+</p>
+<center>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "Signs: Lurker Busts" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>Extractor is being built early on, Gas production is not being stopped
+</li>
+<li>early <a href="/starcraft/Lair" title="Lair">Lair</a>, not third Hatchery going up
+</li>
+<li>no Spire being built
+</li>
+<li>Hydra Den after Lair morph started
+</li>
+<li>early second <a href="/starcraft/Extractor" title="Extractor">Extractor</a> being built
+</li>
+<li>very low Drone count on the Zerg Natural Expansion
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> </div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</center>
+<h3><span class="mw-headline" id="Build_Order_and_Adaptions_3">Build Order and Adaptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=17" title="Edit section: Build Order and Adaptions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Defending against a Lurker bust follows the same logic as defending against a Zergling bust. Most times a Zergling Bust and early Lurker pressure are being combined. Zerglings will try to focus down Photon Cannons, thus making it impossible for Protoss to detect burrowed Lurkers. Furthermore, Zealots and Probes blocking will be killed within seconds if Lurkers and Zerglings attack in combination, due to their splash damage. If Zealots are in place, they can be manually send towards the incoming Zerg forces, as soon as the Lurkers are burrowed. If Zerg misses to manually target the cannons, the Zealots might distract the Lurkers, thus giving Cannons more time to get rid of the Zerglings. Manually targeting Lurkers with Cannons might help.
+</p><p>Adding Cannons in time is therefore pivotal. Adding them in time allows to follow up with a tech. On maps with larger choke points around the Natural Expansions, such as <a href="/starcraft/Destination" title="Destination">Destination</a> or <a href="/starcraft/Python" title="Python">Python</a> the Cannons must cover a larger area. Additionally, if a second entrance to the Main Base is being blocked with Mineral Patches or Neutral Buildings, these spots need to be covered as well. Maps like <a href="/starcraft/Destination" title="Destination">Destination</a>, <a href="/starcraft/Medusa" title="Medusa">Medusa</a> or <a href="/starcraft/Electric_Circuit" title="Electric Circuit">Electric Circuit</a> offer backdoors. Being unprepared for Lurkers coming from there usually end in a lost game.
+</p>
+<h3><span class="mw-headline" id="Transition_4">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=18" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The transition is fairly easy. The most vulnerable unit of a Zerg are his Overlords when opening with fast Lurkers. Zerg will have no anti-air. Corsairs can therefore deal major damage. Almost any ordinary Protoss transition will be victorious against Lurkers, especially since Zerg will have little to no units to deal with a greater force. A bigger number of Zealots can ignore Lurkers and runby, Dragoons can out-micro few Zerglings and Reavers can harass bases freely. 
+</p>
+<h2><span class="mw-headline" id="Hydralisk_Busts">Hydralisk Busts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=19" title="Edit section: Hydralisk Busts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A Zerg can try to bust a Protoss Natural with Hydralisks trained from two or three Hatcheries. These are the most common attempts to hard counter a Protoss Forge Expand.
+</p>
+<center>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "Signs: Hyralisk Busts" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>Extractor is being built early on, Gas production is not being stopped
+</li>
+<li>Hydralisk Den being built early on
+</li>
+<li>low Drone count
+</li>
+<li>no Lair being morphed
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> </div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</center>
+<h3><span class="mw-headline" id="Build_Order_Adaptions_2">Build Order Adaptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=20" title="Edit section: Build Order Adaptions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Build Order Adaption is fairly easy. Hydralisks will try to kill a Protoss Fast Expansion as soon as possible. Therefore Protoss needs to add more Cannons. Training more Zealots is pointless, as Zerg will outmicro them easily. Additionally, Protoss has to expect to lose his Forge and Gateway used for the wall-in.
+</p><p>The amount of Cannons vary to what Protoss scouts. The more Hydralisks are being sent as reinforcement, the more Cannons should be added. The goal is to maintain enough cannons to not lose any and therefore not being forced to spend minerals on Cannons over and over again. However, overdoing it with Cannons can offer Zerg the opportunity to get back into the game by powering Drones.
+</p><p>A Corsair is the most useful unit to counter a Hydralisk push. The single first Corsair can keep an overview of the Zerg's economy, thus making the decision easier whether or not more Cannons are needed.
+</p>
+<h3><span class="mw-headline" id="Transition_5">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=21" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the Hydralisk Bust failed or the Zerg waited, Protoss usually goes for a Templar Archive and prepares an ordinary mid game transition. It doesn't matter when he attacks, because his army will most times at least match the Zerg's unit mix. 
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Slow_Drops">Slow Drops</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=22" title="Edit section: Slow Drops">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Slow Drops are one of the powerful early game all-ins Zerg can try to perform. They're usually rather hard to scout and are often mixed up with other forms of all-ins. The adjective "slow" refers to Overlords only having the Drop upgrade.
+</p>
+<center>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "Signs: Slow Drops" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>Extractor is being built early on, Gas production is not being stopped
+</li>
+<li>Hydralisk Den being built early on
+</li>
+<li>Lair being morphed
+</li>
+<li>a second Overlord waits near the Protoss main base
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> </div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</center>
+<h3><span class="mw-headline" id="Build_Order_Adaptions_3">Build Order Adaptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=23" title="Edit section: Build Order Adaptions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In most scenarios a slow drop looks like a Zergling, Lurker or Hydralisk bust. Therefore Protoss needs to add more Photon Cannons on his Natural. However, if the scouting Corsair does see a second Overlord waiting close the Protoss main base a slow drop can be expected. 
+</p><p>Usually Protoss adds at least one Cannon near his Main Nexus and uses his Zealots to block the dropped units. The initial Corsair tries to snipe the Overlord before it can unload units.
+</p><p>One or two Pylons being built at the edges of the base help to scout drops sooner. 
+</p>
+<h3><span class="mw-headline" id="Transition_6">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=24" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Any transition works if the drop was defended. If Lurkers were dropped a Robotics Facility should be built at the Natural Expansion. 
+</p>
+<h2><span class="mw-headline" id="External_Links">External Links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=25" title="Edit section: External Links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=438605">PvZ Countering Cheese and All-Ins</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=26" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;section=27" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.208 seconds
+Real time usage: 0.230 seconds
+Preprocessor visited node count: 565/1000000
+Preprocessor generated node count: 2212/1000000
+Postâ€?expand include size: 6059/2097152 bytes
+Template argument size: 1476/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:762-0!*!0!!en!2!* and timestamp 20150526033704
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;oldid=120006">http://wiki.teamliquid.net/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;oldid=120006</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Protoss_Build_Orders" title="Category:Protoss Build Orders">Protoss Build Orders</a></li><li><a href="/starcraft/Category:PvZ_Builds" title="Category:PvZ Builds">PvZ Builds</a></li><li><a href="/starcraft/Category:Missing_games" title="Category:Missing games">Missing games</a></li><li><a href="/starcraft/Category:Protoss_Beginner_Strategy" title="Category:Protoss Beginner Strategy">Protoss Beginner Strategy</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Protoss_Counter_to_Zerg_All-ins" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:Protoss_Counter_to_Zerg_All-ins&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Protoss+Counter+to+Zerg+All-ins" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Protoss_Counter_to_Zerg_All-ins" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Protoss_Counter_to_Zerg_All-ins" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;oldid=120006" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Protoss_Counter_to_Zerg_All-ins&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Protoss_Counter_to_Zerg_All-2Dins" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:52.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.119 secs. --></body></html>

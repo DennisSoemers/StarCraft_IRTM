@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Zerg vs. Zerg Guide - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Zerg vs. Zerg Guide" href="/starcraft/index.php?title=Special:ExportRDF/Zerg_vs._Zerg_Guide&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Zerg_vs._Zerg_Guide","wgTitle":"Zerg vs. Zerg Guide","wgCurRevisionId":119924,"wgRevisionId":119924,"wgArticleId":465,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Zerg Build Orders","ZvZ Builds","Matchup Guides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Zerg_vs._Zerg_Guide","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119924});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Zerg_vs_Zerg_Guide skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Zerg vs. Zerg Guide</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="21" height="19" /></a> Zerg vs. Zerg - Openings</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:ZvZ.png&amp;filetimestamp=20090307011558&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/3f/ZvZ.png/294px-ZvZ.png" width="294" height="221" srcset="/starcraft/images/thumb/3/3f/ZvZ.png/441px-ZvZ.png 1.5x, /starcraft/images/thumb/3/3f/ZvZ.png/588px-ZvZ.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>ZvZ</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">ZvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<p>Zerg vs. Zerg is one of the match-ups that takes a ton of skill and intelligence to be good at, but can also result in some build order losses. Try to learn what you can do to prevent each build order loss, and also try to figure out what you can do to learn how to play better than your opponent. 
+</p><p>The three major branches refer to the timing as to when you place your spawning pool down. 
+</p><p>Zerg vs. Zerg games often see the unit combination of early Zerglings into Zerglings, Mutalisk, and Scourge. Hydralisk and other higher tier units are largely ignored in this match-up because they are not as mobile as Zerglings and Mutalisk and have a lower damage output to small units.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order_Counters"><span class="tocnumber">2</span> <span class="toctext">Build Order Counters</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#What_to_do_with_the_Overlord"><span class="tocnumber">3</span> <span class="toctext">What to do with the Overlord</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sim_City"><span class="tocnumber">4</span> <span class="toctext">Sim City</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#When_to_Drone"><span class="tocnumber">5</span> <span class="toctext">When to Drone</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Branch_I:_9_Pool"><span class="tocnumber">6</span> <span class="toctext">Branch I: 9 Pool</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Initial_Build_Order"><span class="tocnumber">6.1</span> <span class="toctext">Initial Build Order</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Intermediate_Goals"><span class="tocnumber">6.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Vs._9_Pool"><span class="tocnumber">6.3</span> <span class="toctext">Vs. 9 Pool</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Vs._9_Overpool"><span class="tocnumber">6.4</span> <span class="toctext">Vs. 9 Overpool</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Vs._8_Extractor"><span class="tocnumber">6.4.1</span> <span class="toctext">Vs. 8 Extractor</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Vs._Anything_later_than_a_8_extractor"><span class="tocnumber">6.4.2</span> <span class="toctext">Vs. Anything later than a 8 extractor</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Vs._No_Ling_Speed"><span class="tocnumber">6.4.3</span> <span class="toctext">Vs. No Ling Speed</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Vs._12_Pool"><span class="tocnumber">6.5</span> <span class="toctext">Vs. 12 Pool</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Vs._12_Hatch"><span class="tocnumber">6.6</span> <span class="toctext">Vs. 12 Hatch</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Notable_maps"><span class="tocnumber">6.7</span> <span class="toctext">Notable maps</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Branch_II:_Overpool"><span class="tocnumber">7</span> <span class="toctext">Branch II: Overpool</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Initial_Build_Order_2"><span class="tocnumber">7.1</span> <span class="toctext">Initial Build Order</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Notable_Maps_2"><span class="tocnumber">7.2</span> <span class="toctext">Notable Maps</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Intermediate_Goals_2"><span class="tocnumber">7.3</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Vs._9_Pool_2"><span class="tocnumber">7.4</span> <span class="toctext">Vs. 9 Pool</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Vs._Overpool_with_8_Gas"><span class="tocnumber">7.5</span> <span class="toctext">Vs. Overpool with 8 Gas</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Vs._12_Pool_2"><span class="tocnumber">7.6</span> <span class="toctext">Vs. 12 Pool</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Vs._12_Hatch_2"><span class="tocnumber">7.7</span> <span class="toctext">Vs. 12 Hatch</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Notable_Maps_3"><span class="tocnumber">7.8</span> <span class="toctext">Notable Maps</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Branch_III:_12_pool"><span class="tocnumber">8</span> <span class="toctext">Branch III: 12 pool</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Initial_Build_Order_3"><span class="tocnumber">8.1</span> <span class="toctext">Initial Build Order</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Intermediate_Goals_3"><span class="tocnumber">8.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Vs._9_Pool.2FOverpool"><span class="tocnumber">8.3</span> <span class="toctext">Vs. 9 Pool/Overpool</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Vs._12_Pool_3"><span class="tocnumber">8.4</span> <span class="toctext">Vs. 12 Pool</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Vs._12_Hatch_3"><span class="tocnumber">8.5</span> <span class="toctext">Vs. 12 Hatch</span></a>
+<ul>
+<li class="toclevel-3 tocsection-32"><a href="#Notable_Maps_4"><span class="tocnumber">8.5.1</span> <span class="toctext">Notable Maps</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#Branch_IV:_12_hatchery"><span class="tocnumber">9</span> <span class="toctext">Branch IV: 12 hatchery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-34"><a href="#Initial_Build_Order_4"><span class="tocnumber">9.1</span> <span class="toctext">Initial Build Order</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Intermediate_Goals_4"><span class="tocnumber">9.2</span> <span class="toctext">Intermediate Goals</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Vs._9_Pool.2FOverpool_2"><span class="tocnumber">9.3</span> <span class="toctext">Vs. 9 Pool/Overpool</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Vs._12_Pool_4"><span class="tocnumber">9.4</span> <span class="toctext">Vs. 12 Pool</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Vs._12_Hatch_4"><span class="tocnumber">9.5</span> <span class="toctext">Vs. 12 Hatch</span></a>
+<ul>
+<li class="toclevel-3 tocsection-39"><a href="#Notable_Maps_5"><span class="tocnumber">9.5.1</span> <span class="toctext">Notable Maps</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-40"><a href="#Branch_V:_Gas_Before_Pool"><span class="tocnumber">10</span> <span class="toctext">Branch V: Gas Before Pool</span></a>
+<ul>
+<li class="toclevel-2 tocsection-41"><a href="#Initial_Build_Order_5"><span class="tocnumber">10.1</span> <span class="toctext">Initial Build Order</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-42"><a href="#Branch_VI:_Cheeses.2FUnorthodox_strategies"><span class="tocnumber">11</span> <span class="toctext">Branch VI: Cheeses/Unorthodox strategies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-43"><a href="#5pooling_in_ZvZ"><span class="tocnumber">11.1</span> <span class="toctext">5pooling in ZvZ</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#Ling_all-in_ZvZ"><span class="tocnumber">11.2</span> <span class="toctext">Ling all-in ZvZ</span></a></li>
+<li class="toclevel-2 tocsection-45"><a href="#Defending_Cheese"><span class="tocnumber">11.3</span> <span class="toctext">Defending Cheese</span></a></li>
+<li class="toclevel-2 tocsection-46"><a href="#Hydra_builds"><span class="tocnumber">11.4</span> <span class="toctext">Hydra builds</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most Zerg vs. Zerg games do not advance past the midgame stage and lair tech. Currently, Zerg vs. Zerg is focused on getting as many <a href="/starcraft/Mutalisk" title="Mutalisk">Mutalisks</a> as fast as possible while being able to maintain Mutalisk production.  <a href="/starcraft/Zergling" title="Zergling">Zerglings</a> are generally ignored in this match up past the early game because their effectiveness drops off as Mutalisk numbers increase.  However, Zerglings can be used to gain an early game advantage by sniping drones, and they are very effective at taking out key buildings such as the <a href="/starcraft/Spire" title="Spire">Spire</a> or the <a href="/starcraft/Spawning_Pool" title="Spawning Pool">Spawning Pool</a> during the early game and before enough Mutalisks are hatched during the midgame.  Because of the mobility of Zerglings and Mutalisks, players usually do not try to expand past their natural because those bases become very vulnerable to harass.  Once a player accumulates enough Mutalisks, attempting to snipe even one of the opponent's Drones is vital because every Drone counts.  Once you feel that you have accumulated more Mutalisks than the opponent, then feel free to engage the opponent.
+</p>
+<h2><span class="mw-headline" id="Build_Order_Counters">Build Order Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=2" title="Edit section: Build Order Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Zerg vs. Zerg, there is a chance taken with build orders.  Of the four most common build orders, the square goes like this: Overpool &gt; 9 Pool &gt; 12 Hatch &gt; 12 Pool &gt; Overpool.  This square results from the timing of Zerglings hatching, and from the economy advantage of some builds. 
+</p><p>9 Pool is a direct counter to the 12 Hatch on maps with a short rush distance because your Zerglings will reach the opponent's base and pick off several Drones before his Zerglings hatch.  However, on maps with a long rush distance such as <a href="/starcraft/Neo_Harmony" title="Neo Harmony" class="mw-redirect">Neo Harmony</a>, 12 Hatch can be effective against 9 Pool because of the long rush distances between main bases.
+</p><p>Overpool is a build that gives the Zerg player a better economy than 9 Pool, with comparable Spire timing. Overpool is thus a solid counter to the 9 pool because it beats 9 Pool in almost all aspects except for Zergling speed. Overpool can also be considered a direct counter to the 12 Hatch, but only on maps with short rush distances.  On larger maps, the Zerglings will arrive at the opponent's main just as or immediately before the opponent's Zerglings hatch, but the timing is still close enough such that your Zerglings can pick off several drones and disrupt the opponent's mining before his Zerglings can respond.
+</p><p>12 Pool is a soft counter to 9 Pool and Overpool, since it offers 4 extra Drones that 9 Pool does not offer, and it offers a better economy than Overpool since the Pool and Extractor are built later. Spire timings for 12 Pool are slightly slower than those of 9 Pool and Overpool, but are still fast enough to negate any immediate Mutalisk damage from your opponent.
+</p><p>12 Hatch is a soft counter to the 12 Pool because it offers a better economy. Against the 9 Pool and Overpool, the player who 12 Hatched must build <a href="/starcraft/Spore_Colony" title="Spore Colony">Spore Colonies</a> to fend off the Mutalisks.
+</p>
+<h2><span class="mw-headline" id="What_to_do_with_the_Overlord">What to do with the Overlord</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=3" title="Edit section: What to do with the Overlord">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Zerg vs. Zerg, the overlord is a crucial unit to your success.  At the start of the game, move the overlord to the closest main.  The second overlord should be sent to the next closest main.  Once your overlord arrives at the opponent's main, move the overlord that is moving in the wrong direction towards the main as well.  Put that overlord over where ever the opponent's Zerglings are.  Now there are various factors to consider:
+</p>
+<ul>
+<li>How many Zerglings does he currently have?
+</li>
+<li>What units is he building?
+</li>
+<li>Is he currently collecting gas?
+</li>
+<li>When will he build his Spire?
+</li>
+<li>Does he have Zergling Speed?
+</li>
+</ul>
+<p>You cannot let the overlord just sit in your opponent's base.  You have to constantly check on his base to see what's going on there.
+</p><p>However, there is a point where the overlord needs to get out of the opponent's base or it will be sniped by mutalisks.  Once you see the spire start, both overlords should start retreating.  Generally, your overlord will be halfway back to your base on maps like <a href="/starcraft/Destination" title="Destination">Destination</a> when his mutalisks hatch.  However, make sure to see what's coming out of the eggs as your overlord leaves his base.  After this point, the overlord is generally useless except for grouping mutas, but you got the information you need.  Make sure to periodically scout with a ling to see what your opponent is doing.
+</p>
+<h2><span class="mw-headline" id="Sim_City">Sim City</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=4" title="Edit section: Sim City">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sim City is an important element in Zerg vs. Zerg, especially on maps such as <a href="/starcraft/Neo_Medusa" title="Neo Medusa" class="mw-redirect">Neo Medusa</a> where the choke is wide.  The way your base is set up will decide what targets the opponent decides to go for with lings if they ever arrive in your base.  Generally, the sunken colony should be placed in between your mineral line and your gas so you can drone drill the sunken to defend it.  The spire should not be exposed and it should only be able to be surrounded on two sides, although 1 is more preferable.  The spawning pool is far too large to place effectively, so have it cover one side of the spire.  Finally, any additional hatcheries in the main should be placed to wall off another side of the spire or sunken colony.  Also make sure that the protected sunkens can hit everything.
+</p>
+<h2><span class="mw-headline" id="When_to_Drone">When to Drone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=5" title="Edit section: When to Drone">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Droning in Zerg vs. Zerg is a difficult task.  The general rule is to copy whatever your opponent is doing.  If he's building drones, you build drones.  If he build lings, you build lings.  The rule can be broken on some maps such as <a href="/starcraft/Neo_Medusa" title="Neo Medusa" class="mw-redirect">Neo Medusa</a> due to the wide choke, but on ramped maps or on maps with small chokes like <a href="/starcraft/Tau_Cross" title="Tau Cross">Tau Cross</a>, the rule holds.  The rule also changes depending on the size of the map.  On <a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a> for example, you can stay one pair of lings behind the enemy because of the long distance between mains.  Once the opponent moves out, build two pairs of lings to compensate.
+</p>
+<h2><span class="mw-headline" id="Branch_I:_9_Pool">Branch I: 9 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=6" title="Edit section: Branch I: 9 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>9 Pool has long been a staple in Zerg vs. Zerg, and it is the safest build in terms of guarding against cheese.  Although this build offers less early economy than the other standard Zerg vs. Zerg builds, it allows for early aggression against the opposing player and allows the player to tech the fastest out of all Zerg vs. Zerg builds, which leads to a gas advantage and generally a mutalisk advantage.
+</p><p>The 9 pool is a variable build that can be adapted to many maps.  In general, the build favors maps where starting positions have a short ground rush distance such as <a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a>.  However, the build can also be used on maps where the choke is wide enough so that your lings can run by the opponent's lings such as <a href="/starcraft/Medusa" title="Medusa">Medusa</a>.
+</p>
+<h3><span class="mw-headline" id="Initial_Build_Order">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=7" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Drones until 9 Supply
+</li>
+<li>9 Spawning Pool
+</li>
+<li>8 Extractor
+</li>
+<li>7 Drone
+</li>
+<li>8 Overlord
+</li>
+<li>9 Drone
+</li>
+<li>Place Drones on gas when the Extractor finishes
+</li>
+<li>Save 3 larva
+</li>
+<li>Build 6 Lings when the Spawning pool finishes
+</li>
+<li>Lair with the first 100 gas
+</li>
+<li>Zergling Speed with the second 100 gas
+</li>
+<li>Spire upon the completion of the Lair
+</li>
+<li>16 Overlord
+</li>
+<li>Start saving larva when the spire has 320 HP
+</li>
+<li>3 Mutalisks upon the completion of the Spire
+</li>
+</ul>
+<h3><span class="mw-headline" id="Intermediate_Goals">Intermediate Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=8" title="Edit section: Intermediate Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The whole point of a 9 pool is either to be able to kill them with your first lings, or to tech faster to mutalisks, and then overrun them with better control and higher Mutalisk numbers. see <a href="/starcraft/Mutalisk_Harass" title="Mutalisk Harass" class="mw-redirect">Mutalisk Harass</a> or <a href="/starcraft/Mutalisk_vs_Scourge_Control" title="Mutalisk vs Scourge Control" class="mw-redirect">Mutalisk vs Scourge Control</a>.
+</p>
+<h3><span class="mw-headline" id="Vs._9_Pool">Vs. 9 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=9" title="Edit section: Vs. 9 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Against another 9 pool, the battle generally comes down to micro.  Refer to <a href="/starcraft/Mutalisk_Harass" title="Mutalisk Harass" class="mw-redirect">Mutalisk Harass</a> or <a href="/starcraft/Mutalisk_vs_Scourge_Control" title="Mutalisk vs Scourge Control" class="mw-redirect">Mutalisk vs Scourge Control</a>, since the battle will inevitably come down to mutalisks.
+</p>
+<h3><span class="mw-headline" id="Vs._9_Overpool">Vs. 9 Overpool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=10" title="Edit section: Vs. 9 Overpool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Against a 9 Overpool, strong micro is key.  There are several variants of the 9 overpool, and there are various counters to each.
+</p>
+<h4><span class="mw-headline" id="Vs._8_Extractor">Vs. 8 Extractor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=11" title="Edit section: Vs. 8 Extractor">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>This gas is the earliest that the opponent could have gotten with the 9 overpool.  Try to harass the opponent and pick off several drones, but other than that, it comes down to micro.  Refer to the Vs. 9 Pool section above.
+</p>
+<h4><span class="mw-headline" id="Vs._Anything_later_than_a_8_extractor">Vs. Anything later than a 8 extractor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=12" title="Edit section: Vs. Anything later than a 8 extractor">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Here, you should have a definite gas advantage.  Once you run out of gas to use, your opponent should have run out of gas to use a while ago.  Therefore, once your gas hits below 75, wait for whatever is hatching to finish, then attack.  With proper micro and reinforcements, the extra Scourge/Mutalisk should help you to defeat the opponent's forces.
+</p>
+<h4><span class="mw-headline" id="Vs._No_Ling_Speed">Vs. No Ling Speed</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=13" title="Edit section: Vs. No Ling Speed">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On ramped maps, you are likely to see this variation since the opponent can camp on his ramp with lings and be safe from any ling runbys that you try.  Since the opponent skipped ling speed, he'll likely have more gas or comparable gas with you, so the key is to harass where ever you can with mutalisks.  Drones, Zerglings, overlords, etc. are targets at this point.  If you can bust open his ramps with lings, do so, and take out as many drones as you can.  Since you have ling speed, keep your lings somewhere near the middle of the map or preferably near your opponent's base to counter if your opponent attacks your main.  Of course, you could always turtle yourself and keep the gas.
+</p>
+<h3><span class="mw-headline" id="Vs._12_Pool">Vs. 12 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=14" title="Edit section: Vs. 12 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The main benefit of 9 pool vs. 12 pool is the increased amount of gas that the 9 pool gives.  Skipping Zergling Speed is a good idea when facing a 12 pool because the opponent will have the drone and ling count to completely negate anything that can be done with lings.  Instead, focus on getting to mutalisk tech immediately because that's the area where the 9 pool has the biggest advantage.  Once the first few mutalisks pop, they can be sent over to the opponent's base to harass the drones because the opponent won't have any mutalisks to counter.  Once the opponent's spire is nearly done, a pair of scourge will be useful to snipe mutalisks, but instead of letting them kill one mutalisk, it's better to have them each damage a separate mutalisk since it only takes 2 hits from your mutalisk to finish it off.
+</p><p>If the opponent attempted to spore up instead, then harass drones as much as you can.  On most maps, one spore at the natural and expansion will not be enough to cover every area to mutalisk harass, so take out as many drones as possible.  Look for openings in the spore placement.  If the enemy Zerg decided to place more spores, then he basically negated a lot of his economic advantage because that would be 4 or 5 drones wasted and at least 500 minerals.  Harass as best as possible, but don't lose mutalisks.  Expand yourself and drone up because with spores, the opponent will not be able to attack the expansion.
+</p>
+<h3><span class="mw-headline" id="Vs._12_Hatch">Vs. 12 Hatch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=15" title="Edit section: Vs. 12 Hatch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This should be a pure build order counter.  Instead of trying to take down the hatchery, run into the opponent's main and snipe as many drones as possible.  If the opponent tries to counter, place a sunken in your main.
+</p>
+<h3><span class="mw-headline" id="Notable_maps">Notable maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=16" title="Edit section: Notable maps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/Battle_Royal" title="Battle Royal">Battle Royal</a>
+</li>
+<li><a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a>
+</li>
+<li><a href="/starcraft/Destination" title="Destination">Destination</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Branch_II:_Overpool">Branch II: Overpool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=17" title="Edit section: Branch II: Overpool">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Overpool is a versatile build that it partly offers the economic advantage of the 12 pool, but the lings pop later than the 9 pool and the gas comes later as well.  Although the spire timing is not as fast as the 9 pool, your mutalisks should be out in time to defend against the opponent's mutalisks.  However, one major advantage it has over the 9 pool is the ability to place a 2nd hatchery.
+</p>
+<h3><span class="mw-headline" id="Initial_Build_Order_2">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=18" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>9 Overlord
+</li>
+<li>9 Spawning Pool
+</li>
+<li>8 Extractor
+</li>
+<li>Drones to 10
+</li>
+<li>6 Zerglings at 100% Pool
+</li>
+<li>Lair at 100 Gas
+</li>
+<li>Zergling Speed at the next 100 Gas
+</li>
+<li>16 Overlord
+</li>
+<li>Spire at 100% Lair
+</li>
+<li>2nd Hatchery with the next 300 minerals
+</li>
+<li>Save larva at 50% Spire (320 HP)
+</li>
+<li>3 Mutalisks or 2 Mutalisks and 1 Pair of Scourge
+</li>
+</ul>
+<h3><span class="mw-headline" id="Notable_Maps_2">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=19" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Where the distance between bases is short.
+</p>
+<ul>
+<li><a href="/starcraft/Battle_Royal" title="Battle Royal">Battle Royal</a>
+</li>
+<li><a href="/starcraft/Raid_Assault" title="Raid Assault">Raid Assault</a>
+</li>
+<li><a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a>
+</li>
+<li><a href="/starcraft/Python" title="Python">Python</a> (On adjacent positions if you didn't 9 pool)
+</li>
+</ul>
+<h3><span class="mw-headline" id="Intermediate_Goals_2">Intermediate Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=20" title="Edit section: Intermediate Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 8 Extractor allows for a Spire timing comparable to that of 9 pool, so if the air distance between mains is close, then Mutalisks will not rip your Drone line apart.  It also allows you to rush the opponent with Mutalisks if he went a 12 pool or 12 hatch build.
+</p>
+<h3><span class="mw-headline" id="Vs._9_Pool_2">Vs. 9 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=21" title="Edit section: Vs. 9 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite a minor gas disadvantage, you have the better economy and production so the only thing separating a win from a loss here is micro and macro.  Your Mutalisks will be later, but not by much, so his Mutalisks should not reach your base until your Mutalisks have hatched.  However, do be wary of getting your overlords out of danger early because your Mutalisks might not make it in time to defend your overlord.  Section still needs to be finished.
+</p>
+<h3><span class="mw-headline" id="Vs._Overpool_with_8_Gas">Vs. Overpool with 8 Gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=22" title="Edit section: Vs. Overpool with 8 Gas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Management battle.
+</p>
+<h3><span class="mw-headline" id="Vs._12_Pool_2">Vs. 12 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=23" title="Edit section: Vs. 12 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>You have a gas advantage until the opponent takes his natural gas, and if you went this build, then the distance between mains should be relatively small.  Therefore, the player who 12 pooled will be forced to place spore colonies.  Take the natural expansion yourself while his money is going into Spore Colonies.  Use your Mutalisk advantage to prevent him from using his lings and harass his drones as much as possible without taking too much damage.  Harassing the gas is especially useful because many times, the opponent will not have those covered.  If you hit the Extractor, then the bounce attack will indirectly kill drones.  Maintain the gas advantage and you should be fine with proper micro.
+</p>
+<h3><span class="mw-headline" id="Vs._12_Hatch_2">Vs. 12 Hatch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=24" title="Edit section: Vs. 12 Hatch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>See above because the situation is almost exactly the same.
+</p>
+<h3><span class="mw-headline" id="Notable_Maps_3">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=25" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/Python" title="Python">Python</a> (except Cross positions)
+</li>
+<li><a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a>
+</li>
+<li><a href="/starcraft/Destination" title="Destination">Destination</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Branch_III:_12_pool">Branch III: 12 pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=26" title="Edit section: Branch III: 12 pool">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 12 pool is a build that has been gaining popularity on large maps recently because it offers an expansion that is slightly slower than the 12 hatch, but maintaining a comparable spire timing to the 9 Overpool.  The build does sacrifice gas timing for the expansion however, but the Spire finishes with comparable timing with the 9 Overpool.
+</p>
+<h3><span class="mw-headline" id="Initial_Build_Order_3">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=27" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>9 Overlord
+</li>
+<li>12 Pool
+</li>
+<li>11 Gas
+</li>
+<li>10 Drone
+</li>
+<li>Build a Hatchery with the next 300 minerals.
+</li>
+<li>Lair with the next 100 gas
+</li>
+<li>Lings when the minerals are available
+</li>
+<li>Ling speed with the next 100 gas after at least 8 lings are produced
+</li>
+<li>Spire when Lair finishes
+</li>
+<li>Overlord at 16 whenever that happens
+</li>
+<li>Save larva for Mutas when Spire reaches 320HP
+</li>
+<li>5 Mutas and 1 pair of Scourge
+</li>
+</ul>
+<h3><span class="mw-headline" id="Intermediate_Goals_3">Intermediate Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=28" title="Edit section: Intermediate Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>With 12 pool, the idea is to maintain a sizable macro advantage while having comparable Mutalisk timing with most other builds.  With the 12 pool, you will have less gas, but that problem is mitigated by the extra production hatchery and the extra gas geyser.
+</p>
+<h3><span class="mw-headline" id="Vs._9_Pool.2FOverpool">Vs. 9 Pool/Overpool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=29" title="Edit section: Vs. 9 Pool/Overpool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Depending on the size of the map, it may be necessary to spore up to fend off the early Mutalisks.  Once those have been fended off, drone up and take the natural gas.  Try to lose as few drones as possible, and keep tabs on the opponent's Ling count with a random scouting Zergling once in a while since a Ling all-in is not pleasant.
+</p>
+<h3><span class="mw-headline" id="Vs._12_Pool_3">Vs. 12 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=30" title="Edit section: Vs. 12 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the case of 12 pool vs. 12 pool, the match up gets trickier since there are other strategies that Zerg may try other than a rush to Mutalisks.  One option for Zerg is to instead power lings and attack while Mutalisks are morphing or around the timing.  Once again, scouting is key, and if you saved up larva for Mutas, build some additional Lings and place down a sunken depending on the opponent's Zergling count.  Other than that, it generally comes down to micro.
+</p>
+<h3><span class="mw-headline" id="Vs._12_Hatch_3">Vs. 12 Hatch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=31" title="Edit section: Vs. 12 Hatch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>12 Pool vs. 12 Hatch is an uphill battle because the person who 12 pooled has no economic advantage and a gas advantage.  Not only that, but the earlier hatchery of the 12 hatching player can make defending from mass Zerglings difficult.  However, utilizing the gas advantage is of utmost importance.  Since it takes a much longer time to take the gas for the person who 12 hatched as opposed to the person who 12 pooled (compare: 12 Hatch 11 Pool 10 Gas - 500 Minerals before gas, 12 Pool 11 Gas - 200 Minerals before gas), then the Mutalisk count for the person who 12 pooled will be higher by one or two Mutalisks/Scourge.  However, the person who 12 hatched will have many more drones, so the key is to attack before they get their 2nd gas up and running while you still have a gas advantage.  The longer the game goes on the harder it is for you to win because you will not be able to keep up with the economy of the person who 12 hatched.
+</p><p>Another option is to harass the opponent as much as possible with your Mutalisks because you will have an early Mutalisk advantage.  If you lose any Mutalisks, however, or let them get too badly injured, you will lose the advantage, so knowing when to stop harassment is key.  If possible, try to take out gas drones because many times, the opponent will be slow to place drones back on gas, therefore giving you a greater gas advantage.
+</p>
+<h4><span class="mw-headline" id="Notable_Maps_4">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=32" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/starcraft/Neo_Harmony" title="Neo Harmony" class="mw-redirect">Neo Harmony</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Branch_IV:_12_hatchery">Branch IV: 12 hatchery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=33" title="Edit section: Branch IV: 12 hatchery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An extremely risky build, the 12 Hatch is rarely seen in play because of the slow gas and risky nature.  It is the most vulnerable out of all the Zerg vs. Zerg builds because lings come late and the hatchery is very exposed as compared to other builds.  Sometimes, a player will opt to go for a Hydralisk build instead because of the slow gas.
+</p>
+<h3><span class="mw-headline" id="Initial_Build_Order_4">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=34" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>9 Overlord
+</li>
+<li>12 Hatchery
+</li>
+<li>11 Spawning Pool
+</li>
+<li>10 Extractor
+</li>
+<li>3 Drones
+</li>
+<li>6 Zerglings
+</li>
+<li>Get Lair with first 100 gas
+</li>
+<li>Get Zergling speed with second 100 gas
+</li>
+<li>As soon as Lair is done, get Spire
+</li>
+<li>When the Spire is at 320 HP, start saving larva for Mutalisks/Scourge
+</li>
+</ul>
+<h3><span class="mw-headline" id="Intermediate_Goals_4">Intermediate Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=35" title="Edit section: Intermediate Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 12 Hatch offers the greatest economic advantage than other builds (A total of 13 Drones), but with this build, the gas comes the slowest because of the necessity of placing a hatchery and pool before the extractor.  Therefore, while the player who 12 Hatched is at an economic advantage, he/she will need to utilize the natural gas as best as possible to catch up with the opponent's gas count unless he is overrun by the opponent's Mutalisks.
+</p>
+<h3><span class="mw-headline" id="Vs._9_Pool.2FOverpool_2">Vs. 9 Pool/Overpool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=36" title="Edit section: Vs. 9 Pool/Overpool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On many maps, a 9 pool is an instant defeat for the player who 12 Hatched because the drone advantage will be completely lost.  The best idea is to cancel the Hatchery at the natural, and use the money to place a pool (if you haven't already) and two Sunkens, and placing the hatchery in the main to try to wall in a little so the Sunkens will be protected.  At this point, you will be behind in tech, so the only possible transition is the all-in Speedling build.
+</p>
+<h3><span class="mw-headline" id="Vs._12_Pool_4">Vs. 12 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=37" title="Edit section: Vs. 12 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>You have the economic advantage, but you lack the gas advantage.  If the player who 12 pooled isn't watching what you're building, then a ling break might be possible while his spire is building.  If you can over power his lings and defenses and run into the main, it should be possible to destroy his spire or at least pick off several drones.  You may need to spore up depending on your spire timing.  Alternatively, a hydra build may be possible, but it will depend on the rush distances between the naturals.  The final option is to go mutalisks as well, but the natural gas will need to be taken faster than he does, or you will be at a definite disadvantage.
+</p>
+<h3><span class="mw-headline" id="Vs._12_Hatch_4">Vs. 12 Hatch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=38" title="Edit section: Vs. 12 Hatch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>See 12 Pool vs. 12 Pool because the situation is exactly the same.
+</p>
+<h4><span class="mw-headline" id="Notable_Maps_5">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=39" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/starcraft/Colosseum" title="Colosseum">Colosseum</a>
+</li>
+<li><a href="/starcraft/Neo_Harmony" title="Neo Harmony" class="mw-redirect">Neo Harmony</a>
+</li>
+<li><a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Branch_V:_Gas_Before_Pool">Branch V: Gas Before Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=40" title="Edit section: Branch V: Gas Before Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This build is the in-between of Overpool and 12 Pool. It offers 200 gas right when the Spawning Pool finishes, allowing Zergling Speed and Lair to be researched simultaneously.
+</p>
+<h3><span class="mw-headline" id="Initial_Build_Order_5">Initial Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=41" title="Edit section: Initial Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>9 Overlord
+</li>
+<li>Gas at 230 minerals
+</li>
+<li>11 Pool
+</li>
+<li>Drone until 12 supply
+</li>
+<li>Speed/Lair/4-6 Lings when Spawning Pool is complete
+</li>
+<li>Get 2nd Hatchery when there is enough minerals
+</li>
+<li>Spire when Lair is complete
+</li>
+<li>Produce 2 Overlords so that there is enough food for the Mutalisks
+</li>
+<li>Save larvae when Spire is at 320 HP
+</li>
+<li>Produce as many Mutalisks as you can (4-5 Mutas) and 2-4 scourges
+</li>
+</ul>
+<p>Note: When the spawning pool finishes, you can pull 2 drones off gas for a slightly faster 2nd hatchery.
+</p>
+<h2><span class="mw-headline" id="Branch_VI:_Cheeses.2FUnorthodox_strategies">Branch VI: Cheeses/Unorthodox strategies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=42" title="Edit section: Branch VI: Cheeses/Unorthodox strategies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Early game build order cheese is very uncommon in ZvZ. Any Pool build that comes before 9 (4, 5, 7 Pool etc.) is generally less effective than in the other Zerg match-ups, because 9 pool and <a href="/starcraft/OverPool" title="OverPool" class="mw-redirect">OverPool</a> are very common build orders. If you use one of these earlier Pool builds vs 9 pool and OverPool it's basically an auto loss, even more so than other build order wins in ZvZ. 4-5-7 pool builds can be dangerous against builds like <a href="/starcraft/12_Pool_(vs_Zerg)" title="12 Pool (vs Zerg)" class="mw-redirect">12 Pool</a> or <a href="/starcraft/12_Hatch_(vs_Zerg)" title="12 Hatch (vs Zerg)" class="mw-redirect">12 Hatch</a>, but even in this situation, if it's scouted it's very easy for the opponent to stop any damage.
+</p>
+<h3><span class="mw-headline" id="5pooling_in_ZvZ">5pooling in ZvZ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=43" title="Edit section: 5pooling in ZvZ">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>5 Pool is better than 4 Pool, because with 5 pool the Zerglings come out at the same time and you can fit an extra two Drones into the build order.
+</p><p>The build:
+</p>
+<ul>
+<li>4 Drone
+</li>
+<li>5 Spawning Pool
+</li>
+<li>4 Drone
+</li>
+<li>5 Drone
+</li>
+<li>Save larva, when pool is finished make six Zerglings.
+</li>
+</ul>
+<p>At this point you can choose to either use the gas trick to make two more Zerglings if you think you can do more damage with those extra Lings, or you can make an Overlord immediately if you think the extra Lings won't add any extra pressure to the opponent. 
+If your opponent didn't scout you and you think you can end it for good with this rush, you can take a Drone off your mineral line and take it to his base to try an offensive Sunken Colony. If you get the building down and don't lose too many Zerglings in the process, this can be very effective.
+(7 pool goes here I guess, though I don't know why anyone would do that but I've seen the term used before)
+</p>
+<h3><span class="mw-headline" id="Ling_all-in_ZvZ">Ling all-in ZvZ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=44" title="Edit section: Ling all-in ZvZ">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The build:
+</p>
+<ul>
+<li>9 Spawning Pool
+</li>
+<li>9 Gas
+</li>
+<li>9 Overlord
+</li>
+<li>Save larva
+</li>
+<li>When pool is finished make 6 lings
+</li>
+<li>At 100 gas upgrade Zergling Speed (Metabolic boost)
+</li>
+<li>Take the drones off gas-mining
+</li>
+<li>Keep making lings and start your attack when you have about 10-12 lings.
+</li>
+</ul>
+<p>Notes on the build:
+</p>
+<ul>
+<li>When you reach 88 gas take the first Drone off gas, at 96 gas take the next one off and the last one when you reach 104 gas.
+</li>
+<li>Unless you've been scouted, try hiding some of your Zerglings so if you do get scouted your opponent only sees a small number of your Lings.
+</li>
+</ul>
+<p>You can also use the "9 hatch" build:
+</p>
+<ul>
+<li>9 - Hatchery
+</li>
+<li>8 - Drone
+</li>
+<li>9 - Pool
+</li>
+<li>8 - Drone
+</li>
+<li>9 - Extractor
+</li>
+<li>8 - Overlord
+</li>
+<li>8 - Drone
+</li>
+</ul>
+<p>Notes on the build:
+</p>
+<ul>
+<li>When you reach 88 gas take the first Drone off gas, at 96 gas take the next one off and the last one when you reach 104 gas.
+</li>
+<li>Produce lings non-stop, attack when Zergling speed is done.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Defending_Cheese">Defending Cheese</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=45" title="Edit section: Defending Cheese">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If you do a 9 Pool or Overpool build, you're pretty much in the clear against early cheeses, unless you make some drastic mistake. If you run your Zerglings out first and he gets his in, simply defend with the Zerglings you've been pumping there plus Drones. Once you realize he's done a build like this, just keep Teching as you normally would, but instead of adding any extra Drones just keep pumping Lings. He'll either be forced to pump Lings as well and will lose to your Tech automatically, or he will try to add Drones and be forced to spend money on Sunkens, which will damage his already ruined economy further, and he'll lose to Tech. Of course, if he gets greedy and doesn't pump enough Lings and/or make Sunkens you can simply run him over with Zerglings of your own. 
+</p><p>If you're caught with your pants down and you went for a greedy Tech build like 12 Pool, or you took your chances with an FE, you should still have time to react to an early cheese. You should have two Overlords scouting already, and if you're lucky you should see his Zerglings coming in time. If you 12 Pooled, when you see the Zerglings, add a Sunken immediately and save Larva for Zerglings, then just play as you normally would, Teching to Lair and getting Zergling Speed. If you went for an FE build, you need to cancel your Hatchery immediately upon realizing you're being cheesed, and lay down 2 Sunkens in your base, since your Zerglings will be very slow to hatch. This hurts your economy, but you'll still be ahead of him. In this situation you're especially vulnerable to an offensive Sunken rush as well, so just like in the other situations, make as many Zerglings as you can. 
+</p>
+<h3><span class="mw-headline" id="Hydra_builds">Hydra builds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit&amp;section=46" title="Edit section: Hydra builds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hydra builds can be done, but are generally at a disadvantage against Muta/Ling builds. First, you'll need to fast expand and have a much better economy than the player going Mutaling. This is even harder than in regular situations in ZvZ. Not only are small numbers of Mutalisks at an advantage against small numbers of Hydras, but you won't even be able to get Hydras early since you'll need to get sufficient numbers of Sunken Colonies and Zerglings to hold off the enemy in the very beginning. Later, after the enemy has completed his Spire, in order to deal with the Mutalisks you'll have to sacrifice quite a few drones for Spore Colonies. You'll also need to delay the growth of your army to get upgrades, as upgrades for a Hydra army are integral when you finally do move out. If you survive the early game and manage to get upgrades, when you feel you're ready to move out and attack you'll have to invest even more in spore colonies to prevent a Mutalisk backstab the second you move out.
+While you're doing all of this in preparation for your army to actually be able to fight, your opponent will have a pretty big window to power Drones, expand, get upgrades for Mutalisks, as well as tech to Hive, getting Guardians. 
+If these disadvantages weren't enough already, also consider the modern state of Mutalisk control. Even with multiple Spore Colonies you won't completely be able to stop your opponent from picking off drones, stray units such as Overlords/Hydralisks that aren't properly rallied, and Zerglings you might send out in an attempt to scout.  Should your opponent opt for a Hydra build, a good counter is +1 attack Zerglings and Mutalisks.
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.140 seconds
+Real time usage: 0.172 seconds
+Preprocessor visited node count: 382/1000000
+Preprocessor generated node count: 1374/1000000
+Postâ€?expand include size: 1585/2097152 bytes
+Template argument size: 120/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:465-0!*!0!!en!2!* and timestamp 20150519231837
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;oldid=119924">http://wiki.teamliquid.net/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;oldid=119924</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Zerg_Build_Orders" title="Category:Zerg Build Orders">Zerg Build Orders</a></li><li><a href="/starcraft/Category:ZvZ_Builds" title="Category:ZvZ Builds">ZvZ Builds</a></li><li><a href="/starcraft/Category:Matchup_Guides" title="Category:Matchup Guides">Matchup Guides</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Zerg_vs._Zerg_Guide" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:Zerg_vs._Zerg_Guide" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Zerg+vs.+Zerg+Guide" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Zerg_vs._Zerg_Guide" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Zerg_vs._Zerg_Guide" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;oldid=119924" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Zerg_vs._Zerg_Guide&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Zerg_vs._Zerg_Guide" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:50.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.330 secs. --></body></html>

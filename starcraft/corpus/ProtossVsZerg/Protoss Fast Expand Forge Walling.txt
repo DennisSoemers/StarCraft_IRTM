@@ -1,0 +1,1464 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Protoss Fast Expand Forge Walling - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Protoss Fast Expand Forge Walling" href="/starcraft/index.php?title=Special:ExportRDF/Protoss_Fast_Expand_Forge_Walling&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Protoss_Fast_Expand_Forge_Walling","wgTitle":"Protoss Fast Expand Forge Walling","wgCurRevisionId":120134,"wgRevisionId":120134,"wgArticleId":37,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Techniques","Protoss Techniques","Protoss Beginner Strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Protoss_Fast_Expand_Forge_Walling","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120134});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Protoss_Fast_Expand_Forge_Walling skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Protoss Fast Expand Forge Walling</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_technique" title="Template:Infobox technique">h</a>]</span>Forge Fast Expand Wall</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:Forge_Wall.png&amp;filetimestamp=20090307024654&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/6a/Forge_Wall.png/294px-Forge_Wall.png" width="294" height="221" srcset="/starcraft/images/thumb/6/6a/Forge_Wall.png/441px-Forge_Wall.png 1.5x, /starcraft/images/thumb/6/6a/Forge_Wall.png/588px-Forge_Wall.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>Tight walls prevent run-bys.</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Technique Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvZ,</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening Technique</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Nal_Ra</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2">Bisu</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose"><span class="tocnumber">1</span> <span class="toctext">Purpose</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Rules"><span class="tocnumber">2</span> <span class="toctext">Rules</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Popular_Maps_Examples"><span class="tocnumber">3</span> <span class="toctext">Popular Maps Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Alternative_1.3"><span class="tocnumber">3.1</span> <span class="toctext">Alternative 1.3</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Aztec_2.1"><span class="tocnumber">3.2</span> <span class="toctext">Aztec 2.1</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Beltway_2.0"><span class="tocnumber">3.3</span> <span class="toctext">Beltway 2.0</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Bloody_Ridge_2.1"><span class="tocnumber">3.4</span> <span class="toctext">Bloody Ridge 2.1</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Blue_Storm_1.2"><span class="tocnumber">3.5</span> <span class="toctext">Blue Storm 1.2</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Byzantium_3.0"><span class="tocnumber">3.6</span> <span class="toctext">Byzantium 3.0</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Carthage"><span class="tocnumber">3.7</span> <span class="toctext">Carthage</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Central_Districts_1.2"><span class="tocnumber">3.8</span> <span class="toctext">Central Districts 1.2</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Chain_Reaction"><span class="tocnumber">3.9</span> <span class="toctext">Chain Reaction</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Circuit_Breaker_1.0"><span class="tocnumber">3.10</span> <span class="toctext">Circuit Breaker 1.0</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Colosseum"><span class="tocnumber">3.11</span> <span class="toctext">Colosseum</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Dante.27s_Peak_SE2.0"><span class="tocnumber">3.12</span> <span class="toctext">Dante's Peak SE2.0</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Destination"><span class="tocnumber">3.13</span> <span class="toctext">Destination</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Neo_Electric_Circuit"><span class="tocnumber">3.14</span> <span class="toctext">Neo Electric Circuit</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Empire_Of_The_Sun_2.0"><span class="tocnumber">3.15</span> <span class="toctext">Empire Of The Sun 2.0</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Eye_of_the_Storm"><span class="tocnumber">3.16</span> <span class="toctext">Eye of the Storm</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Fighting_Spirit_1.3"><span class="tocnumber">3.17</span> <span class="toctext">Fighting Spirit 1.3</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Gladiator_1.1"><span class="tocnumber">3.18</span> <span class="toctext">Gladiator 1.1</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Grand_Line_SE_2.2"><span class="tocnumber">3.19</span> <span class="toctext">Grand Line SE 2.2</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Heartbreak_Ridge"><span class="tocnumber">3.20</span> <span class="toctext">Heartbreak Ridge</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Jade"><span class="tocnumber">3.21</span> <span class="toctext">Jade</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#La_Mancha_1.1"><span class="tocnumber">3.22</span> <span class="toctext">La Mancha 1.1</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Longinus"><span class="tocnumber">3.23</span> <span class="toctext">Longinus</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Luna"><span class="tocnumber">3.24</span> <span class="toctext">Luna</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Match_Point"><span class="tocnumber">3.25</span> <span class="toctext">Match Point</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Medusa_2.1"><span class="tocnumber">3.26</span> <span class="toctext">Medusa 2.1</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Mist_0.9"><span class="tocnumber">3.27</span> <span class="toctext">Mist 0.9</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Monte_Cristo"><span class="tocnumber">3.28</span> <span class="toctext">Monte Cristo</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Othello_1.1"><span class="tocnumber">3.29</span> <span class="toctext">Othello 1.1</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Outlier"><span class="tocnumber">3.30</span> <span class="toctext">Outlier</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Python_1.3"><span class="tocnumber">3.31</span> <span class="toctext">Python 1.3</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Polaris_Rhapsody_1.0"><span class="tocnumber">3.32</span> <span class="toctext">Polaris Rhapsody 1.0</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Sin_Chupung-Reyong_2.1"><span class="tocnumber">3.33</span> <span class="toctext">Sin Chupung-Reyong 2.1</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Shin_Peaks_of_Baekdu"><span class="tocnumber">3.34</span> <span class="toctext">Shin Peaks of Baekdu</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Sniper_Ridge"><span class="tocnumber">3.35</span> <span class="toctext">Sniper Ridge</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="#Tau_Cross"><span class="tocnumber">3.36</span> <span class="toctext">Tau Cross</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#The_Fortress_2.0"><span class="tocnumber">3.37</span> <span class="toctext">The Fortress 2.0</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-41"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=1" title="Edit section: Purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The purpose of a correct FE Forge formation is to assist the Protoss player in safely fast expanding against Zerg.
+</p><p>Generally the goals of a good Forge wall-in are:
+</p>
+<ul>
+<li> One Gateway and one Forge narrow the entrance.
+</li>
+<li> There is exactly one spot Zerglings can pass through.
+</li>
+<li> That spot is 1-matrix wide to allow passage of Dragoons (with practice, one can easily see what one matrix looks like).
+</li>
+<li> Pylon placement leaves room for cannons so that both Forge and Gateway are in range.
+</li>
+</ul>
+<p>Other guidelines to consider when walling off with a forge and gateway:
+</p>
+<ul>
+<li> Try to place the cannons and the pylon behind the forge and gateway so that zerglings don't surround and/or pick them off.
+</li>
+<li> Walling off closer to the main (see Medusa, 8 o'clock or 11 o'clock) is usually preferred because it forces the lings to run a longer distance, but the close-side wall-off is often not the best way to take due to the shape of the entrance.
+</li>
+<li> Be sure not to block the 1-matrix entrance with a building, otherwise you'll be forced to destroy it at one point or another.
+</li>
+<li> Some wall-offs leave part of the mineral lines in the natural exposed (see <a href="/starcraft/Destination#Protoss_FE_wall-ins" title="Destination">Destination</a>, best example is <a href="/starcraft/Blue_Storm#Protoss_Wall-ins" title="Blue Storm">Blue Storm</a>).  In this case, make sure there is at least one cannon to cover a minimum of half the minerals.
+</li>
+<li> Try to create the wall such that the gap makes the path from your gateways to the map's center as short as possible to allow your units to reach your opponent quicker.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Rules">Rules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=2" title="Edit section: Rules">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i><div class="rellink boilerplate seealso">See also: <a href="/starcraft/List_of_Unit_and_Building_Sizes" title="List of Unit and Building Sizes">List of Unit and Building Sizes</a></div></i>
+</dd>
+</dl>
+<p>Things you need to consider when creating your Forge formation
+</p>
+<ul>
+<li> Forge below gateway is impassable.
+</li>
+<li> Usually gateway below obstacle is <b>passable</b> despite looking very tight
+</li>
+<li> Forge below obstacles is usually impassable.
+</li>
+<li> Gateway above obstacle is usually impassable.
+</li>
+<li> Gateway to the left of an obstacle is often impassable.
+</li>
+<li> Forge to the right of an obstacle is often impassable.
+</li>
+<li> Forge is generally more likely to block than Gateway.
+</li>
+<li> Pylons don't block anything except with minerals.
+</li>
+<li> Minerals have 100% collision size (2 matrices), therefore, they block with nearly anything.
+</li>
+<li> Gas geysers without an Assimilator have 100% collision size.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Popular_Maps_Examples">Popular Maps Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=3" title="Edit section: Popular Maps Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Notes:
+</p>
+<ul>
+<li>The units shown in the pictures are the minimum number required and at the correct positions to completely seal the wall in (when its possible). The players should decide on the actual number of units needed for each situation.
+</li>
+<li>Some examples will show odd Photon Cannon placement, these will outline the furthest spot a Cannon can be placed within the power grid.
+</li>
+<li>Cannons usually don't affect the tightness of a wall-in. The placement shown here is suggested but players should decide on the number of cannons needed and their placement depending on the situation.
+</li>
+<li>Power grids will usually reach far enough to protect expansion mineral line.
+</li>
+</ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Alternative_1.3"><a href="/starcraft/Alternative" title="Alternative">Alternative 1.3</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=4" title="Edit section: Alternative 1.3">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Alternative
+</th></tr>
+<tr>
+<th align="center"> 12 o'clock</th>
+<th>6 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:AlternativeTOP12.png&amp;filetimestamp=20110726223652&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/e1/AlternativeTOP12.png/350px-AlternativeTOP12.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/e/e1/AlternativeTOP12.png/525px-AlternativeTOP12.png 1.5x, /starcraft/images/e/e1/AlternativeTOP12.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:AlternativeTOP12.png&amp;filetimestamp=20110726223652" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:AlternativeBOT6.png&amp;filetimestamp=20110726223618&amp;" class="image"><img alt="" src="/starcraft/images/thumb/5/59/AlternativeBOT6.png/350px-AlternativeBOT6.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/5/59/AlternativeBOT6.png/525px-AlternativeBOT6.png 1.5x, /starcraft/images/5/59/AlternativeBOT6.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:AlternativeBOT6.png&amp;filetimestamp=20110726223618" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Aztec_2.1"><a href="/starcraft/Neo_Aztec" title="Neo Aztec" class="mw-redirect">Aztec 2.1</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=5" title="Edit section: Aztec 2.1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Aztec 2.1
+</th></tr>
+<tr>
+<th align="center"> 4 o'clock</th>
+<th>8 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:4_o%27clock_wall-off.jpg&amp;filetimestamp=20111108003738&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/38/4_o%27clock_wall-off.jpg/350px-4_o%27clock_wall-off.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/38/4_o%27clock_wall-off.jpg/525px-4_o%27clock_wall-off.jpg 1.5x, /starcraft/images/3/38/4_o%27clock_wall-off.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:4_o%27clock_wall-off.jpg&amp;filetimestamp=20111108003738" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:8_o%27clock_wall-off.jpg&amp;filetimestamp=20111108003903&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a9/8_o%27clock_wall-off.jpg/350px-8_o%27clock_wall-off.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/a9/8_o%27clock_wall-off.jpg/525px-8_o%27clock_wall-off.jpg 1.5x, /starcraft/images/a/a9/8_o%27clock_wall-off.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:8_o%27clock_wall-off.jpg&amp;filetimestamp=20111108003903" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center">12 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:12_o%27clock_wall-off.jpg&amp;filetimestamp=20111108003933&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/83/12_o%27clock_wall-off.jpg/350px-12_o%27clock_wall-off.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/83/12_o%27clock_wall-off.jpg/525px-12_o%27clock_wall-off.jpg 1.5x, /starcraft/images/8/83/12_o%27clock_wall-off.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:12_o%27clock_wall-off.jpg&amp;filetimestamp=20111108003933" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Beltway_2.0"><a href="/starcraft/Beltway" title="Beltway">Beltway 2.0</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=6" title="Edit section: Beltway 2.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Beltway #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Beltway_1.5_oclock.jpg&amp;filetimestamp=20111125192852&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/aa/Beltway_1.5_oclock.jpg/350px-Beltway_1.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/aa/Beltway_1.5_oclock.jpg/525px-Beltway_1.5_oclock.jpg 1.5x, /starcraft/images/a/aa/Beltway_1.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Beltway_1.5_oclock.jpg&amp;filetimestamp=20111125192852" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Beltway_4.5_oclock.jpg&amp;filetimestamp=20111125192906&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/26/Beltway_4.5_oclock.jpg/350px-Beltway_4.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/26/Beltway_4.5_oclock.jpg/525px-Beltway_4.5_oclock.jpg 1.5x, /starcraft/images/2/26/Beltway_4.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Beltway_4.5_oclock.jpg&amp;filetimestamp=20111125192906" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 3 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7.5 o'clock</th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Beltway_7.5_oclock.jpg&amp;filetimestamp=20111125192924&amp;" class="image"><img alt="" src="/starcraft/images/thumb/0/06/Beltway_7.5_oclock.jpg/350px-Beltway_7.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/0/06/Beltway_7.5_oclock.jpg/525px-Beltway_7.5_oclock.jpg 1.5x, /starcraft/images/0/06/Beltway_7.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Beltway_7.5_oclock.jpg&amp;filetimestamp=20111125192924" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 3 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Beltway_10.5_oclock.jpg&amp;filetimestamp=20111125192946&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/74/Beltway_10.5_oclock.jpg/350px-Beltway_10.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/74/Beltway_10.5_oclock.jpg/525px-Beltway_10.5_oclock.jpg 1.5x, /starcraft/images/7/74/Beltway_10.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Beltway_10.5_oclock.jpg&amp;filetimestamp=20111125192946" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Bloody_Ridge_2.1"><a href="/starcraft/Bloody_Ridge" title="Bloody Ridge">Bloody Ridge 2.1</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=7" title="Edit section: Bloody Ridge 2.1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Bloody Ridge #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>7.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Bloodyridge_1.5_oclock.jpg&amp;filetimestamp=20111125193429&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/f0/Bloodyridge_1.5_oclock.jpg/350px-Bloodyridge_1.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/f0/Bloodyridge_1.5_oclock.jpg/525px-Bloodyridge_1.5_oclock.jpg 1.5x, /starcraft/images/f/f0/Bloodyridge_1.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Bloodyridge_1.5_oclock.jpg&amp;filetimestamp=20111125193429" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Bloodyridge_7.5_oclock.jpg&amp;filetimestamp=20111125193441&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/2f/Bloodyridge_7.5_oclock.jpg/350px-Bloodyridge_7.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/2f/Bloodyridge_7.5_oclock.jpg/525px-Bloodyridge_7.5_oclock.jpg 1.5x, /starcraft/images/2/2f/Bloodyridge_7.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Bloodyridge_7.5_oclock.jpg&amp;filetimestamp=20111125193441" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 4 small units, 3 is risky but viable</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Blue_Storm_1.2"><a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm 1.2</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=8" title="Edit section: Blue Storm 1.2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Blue Storm #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>7.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Bluestorm_1.5_oclock.jpg&amp;filetimestamp=20111108065813&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c0/Bluestorm_1.5_oclock.jpg/350px-Bluestorm_1.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c0/Bluestorm_1.5_oclock.jpg/525px-Bluestorm_1.5_oclock.jpg 1.5x, /starcraft/images/c/c0/Bluestorm_1.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Bluestorm_1.5_oclock.jpg&amp;filetimestamp=20111108065813" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Bluestorm_7.5_oclock.jpg&amp;filetimestamp=20111108065830&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/28/Bluestorm_7.5_oclock.jpg/350px-Bluestorm_7.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/28/Bluestorm_7.5_oclock.jpg/525px-Bluestorm_7.5_oclock.jpg 1.5x, /starcraft/images/2/28/Bluestorm_7.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Bluestorm_7.5_oclock.jpg&amp;filetimestamp=20111108065830" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Byzantium_3.0"><a href="/starcraft/Byzantium" title="Byzantium">Byzantium 3.0</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=9" title="Edit section: Byzantium 3.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Byzantium #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Byzantium_1.5_oclock.jpg&amp;filetimestamp=20111114173623&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/89/Byzantium_1.5_oclock.jpg/350px-Byzantium_1.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/89/Byzantium_1.5_oclock.jpg/525px-Byzantium_1.5_oclock.jpg 1.5x, /starcraft/images/8/89/Byzantium_1.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Byzantium_1.5_oclock.jpg&amp;filetimestamp=20111114173623" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 3 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Byzantium_4_oclock.jpg&amp;filetimestamp=20111114173640&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/16/Byzantium_4_oclock.jpg/350px-Byzantium_4_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/16/Byzantium_4_oclock.jpg/525px-Byzantium_4_oclock.jpg 1.5x, /starcraft/images/1/16/Byzantium_4_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Byzantium_4_oclock.jpg&amp;filetimestamp=20111114173640" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center">7.5 o'clock </th>
+<th>10 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Byzantium_7.5_oclock.jpg&amp;filetimestamp=20111114173653&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/fa/Byzantium_7.5_oclock.jpg/350px-Byzantium_7.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/fa/Byzantium_7.5_oclock.jpg/525px-Byzantium_7.5_oclock.jpg 1.5x, /starcraft/images/f/fa/Byzantium_7.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Byzantium_7.5_oclock.jpg&amp;filetimestamp=20111114173653" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Byzantium_10_oclock.jpg&amp;filetimestamp=20111114173708&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/f3/Byzantium_10_oclock.jpg/350px-Byzantium_10_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/f3/Byzantium_10_oclock.jpg/525px-Byzantium_10_oclock.jpg 1.5x, /starcraft/images/f/f3/Byzantium_10_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Byzantium_10_oclock.jpg&amp;filetimestamp=20111114173708" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Carthage"><a href="/starcraft/Carthage" title="Carthage">Carthage</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=10" title="Edit section: Carthage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Carthage 1.0
+</th></tr>
+<tr>
+<th align="center"> 5 o'clock</th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwCarthage5.png&amp;filetimestamp=20090705101039&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/62/PwCarthage5.png/350px-PwCarthage5.png" width="350" height="253" class="thumbimage" srcset="/starcraft/images/thumb/6/62/PwCarthage5.png/525px-PwCarthage5.png 1.5x, /starcraft/images/6/62/PwCarthage5.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwCarthage5.png&amp;filetimestamp=20090705101039" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwCarthage11.png&amp;filetimestamp=20090705101110&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/e8/PwCarthage11.png/350px-PwCarthage11.png" width="350" height="252" class="thumbimage" srcset="/starcraft/images/thumb/e/e8/PwCarthage11.png/525px-PwCarthage11.png 1.5x, /starcraft/images/e/e8/PwCarthage11.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwCarthage11.png&amp;filetimestamp=20090705101110" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Carthage 2 &amp; 3
+</th></tr>
+<tr>
+<th align="center"> 5 o'clock</th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwCarthage2_5.png&amp;filetimestamp=20090705101250&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/25/PwCarthage2_5.png/350px-PwCarthage2_5.png" width="350" height="252" class="thumbimage" srcset="/starcraft/images/thumb/2/25/PwCarthage2_5.png/525px-PwCarthage2_5.png 1.5x, /starcraft/images/2/25/PwCarthage2_5.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwCarthage2_5.png&amp;filetimestamp=20090705101250" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwCarthage2_11.png&amp;filetimestamp=20090705101327&amp;" class="image"><img alt="" src="/starcraft/images/thumb/4/48/PwCarthage2_11.png/350px-PwCarthage2_11.png" width="350" height="252" class="thumbimage" srcset="/starcraft/images/thumb/4/48/PwCarthage2_11.png/525px-PwCarthage2_11.png 1.5x, /starcraft/images/4/48/PwCarthage2_11.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwCarthage2_11.png&amp;filetimestamp=20090705101327" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Central_Districts_1.2"><a href="/starcraft/Central_Districts" title="Central Districts" class="mw-redirect">Central Districts 1.2</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=11" title="Edit section: Central Districts 1.2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Central Districts #1
+</th></tr>
+<tr>
+<th align="center"> 3 o'clock</th>
+<th>7 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Cdistricts_3_o%27clock.jpg&amp;filetimestamp=20111108032817&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/66/Cdistricts_3_o%27clock.jpg/350px-Cdistricts_3_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/6/66/Cdistricts_3_o%27clock.jpg/525px-Cdistricts_3_o%27clock.jpg 1.5x, /starcraft/images/6/66/Cdistricts_3_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Cdistricts_3_o%27clock.jpg&amp;filetimestamp=20111108032817" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Cdistricts_7_o%27clock.jpg&amp;filetimestamp=20111108032833&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/1a/Cdistricts_7_o%27clock.jpg/350px-Cdistricts_7_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/1a/Cdistricts_7_o%27clock.jpg/525px-Cdistricts_7_o%27clock.jpg 1.5x, /starcraft/images/1/1a/Cdistricts_7_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Cdistricts_7_o%27clock.jpg&amp;filetimestamp=20111108032833" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Cdistricts_11_o%27clock.jpg&amp;filetimestamp=20111108032901&amp;" class="image"><img alt="" src="/starcraft/images/thumb/d/db/Cdistricts_11_o%27clock.jpg/350px-Cdistricts_11_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/d/db/Cdistricts_11_o%27clock.jpg/525px-Cdistricts_11_o%27clock.jpg 1.5x, /starcraft/images/d/db/Cdistricts_11_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Cdistricts_11_o%27clock.jpg&amp;filetimestamp=20111108032901" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 1 small unit</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Chain_Reaction"><a href="/starcraft/Chain_Reaction" title="Chain Reaction">Chain Reaction</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=12" title="Edit section: Chain Reaction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Chain Reaction
+</th></tr>
+<tr>
+<th align="center"> 3 o'clock</th>
+<th>9 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:ChainReaction_3oclock.png&amp;filetimestamp=20120122144722&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/1d/ChainReaction_3oclock.png/350px-ChainReaction_3oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/1d/ChainReaction_3oclock.png/525px-ChainReaction_3oclock.png 1.5x, /starcraft/images/1/1d/ChainReaction_3oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:ChainReaction_3oclock.png&amp;filetimestamp=20120122144722" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:ChainReaction_9oclock.png&amp;filetimestamp=20120122144748&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/65/ChainReaction_9oclock.png/350px-ChainReaction_9oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/6/65/ChainReaction_9oclock.png/525px-ChainReaction_9oclock.png 1.5x, /starcraft/images/6/65/ChainReaction_9oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:ChainReaction_9oclock.png&amp;filetimestamp=20120122144748" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Circuit_Breaker_1.0"><a href="/starcraft/Circuit_Breaker" title="Circuit Breaker">Circuit Breaker 1.0</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=13" title="Edit section: Circuit Breaker 1.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Circuit Breaker #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Circuitb_1.5_o%27clock.jpg&amp;filetimestamp=20111108032653&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/27/Circuitb_1.5_o%27clock.jpg/350px-Circuitb_1.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/27/Circuitb_1.5_o%27clock.jpg/525px-Circuitb_1.5_o%27clock.jpg 1.5x, /starcraft/images/2/27/Circuitb_1.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Circuitb_1.5_o%27clock.jpg&amp;filetimestamp=20111108032653" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Circuitb_4.5_o%27clock.jpg&amp;filetimestamp=20111108032714&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/fa/Circuitb_4.5_o%27clock.jpg/350px-Circuitb_4.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/fa/Circuitb_4.5_o%27clock.jpg/525px-Circuitb_4.5_o%27clock.jpg 1.5x, /starcraft/images/f/fa/Circuitb_4.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Circuitb_4.5_o%27clock.jpg&amp;filetimestamp=20111108032714" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7.5 o'clock</th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Circuitb_7.5_o%27clock.jpg&amp;filetimestamp=20111108032728&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/60/Circuitb_7.5_o%27clock.jpg/350px-Circuitb_7.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/6/60/Circuitb_7.5_o%27clock.jpg/525px-Circuitb_7.5_o%27clock.jpg 1.5x, /starcraft/images/6/60/Circuitb_7.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Circuitb_7.5_o%27clock.jpg&amp;filetimestamp=20111108032728" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Circuitb_10.5_o%27clock.jpg&amp;filetimestamp=20111108032753&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/83/Circuitb_10.5_o%27clock.jpg/350px-Circuitb_10.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/83/Circuitb_10.5_o%27clock.jpg/525px-Circuitb_10.5_o%27clock.jpg 1.5x, /starcraft/images/8/83/Circuitb_10.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Circuitb_10.5_o%27clock.jpg&amp;filetimestamp=20111108032753" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 3 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Colosseum"><a href="/starcraft/Colosseum" title="Colosseum">Colosseum</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=14" title="Edit section: Colosseum">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Colosseum #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Colosseum_1.5_o%27clock.jpg&amp;filetimestamp=20111110013842&amp;" class="image"><img alt="" src="/starcraft/images/thumb/0/0c/Colosseum_1.5_o%27clock.jpg/350px-Colosseum_1.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/0/0c/Colosseum_1.5_o%27clock.jpg/525px-Colosseum_1.5_o%27clock.jpg 1.5x, /starcraft/images/0/0c/Colosseum_1.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Colosseum_1.5_o%27clock.jpg&amp;filetimestamp=20111110013842" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Colosseum_4.5_o%27clock.jpg&amp;filetimestamp=20111110013923&amp;" class="image"><img alt="" src="/starcraft/images/thumb/0/04/Colosseum_4.5_o%27clock.jpg/350px-Colosseum_4.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/0/04/Colosseum_4.5_o%27clock.jpg/525px-Colosseum_4.5_o%27clock.jpg 1.5x, /starcraft/images/0/04/Colosseum_4.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Colosseum_4.5_o%27clock.jpg&amp;filetimestamp=20111110013923" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1gap: blockable by 1 or 2 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center">7.5 o'clock </th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Colosseum_7.5_o%27clock.jpg&amp;filetimestamp=20111110013940&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/11/Colosseum_7.5_o%27clock.jpg/350px-Colosseum_7.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/11/Colosseum_7.5_o%27clock.jpg/525px-Colosseum_7.5_o%27clock.jpg 1.5x, /starcraft/images/1/11/Colosseum_7.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Colosseum_7.5_o%27clock.jpg&amp;filetimestamp=20111110013940" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1gap: blockable by 1 or 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Colosseum_10.5_o%27clock.jpg&amp;filetimestamp=20111110013952&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/60/Colosseum_10.5_o%27clock.jpg/350px-Colosseum_10.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/6/60/Colosseum_10.5_o%27clock.jpg/525px-Colosseum_10.5_o%27clock.jpg 1.5x, /starcraft/images/6/60/Colosseum_10.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Colosseum_10.5_o%27clock.jpg&amp;filetimestamp=20111110013952" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Colosseum #2
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:ColosseumII_1.jpg&amp;filetimestamp=20090629181218&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/3c/ColosseumII_1.jpg/350px-ColosseumII_1.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/3c/ColosseumII_1.jpg/525px-ColosseumII_1.jpg 1.5x, /starcraft/images/3/3c/ColosseumII_1.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:ColosseumII_1.jpg&amp;filetimestamp=20090629181218" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:ColosseumII_5.jpg&amp;filetimestamp=20090629181319&amp;" class="image"><img alt="" src="/starcraft/images/thumb/b/bf/ColosseumII_5.jpg/350px-ColosseumII_5.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/b/bf/ColosseumII_5.jpg/525px-ColosseumII_5.jpg 1.5x, /starcraft/images/b/bf/ColosseumII_5.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:ColosseumII_5.jpg&amp;filetimestamp=20090629181319" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center">7.5 o'clock </th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:ColosseumII_7.jpg&amp;filetimestamp=20090629181357&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/1c/ColosseumII_7.jpg/350px-ColosseumII_7.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/1c/ColosseumII_7.jpg/525px-ColosseumII_7.jpg 1.5x, /starcraft/images/1/1c/ColosseumII_7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:ColosseumII_7.jpg&amp;filetimestamp=20090629181357" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:ColosseumII_11.jpg&amp;filetimestamp=20090629181455&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/ef/ColosseumII_11.jpg/350px-ColosseumII_11.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/e/ef/ColosseumII_11.jpg/525px-ColosseumII_11.jpg 1.5x, /starcraft/images/e/ef/ColosseumII_11.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:ColosseumII_11.jpg&amp;filetimestamp=20090629181455" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Dante.27s_Peak_SE2.0"><a href="/starcraft/Dante%27s_Peak_SE" title="Dante's Peak SE" class="mw-redirect">Dante's Peak SE2.0</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=15" title="Edit section: Dante's Peak SE2.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Dante's Peak #1
+</th></tr>
+<tr>
+<th align="center"> 2.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Dpeak_2.5_o%27clock.jpg&amp;filetimestamp=20111108042750&amp;" class="image"><img alt="" src="/starcraft/images/thumb/9/92/Dpeak_2.5_o%27clock.jpg/350px-Dpeak_2.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/9/92/Dpeak_2.5_o%27clock.jpg/525px-Dpeak_2.5_o%27clock.jpg 1.5x, /starcraft/images/9/92/Dpeak_2.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Dpeak_2.5_o%27clock.jpg&amp;filetimestamp=20111108042750" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 1 small unit</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Dpeak_4.5_o%27clock.jpg&amp;filetimestamp=20111108042808&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/1d/Dpeak_4.5_o%27clock.jpg/350px-Dpeak_4.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/1d/Dpeak_4.5_o%27clock.jpg/525px-Dpeak_4.5_o%27clock.jpg 1.5x, /starcraft/images/1/1d/Dpeak_4.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Dpeak_4.5_o%27clock.jpg&amp;filetimestamp=20111108042808" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center">8 o'clock </th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Dpeak_8_o%27clock.jpg&amp;filetimestamp=20111108042822&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/28/Dpeak_8_o%27clock.jpg/350px-Dpeak_8_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/28/Dpeak_8_o%27clock.jpg/525px-Dpeak_8_o%27clock.jpg 1.5x, /starcraft/images/2/28/Dpeak_8_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Dpeak_8_o%27clock.jpg&amp;filetimestamp=20111108042822" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 1 small unit</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Dpeak_10.5_o%27clock.jpg&amp;filetimestamp=20111108042840&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/7b/Dpeak_10.5_o%27clock.jpg/350px-Dpeak_10.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/7b/Dpeak_10.5_o%27clock.jpg/525px-Dpeak_10.5_o%27clock.jpg 1.5x, /starcraft/images/7/7b/Dpeak_10.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Dpeak_10.5_o%27clock.jpg&amp;filetimestamp=20111108042840" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Destination"><a href="/starcraft/Destination" title="Destination">Destination</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=16" title="Edit section: Destination">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Destination
+</th></tr>
+<tr>
+<th align="center"> 11 o'clock</th>
+<th>5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwDestination1.png&amp;filetimestamp=20090616160947&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/16/PwDestination1.png/350px-PwDestination1.png" width="350" height="251" class="thumbimage" srcset="/starcraft/images/thumb/1/16/PwDestination1.png/525px-PwDestination1.png 1.5x, /starcraft/images/1/16/PwDestination1.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwDestination1.png&amp;filetimestamp=20090616160947" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwDestination9.png&amp;filetimestamp=20090616161053&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/76/PwDestination9.png/350px-PwDestination9.png" width="350" height="254" class="thumbimage" srcset="/starcraft/images/thumb/7/76/PwDestination9.png/525px-PwDestination9.png 1.5x, /starcraft/images/7/76/PwDestination9.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwDestination9.png&amp;filetimestamp=20090616161053" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Note: The selected cannon is in range of a drone mining the back door minerals. Optional.</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Neo_Electric_Circuit"><a href="/starcraft/Neo_Electric_Circuit" title="Neo Electric Circuit" class="mw-redirect">Neo Electric Circuit</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=17" title="Edit section: Neo Electric Circuit">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Neo Electric Circuit
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:NeoElectricCircuit_1oclock.png&amp;filetimestamp=20130112052510&amp;" class="image"><img alt="" src="/starcraft/images/thumb/5/54/NeoElectricCircuit_1oclock.png/350px-NeoElectricCircuit_1oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/5/54/NeoElectricCircuit_1oclock.png/525px-NeoElectricCircuit_1oclock.png 1.5x, /starcraft/images/5/54/NeoElectricCircuit_1oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:NeoElectricCircuit_1oclock.png&amp;filetimestamp=20130112052510" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:NeoElectricCircuit_5oclock.png&amp;filetimestamp=20130112052206&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/3e/NeoElectricCircuit_5oclock.png/350px-NeoElectricCircuit_5oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/3e/NeoElectricCircuit_5oclock.png/525px-NeoElectricCircuit_5oclock.png 1.5x, /starcraft/images/3/3e/NeoElectricCircuit_5oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:NeoElectricCircuit_5oclock.png&amp;filetimestamp=20130112052206" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center">7 o'clock </th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:NeoElectricCircuit_7oclock.png&amp;filetimestamp=20130112052512&amp;" class="image"><img alt="" src="/starcraft/images/thumb/0/0c/NeoElectricCircuit_7oclock.png/350px-NeoElectricCircuit_7oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/0/0c/NeoElectricCircuit_7oclock.png/525px-NeoElectricCircuit_7oclock.png 1.5x, /starcraft/images/0/0c/NeoElectricCircuit_7oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:NeoElectricCircuit_7oclock.png&amp;filetimestamp=20130112052512" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:NeoElectricCircuit_11oclock.png&amp;filetimestamp=20130112052500&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/eb/NeoElectricCircuit_11oclock.png/350px-NeoElectricCircuit_11oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/e/eb/NeoElectricCircuit_11oclock.png/525px-NeoElectricCircuit_11oclock.png 1.5x, /starcraft/images/e/eb/NeoElectricCircuit_11oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:NeoElectricCircuit_11oclock.png&amp;filetimestamp=20130112052500" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Empire_Of_The_Sun_2.0"><a href="/starcraft/Empire_of_the_Sun" title="Empire of the Sun">Empire Of The Sun 2.0</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=18" title="Edit section: Empire Of The Sun 2.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Empire Of The Sun #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Empireots_1.5_oclock.jpg&amp;filetimestamp=20111114174141&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/19/Empireots_1.5_oclock.jpg/350px-Empireots_1.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/19/Empireots_1.5_oclock.jpg/525px-Empireots_1.5_oclock.jpg 1.5x, /starcraft/images/thumb/1/19/Empireots_1.5_oclock.jpg/700px-Empireots_1.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Empireots_1.5_oclock.jpg&amp;filetimestamp=20111114174141" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Empireots_4.5_oclock.jpg&amp;filetimestamp=20111114174159&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/f7/Empireots_4.5_oclock.jpg/350px-Empireots_4.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/f7/Empireots_4.5_oclock.jpg/525px-Empireots_4.5_oclock.jpg 1.5x, /starcraft/images/thumb/f/f7/Empireots_4.5_oclock.jpg/700px-Empireots_4.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Empireots_4.5_oclock.jpg&amp;filetimestamp=20111114174159" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center">7.5 o'clock </th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Empireots_7.5_oclock.jpg&amp;filetimestamp=20111114174221&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/1e/Empireots_7.5_oclock.jpg/350px-Empireots_7.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/1e/Empireots_7.5_oclock.jpg/525px-Empireots_7.5_oclock.jpg 1.5x, /starcraft/images/thumb/1/1e/Empireots_7.5_oclock.jpg/700px-Empireots_7.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Empireots_7.5_oclock.jpg&amp;filetimestamp=20111114174221" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Empireots_10.5_oclock.jpg&amp;filetimestamp=20111114174236&amp;" class="image"><img alt="" src="/starcraft/images/thumb/9/96/Empireots_10.5_oclock.jpg/350px-Empireots_10.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/9/96/Empireots_10.5_oclock.jpg/525px-Empireots_10.5_oclock.jpg 1.5x, /starcraft/images/thumb/9/96/Empireots_10.5_oclock.jpg/700px-Empireots_10.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Empireots_10.5_oclock.jpg&amp;filetimestamp=20111114174236" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Eye_of_the_Storm"><a href="/starcraft/Eye_of_the_Storm" title="Eye of the Storm">Eye of the Storm</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=19" title="Edit section: Eye of the Storm">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Eye Of The Storm #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Eyeots_1.5_oclock.jpg&amp;filetimestamp=20111114174839&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/8c/Eyeots_1.5_oclock.jpg/350px-Eyeots_1.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/8c/Eyeots_1.5_oclock.jpg/525px-Eyeots_1.5_oclock.jpg 1.5x, /starcraft/images/thumb/8/8c/Eyeots_1.5_oclock.jpg/700px-Eyeots_1.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Eyeots_1.5_oclock.jpg&amp;filetimestamp=20111114174839" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Eyeots_4.5_oclock.jpg&amp;filetimestamp=20111114174854&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a9/Eyeots_4.5_oclock.jpg/350px-Eyeots_4.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/a9/Eyeots_4.5_oclock.jpg/525px-Eyeots_4.5_oclock.jpg 1.5x, /starcraft/images/thumb/a/a9/Eyeots_4.5_oclock.jpg/700px-Eyeots_4.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Eyeots_4.5_oclock.jpg&amp;filetimestamp=20111114174854" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center">7.5 o'clock </th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Eyeots_7.5_oclock.jpg&amp;filetimestamp=20111114174907&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/84/Eyeots_7.5_oclock.jpg/350px-Eyeots_7.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/84/Eyeots_7.5_oclock.jpg/525px-Eyeots_7.5_oclock.jpg 1.5x, /starcraft/images/thumb/8/84/Eyeots_7.5_oclock.jpg/700px-Eyeots_7.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Eyeots_7.5_oclock.jpg&amp;filetimestamp=20111114174907" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Eyeots_11.5_oclock.jpg&amp;filetimestamp=20111114174933&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a0/Eyeots_11.5_oclock.jpg/350px-Eyeots_11.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/a0/Eyeots_11.5_oclock.jpg/525px-Eyeots_11.5_oclock.jpg 1.5x, /starcraft/images/thumb/a/a0/Eyeots_11.5_oclock.jpg/700px-Eyeots_11.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Eyeots_11.5_oclock.jpg&amp;filetimestamp=20111114174933" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Eye Of The Storm #2
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:2eyeots_1.5_oclock.jpg&amp;filetimestamp=20120208193837&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c5/2eyeots_1.5_oclock.jpg/350px-2eyeots_1.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c5/2eyeots_1.5_oclock.jpg/525px-2eyeots_1.5_oclock.jpg 1.5x, /starcraft/images/c/c5/2eyeots_1.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:2eyeots_1.5_oclock.jpg&amp;filetimestamp=20120208193837" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:2eyeots_4.5_oclock.jpg&amp;filetimestamp=20120208193913&amp;" class="image"><img alt="" src="/starcraft/images/thumb/5/5c/2eyeots_4.5_oclock.jpg/350px-2eyeots_4.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/5/5c/2eyeots_4.5_oclock.jpg/525px-2eyeots_4.5_oclock.jpg 1.5x, /starcraft/images/5/5c/2eyeots_4.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:2eyeots_4.5_oclock.jpg&amp;filetimestamp=20120208193913" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center">7.5 o'clock </th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:2eyeots_7.5_oclock.jpg&amp;filetimestamp=20120208193941&amp;" class="image"><img alt="" src="/starcraft/images/thumb/4/4b/2eyeots_7.5_oclock.jpg/350px-2eyeots_7.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/4/4b/2eyeots_7.5_oclock.jpg/525px-2eyeots_7.5_oclock.jpg 1.5x, /starcraft/images/4/4b/2eyeots_7.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:2eyeots_7.5_oclock.jpg&amp;filetimestamp=20120208193941" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:2eyeots_11.5_oclock.jpg&amp;filetimestamp=20120208194002&amp;" class="image"><img alt="" src="/starcraft/images/thumb/5/56/2eyeots_11.5_oclock.jpg/350px-2eyeots_11.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/5/56/2eyeots_11.5_oclock.jpg/525px-2eyeots_11.5_oclock.jpg 1.5x, /starcraft/images/5/56/2eyeots_11.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:2eyeots_11.5_oclock.jpg&amp;filetimestamp=20120208194002" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Fighting_Spirit_1.3"><a href="/starcraft/Fighting_Spirit" title="Fighting Spirit">Fighting Spirit 1.3</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=20" title="Edit section: Fighting Spirit 1.3">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Fighting Spirit #1
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>4 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:FightingSpirit_1oclock.jpg&amp;filetimestamp=20110131211953&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/f1/FightingSpirit_1oclock.jpg/350px-FightingSpirit_1oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/f1/FightingSpirit_1oclock.jpg/525px-FightingSpirit_1oclock.jpg 1.5x, /starcraft/images/f/f1/FightingSpirit_1oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:FightingSpirit_1oclock.jpg&amp;filetimestamp=20110131211953" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:FightingSpirit_4oclock.jpg&amp;filetimestamp=20110131212804&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/82/FightingSpirit_4oclock.jpg/350px-FightingSpirit_4oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/82/FightingSpirit_4oclock.jpg/525px-FightingSpirit_4oclock.jpg 1.5x, /starcraft/images/8/82/FightingSpirit_4oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:FightingSpirit_4oclock.jpg&amp;filetimestamp=20110131212804" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:FightingSpirit_7oclock.jpg&amp;filetimestamp=20110131212917&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c0/FightingSpirit_7oclock.jpg/350px-FightingSpirit_7oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c0/FightingSpirit_7oclock.jpg/525px-FightingSpirit_7oclock.jpg 1.5x, /starcraft/images/c/c0/FightingSpirit_7oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:FightingSpirit_7oclock.jpg&amp;filetimestamp=20110131212917" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:FightingSpirit_10oclock.jpg&amp;filetimestamp=20110131213015&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/12/FightingSpirit_10oclock.jpg/350px-FightingSpirit_10oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/12/FightingSpirit_10oclock.jpg/525px-FightingSpirit_10oclock.jpg 1.5x, /starcraft/images/1/12/FightingSpirit_10oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:FightingSpirit_10oclock.jpg&amp;filetimestamp=20110131213015" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Fighting Spirit #2
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>4 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Fspirit_1_o%27clock.jpg&amp;filetimestamp=20111108042904&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/f9/Fspirit_1_o%27clock.jpg/350px-Fspirit_1_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/f9/Fspirit_1_o%27clock.jpg/525px-Fspirit_1_o%27clock.jpg 1.5x, /starcraft/images/f/f9/Fspirit_1_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Fspirit_1_o%27clock.jpg&amp;filetimestamp=20111108042904" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 1 small unit</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Fspirit_4_o%27clock.jpg&amp;filetimestamp=20111108042917&amp;" class="image"><img alt="" src="/starcraft/images/thumb/b/bd/Fspirit_4_o%27clock.jpg/350px-Fspirit_4_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/b/bd/Fspirit_4_o%27clock.jpg/525px-Fspirit_4_o%27clock.jpg 1.5x, /starcraft/images/b/bd/Fspirit_4_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Fspirit_4_o%27clock.jpg&amp;filetimestamp=20111108042917" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Fspirit_7_o%27clock.jpg&amp;filetimestamp=20111108042930&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/3c/Fspirit_7_o%27clock.jpg/350px-Fspirit_7_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/3c/Fspirit_7_o%27clock.jpg/525px-Fspirit_7_o%27clock.jpg 1.5x, /starcraft/images/3/3c/Fspirit_7_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Fspirit_7_o%27clock.jpg&amp;filetimestamp=20111108042930" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 1 small unit</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Fspirit_11_o%27clock.jpg&amp;filetimestamp=20111108042942&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/85/Fspirit_11_o%27clock.jpg/350px-Fspirit_11_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/85/Fspirit_11_o%27clock.jpg/525px-Fspirit_11_o%27clock.jpg 1.5x, /starcraft/images/8/85/Fspirit_11_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Fspirit_11_o%27clock.jpg&amp;filetimestamp=20111108042942" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Fighting Spirit #3
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>4 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:-3_fighting_spirit_1_o%27clock.png&amp;filetimestamp=20111108235530&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/fc/-3_fighting_spirit_1_o%27clock.png/350px--3_fighting_spirit_1_o%27clock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/fc/-3_fighting_spirit_1_o%27clock.png/525px--3_fighting_spirit_1_o%27clock.png 1.5x, /starcraft/images/f/fc/-3_fighting_spirit_1_o%27clock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:-3_fighting_spirit_1_o%27clock.png&amp;filetimestamp=20111108235530" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:-3_fighting_spirit_4_o%27clock.png&amp;filetimestamp=20111108235546&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/e0/-3_fighting_spirit_4_o%27clock.png/350px--3_fighting_spirit_4_o%27clock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/e/e0/-3_fighting_spirit_4_o%27clock.png/525px--3_fighting_spirit_4_o%27clock.png 1.5x, /starcraft/images/e/e0/-3_fighting_spirit_4_o%27clock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:-3_fighting_spirit_4_o%27clock.png&amp;filetimestamp=20111108235546" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:-3_fighting_spirit_7_o%27clock.png&amp;filetimestamp=20111108235604&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/28/-3_fighting_spirit_7_o%27clock.png/350px--3_fighting_spirit_7_o%27clock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/28/-3_fighting_spirit_7_o%27clock.png/525px--3_fighting_spirit_7_o%27clock.png 1.5x, /starcraft/images/2/28/-3_fighting_spirit_7_o%27clock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:-3_fighting_spirit_7_o%27clock.png&amp;filetimestamp=20111108235604" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:-3_fighting_spirit_11_o%27clock.png&amp;filetimestamp=20111108235628&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/3d/-3_fighting_spirit_11_o%27clock.png/350px--3_fighting_spirit_11_o%27clock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/3d/-3_fighting_spirit_11_o%27clock.png/525px--3_fighting_spirit_11_o%27clock.png 1.5x, /starcraft/images/3/3d/-3_fighting_spirit_11_o%27clock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:-3_fighting_spirit_11_o%27clock.png&amp;filetimestamp=20111108235628" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Fighting Spirit #4
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>4 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:4_FightingSpirit_1oclock.png&amp;filetimestamp=20120120230623&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/38/4_FightingSpirit_1oclock.png/350px-4_FightingSpirit_1oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/38/4_FightingSpirit_1oclock.png/525px-4_FightingSpirit_1oclock.png 1.5x, /starcraft/images/3/38/4_FightingSpirit_1oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:4_FightingSpirit_1oclock.png&amp;filetimestamp=20120120230623" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>marked cannon defends cross-map 5pool</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:4_FightingSpirit_4oclock.png&amp;filetimestamp=20120120231035&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/e4/4_FightingSpirit_4oclock.png/350px-4_FightingSpirit_4oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/e/e4/4_FightingSpirit_4oclock.png/525px-4_FightingSpirit_4oclock.png 1.5x, /starcraft/images/e/e4/4_FightingSpirit_4oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:4_FightingSpirit_4oclock.png&amp;filetimestamp=20120120231035" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>&#160;</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:4_FightingSpirit_7oclock.png&amp;filetimestamp=20120120231205&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a4/4_FightingSpirit_7oclock.png/350px-4_FightingSpirit_7oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/a4/4_FightingSpirit_7oclock.png/525px-4_FightingSpirit_7oclock.png 1.5x, /starcraft/images/a/a4/4_FightingSpirit_7oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:4_FightingSpirit_7oclock.png&amp;filetimestamp=20120120231205" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:4_FightingSpirit_11oclock.png&amp;filetimestamp=20120120230813&amp;" class="image"><img alt="" src="/starcraft/images/thumb/9/98/4_FightingSpirit_11oclock.png/350px-4_FightingSpirit_11oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/9/98/4_FightingSpirit_11oclock.png/525px-4_FightingSpirit_11oclock.png 1.5x, /starcraft/images/9/98/4_FightingSpirit_11oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:4_FightingSpirit_11oclock.png&amp;filetimestamp=20120120230813" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Fighting Spirit #5
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>4 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:FS_1oclock.png&amp;filetimestamp=20130112055535&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/70/FS_1oclock.png/350px-FS_1oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/70/FS_1oclock.png/525px-FS_1oclock.png 1.5x, /starcraft/images/7/70/FS_1oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:FS_1oclock.png&amp;filetimestamp=20130112055535" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:FS_4oclock.png&amp;filetimestamp=20130112055625&amp;" class="image"><img alt="" src="/starcraft/images/thumb/9/97/FS_4oclock.png/350px-FS_4oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/9/97/FS_4oclock.png/525px-FS_4oclock.png 1.5x, /starcraft/images/9/97/FS_4oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:FS_4oclock.png&amp;filetimestamp=20130112055625" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:FS_7oclock.png&amp;filetimestamp=20130112055627&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c1/FS_7oclock.png/350px-FS_7oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c1/FS_7oclock.png/525px-FS_7oclock.png 1.5x, /starcraft/images/c/c1/FS_7oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:FS_7oclock.png&amp;filetimestamp=20130112055627" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:FS_11oclock.png&amp;filetimestamp=20130112055632&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/36/FS_11oclock.png/350px-FS_11oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/36/FS_11oclock.png/525px-FS_11oclock.png 1.5x, /starcraft/images/3/36/FS_11oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:FS_11oclock.png&amp;filetimestamp=20130112055632" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Gladiator_1.1"><a href="/starcraft/Gladiator" title="Gladiator">Gladiator 1.1</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=21" title="Edit section: Gladiator 1.1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Gladiator #1
+</th></tr>
+<tr>
+<th align="center"> 2 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Gladiator_2_oclock.jpg&amp;filetimestamp=20111114182508&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/12/Gladiator_2_oclock.jpg/350px-Gladiator_2_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/12/Gladiator_2_oclock.jpg/525px-Gladiator_2_oclock.jpg 1.5x, /starcraft/images/thumb/1/12/Gladiator_2_oclock.jpg/700px-Gladiator_2_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Gladiator_2_oclock.jpg&amp;filetimestamp=20111114182508" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Gladiator_4.5_oclock.jpg&amp;filetimestamp=20111114182547&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/29/Gladiator_4.5_oclock.jpg/350px-Gladiator_4.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/29/Gladiator_4.5_oclock.jpg/525px-Gladiator_4.5_oclock.jpg 1.5x, /starcraft/images/2/29/Gladiator_4.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Gladiator_4.5_oclock.jpg&amp;filetimestamp=20111114182547" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center">8 o'clock </th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Gladiator_8_oclock.jpg&amp;filetimestamp=20111114182603&amp;" class="image"><img alt="" src="/starcraft/images/thumb/b/b4/Gladiator_8_oclock.jpg/350px-Gladiator_8_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/b/b4/Gladiator_8_oclock.jpg/525px-Gladiator_8_oclock.jpg 1.5x, /starcraft/images/thumb/b/b4/Gladiator_8_oclock.jpg/700px-Gladiator_8_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Gladiator_8_oclock.jpg&amp;filetimestamp=20111114182603" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Gladiator_10.5_oclock.jpg&amp;filetimestamp=20111114182622&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/ff/Gladiator_10.5_oclock.jpg/350px-Gladiator_10.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/ff/Gladiator_10.5_oclock.jpg/525px-Gladiator_10.5_oclock.jpg 1.5x, /starcraft/images/thumb/f/ff/Gladiator_10.5_oclock.jpg/700px-Gladiator_10.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Gladiator_10.5_oclock.jpg&amp;filetimestamp=20111114182622" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Grand_Line_SE_2.2"><a href="/starcraft/Grand_Line" title="Grand Line">Grand Line SE 2.2</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=22" title="Edit section: Grand Line SE 2.2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Grand Line #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Grandline_1.5_o%27clock_wall-off.jpg&amp;filetimestamp=20111111080258&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/ca/Grandline_1.5_o%27clock_wall-off.jpg/350px-Grandline_1.5_o%27clock_wall-off.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/ca/Grandline_1.5_o%27clock_wall-off.jpg/525px-Grandline_1.5_o%27clock_wall-off.jpg 1.5x, /starcraft/images/thumb/c/ca/Grandline_1.5_o%27clock_wall-off.jpg/700px-Grandline_1.5_o%27clock_wall-off.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Grandline_1.5_o%27clock_wall-off.jpg&amp;filetimestamp=20111111080258" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Grandline_4.5_o%27clock_wall-off.jpg&amp;filetimestamp=20111111080314&amp;" class="image"><img alt="" src="/starcraft/images/thumb/9/9f/Grandline_4.5_o%27clock_wall-off.jpg/350px-Grandline_4.5_o%27clock_wall-off.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/9/9f/Grandline_4.5_o%27clock_wall-off.jpg/525px-Grandline_4.5_o%27clock_wall-off.jpg 1.5x, /starcraft/images/thumb/9/9f/Grandline_4.5_o%27clock_wall-off.jpg/700px-Grandline_4.5_o%27clock_wall-off.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Grandline_4.5_o%27clock_wall-off.jpg&amp;filetimestamp=20111111080314" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center">7.5 o'clock </th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Grandline_7.5_o%27clock_wall-off.jpg&amp;filetimestamp=20111111080329&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/3a/Grandline_7.5_o%27clock_wall-off.jpg/350px-Grandline_7.5_o%27clock_wall-off.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/3a/Grandline_7.5_o%27clock_wall-off.jpg/525px-Grandline_7.5_o%27clock_wall-off.jpg 1.5x, /starcraft/images/thumb/3/3a/Grandline_7.5_o%27clock_wall-off.jpg/700px-Grandline_7.5_o%27clock_wall-off.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Grandline_7.5_o%27clock_wall-off.jpg&amp;filetimestamp=20111111080329" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Grandline_10.5_o%27clock_wall-off.jpg&amp;filetimestamp=20111111080343&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/22/Grandline_10.5_o%27clock_wall-off.jpg/350px-Grandline_10.5_o%27clock_wall-off.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/22/Grandline_10.5_o%27clock_wall-off.jpg/525px-Grandline_10.5_o%27clock_wall-off.jpg 1.5x, /starcraft/images/thumb/2/22/Grandline_10.5_o%27clock_wall-off.jpg/700px-Grandline_10.5_o%27clock_wall-off.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Grandline_10.5_o%27clock_wall-off.jpg&amp;filetimestamp=20111111080343" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Heartbreak_Ridge"><a href="/starcraft/Heartbreak_Ridge" title="Heartbreak Ridge">Heartbreak Ridge</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=23" title="Edit section: Heartbreak Ridge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Heartbreak Ridge
+</th></tr>
+<tr>
+<th align="center"> 2 o'clock</th>
+<th>8 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwHeartbreakRidge2.png&amp;filetimestamp=20090616171532&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a7/PwHeartbreakRidge2.png/350px-PwHeartbreakRidge2.png" width="350" height="251" class="thumbimage" srcset="/starcraft/images/thumb/a/a7/PwHeartbreakRidge2.png/525px-PwHeartbreakRidge2.png 1.5x, /starcraft/images/a/a7/PwHeartbreakRidge2.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwHeartbreakRidge2.png&amp;filetimestamp=20090616171532" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwHeartbreakRidge8.png&amp;filetimestamp=20090616171704&amp;" class="image"><img alt="" src="/starcraft/images/thumb/d/df/PwHeartbreakRidge8.png/350px-PwHeartbreakRidge8.png" width="350" height="249" class="thumbimage" srcset="/starcraft/images/thumb/d/df/PwHeartbreakRidge8.png/525px-PwHeartbreakRidge8.png 1.5x, /starcraft/images/d/df/PwHeartbreakRidge8.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwHeartbreakRidge8.png&amp;filetimestamp=20090616171704" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Note: Once an Assimilator starts building on the geyser, an additional probe is needed between the geyser and forge to seal the wall-in.</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Jade"><a href="/starcraft/Jade" title="Jade">Jade</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=24" title="Edit section: Jade">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Jade
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Jade_1oclock.jpg&amp;filetimestamp=20120123032342&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/70/Jade_1oclock.jpg/350px-Jade_1oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/70/Jade_1oclock.jpg/525px-Jade_1oclock.jpg 1.5x, /starcraft/images/7/70/Jade_1oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Jade_1oclock.jpg&amp;filetimestamp=20120123032342" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Jade_5oclock.jpg&amp;filetimestamp=20120123032412&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a3/Jade_5oclock.jpg/350px-Jade_5oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/a3/Jade_5oclock.jpg/525px-Jade_5oclock.jpg 1.5x, /starcraft/images/a/a3/Jade_5oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Jade_5oclock.jpg&amp;filetimestamp=20120123032412" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Jade_7oclock.jpg&amp;filetimestamp=20120123032433&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c2/Jade_7oclock.jpg/350px-Jade_7oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c2/Jade_7oclock.jpg/525px-Jade_7oclock.jpg 1.5x, /starcraft/images/c/c2/Jade_7oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Jade_7oclock.jpg&amp;filetimestamp=20120123032433" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Jade_11oclock.jpg&amp;filetimestamp=20120123032455&amp;" class="image"><img alt="" src="/starcraft/images/thumb/9/9d/Jade_11oclock.jpg/350px-Jade_11oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/9/9d/Jade_11oclock.jpg/525px-Jade_11oclock.jpg 1.5x, /starcraft/images/9/9d/Jade_11oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Jade_11oclock.jpg&amp;filetimestamp=20120123032455" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="La_Mancha_1.1"><a href="/starcraft/La_Mancha" title="La Mancha">La Mancha 1.1</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=25" title="Edit section: La Mancha 1.1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>La Mancha #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>4.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Mancha_1.5_oclock.jpg&amp;filetimestamp=20111111082218&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/ac/Mancha_1.5_oclock.jpg/350px-Mancha_1.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/ac/Mancha_1.5_oclock.jpg/525px-Mancha_1.5_oclock.jpg 1.5x, /starcraft/images/thumb/a/ac/Mancha_1.5_oclock.jpg/700px-Mancha_1.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Mancha_1.5_oclock.jpg&amp;filetimestamp=20111111082218" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Mancha_4.5_oclock.jpg&amp;filetimestamp=20111111082231&amp;" class="image"><img alt="" src="/starcraft/images/thumb/5/52/Mancha_4.5_oclock.jpg/350px-Mancha_4.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/5/52/Mancha_4.5_oclock.jpg/525px-Mancha_4.5_oclock.jpg 1.5x, /starcraft/images/thumb/5/52/Mancha_4.5_oclock.jpg/700px-Mancha_4.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Mancha_4.5_oclock.jpg&amp;filetimestamp=20111111082231" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 or 3 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7.5 o'clock</th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Mancha_7.5_oclock.jpg&amp;filetimestamp=20111111082251&amp;" class="image"><img alt="" src="/starcraft/images/thumb/4/47/Mancha_7.5_oclock.jpg/350px-Mancha_7.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/4/47/Mancha_7.5_oclock.jpg/525px-Mancha_7.5_oclock.jpg 1.5x, /starcraft/images/thumb/4/47/Mancha_7.5_oclock.jpg/700px-Mancha_7.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Mancha_7.5_oclock.jpg&amp;filetimestamp=20111111082251" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Mancha_10.5_oclock.jpg&amp;filetimestamp=20111111082305&amp;" class="image"><img alt="" src="/starcraft/images/thumb/0/04/Mancha_10.5_oclock.jpg/350px-Mancha_10.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/0/04/Mancha_10.5_oclock.jpg/525px-Mancha_10.5_oclock.jpg 1.5x, /starcraft/images/thumb/0/04/Mancha_10.5_oclock.jpg/700px-Mancha_10.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Mancha_10.5_oclock.jpg&amp;filetimestamp=20111111082305" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Longinus"><a href="/starcraft/Longinus" title="Longinus">Longinus</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=26" title="Edit section: Longinus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Longinus
+</th></tr>
+<tr>
+<th align="center"> 3 o'clock</th>
+<th>7 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Longinus3.jpg&amp;filetimestamp=20080721012428&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/ca/Longinus3.jpg/350px-Longinus3.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/ca/Longinus3.jpg/525px-Longinus3.jpg 1.5x, /starcraft/images/c/ca/Longinus3.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Longinus3.jpg&amp;filetimestamp=20080721012428" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Longinus7.jpg&amp;filetimestamp=20080721012444&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/7b/Longinus7.jpg/350px-Longinus7.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/7b/Longinus7.jpg/525px-Longinus7.jpg 1.5x, /starcraft/images/7/7b/Longinus7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Longinus7.jpg&amp;filetimestamp=20080721012444" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 11 oclock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Longinus11.jpg&amp;filetimestamp=20080721012455&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c2/Longinus11.jpg/350px-Longinus11.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c2/Longinus11.jpg/525px-Longinus11.jpg 1.5x, /starcraft/images/c/c2/Longinus11.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Longinus11.jpg&amp;filetimestamp=20080721012455" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Luna"><a href="/starcraft/Luna" title="Luna">Luna</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=27" title="Edit section: Luna">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Luna #1
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Luna1.jpg&amp;filetimestamp=20140529211557&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/7d/Luna1.jpg/350px-Luna1.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/7d/Luna1.jpg/525px-Luna1.jpg 1.5x, /starcraft/images/7/7d/Luna1.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Luna1.jpg&amp;filetimestamp=20140529211557" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>A probe is needed to block between the Forge and the wall.</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Luna5.jpg&amp;filetimestamp=20140529211615&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c2/Luna5.jpg/350px-Luna5.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c2/Luna5.jpg/525px-Luna5.jpg 1.5x, /starcraft/images/c/c2/Luna5.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Luna5.jpg&amp;filetimestamp=20140529211615" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>A probe is needed to block between the forge and the Pylon.</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>10 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Luna7.jpg&amp;filetimestamp=20140529211628&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/7c/Luna7.jpg/350px-Luna7.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/7c/Luna7.jpg/525px-Luna7.jpg 1.5x, /starcraft/images/7/7c/Luna7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Luna7.jpg&amp;filetimestamp=20140529211628" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Luna10.jpg&amp;filetimestamp=20140529211642&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/cb/Luna10.jpg/350px-Luna10.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/cb/Luna10.jpg/525px-Luna10.jpg 1.5x, /starcraft/images/c/cb/Luna10.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Luna10.jpg&amp;filetimestamp=20140529211642" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>A probe is needed to block between the forge and the Pylon.</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Luna #2
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Luna2_1.jpg&amp;filetimestamp=20140529214140&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/6c/Luna2_1.jpg/350px-Luna2_1.jpg" width="350" height="258" class="thumbimage" srcset="/starcraft/images/thumb/6/6c/Luna2_1.jpg/525px-Luna2_1.jpg 1.5x, /starcraft/images/6/6c/Luna2_1.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Luna2_1.jpg&amp;filetimestamp=20140529214140" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>A probe is needed to block between the Forge and the wall.</div></div></div>
+</td>
+<td>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>10 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Luna2_7.jpg&amp;filetimestamp=20140529214157&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/12/Luna2_7.jpg/350px-Luna2_7.jpg" width="350" height="261" class="thumbimage" srcset="/starcraft/images/thumb/1/12/Luna2_7.jpg/525px-Luna2_7.jpg 1.5x, /starcraft/images/1/12/Luna2_7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Luna2_7.jpg&amp;filetimestamp=20140529214157" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Match_Point"><a href="/starcraft/Match_Point" title="Match Point">Match Point</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=28" title="Edit section: Match Point">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Match Point #1
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>7 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:MatchPoint-PWall1.png&amp;filetimestamp=20091202024655&amp;" class="image"><img alt="" src="/starcraft/images/thumb/0/0e/MatchPoint-PWall1.png/350px-MatchPoint-PWall1.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/0/0e/MatchPoint-PWall1.png/525px-MatchPoint-PWall1.png 1.5x, /starcraft/images/0/0e/MatchPoint-PWall1.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:MatchPoint-PWall1.png&amp;filetimestamp=20091202024655" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:MatchPoint-PWall7.png&amp;filetimestamp=20091202025708&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/79/MatchPoint-PWall7.png/350px-MatchPoint-PWall7.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/79/MatchPoint-PWall7.png/525px-MatchPoint-PWall7.png 1.5x, /starcraft/images/7/79/MatchPoint-PWall7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:MatchPoint-PWall7.png&amp;filetimestamp=20091202025708" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Match Point #2
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>7 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Matchpoint_1oclock.png&amp;filetimestamp=20130112054813&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/e6/Matchpoint_1oclock.png/350px-Matchpoint_1oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/e/e6/Matchpoint_1oclock.png/525px-Matchpoint_1oclock.png 1.5x, /starcraft/images/e/e6/Matchpoint_1oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Matchpoint_1oclock.png&amp;filetimestamp=20130112054813" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Matchpoint_7oclock.png&amp;filetimestamp=20130112054836&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/18/Matchpoint_7oclock.png/350px-Matchpoint_7oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/18/Matchpoint_7oclock.png/525px-Matchpoint_7oclock.png 1.5x, /starcraft/images/1/18/Matchpoint_7oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Matchpoint_7oclock.png&amp;filetimestamp=20130112054836" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Medusa_2.1"><a href="/starcraft/Medusa" title="Medusa">Medusa 2.1</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=29" title="Edit section: Medusa 2.1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Medusa #1
+</th></tr>
+<tr>
+<th align="center"> 3 o'clock</th>
+<th>7 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwMedusa4.png&amp;filetimestamp=20090616180723&amp;" class="image"><img alt="" src="/starcraft/images/thumb/d/db/PwMedusa4.png/350px-PwMedusa4.png" width="350" height="252" class="thumbimage" srcset="/starcraft/images/thumb/d/db/PwMedusa4.png/525px-PwMedusa4.png 1.5x, /starcraft/images/d/db/PwMedusa4.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwMedusa4.png&amp;filetimestamp=20090616180723" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwMedusa8.png&amp;filetimestamp=20090616180802&amp;" class="image"><img alt="" src="/starcraft/images/thumb/5/5a/PwMedusa8.png/350px-PwMedusa8.png" width="350" height="252" class="thumbimage" srcset="/starcraft/images/thumb/5/5a/PwMedusa8.png/525px-PwMedusa8.png 1.5x, /starcraft/images/5/5a/PwMedusa8.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwMedusa8.png&amp;filetimestamp=20090616180802" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center">11 oclock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwMedusa11.png&amp;filetimestamp=20090616180821&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/69/PwMedusa11.png/350px-PwMedusa11.png" width="350" height="252" class="thumbimage" srcset="/starcraft/images/thumb/6/69/PwMedusa11.png/525px-PwMedusa11.png 1.5x, /starcraft/images/6/69/PwMedusa11.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwMedusa11.png&amp;filetimestamp=20090616180821" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Medusa #2
+</th></tr>
+<tr>
+<th align="center"> 3 o'clock</th>
+<th>7 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Medusa_3_o%27clock.jpg&amp;filetimestamp=20111108043025&amp;" class="image"><img alt="" src="/starcraft/images/thumb/9/96/Medusa_3_o%27clock.jpg/350px-Medusa_3_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/9/96/Medusa_3_o%27clock.jpg/525px-Medusa_3_o%27clock.jpg 1.5x, /starcraft/images/9/96/Medusa_3_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Medusa_3_o%27clock.jpg&amp;filetimestamp=20111108043025" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Medusa_7_o%27clock.jpg&amp;filetimestamp=20111108043011&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c5/Medusa_7_o%27clock.jpg/350px-Medusa_7_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c5/Medusa_7_o%27clock.jpg/525px-Medusa_7_o%27clock.jpg 1.5x, /starcraft/images/c/c5/Medusa_7_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Medusa_7_o%27clock.jpg&amp;filetimestamp=20111108043011" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center">10.5 oclock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Medusa_10.5_o%27clock.jpg&amp;filetimestamp=20111108042959&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/fa/Medusa_10.5_o%27clock.jpg/350px-Medusa_10.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/fa/Medusa_10.5_o%27clock.jpg/525px-Medusa_10.5_o%27clock.jpg 1.5x, /starcraft/images/f/fa/Medusa_10.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Medusa_10.5_o%27clock.jpg&amp;filetimestamp=20111108042959" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Mist_0.9"><a href="/starcraft/Mist" title="Mist">Mist 0.9</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=30" title="Edit section: Mist 0.9">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Mist #1
+</th></tr>
+<tr>
+<th align="center"> 4 o'clock</th>
+<th>10 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Mist_4oclock.jpg&amp;filetimestamp=20140113233022&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/11/Mist_4oclock.jpg/350px-Mist_4oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/11/Mist_4oclock.jpg/525px-Mist_4oclock.jpg 1.5x, /starcraft/images/1/11/Mist_4oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Mist_4oclock.jpg&amp;filetimestamp=20140113233022" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Mist_10oclock.jpg&amp;filetimestamp=20140113233058&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/7e/Mist_10oclock.jpg/350px-Mist_10oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/7e/Mist_10oclock.jpg/525px-Mist_10oclock.jpg 1.5x, /starcraft/images/7/7e/Mist_10oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Mist_10oclock.jpg&amp;filetimestamp=20140113233058" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Monte_Cristo"><a href="/starcraft/Monte_Cristo" title="Monte Cristo">Monte Cristo</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=31" title="Edit section: Monte Cristo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Monte Cristo #1
+</th></tr>
+<tr>
+<th align="center"> 4.5 o'clock</th>
+<th>10.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Montecristo_4.5_oclock.jpg&amp;filetimestamp=20111125193742&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c7/Montecristo_4.5_oclock.jpg/350px-Montecristo_4.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c7/Montecristo_4.5_oclock.jpg/525px-Montecristo_4.5_oclock.jpg 1.5x, /starcraft/images/c/c7/Montecristo_4.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Montecristo_4.5_oclock.jpg&amp;filetimestamp=20111125193742" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Montecristo_10.5_oclock.jpg&amp;filetimestamp=20111125193752&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/2d/Montecristo_10.5_oclock.jpg/350px-Montecristo_10.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/2d/Montecristo_10.5_oclock.jpg/525px-Montecristo_10.5_oclock.jpg 1.5x, /starcraft/images/2/2d/Montecristo_10.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Montecristo_10.5_oclock.jpg&amp;filetimestamp=20111125193752" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Othello_1.1"><a href="/starcraft/Othello" title="Othello">Othello 1.1</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=32" title="Edit section: Othello 1.1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Othello #1
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>4 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Othello_1_oclock.jpg&amp;filetimestamp=20111114194222&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/32/Othello_1_oclock.jpg/350px-Othello_1_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/32/Othello_1_oclock.jpg/525px-Othello_1_oclock.jpg 1.5x, /starcraft/images/3/32/Othello_1_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Othello_1_oclock.jpg&amp;filetimestamp=20111114194222" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 3 small units (use Cybernetics Core to complete the wall</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Othello_4_oclock.jpg&amp;filetimestamp=20111114194238&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/76/Othello_4_oclock.jpg/350px-Othello_4_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/76/Othello_4_oclock.jpg/525px-Othello_4_oclock.jpg 1.5x, /starcraft/images/7/76/Othello_4_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Othello_4_oclock.jpg&amp;filetimestamp=20111114194238" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 3 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>10 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Othello_7_oclock.jpg&amp;filetimestamp=20111114194254&amp;" class="image"><img alt="" src="/starcraft/images/thumb/4/42/Othello_7_oclock.jpg/350px-Othello_7_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/4/42/Othello_7_oclock.jpg/525px-Othello_7_oclock.jpg 1.5x, /starcraft/images/4/42/Othello_7_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Othello_7_oclock.jpg&amp;filetimestamp=20111114194254" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 3 small units (use Cybernetics Core to complete the wall</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Othello_10_oclock.jpg&amp;filetimestamp=20111114194309&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/37/Othello_10_oclock.jpg/350px-Othello_10_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/37/Othello_10_oclock.jpg/525px-Othello_10_oclock.jpg 1.5x, /starcraft/images/3/37/Othello_10_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Othello_10_oclock.jpg&amp;filetimestamp=20111114194309" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 3 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Outlier"><a href="/starcraft/Outlier" title="Outlier">Outlier</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=33" title="Edit section: Outlier">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Outlier
+</th></tr>
+<tr>
+<th align="center"> 4 o'clock</th>
+<th>8 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Outlier_4oclock.png&amp;filetimestamp=20120122144931&amp;" class="image"><img alt="" src="/starcraft/images/thumb/0/0e/Outlier_4oclock.png/350px-Outlier_4oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/0/0e/Outlier_4oclock.png/525px-Outlier_4oclock.png 1.5x, /starcraft/images/0/0e/Outlier_4oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Outlier_4oclock.png&amp;filetimestamp=20120122144931" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Outlier_8oclock.png&amp;filetimestamp=20120122144836&amp;" class="image"><img alt="" src="/starcraft/images/thumb/1/1d/Outlier_8oclock.png/350px-Outlier_8oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/1/1d/Outlier_8oclock.png/525px-Outlier_8oclock.png 1.5x, /starcraft/images/1/1d/Outlier_8oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Outlier_8oclock.png&amp;filetimestamp=20120122144836" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 12 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Outlier_12oclock.png&amp;filetimestamp=20120122144904&amp;" class="image"><img alt="" src="/starcraft/images/thumb/4/48/Outlier_12oclock.png/350px-Outlier_12oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/4/48/Outlier_12oclock.png/525px-Outlier_12oclock.png 1.5x, /starcraft/images/4/48/Outlier_12oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Outlier_12oclock.png&amp;filetimestamp=20120122144904" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Python_1.3"><a href="/starcraft/Python" title="Python">Python 1.3</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=34" title="Edit section: Python 1.3">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Python #1
+</th></tr>
+<tr>
+<th align="center"> 12 o'clock</th>
+<th>3 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwPython12.png&amp;filetimestamp=20090812111305&amp;" class="image"><img alt="" src="/starcraft/images/thumb/b/b9/PwPython12.png/350px-PwPython12.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/b/b9/PwPython12.png/525px-PwPython12.png 1.5x, /starcraft/images/b/b9/PwPython12.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwPython12.png&amp;filetimestamp=20090812111305" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwPython3.jpg&amp;filetimestamp=20090714082425&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/81/PwPython3.jpg/350px-PwPython3.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/81/PwPython3.jpg/525px-PwPython3.jpg 1.5x, /starcraft/images/8/81/PwPython3.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwPython3.jpg&amp;filetimestamp=20090714082425" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 6 o'clock</th>
+<th>9 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwPython6.jpg&amp;filetimestamp=20090714082801&amp;" class="image"><img alt="" src="/starcraft/images/thumb/4/4a/PwPython6.jpg/350px-PwPython6.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/4/4a/PwPython6.jpg/525px-PwPython6.jpg 1.5x, /starcraft/images/4/4a/PwPython6.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwPython6.jpg&amp;filetimestamp=20090714082801" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwPython9.jpg&amp;filetimestamp=20090714082818&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c3/PwPython9.jpg/350px-PwPython9.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c3/PwPython9.jpg/525px-PwPython9.jpg 1.5x, /starcraft/images/c/c3/PwPython9.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwPython9.jpg&amp;filetimestamp=20090714082818" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Python #2
+</th></tr>
+<tr>
+<th align="center"> 12 o'clock</th>
+<th>3 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Python_12_o%27clock.jpg&amp;filetimestamp=20111108044730&amp;" class="image"><img alt="" src="/starcraft/images/thumb/4/46/Python_12_o%27clock.jpg/350px-Python_12_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/4/46/Python_12_o%27clock.jpg/525px-Python_12_o%27clock.jpg 1.5x, /starcraft/images/4/46/Python_12_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Python_12_o%27clock.jpg&amp;filetimestamp=20111108044730" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Python_3_oclock.jpg&amp;filetimestamp=20111120010726&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/79/Python_3_oclock.jpg/350px-Python_3_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/79/Python_3_oclock.jpg/525px-Python_3_oclock.jpg 1.5x, /starcraft/images/7/79/Python_3_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Python_3_oclock.jpg&amp;filetimestamp=20111120010726" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units<br />Destroy pylon for large unit pathing<br />Dirt pile above Zealot is walkable pathing, so be careful when placing Zealot to block</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 9 o'clock</th>
+<th>6 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Python_9_o%27clock.jpg&amp;filetimestamp=20111108044744&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/cf/Python_9_o%27clock.jpg/350px-Python_9_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/cf/Python_9_o%27clock.jpg/525px-Python_9_o%27clock.jpg 1.5x, /starcraft/images/c/cf/Python_9_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Python_9_o%27clock.jpg&amp;filetimestamp=20111108044744" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Python_6_o%27clock.jpg&amp;filetimestamp=20111108044759&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/6c/Python_6_o%27clock.jpg/350px-Python_6_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/6/6c/Python_6_o%27clock.jpg/525px-Python_6_o%27clock.jpg 1.5x, /starcraft/images/6/6c/Python_6_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Python_6_o%27clock.jpg&amp;filetimestamp=20111108044759" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Python #3
+</th></tr>
+<tr>
+<th align="center"> 3 o'clock</th>
+<th>6 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:-3_python_3_o%27clock.jpg&amp;filetimestamp=20111108235710&amp;" class="image"><img alt="" src="/starcraft/images/thumb/5/53/-3_python_3_o%27clock.jpg/350px--3_python_3_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/5/53/-3_python_3_o%27clock.jpg/525px--3_python_3_o%27clock.jpg 1.5x, /starcraft/images/5/53/-3_python_3_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:-3_python_3_o%27clock.jpg&amp;filetimestamp=20111108235710" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:-3_python_6_o%27clock.jpg&amp;filetimestamp=20111108235723&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/86/-3_python_6_o%27clock.jpg/350px--3_python_6_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/86/-3_python_6_o%27clock.jpg/525px--3_python_6_o%27clock.jpg 1.5x, /starcraft/images/8/86/-3_python_6_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:-3_python_6_o%27clock.jpg&amp;filetimestamp=20111108235723" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 9 o'clock</th>
+<th>12 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:-3_python_9_o%27clock.jpg&amp;filetimestamp=20111108235736&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a4/-3_python_9_o%27clock.jpg/350px--3_python_9_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/a4/-3_python_9_o%27clock.jpg/525px--3_python_9_o%27clock.jpg 1.5x, /starcraft/images/a/a4/-3_python_9_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:-3_python_9_o%27clock.jpg&amp;filetimestamp=20111108235736" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:-3_python_12_o%27clock.jpg&amp;filetimestamp=20111108235754&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/34/-3_python_12_o%27clock.jpg/350px--3_python_12_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/34/-3_python_12_o%27clock.jpg/525px--3_python_12_o%27clock.jpg 1.5x, /starcraft/images/3/34/-3_python_12_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:-3_python_12_o%27clock.jpg&amp;filetimestamp=20111108235754" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Polaris_Rhapsody_1.0"><a href="/starcraft/Polaris_Rhapsody" title="Polaris Rhapsody">Polaris Rhapsody 1.0</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=35" title="Edit section: Polaris Rhapsody 1.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Polaris Rhapsody #1
+</th></tr>
+<tr>
+<th align="center"> 12 o'clock</th>
+<th>6 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Polaris_10.5_o%27clock.jpg&amp;filetimestamp=20111108044846&amp;" class="image"><img alt="" src="/starcraft/images/thumb/4/42/Polaris_10.5_o%27clock.jpg/350px-Polaris_10.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/4/42/Polaris_10.5_o%27clock.jpg/525px-Polaris_10.5_o%27clock.jpg 1.5x, /starcraft/images/4/42/Polaris_10.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Polaris_10.5_o%27clock.jpg&amp;filetimestamp=20111108044846" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 1 small unit</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Polaris_4.5_o%27clock.jpg&amp;filetimestamp=20111108044900&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/7c/Polaris_4.5_o%27clock.jpg/350px-Polaris_4.5_o%27clock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/7c/Polaris_4.5_o%27clock.jpg/525px-Polaris_4.5_o%27clock.jpg 1.5x, /starcraft/images/7/7c/Polaris_4.5_o%27clock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Polaris_4.5_o%27clock.jpg&amp;filetimestamp=20111108044900" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 1 small unit</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Sin_Chupung-Reyong_2.1"><a href="/starcraft/Chupung-Ryeong" title="Chupung-Ryeong">Sin Chupung-Reyong 2.1</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=36" title="Edit section: Sin Chupung-Reyong 2.1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Sin Chupung-Ryeong #1
+</th></tr>
+<tr>
+<th align="center"> 1.5 o'clock</th>
+<th>7.5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Chupung_1.5_oclock.jpg&amp;filetimestamp=20111125191609&amp;" class="image"><img alt="" src="/starcraft/images/thumb/f/fe/Chupung_1.5_oclock.jpg/350px-Chupung_1.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/f/fe/Chupung_1.5_oclock.jpg/525px-Chupung_1.5_oclock.jpg 1.5x, /starcraft/images/f/fe/Chupung_1.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Chupung_1.5_oclock.jpg&amp;filetimestamp=20111125191609" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Chupung_7.5_oclock.jpg&amp;filetimestamp=20111125191636&amp;" class="image"><img alt="" src="/starcraft/images/thumb/0/06/Chupung_7.5_oclock.jpg/350px-Chupung_7.5_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/0/06/Chupung_7.5_oclock.jpg/525px-Chupung_7.5_oclock.jpg 1.5x, /starcraft/images/0/06/Chupung_7.5_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Chupung_7.5_oclock.jpg&amp;filetimestamp=20111125191636" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>1 gap: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Shin_Peaks_of_Baekdu"><a href="/starcraft/Shin_Peaks_of_Baekdu" title="Shin Peaks of Baekdu" class="mw-redirect">Shin Peaks of Baekdu</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=37" title="Edit section: Shin Peaks of Baekdu">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Shin Peaks of Baekdu
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>7 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Pwsinpeaks1.jpg&amp;filetimestamp=20090722034116&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a4/Pwsinpeaks1.jpg/350px-Pwsinpeaks1.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/a4/Pwsinpeaks1.jpg/525px-Pwsinpeaks1.jpg 1.5x, /starcraft/images/a/a4/Pwsinpeaks1.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Pwsinpeaks1.jpg&amp;filetimestamp=20090722034116" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Pwsinpeaks7.jpg&amp;filetimestamp=20090722034133&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a9/Pwsinpeaks7.jpg/350px-Pwsinpeaks7.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/a9/Pwsinpeaks7.jpg/525px-Pwsinpeaks7.jpg 1.5x, /starcraft/images/a/a9/Pwsinpeaks7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Pwsinpeaks7.jpg&amp;filetimestamp=20090722034133" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Sniper_Ridge"><a href="/starcraft/Sniper_Ridge" title="Sniper Ridge">Sniper Ridge</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=38" title="Edit section: Sniper Ridge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Sniper Ridge
+</th></tr>
+<tr>
+<th align="center"> 1 o'clock</th>
+<th>5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:SniperRidge_1oclock.png&amp;filetimestamp=20120122144453&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c1/SniperRidge_1oclock.png/350px-SniperRidge_1oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/c/c1/SniperRidge_1oclock.png/525px-SniperRidge_1oclock.png 1.5x, /starcraft/images/c/c1/SniperRidge_1oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:SniperRidge_1oclock.png&amp;filetimestamp=20120122144453" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:SniperRidge_5oclock.jpg&amp;filetimestamp=20120124075239&amp;" class="image"><img alt="" src="/starcraft/images/thumb/9/94/SniperRidge_5oclock.jpg/350px-SniperRidge_5oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/9/94/SniperRidge_5oclock.jpg/525px-SniperRidge_5oclock.jpg 1.5x, /starcraft/images/9/94/SniperRidge_5oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:SniperRidge_5oclock.jpg&amp;filetimestamp=20120124075239" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 7 o'clock</th>
+<th>11 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:SniperRidge_7oclock.png&amp;filetimestamp=20120122144616&amp;" class="image"><img alt="" src="/starcraft/images/thumb/7/70/SniperRidge_7oclock.png/350px-SniperRidge_7oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/7/70/SniperRidge_7oclock.png/525px-SniperRidge_7oclock.png 1.5x, /starcraft/images/7/70/SniperRidge_7oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:SniperRidge_7oclock.png&amp;filetimestamp=20120122144616" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:SniperRidge_11oclock.png&amp;filetimestamp=20120122144353&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/3c/SniperRidge_11oclock.png/350px-SniperRidge_11oclock.png" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/3c/SniperRidge_11oclock.png/525px-SniperRidge_11oclock.png 1.5x, /starcraft/images/3/3c/SniperRidge_11oclock.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:SniperRidge_11oclock.png&amp;filetimestamp=20120122144353" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="Tau_Cross"><a href="/starcraft/Tau_Cross" title="Tau Cross">Tau Cross</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=39" title="Edit section: Tau Cross">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>Tau Cross
+</th></tr>
+<tr>
+<th align="center"> 2 o'clock</th>
+<th>5 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwTauCross2.png&amp;filetimestamp=20090616174019&amp;" class="image"><img alt="" src="/starcraft/images/thumb/b/b1/PwTauCross2.png/350px-PwTauCross2.png" width="350" height="253" class="thumbimage" srcset="/starcraft/images/thumb/b/b1/PwTauCross2.png/525px-PwTauCross2.png 1.5x, /starcraft/images/b/b1/PwTauCross2.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwTauCross2.png&amp;filetimestamp=20090616174019" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwTauCross6.png&amp;filetimestamp=20090616174057&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/39/PwTauCross6.png/350px-PwTauCross6.png" width="350" height="252" class="thumbimage" srcset="/starcraft/images/thumb/3/39/PwTauCross6.png/525px-PwTauCross6.png 1.5x, /starcraft/images/3/39/PwTauCross6.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwTauCross6.png&amp;filetimestamp=20090616174057" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 10 oclock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:PwTauCross10.png&amp;filetimestamp=20090616174129&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c9/PwTauCross10.png/350px-PwTauCross10.png" width="350" height="253" class="thumbimage" srcset="/starcraft/images/thumb/c/c9/PwTauCross10.png/525px-PwTauCross10.png 1.5x, /starcraft/images/c/c9/PwTauCross10.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:PwTauCross10.png&amp;filetimestamp=20090616174129" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h3><span class="mw-headline" id="The_Fortress_2.0"><a href="/starcraft/Fortress" title="Fortress">The Fortress 2.0</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=40" title="Edit section: The Fortress 2.0">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" class="collapsible collapsed" style="background:white;border:1px solid black">
+<tr>
+<th>The Fortress #1
+</th></tr>
+<tr>
+<th align="center"> 3 o'clock</th>
+<th>6 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Fortress_3_oclock.jpg&amp;filetimestamp=20111130224402&amp;" class="image"><img alt="" src="/starcraft/images/thumb/8/8f/Fortress_3_oclock.jpg/350px-Fortress_3_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/8/8f/Fortress_3_oclock.jpg/525px-Fortress_3_oclock.jpg 1.5x, /starcraft/images/8/8f/Fortress_3_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Fortress_3_oclock.jpg&amp;filetimestamp=20111130224402" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Fortress_6_oclock.jpg&amp;filetimestamp=20111130224415&amp;" class="image"><img alt="" src="/starcraft/images/thumb/2/2b/Fortress_6_oclock.jpg/350px-Fortress_6_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/2/2b/Fortress_6_oclock.jpg/525px-Fortress_6_oclock.jpg 1.5x, /starcraft/images/2/2b/Fortress_6_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Fortress_6_oclock.jpg&amp;filetimestamp=20111130224415" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr>
+<tr>
+<th align="center"> 9 o'clock</th>
+<th>12 o'clock
+</th></tr>
+<tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Fortress_9_oclock.jpg&amp;filetimestamp=20111130224426&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/36/Fortress_9_oclock.jpg/350px-Fortress_9_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/3/36/Fortress_9_oclock.jpg/525px-Fortress_9_oclock.jpg 1.5x, /starcraft/images/3/36/Fortress_9_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Fortress_9_oclock.jpg&amp;filetimestamp=20111130224426" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:352px;"><a href="/starcraft/index.php?title=File:Fortress_12_oclock.jpg&amp;filetimestamp=20111130224435&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/ad/Fortress_12_oclock.jpg/350px-Fortress_12_oclock.jpg" width="350" height="263" class="thumbimage" srcset="/starcraft/images/thumb/a/ad/Fortress_12_oclock.jpg/525px-Fortress_12_oclock.jpg 1.5x, /starcraft/images/a/ad/Fortress_12_oclock.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/starcraft/index.php?title=File:Fortress_12_oclock.jpg&amp;filetimestamp=20111130224435" class="internal" title="Enlarge"><img src="/starcraft/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>2 gaps: blockable by 2 small units</div></div></div>
+</td></tr></table>
+<p><br style="clear:both" />
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit&amp;section=41" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=62652">Forge FE wall-ins on popular maps</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 1.168 seconds
+Real time usage: 3.362 seconds
+Preprocessor visited node count: 345/1000000
+Preprocessor generated node count: 1652/1000000
+Postâ€?expand include size: 2429/2097152 bytes
+Template argument size: 360/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:37-0!*!0!!en!2!* and timestamp 20150520115644
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;oldid=120134">http://wiki.teamliquid.net/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;oldid=120134</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Techniques" title="Category:Techniques">Techniques</a></li><li><a href="/starcraft/Category:Protoss_Techniques" title="Category:Protoss Techniques">Protoss Techniques</a></li><li><a href="/starcraft/Category:Protoss_Beginner_Strategy" title="Category:Protoss Beginner Strategy">Protoss Beginner Strategy</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Protoss_Fast_Expand_Forge_Walling" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:Protoss_Fast_Expand_Forge_Walling" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Protoss+Fast+Expand+Forge+Walling" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Protoss_Fast_Expand_Forge_Walling" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Protoss_Fast_Expand_Forge_Walling" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;oldid=120134" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Protoss_Fast_Expand_Forge_Walling&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Protoss_Fast_Expand_Forge_Walling" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:55.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 3.781 secs. --></body></html>

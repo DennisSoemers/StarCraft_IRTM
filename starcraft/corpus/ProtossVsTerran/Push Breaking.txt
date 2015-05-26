@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Push Breaking - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Push Breaking" href="/starcraft/index.php?title=Special:ExportRDF/Push_Breaking&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Push_Breaking","wgTitle":"Push Breaking","wgCurRevisionId":120163,"wgRevisionId":120163,"wgArticleId":527,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Techniques","Protoss Techniques","Protoss Beginner Strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Push_Breaking","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120163});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Push_Breaking skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Push Breaking</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_technique" title="Template:Infobox technique">h</a>]</span>Push Breaking</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/File:Pushbreaking.png" title="File:Pushbreaking.png">294px</a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Technique Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvT</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Mid-game/late-game Strategy</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Terran_Push_Setup"><span class="tocnumber">2</span> <span class="toctext">Terran Push Setup</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#The_Basic_Mix"><span class="tocnumber">2.1</span> <span class="toctext">The Basic Mix</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Common_Additions"><span class="tocnumber">2.2</span> <span class="toctext">Common Additions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Protoss_Response"><span class="tocnumber">3</span> <span class="toctext">Protoss Response</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Unit_Counters"><span class="tocnumber">3.1</span> <span class="toctext">Unit Counters</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Flanking"><span class="tocnumber">3.2</span> <span class="toctext">Flanking</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Zealot_Micro"><span class="tocnumber">3.3</span> <span class="toctext">Zealot Micro</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Dragoon_Micro"><span class="tocnumber">3.4</span> <span class="toctext">Dragoon Micro</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Reaver_Micro"><span class="tocnumber">3.5</span> <span class="toctext">Reaver Micro</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Spell_Casting"><span class="tocnumber">3.6</span> <span class="toctext">Spell Casting</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#High_Templar"><span class="tocnumber">3.6.1</span> <span class="toctext">High Templar</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Arbiters"><span class="tocnumber">3.6.2</span> <span class="toctext">Arbiters</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Transition"><span class="tocnumber">4</span> <span class="toctext">Transition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Terran"><span class="tocnumber">4.1</span> <span class="toctext">Terran</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Protoss"><span class="tocnumber">4.2</span> <span class="toctext">Protoss</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Notable_Games"><span class="tocnumber">5</span> <span class="toctext">Notable Games</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Further_Information"><span class="tocnumber">6</span> <span class="toctext">Further Information</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Due to the defensive strength of a Terran ground army - particularly with upgrades - many Protoss players struggle with breaking large Terran pushes.
+The long range and high damage of <a href="/starcraft/Siege_Tank" title="Siege Tank">Siege Tanks</a> combined with the hidden mine-fields provided by <a href="/starcraft/Vulture" title="Vulture">Vultures</a> can quickly eliminate a Protoss attack that is of bad composition, too small or in bad formation. The addition of <a href="/starcraft/SCV" title="SCV">SCVs</a> to build <a href="/starcraft/Missile_Turret" title="Missile Turret">turrets</a>, <a href="/starcraft/Supply_Depot" title="Supply Depot">supply depots</a> and other buildings can make push breaking increasingly difficult for the Protoss.
+</p><p>This guide focuses on the micromanagement aspects of attacking a large group of Terran units in the most effective way possible with a Protoss ground army.
+</p>
+<h2><span class="mw-headline" id="Terran_Push_Setup">Terran Push Setup</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=2" title="Edit section: Terran Push Setup">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_Basic_Mix">The Basic Mix</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=3" title="Edit section: The Basic Mix">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The most basic of Terran compositions, is the purely ground army of Tanks and Vultures. Terrans tend to use this composition during mid game before more advanced technology becomes available. When entering the fight, the Terran attempts have his Siege Tanks in Siege Mode, a line of mines in front of them, and Vultures interspersed in and in-front of the Tanks. He will attempt to spread out his Tanks in order to avoid splash and area of effect damage hitting multiple Tanks and mines being dragged into Tank clusters.  An experienced Terran will generally try to "keep his back to the wall" by pushing along walls and limiting Protoss flanking opportunities as much as possible.
+</p><p>In addition, the Terran can bring SCVs which allows the repairing of units and construction of buildings. The most commonly utilized buildings in a Terran push are Missile Turrets for detection and air defense, but Supply Depots are sometimes built as well. Supply Depots are uncommon to see in a moving push, but they are sometimes used in a static defense setup, as a means to funnel the Protoss into uncomfortable paths and choke points.
+</p>
+<h3><span class="mw-headline" id="Common_Additions">Common Additions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=4" title="Edit section: Common Additions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Apart from Tanks and Vultures, the Terran will frequently incorporate Goliaths, either as a hold-over from the anti-shuttle version of the <a href="/starcraft/Flash_Build" title="Flash Build" class="mw-redirect">Flash Build</a>, to defend against Arbiters, or to defend against Carriers. When noticing a blurry shape, he might even scan to shoot down Observers and deny you scouting information. Goliaths are not as effective against Zealots as Vultures, and slightly better than Vultures vs. Dragoons.
+</p><p>The addition of the Science Vessel allows the Terran to detect cloaked units and, with an upgrade, cast EMP. This is the most diverse push that a Protoss will likely encounter in a standard game. Because of the high gas cost of this composition, unless the group is badly balanced, the Science Vessel will not be seen outside of late-game when Terran has access to 3 or more gas expansions. 
+</p><p>Late in the game, Vessels are desperately needed to deal with Arbiters, primarily to provide detection of cloaked units, and to nullify Protoss spell-casters and eliminate unit shields. Because observers over the push will be killed very quickly, the Push can move around and the Protoss will only be able to gather reconnaissance from surrounding units.
+</p>
+<h2><span class="mw-headline" id="Protoss_Response">Protoss Response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=5" title="Edit section: Protoss Response">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Unit_Counters">Unit Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=6" title="Edit section: Unit Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is widely considered that there is a counter square in Terran vs Protoss: Vultures counter Zealots, Zealots counter Tanks, Tanks counter Dragoons, Dragoons counter Vultures. While it can work to some extent, it is in fact inaccurate. There are only two somewhat legitimate concepts here: Dragoons are indeed strong against Vultures and Vultures are indeed strong against Zealots. However, to break pushes well, you must better realize how unit A works versus unit B.
+</p><p>First of all, Dragoons are not a pushover vs Tanks. In fact, they are very effective versus Tanks. They cost significantly less, they do about the same damage per second (20/30 for goons compared to 30/37 for tanks), have more life, they regenerate shields which is important early-game.  The only fields where Tanks decisively beat them are splash, range and projectile speed. This way, if you somehow manage to distract the Tank fire from Dragoons while you close in and keep goons spread, you will remain effective. This is the reason that people always start out with Dragoons PvT - there isn't really a strong counter to Dragoons at the point of the game where numbers are scarce and you can afford to micro hardcore. Thus, point number one: goons are universally effective.
+</p><p>Concerning the other counter pair - Zealots and Tanks, Tanks follow a critical mass pattern. At first, they are indeed ineffective vs speedlots, but as their number increases, they start beating them unsieged, and if their numbers increase even more, they can afford the luxury to fight the Zealots sieged. The reasons are simple - while Tanks seem to do less damage to Zealots (a direct Tank hit kills a Zealot in 4 iterations, a Dragoon in 3, no matter the upgrades), Zealots are usually very clumped, therefore, they receive an insane amount of splash damage and die to the Tanks even faster than goons. Therefore, just running them in and a-moving won't do the trick. Zealots are very effective, however, if you somehow instantly get them close to the Tanks and abuse friendly fire damage. Point number 2: Zealot effectiveness against Tanks is limited.
+</p><p>Another counter pair would be Vulture vs Dragoon. Some facts worth noting: 
+</p>
+<ul>
+<li> Vultures do full damage to shields and shields compose almost half of goon life. Shooting goons with vultures is not that bad an idea. 
+</li>
+<li> A Vulture dies to 6 goon hits, Tank dies to 8. But a Vulture costs 75 minerals whereas a Tank costs 150/100. Thus, despite the Dragoon seemingly being a direct counter to Vultures, it is actually profitable for a Terran to allow their opponent to shoot at them. 
+</li>
+<li> Vultures are countered by Dragoons in terms of direct confrontation, but vults are very effective at soaking up goon fire in a real battle. Plus, they get mines.
+</li>
+</ul>
+<p>If you need more time to gather units and have shuttles, harassing main or naturals with anything to pose a threat can potentially turn the Terran army (or at least some of it, hopefully) around. If you need more time, there is nothing more crucial than distracting the Terran player from pushing forward his army.
+</p><p>So, we've seen that both armies get the maximum of their effectiveness when mixed. But the reason of that mix is not the direct unit counters. You'd want to have a mixed army regardless of whether Terran's army is balanced or is pure Tank. Likewise, a terran would want to have a mixed army regardless of whether toss has zeal/goon, pure goon or pure zeal. It's very important to understand that. Mixing is good.
+</p>
+<h3><span class="mw-headline" id="Flanking">Flanking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=7" title="Edit section: Flanking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This technique is extremely effective and you should make a habit of always using it no matter what unit numbers you have - for example, you have a terran army at point B and your army at point A1.
+</p><p>A2.......
+</p><p>........B
+</p><p>A1.......
+</p><p>Now, you don't just A-move your army to B, but first order it to move to A2. While moving, your army formation changes from a blob to something more resembling a line. Then, before your troops reach the destination, A-move Dragoons to B. The difference is tremendous. Flanking is considered a force-multiplier; it allows you to spread out the Terran's attack and reduce splash, while allowing you to concentrate your attack from multiple angles. Proper timing of the various flanking groups is absolutely critical.
+</p><p>If a flank is properly done, it can not only decimate the Terran push, it can hinder or prevent retreat as well, which will gain you a bigger advantage.
+</p>
+<h3><span class="mw-headline" id="Zealot_Micro">Zealot Micro</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=8" title="Edit section: Zealot Micro">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Speedlots perform much better than slow Zealots as they allow the Zealots to make it to the Siege Tanks quickly and with minimal damage. It also makes <a href="/starcraft/Mine_Dragging" title="Mine Dragging">Mine Dragging</a> more likely to succeed.
+</p><p>Zealots that are run in to attack should first be spread out in a line perpendicular to the attacking direction to minimize splash damage, or come from several directions in a flank.
+</p><p>In general:
+</p>
+<ul>
+<li>Line up Zealots perpendicular to attack direction to minimize splash
+</li>
+<li>Try to form a C-shape when engaging - attack from as many different angles as possible.
+</li>
+<li>Have Zealots move to the Tanks, not attack-move. In this way they will not stop to <a href="/starcraft/Mine_Defusing_Without_Observers" title="Mine Defusing Without Observers" class="mw-redirect">defuse Mines</a> and will instead <a href="/starcraft/Mine_Dragging" title="Mine Dragging">drag mines</a> to the Tanks.
+</li>
+<li>In general, it is best to devote 1-3 Zealots per Tank, but generally 2.
+</li>
+<li>If there are many Vultures, sending in the Zealots too early will get them killed without accomplishing anything. Sending them in too late will cause you to lose Dragoons. The player must decide when each force should be committed to battle. Generally spell-casters are given orders first (but won't actually engage first due to movement lag), Then Dragoons are sent to attack, and shortly after Zealots.
+</li>
+<li>Protoss players generally reinforce with Speed Zealots. If the battle is close or drawn out, it is important to remember to bring the reinforcements to the battle as soon as possible.
+</li>
+<li>If the Protoss loses many or all of his Zealots and there is still a significant number of Siege Tanks, it is generally better to retreat with the remaining Dragoons than to continue engaging unless you have a big enough unit advantage or the Terran units are low health due to Psionic Storm, etc.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Dragoon_Micro">Dragoon Micro</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=9" title="Edit section: Dragoon Micro">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dragoons are terribly inefficient when targetting Vultures (due to damage type / target size correlation). You want them to target Tanks as often as possible. Therefore, as soon as you took care of the more important business of:
+</p>
+<ul>
+<li>Spreading and cloning Zealots
+</li>
+<li>Casting Spells
+</li>
+<li>Dropping units
+</li>
+</ul>
+<p>you should go to micro your Dragoons. What you want to do is moveshot them - let them fire one volley, do not wait for the animation to finish, but move them forward a bit towards the Tanks, let them fire once more (some use a-move, some use patrol), move them closer to the Tanks, and so on. It it also highly recommended to spread out your Goons when they clump up in a place.
+</p>
+<h3><span class="mw-headline" id="Reaver_Micro">Reaver Micro</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=10" title="Edit section: Reaver Micro">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Reaver, when dropped, will absorb a significant amount of splash damage. With a relatively small number of siege Tanks, it can be dropped, attack, picked up, and dropped to attack again before dying. It is best to drop Reavers in the middle of a group of Siege Tanks for a variety of reasons:
+</p>
+<ul>
+<li>Reavers will be able to attack close by Siege Tanks without those Siege Tanks attacking in turn.
+</li>
+<li>Don't have to worry about Spider Mines: mines will either not be a threat, or will allow you to <a href="/starcraft/Mine_Dragging" title="Mine Dragging">drag mines</a> and kill or damage the Tanks.
+</li>
+<li>Will cause the Tanks to suffer from the splash of other Tanks.
+</li>
+<li>Will divide Terran firepower and cause your main attacking force to take less damage.
+</li>
+</ul>
+<p>However, with a large number of Tanks, the Reaver will likely be unable to fire before being destroyed and is a significant cost of resources. For this reason, Reavers should only be used to break up smaller pushes, and only when a Reaver has already been invested in. It is generally not a good idea to buy a Reaver/Shuttle just for the purpose of push breaking.
+</p><p>A Reaver can also be dropped away from the Tanks, however in addition to the threat of mines (if no observer is present) many Terrans will manually target the Reaver. If the Protoss wishes to drop on the outskirts then, it is best to drop outside of the Siege Tank range with the goal of picking off stray units instead of the Tanks directly. Doing so will allow the Protoss to save the Reaver for future battles or for a <a href="/starcraft/Reaver_Drop" title="Reaver Drop">Reaver Drop</a>.
+</p>
+<h3><span class="mw-headline" id="Spell_Casting">Spell Casting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=11" title="Edit section: Spell Casting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When breaking a push, two kinds of spellcasting are needed: High Templar use Psi Storm, Arbiters use Stasis Field. 
+</p>
+<h4><span class="mw-headline" id="High_Templar">High Templar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=12" title="Edit section: High Templar">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>It is highly recommended to carry your High Templar in a Shuttle, for several reasons:
+</p>
+<ul>
+<li>Vultures might be looking to snipe unprotected Templar.
+</li>
+<li>Science Vessels might target them with an EMP Shockwave.
+</li>
+<li>The Templar could die to random Tank shots. 
+</li>
+<li>A Shuttle makes the Templar more mobile.
+</li>
+</ul>
+<p>With Psi Storm, you should be targetting clusters of sieged Tanks, as those cannot move out of the way and are the most threatening units on the field. Try to keep your Templars alive to do that job. Jangbi shows how it's done: <a rel="nofollow" target="_blank" class="external autonumber" href="http://www.youtube.com/watch?v=F3IbwjeCx6U">[1]</a>
+</p>
+<h4><span class="mw-headline" id="Arbiters">Arbiters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=13" title="Edit section: Arbiters">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>When using Arbiters, also aim for clusters of enemy units, preferably Tanks. Sometimes it is advisable to stasis Science Vessels that roam the edges of the push to get off EMPs - rather get them before they nullify the effect of your Arbiter. The most important thing to consider is this: <b>Do not</b> stasis Tanks at the front line. They will only create an impenetrable wall that your Zealots have to run around and your Goons have to work with too. By stasising Tanks in front, you are actually <i>helping</i> the Terran. Stasis the Tanks at the back whenever you can!
+</p>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=14" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Terran">Terran</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=15" title="Edit section: Terran">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>If the Terran came out ahead: Reinforce your push, and then head for the 3rd, 4th, or natural of the Protoss.
+</li>
+<li>If the Protoss came out ahead: Try to salvage units you can and fortify your defensive positions. Try to maintain your expansions, and decide about the next possible push timing. Many times, it might mean waiting for full supply and 1-2 upgrades.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Protoss">Protoss</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=16" title="Edit section: Protoss">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>If the Terran came out ahead: Regroup, and either recall or go for a front door counter. Alternatively try to get your forces out of your natural, and try to either sandwich the terran army in between your natural while stasising the middle, or try defending your expansions by flanking the terran army on the move. Finally you can try to sacrifice your expansions while rebuilding your army, and try to take out the Terran army as they come out. A good example of an expansion sacrifice that yielded enough time to rebuild is <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/7861_Bisu_vs_Hwasin/vod">Bisu vs. Hwasin</a> from GOMTV 2 MSL (skip to 18:20 for the push).
+</li>
+<li>If the Protoss came out ahead: Counter, by either taking out one of their bases, recalling, or taking another expansion of your own. If you cannot damage the Terran, still be sure to claim more bases and to add more Gateways.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=17" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Further_Information">Further Information</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit&amp;section=18" title="Edit section: Further Information">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=58685">Bluzman's very important guide to push breaking</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.068 seconds
+Real time usage: 0.088 seconds
+Preprocessor visited node count: 147/1000000
+Preprocessor generated node count: 529/1000000
+Postâ€?expand include size: 1250/2097152 bytes
+Template argument size: 79/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:527-0!*!0!!en!2!* and timestamp 20150523055116
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Push_Breaking&amp;oldid=120163">http://wiki.teamliquid.net/starcraft/index.php?title=Push_Breaking&amp;oldid=120163</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Pages_with_broken_file_links" title="Category:Pages with broken file links">Pages with broken file links</a></li><li><a href="/starcraft/Category:Techniques" title="Category:Techniques">Techniques</a></li><li><a href="/starcraft/Category:Protoss_Techniques" title="Category:Protoss Techniques">Protoss Techniques</a></li><li><a href="/starcraft/Category:Protoss_Beginner_Strategy" title="Category:Protoss Beginner Strategy">Protoss Beginner Strategy</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Push_Breaking" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:Push_Breaking" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Push_Breaking&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Push_Breaking&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Push+Breaking" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Push_Breaking" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Push_Breaking" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Push_Breaking&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Push_Breaking&amp;oldid=120163" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Push_Breaking&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Push_Breaking" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:55.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.228 secs. --></body></html>

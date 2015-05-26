@@ -223,17 +223,17 @@ Make sure you get your command center up and working before he does. Scout and p
 </p>
 <!-- 
 NewPP limit report
-CPU time usage: 0.088 seconds
-Real time usage: 0.104 seconds
-Preprocessor visited node count: 277/1000000
-Preprocessor generated node count: 1321/1000000
+CPU time usage: 0.068 seconds
+Real time usage: 0.311 seconds
+Preprocessor visited node count: 310/1000000
+Preprocessor generated node count: 0/1000000
 Postâ€?expand include size: 2063/2097152 bytes
 Template argument size: 181/2097152 bytes
 Highest expansion depth: 5/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:10095-0!*!0!!en!2!* and timestamp 20150427165727
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:10095-0!*!0!!en!2!* and timestamp 20150526174055
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Three_Factory_Vultures&amp;oldid=120171">http://wiki.teamliquid.net/starcraft/index.php?title=Three_Factory_Vultures&amp;oldid=120171</a>"</div>
@@ -444,4 +444,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.268 secs. --></body></html>
+<!-- Served in 0.454 secs. --></body></html>

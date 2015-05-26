@@ -69,7 +69,7 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <div class="infobox-cell-2 infobox-description">Popularized by:</div>
 <div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Iloveoov" title="Iloveoov">iloveoov</a></span></div>
 </div></div>
-<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
 </div>
 <p>The 2 Rax build is a build that was very popular before the introduction of the <a href="/starcraft/1_Rax_FE_(vs._Zerg)" title="1 Rax FE (vs. Zerg)">1 Rax FE</a>. Modern adaptations of the build generally use this build to force the Zerg to spend a significant amount of money on Sunken Colonies by faking a Marine/Medic push and then, instead of continuing to pump units as in older versions of this build, taking an expansion to enter a macro game. In addition, it allows for an easier defense against the <a href="/starcraft/9_Pool_(vs_Zerg)" title="9 Pool (vs Zerg)" class="mw-redirect">9 Pool</a> opening.
 </p><p>This build is the original incarnation of TvZ fast expand made by iloveoov in 2003. To this day it remains very strong against 2 Hatchery builds and is underused in this regard. However, because of the slower Command Center and oftentimes useless early second Barrack, it is significantly weaker than 1 rax FE against 3 Hatchery Mutalisks, which caused its overall decline in popularity.
@@ -145,17 +145,17 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 </p>
 <!-- 
 NewPP limit report
-CPU time usage: 0.104 seconds
-Real time usage: 0.131 seconds
-Preprocessor visited node count: 311/1000000
-Preprocessor generated node count: 2246/1000000
-Postâ€?expand include size: 2787/2097152 bytes
-Template argument size: 491/2097152 bytes
+CPU time usage: 0.100 seconds
+Real time usage: 0.123 seconds
+Preprocessor visited node count: 317/1000000
+Preprocessor generated node count: 2269/1000000
+Postâ€?expand include size: 2809/2097152 bytes
+Template argument size: 507/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:260-0!*!0!!en!2!* and timestamp 20150423013309
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:260-0!*!0!!en!2!* and timestamp 20150525221614
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Rax_FE_(vs._Zerg)&amp;oldid=119824">http://wiki.teamliquid.net/starcraft/index.php?title=2_Rax_FE_(vs._Zerg)&amp;oldid=119824</a>"</div>
@@ -366,4 +366,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.271 secs. --></body></html>
+<!-- Served in 0.265 secs. --></body></html>

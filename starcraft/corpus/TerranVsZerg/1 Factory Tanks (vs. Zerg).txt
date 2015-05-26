@@ -61,7 +61,7 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <div class="infobox-cell-2 infobox-description">Type:</div>
 <div class="infobox-cell-2">Strategy</div>
 </div></div>
-<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
 </div>
 <p>This uncommon pre-defiler push is an alternative to the 3 tank, 1 vessel push. Its goal is to kill the Zerg before hive tech, faster and with almost twice the tanks as the standard vessel push. However if the Zerg delays or breaks the push, the Terran will be at a greater disadvantage than the 9 minute push because of his later upgrades and vessels. Because of the dangers of stop lurkers and the reliability of the vessel push, this strategy is almost never seen anymore in Korean professional games.
 </p>
@@ -137,7 +137,7 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <!-- 
 NewPP limit report
 CPU time usage: 0.064 seconds
-Real time usage: 0.066 seconds
+Real time usage: 0.065 seconds
 Preprocessor visited node count: 230/1000000
 Preprocessor generated node count: 1214/1000000
 Postâ€?expand include size: 1330/2097152 bytes
@@ -146,7 +146,7 @@ Highest expansion depth: 5/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:747-0!*!0!!en!2!* and timestamp 20150426195700
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:747-0!*!0!!en!2!* and timestamp 20150523060101
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=1_Factory_Tanks_(vs._Zerg)&amp;oldid=119995">http://wiki.teamliquid.net/starcraft/index.php?title=1_Factory_Tanks_(vs._Zerg)&amp;oldid=119995</a>"</div>

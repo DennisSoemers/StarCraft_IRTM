@@ -201,16 +201,16 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <!-- 
 NewPP limit report
 CPU time usage: 0.180 seconds
-Real time usage: 0.211 seconds
-Preprocessor visited node count: 706/1000000
-Preprocessor generated node count: 4603/1000000
-Postâ€?expand include size: 4451/2097152 bytes
-Template argument size: 771/2097152 bytes
+Real time usage: 0.212 seconds
+Preprocessor visited node count: 715/1000000
+Preprocessor generated node count: 4626/1000000
+Postâ€?expand include size: 4473/2097152 bytes
+Template argument size: 784/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:297-0!*!0!!en!2!* and timestamp 20150421232943
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:297-0!*!0!!en!2!* and timestamp 20150526200250
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=14_CC_(vs._Protoss)&amp;oldid=119867">http://wiki.teamliquid.net/starcraft/index.php?title=14_CC_(vs._Protoss)&amp;oldid=119867</a>"</div>
@@ -421,4 +421,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.349 secs. --></body></html>
+<!-- Served in 0.358 secs. --></body></html>

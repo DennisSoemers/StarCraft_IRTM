@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>14 Nexus (vs. Terran) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="14 Nexus (vs. Terran)" href="/starcraft/index.php?title=Special:ExportRDF/14_Nexus_(vs._Terran)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"14_Nexus_(vs._Terran)","wgTitle":"14 Nexus (vs. Terran)","wgCurRevisionId":126546,"wgRevisionId":126546,"wgArticleId":285,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Protoss Build Orders","PvT Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"14_Nexus_(vs._Terran)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":126546});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-14_Nexus_vs_Terran skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">14 Nexus (vs. Terran)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a> 14 Nexus</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:14nex.png&amp;filetimestamp=20090111075541&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/ae/14nex.png/294px-14nex.png" width="294" height="221" srcset="/starcraft/images/thumb/a/ae/14nex.png/441px-14nex.png 1.5x, /starcraft/images/thumb/a/ae/14nex.png/588px-14nex.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvT</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Nal_rA</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2">Nal_rA</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Basic_Build_order"><span class="tocnumber">2.1</span> <span class="toctext">Basic Build order</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Bisu_Transition"><span class="tocnumber">2.2</span> <span class="toctext">Bisu Transition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Execution"><span class="tocnumber">3</span> <span class="toctext">Execution</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Counters"><span class="tocnumber">4</span> <span class="toctext">Counters</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_Maps"><span class="tocnumber">5</span> <span class="toctext">Notable Maps</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notable_Games"><span class="tocnumber">6</span> <span class="toctext">Notable Games</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <b>14 Nexus</b> opening is one of the oldest versions of expanding as fast as possible against Terran. It has been a rather standard opening since 2005 and offers relatively strong transitions into the mid game. 
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<h3><span class="mw-headline" id="Basic_Build_order">Basic Build order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=3" title="Edit section: Basic Build order">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "14 Nexus" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>8 - Pylon<sup id="cite_ref-scout_0-0" class="reference"><a href="#cite_note-scout-0">[1]</a></sup>
+</li>
+<li>13 - Nexus<sup id="cite_ref-scout2_1-0" class="reference"><a href="#cite_note-scout2-1">[2]</a></sup>
+</li>
+<li>14 - Gateway
+</li>
+<li>15 - Gas
+</li>
+<li>17 - Cybernetics Core
+</li>
+<li>17 - Gateway
+</li>
+<li>17 - Zealot
+</li>
+<li>21 - Pylon
+</li>
+<li>21 - 2 Dragoons
+</li>
+<li>25 - Range Upgrade
+</li>
+<li>27 - Pylon
+</li>
+<li>27 - 2 Dragoons
+</li>
+<li>33 - Pylon
+</li>
+<li>35 - 2 Dragoons
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-scout-0"><a href="#cite_ref-scout_0-0">↑</a> Probe can be used to scout; this will delay the Nexus timing from 13 Supply to 14</li>
+<li id="cite_note-scout2-1"><a href="#cite_ref-scout2_1-0">↑</a> ordinary Scout timing</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<h3><span class="mw-headline" id="Bisu_Transition">Bisu Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=4" title="Edit section: Bisu Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "14 Nexus" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>8 - Pylon
+</li>
+<li>13 - Nexus
+</li>
+<li>13 - Gateway
+</li>
+<li>14 - Assimilator
+</li>
+<li>17 - Cybernetics Core<sup id="cite_ref-scout2_2-0" class="reference"><a href="#cite_note-scout2-2">[1]</a></sup>
+</li>
+<li>17 - Gateway
+</li>
+<li>@ 100% Nexus - Unit production off Gateways<sup id="cite_ref-unit_3-0" class="reference"><a href="#cite_note-unit-3">[2]</a></sup>
+</li>
+<li>26 - Goon Range
+</li>
+<li>26 - Pylon<sup id="cite_ref-Dragoons_4-0" class="reference"><a href="#cite_note-Dragoons-4">[3]</a></sup> 
+</li>
+<li>31 - Pylon
+</li>
+<li>32 - Assimilator
+</li>
+<li>36 - Robotics Facility
+</li>
+<li>38 - Pylon
+</li>
+<li>45 - Pylon
+</li>
+<li>50 - Support Bay
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-scout2-2"><a href="#cite_ref-scout2_2-0">↑</a> Scouting depends on the situation, here's the latest point to send out a Probe</li>
+<li id="cite_note-unit-3"><a href="#cite_ref-unit_3-0">↑</a> Theoretically speaking, the unit production should start when the Nexus is finished. Bisu starts usually out with one Zealot followed by two Dragoons. Starting time of unit production, as well as the earliest army composition may vary depending on the Terran's reaction (e.g. Bunker Rush vs. Delayed Timed Attack). </li>
+<li id="cite_note-Dragoons-4"><a href="#cite_ref-Dragoons_4-0">↑</a> Constant Dragoon and Probe Production from here on</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</div>
+</td></tr></table>
+<h2><span class="mw-headline" id="Execution">Execution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=5" title="Edit section: Execution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Basic Build Order has been developed by <a href="/starcraft/Nal_rA" title="Nal rA">Nal_rA</a> in 2005 and aimed to enable the Protoss to gain an economic advantage early on in the game. It allows the Protoss to build up a relatively strong ground army composition in the first minutes of the game, which can be used to counter stronger attacks off one Base, as well as timed attacks following ordinary <a href="/starcraft/Siege_Expand" title="Siege Expand" class="mw-redirect">Siege Expand</a> openings. However, it is vulnerable to <a href="/starcraft/Bunker_Rush_(vs._Protoss)" title="Bunker Rush (vs. Protoss)">Bunker Rushes</a>, which makes scouting and the micro management of the initial units very important. Losing units early on can hard counter the this opening. 
+</p><p>Since the 14 Command Center Build Orders were introduced, the economic advantage was negated and a soft counter was introduced. Bisu's version of the 14 Nexus opening was a reaction to the Terran strategies. It allows a Reaver Harass as transition into the mid game, which can be used to either force Terran to invest into building static defenses or tie Terran units to two bases. Furthermore, the Reaver and the ground army can be used to delay a greedy third expansion if microed carefully. Depending on the efficiency of the harass the Protoss is in a position to tech faster to high Tech units like <a href="/starcraft/Arbiter" title="Arbiter">Arbiters</a> or expand a third and a fourth time relatively fast. 
+</p><p>The main goal of both openings is not a timed attack, but a more passive aggressive strategy to gain an ultimate advantage in the late game. As a consequence Protoss should avoid to try a break of the Terran base if he did not gain a massive advantage early on. If in doubt, Protoss should maintain the map control, rather than directly fight the Terran, especially if Terran went for a strong macro oriented build himself.
+</p>
+<h2><span class="mw-headline" id="Counters">Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=6" title="Edit section: Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt><b><a href="/starcraft/Bunker_Rush_(vs._Protoss)" title="Bunker Rush (vs. Protoss)">Bunker Rush</a></b> 
+</dt>
+</dl>
+<p>A very common response to this build by Terrans is to bring four or more SCVs, rally Marines and construct a Bunker in range of the Nexus. The bunker is usually started before the first Zealot is out and the first Marine arrives soon after. Therefore the Protoss will usually try to attack the building SCV with Probes if possible. However, targeting the Marines before they can enter the Bunker is more important, as an empty Bunker does not really pose a threat. Depending on the number of SCVs left to repair a Bunker, Protoss can train more Zealots and kill the bunker right away. 
+</p><p>Even if the Nexus will be killed by the initial push, Protoss has chances to come back into the game, as a Bunker rush means an economical disadvantage for the Terran. The outcome for the overall game therefore depends more on the numbers of Probes a Terran killed calculated against the number of ressources spend on building the Bunker and trained SCVs, as well as the missing income from an earlier Terran Expansion. 
+</p>
+<dl>
+<dt> <a href="/starcraft/14_CC_(vs._Protoss)" title="14 CC (vs. Protoss)">14 CC (vs. Protoss)</a>
+</dt>
+</dl>
+<p>A 14 Command Center is usually considered as a soft counter to the 14 Nexus opening, as it allows Terran to train workers equally as fast as Protoss.
+</p>
+<dl>
+<dt><a href="/starcraft/Siege_Expand" title="Siege Expand" class="mw-redirect">Siege Expand</a> and One Base Strategies
+</dt>
+</dl>
+<p>Siege Expansions or One Base openings by Terran are soft countered by the 14 Nexus Build Order. The first will mean an economical disadvantage for Terran. Almost all One Base strategies aim to swiftly kill a small Protoss army; Depending on the Protoss player's micromanagement, he should be able to defend a strong early aggression easily.
+</p>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=7" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/starcraft/Neo_Arkanoid" title="Neo Arkanoid" class="mw-redirect">Neo Arkanoid</a>
+</li>
+<li><a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a>
+</li>
+<li><a href="/starcraft/God%27s_Garden" title="God's Garden">God's Garden</a>
+</li>
+<li><a href="/starcraft/Colosseum" title="Colosseum">Colosseum</a>
+</li>
+<li><a href="/starcraft/Medusa" title="Medusa">Medusa</a>
+</li>
+<li><a href="/starcraft/Heartbreak_Ridge" title="Heartbreak Ridge">Heartbreak Ridge</a>
+</li>
+</ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=8" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:MapImagePlaceholder.jpg&amp;filetimestamp=20100201134707&amp;" class="image" title="No thumbnail available"><img alt="No thumbnail available" src="/starcraft/images/thumb/c/ce/MapImagePlaceholder.jpg/100px-MapImagePlaceholder.jpg" width="100" height="100" srcset="/starcraft/images/thumb/c/ce/MapImagePlaceholder.jpg/150px-MapImagePlaceholder.jpg 1.5x, /starcraft/images/thumb/c/ce/MapImagePlaceholder.jpg/200px-MapImagePlaceholder.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Kingdom" title="Kingdom">Kingdom</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top">
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/NaDa" title="NaDa">NaDa</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;"></span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=htLflTh2M04">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+<p><br />
+</p>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:199_Heartbreak_Ridge.jpg&amp;filetimestamp=20091211114252&amp;" class="image" title="Heartbreak Ridge"><img alt="Heartbreak Ridge" src="/starcraft/images/thumb/9/96/199_Heartbreak_Ridge.jpg/100px-199_Heartbreak_Ridge.jpg" width="100" height="75" srcset="/starcraft/images/thumb/9/96/199_Heartbreak_Ridge.jpg/150px-199_Heartbreak_Ridge.jpg 1.5x, /starcraft/images/thumb/9/96/199_Heartbreak_Ridge.jpg/200px-199_Heartbreak_Ridge.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Bisu" title="Bisu">Bisu</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Bisu opening with his version of the 14 Nexus, fightin goff a Bunker Rush and Vulture Harass
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Flash" title="Flash">Flash</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2009-08-27</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=zMH_q6jQbOo">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.336 seconds
+Real time usage: 0.391 seconds
+Preprocessor visited node count: 1234/1000000
+Preprocessor generated node count: 5798/1000000
+Post�?expand include size: 7908/2097152 bytes
+Template argument size: 1488/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:285-0!*!0!!en!2!* and timestamp 20150522132331
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;oldid=126546">http://wiki.teamliquid.net/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;oldid=126546</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Protoss_Build_Orders" title="Category:Protoss Build Orders">Protoss Build Orders</a></li><li><a href="/starcraft/Category:PvT_Builds" title="Category:PvT Builds">PvT Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/14_Nexus_(vs._Terran)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:14_Nexus_(vs._Terran)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=14+Nexus+%28vs.+Terran%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/14_Nexus_(vs._Terran)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/14_Nexus_(vs._Terran)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;oldid=126546" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=14_Nexus_(vs._Terran)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/14_Nexus_(vs._Terran)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 3 April 2015, at 08:29.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.110 secs. --></body></html>

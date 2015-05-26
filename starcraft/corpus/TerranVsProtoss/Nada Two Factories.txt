@@ -162,17 +162,17 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.216 seconds
-Real time usage: 0.292 seconds
-Preprocessor visited node count: 576/1000000
-Preprocessor generated node count: 5013/1000000
-Postâ€?expand include size: 5495/2097152 bytes
-Template argument size: 1116/2097152 bytes
+CPU time usage: 0.200 seconds
+Real time usage: 0.224 seconds
+Preprocessor visited node count: 588/1000000
+Preprocessor generated node count: 5036/1000000
+Postâ€?expand include size: 5530/2097152 bytes
+Template argument size: 1139/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:292-0!*!0!!en!2!* and timestamp 20150424225240
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:292-0!*!0!!en!2!* and timestamp 20150526200248
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Nada_2_Fac&amp;oldid=119862">http://wiki.teamliquid.net/starcraft/index.php?title=Nada_2_Fac&amp;oldid=119862</a>"</div>
@@ -383,4 +383,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.450 secs. --></body></html>
+<!-- Served in 0.368 secs. --></body></html>

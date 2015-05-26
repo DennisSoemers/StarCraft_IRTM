@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>3 Hatch Muta (vs. Terran) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="3 Hatch Muta (vs. Terran)" href="/starcraft/index.php?title=Special:ExportRDF/3_Hatch_Muta_(vs._Terran)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"3_Hatch_Muta_(vs._Terran)","wgTitle":"3 Hatch Muta (vs. Terran)","wgCurRevisionId":119769,"wgRevisionId":119769,"wgArticleId":12,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Zerg Build Orders","ZvT Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"3_Hatch_Muta_(vs._Terran)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119769});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-3_Hatch_Muta_vs_Terran skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">3 Hatch Muta (vs. Terran)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="21" height="19" /></a> 3 Hatch Muta</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:Saviormuta.PNG&amp;filetimestamp=20080722210208&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/e0/Saviormuta.PNG/294px-Saviormuta.PNG" width="294" height="188" srcset="/starcraft/images/thumb/e/e0/Saviormuta.PNG/441px-Saviormuta.PNG 1.5x, /starcraft/images/e/e0/Saviormuta.PNG 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>Harass stalling until Lurkers come into play.</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">ZvT</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><img style="vertical-align:top;margin-right:2px" alt="(Z)" title="Zerg" src="http://www.teamliquid.net/tlpd/images/Zicon_small.png" /><a target="_blank" title="sAviOr - TLPD Information" href="http://www.teamliquid.net/tlpd/players/135_sAviOr">sAviOr</a></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Build_Order_Clarification"><span class="tocnumber">3</span> <span class="toctext">Build Order Clarification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#9th_Drone_-_Scout"><span class="tocnumber">3.1</span> <span class="toctext">9th Drone - Scout</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.40100.25_Spawning_Pool_-_2_Zerglings"><span class="tocnumber">3.2</span> <span class="toctext">@100% Spawning Pool - 2 Zerglings</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#13_-_Hatchery"><span class="tocnumber">3.3</span> <span class="toctext">13 - Hatchery</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Adapting_to_Terran_Builds"><span class="tocnumber">3.4</span> <span class="toctext">Adapting to Terran Builds</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Save_Larvae"><span class="tocnumber">3.5</span> <span class="toctext">Save Larvae</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Transitions"><span class="tocnumber">4</span> <span class="toctext">Transitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Lurker.2FLing"><span class="tocnumber">4.1</span> <span class="toctext">Lurker/Ling</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Transition"><span class="tocnumber">5</span> <span class="toctext">Transition</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Variation:_Crazy_Zerg"><span class="tocnumber">6</span> <span class="toctext">Variation: Crazy Zerg</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Countered_By"><span class="tocnumber">7</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Hard_Counters"><span class="tocnumber">7.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Soft_Counters"><span class="tocnumber">7.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Counter_To"><span class="tocnumber">8</span> <span class="toctext">Counter To</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Hard_Counters_2"><span class="tocnumber">8.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Soft_Counters_2"><span class="tocnumber">8.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Notable_Maps"><span class="tocnumber">9</span> <span class="toctext">Notable Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Strong"><span class="tocnumber">9.1</span> <span class="toctext">Strong</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Weak"><span class="tocnumber">9.2</span> <span class="toctext">Weak</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Mentality"><span class="tocnumber">10</span> <span class="toctext">Mentality</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Usefulness_Against_Mech"><span class="tocnumber">11</span> <span class="toctext">Usefulness Against Mech</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#VODs"><span class="tocnumber">12</span> <span class="toctext">VODs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#English_commentated_FPVODs"><span class="tocnumber">12.1</span> <span class="toctext">English commentated FPVODs</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Popularized by <a href="/starcraft/SAviOr" title="SAviOr">sAviOr</a> during his dominance, 3 Hatch Muta is currently the most popular Zerg vs. Terran build for both amateur and professional players.  Although slightly slower than <a href="/starcraft/2_Hatch_Muta_(vs._Terran)" title="2 Hatch Muta (vs. Terran)">2 Hatch Muta</a>, this build affords a much stronger economy and greater versatility. While the Zerg forfeits map control in the early game before getting Mutalisks, he later harasses with Mutalisks in order to force the Terran to defend and keep his army at home, while securing a third base and moving into the midgame.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>9th Drone - Scout (optional) (<a href="#9th_Drone_-_Scout">see note</a>)
+</li>
+<li>9 - Overlord 
+</li>
+<li>12 - Hatchery @ expansion
+</li>
+<li>11 - Spawning Pool
+</li>
+<li>13 - Hatchery (<a href="#13_-_Hatchery">see note</a>)
+</li>
+<li>12 - Extractor
+</li>
+<li>@100% Spawning Pool - 2 Zerglings (<a href="#.40100.25_Spawning_Pool_-_2_Zerglings">see note</a>)
+</li>
+<li>16 - Overlord
+</li>
+<li>@100 Gas - Lair
+</li>
+<li>@100 Gas - Zergling Speed and Expansion Extractor
+</li>
+<li>@100% Lair - Spire
+</li>
+<li>24 - Overlord
+</li>
+<li>Make Drones until 27
+</li>
+<li>28-33 Zerglings
+</li>
+<li>33 - Expansion or 2 Sunken Colonies 
+</li>
+<li>NOTE - Make Sunken Colonies as necessary (<a href="#Adapting_to_Terran_Builds">see note</a>)
+</li>
+<li>@50% Spire - 3 Overlords
+</li>
+<li>NOTE - Save Larvae (<a href="#Save_Larvae">see note</a>)
+</li>
+<li>33 - 9 Mutalisks
+</li>
+<li>@50 Gas - Hydralisk Den
+</li>
+<li>@100-200 Gas - 2 more Mutalisks and 1 overlord
+</li>
+<li>@75% Hydralisk Den completion - Evolution Chamber
+</li>
+<li>@200 Gas - Lurker Aspect
+</li>
+<li>@150 Gas - Carapace Upgrade
+</li>
+</ul>
+<h2><span class="mw-headline" id="Build_Order_Clarification">Build Order Clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=3" title="Edit section: Build Order Clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="9th_Drone_-_Scout">9th Drone - Scout</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=4" title="Edit section: 9th Drone - Scout">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On two player maps and in games where you think your opponent might rush you, you should scout with your 9th Drone towards his base or possible proxy locations, otherwise it's better to send the scout with the Drone that is going to make the Expansion.
+</p>
+<h3><span class="mw-headline" id=".40100.25_Spawning_Pool_-_2_Zerglings">@100% Spawning Pool - 2 Zerglings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=5" title="Edit section: @100% Spawning Pool - 2 Zerglings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>2 Zerglings are necessary to drive off scouting SCVs and single Marines sent to harass your Drones.  If you have scouted your opponent and are confident that early Marines are not coming, make only the two Zerglings.  If you are unaware of what your opponent is up to, it is better to be safe and make 6 Zerglings but you will have to change the gas timing. If you want to make sure the scout dies without changing the gas timing, make 4 Zerglings at 14-16 supply (just before the Overlord) instead of making them when the Spawning Pool finishes.
+</p>
+<h3><span class="mw-headline" id="13_-_Hatchery">13 - Hatchery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=6" title="Edit section: 13 - Hatchery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If you can increase either gas or mineral mining efficiency by placing your third Hatchery in a certain position (such as on <a href="/starcraft/Katrina" title="Katrina">Katrina</a> or <a href="/starcraft/Reverse_Temple" title="Reverse Temple">Reverse Temple</a>) then you should do so. If not, look to place it to block Marines or Vultures from running past your Sunken Line. If Marine or Vulture run-bys are not a threat, place it somewhere that allows you to hide your tech buildings from Scanner Sweeps.
+</p><p>Alternatively, if you can secure a safe Expansion with the Hatchery (such as on <a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a>), you should place it accordingly.
+</p>
+<h3><span class="mw-headline" id="Adapting_to_Terran_Builds">Adapting to Terran Builds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=7" title="Edit section: Adapting to Terran Builds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is imperative at this stage to determine your opponent's build and to adapt accordingly. Be sure that you have some way of checking the Terran's Marine count, either through an Overlord on a protected cliff above the natural, or a Zergling situated outside of the Terran's base. In order to maximize your economic advantage, do not make Sunken Colonies too early. Against a standard 1 Rax FE, 2-3 Sunken Colonies and maybe 6 Zerglings are sufficient to deter Terran from charging in.
+</p><p>However, Terran does have numerous other variations at his disposal. In order to properly determine what the Terran's build is, it is crucial to suicide some Lings to see the Terran's Marine count and to see if he has an expansion. The first factor to check for is to see if Terran has an expansion. If he does not have one, then he is probably going for a <a href="/starcraft/Sparks_Terran" title="Sparks Terran">Sparks Terran</a> or a <a href="/starcraft/index.php?title=Tank_Push&amp;action=edit&amp;redlink=1" class="new" title="Tank Push (page does not exist)">Tank Push</a>. In order to counter both of these builds, a lot of Sunkens, at least 5-7, are needed. Against the fast Tank push, it is necessary to stagger the Sunkens to buy enough time for your Mutalisks to hatch.
+</p><p>If the Terran does have an expansion, then the next indicator is going to be Marine and Rax count. There are four likely Rax counts that the Terran might have, which are listed below:
+</p>
+<ul>
+<li><b>1 Rax</b> - If the Terran player only has 1 Rax, then he won't have that many Marines. 1 Rax means that the Terran is going for a rush to Science Vessels to stop the Mutalisk harass. However, this build has gone out of style due to both the general improvement of Mutalisk control from Zerg, which leads to the Vessel possibly getting sniped with little to no damage done to the Mutalisks.
+</li>
+<li><b>2 or 3 Rax</b> - Seeing 2 or 3 Rax means that the Terran player is going for a standard 9 Minute push. If the Terran only has 2 Rax, then you likely scouted him early and he will add on a 3rd Rax to do a standard timing push. Only 3-4 Sunkens are necessary to defend against any push by Terran before Mutas.
+</li>
+<li><b>4 Rax</b> - There are two variations on a 4 Rax build. The only way to determine which variation Terran is going for is to see when the Terran gets his 4th Rax. If the Raxes come up extremely early (before the Lair finishes), Terran is likely going for the <a href="/starcraft/Ayumi_Build" title="Ayumi Build">Ayumi Build</a>, which would necessitate a lot of Sunkens, maybe 6-8. If the 4th Rax comes up later, then the Terran is going for a hyper aggressive build where he aims to take down your third and threaten a Sunken bust if you move your Mutas away from your home base. In this case, you will want to get a lot of Sunkens at your natural and go to harass the Terran's base as he won't have that many turrets up with this build.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Save_Larvae">Save Larvae</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=8" title="Edit section: Save Larvae">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Stop making units from your Hatcheries when the Spire has reached 300/600 HP and the Hatchery only has 1 Larva available. You should have 9 Larvae, 33/51 Control and at least 900 Minerals and Gas when the Spire finishes.
+</p>
+<h2><span class="mw-headline" id="Transitions">Transitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=9" title="Edit section: Transitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Use your Mutalisks to deal damage when possible. Focus on keeping them alive, since they force Terran to remain at his main base. From this opening, you can transition into Muta/Ling, Lurker/Ling,  or Hydra/Lurker, along with 3 Base Hive.
+</p>
+<h3><span class="mw-headline" id="Lurker.2FLing">Lurker/Ling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=10" title="Edit section: Lurker/Ling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The most common transition from 3 Hatch Muta is to Lurker/Ling. Once the Hydralisk Den has been started, an Evolution Chamber is built shortly afterwards to research +1 Carapace. At this point it is important to use your Muta/Ling force to keep the opponent in his base.
+It is recommended that you start a third expansion at this point. The initial Hydralisks should be sent to this morphing Hatchery and immediately morphed into Lurkers when the upgrade is complete.
+</p>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=11" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After your Lurkers hatch, Zerg will usually start his Queens Nest and start moving towards Hive tech.
+</p>
+<h2><span class="mw-headline" id="Variation:_Crazy_Zerg">Variation: Crazy Zerg</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=12" title="Edit section: Variation: Crazy Zerg">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A slightly less common style of Zerg that was popularized by <a href="/starcraft/Kwanro" title="Kwanro">Kwanro</a>, <a href="/starcraft/Luxury" title="Luxury">Luxury</a>, and <a href="/starcraft/YArnC" title="YArnC" class="mw-redirect">YellOw[ArnC]</a>. It's effective on open maps with 2nd expansions easily taken with the 3rd Hatchery.
+Rather than transition conventionally to Lurker/Ling, the Zerg player aims to transition from Muta/Ling directly into Hive and Ultralisks. 
+</p><p>The build differs from standard 3 Hatch Muta from the gas timing:
+</p>
+<ul>
+<li>12 - Hatchery @ Expansion
+</li>
+<li>11 - Spawning Pool
+</li>
+<li>13 - Hatchery @ Expansion.
+</li>
+<li>@100% Spawning Pool - 2 Zerglings
+</li>
+<li>15 - Extractor
+</li>
+<li>16 - Overlord
+</li>
+<li>@100 Gas - Lair, Evolution chamber and Expansion Extractor.
+</li>
+</ul>
+<p>The first Evolution Chamber is built immediately after the Lair is started, followed by an immediate +1 Carapace Upgrade. Zergling Speed is researched during the Mutalisk harass, and a large Muta/Ling force is used to kill Marine/Medic armies of less than 24 units. The high mobility, early 2nd Expansion and early Carapace make Tank/Vessel pushes a liability for the Terran player. Instead, he will most likely opt for a Vessel oriented style of play which you should defend with Sunken colonies and your Muta/Ling army until Defilers and Ultralisks come into play. This build gets a 3rd Expansion in relatively the same time as a standard 3 Hatch Muta build but with an earlier hive and upgrades. The second Evolution Chamber should be built shortly after hive is started because having an Upgrade advantage is very important for this playstyle.
+</p><p>The fast +4 Armor Ultralisk and Zergling force is extremely effective against Marine/Medic until the Terran can catch up in upgrades. This build is especially weak against large amounts of Marine/Medic  during mid-game; the lack of Lurkers and relatively small amount of killing power makes map control hard to obtain, especially if the Mutaling flank of the Terran push or the backstab at the Natural fails.
+</p><p>In summary, this build is highly map-dependant. It relies on large, open spaces which facilitate a more mobile army. It also requires an early second Expansion to support quick Upgrades and Hive Timing as well as a strong Drone count, comparable to that of a normal 3 Hatch Muta build.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=13" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=14" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Early vulture harass will either force a change on gas timing or a change from a Mutalisk opening to a Hydra opening.
+</li>
+<li>FireBatHero 7 Barracks
+</li>
+<li><a href="/starcraft/Ayumi_Build" title="Ayumi Build">Ayumi Build</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Soft_Counters">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=15" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/Zerg_Counter_To_Bunker_Rush" title="Zerg Counter To Bunker Rush" class="mw-redirect">Bunker Rush</a>
+</li>
+<li><a href="/starcraft/Zerg_Counter_To_BBS" title="Zerg Counter To BBS" class="mw-redirect">Barracks Barracks Supply</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Counter_To">Counter To</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=16" title="Edit section: Counter To">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters_2">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=17" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>1 Base fast Dropship or Tank push
+</li>
+<li>2 Barracks, Academy, Expansion
+</li>
+</ul>
+<h3><span class="mw-headline" id="Soft_Counters_2">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=18" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>2 Barracks Expansion.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=19" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Strong">Strong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=20" title="Edit section: Strong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/Python" title="Python">Python</a>
+</li>
+<li><a href="/starcraft/Fantasy_II" title="Fantasy II" class="mw-redirect">Fantasy II</a>
+</li>
+<li><a href="/starcraft/Namja_Iyagi" title="Namja Iyagi">Namja Iyagi</a>
+</li>
+<li><a href="/starcraft/Heartbreak_Ridge" title="Heartbreak Ridge">Heartbreak Ridge</a>
+</li>
+<li><a href="/starcraft/Fighting_Spirit" title="Fighting Spirit">Fighting Spirit</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Weak">Weak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=21" title="Edit section: Weak">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/Gaema_Gowon" title="Gaema Gowon">Gaema Gowon</a>
+</li>
+<li><a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a> - (2 hatch is much more effective due to the inability to easily defend/camp 4 gas)
+</li>
+</ul>
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=22" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Three Hatch Muta (vs. Terran) is a build order meant to give you early map control. This is typically used to take a third base (with gas to support Hive tech) and to transition to Hive (mainly for defilers).
+</p><p>Note: A common misconception amongst newer players is that 3 Hatch Muta is a build meant to kill or severely cripple the Terran player with Mutalisks. While this may work occasionally, at higher skill levels it will rarely be possible to kill the Terran with your Mutalisks alone. The main purpose of your initial Mutalisks is to harrass the Terran and keep his army inside of his base, yielding you map control.
+</p>
+<h2><span class="mw-headline" id="Usefulness_Against_Mech">Usefulness Against Mech</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=23" title="Edit section: Usefulness Against Mech">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Against a meching terran, 3 hatch muta is arguably the best opening. The reason is because mutalisks act as scouting. Against mech, your main priority is to build up your econ and take as little damage as possible. Therefore, the main role of mutalisks is to scout and to gain that map control. You need to see his type of tech paths. This will be critical for you because if he decides that he was faking his mech, your mutalisks will still be strong against bio and you can prepare appropriately. 
+</p>
+<h2><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=24" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="English_commentated_FPVODs">English commentated FPVODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit&amp;section=25" title="Edit section: English commentated FPVODs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=GYe_RFBJyJE&amp;feature=PlayList&amp;p=3F7E2969A105FD7A&amp;index=2">On Blue Storm with commentary by Chill</a>
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=6S4r0jVB_-U&amp;feature=PlayList&amp;p=3F7E2969A105FD7A&amp;index=4">On Python with commentary by Chill</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.108 seconds
+Real time usage: 0.125 seconds
+Preprocessor visited node count: 311/1000000
+Preprocessor generated node count: 1336/1000000
+Postâ€?expand include size: 2005/2097152 bytes
+Template argument size: 288/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:12-0!*!0!!en!2!* and timestamp 20150520070105
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;oldid=119769">http://wiki.teamliquid.net/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;oldid=119769</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Zerg_Build_Orders" title="Category:Zerg Build Orders">Zerg Build Orders</a></li><li><a href="/starcraft/Category:ZvT_Builds" title="Category:ZvT Builds">ZvT Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/3_Hatch_Muta_(vs._Terran)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:3_Hatch_Muta_(vs._Terran)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=3+Hatch+Muta+%28vs.+Terran%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/3_Hatch_Muta_(vs._Terran)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/3_Hatch_Muta_(vs._Terran)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;oldid=119769" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=3_Hatch_Muta_(vs._Terran)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/3_Hatch_Muta_(vs._Terran)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:47.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.281 secs. --></body></html>

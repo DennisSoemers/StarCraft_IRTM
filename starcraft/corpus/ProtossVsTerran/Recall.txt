@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Recall - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Recall" href="/starcraft/index.php?title=Special:ExportRDF/Recall&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Recall","wgTitle":"Recall","wgCurRevisionId":120069,"wgRevisionId":120069,"wgArticleId":3099,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Spells","Protoss Spells","Protoss Beginner Strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Recall","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120069});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Recall skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Recall</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"><div id="mw-fr-revisiontag" class="flaggedrevs_short plainlinks noprint"><div class="flaggedrevs_short_basic"><img class="flaggedrevs-icon" src="/starcraft/extensions/FlaggedRevs/frontend/modules/img/2.png" alt="This is a checked version of this page" title="This is a checked version of this page" /><img id="mw-fr-revisiontoggle" class="fr-toggle-arrow" src="/starcraft/extensions/FlaggedRevs/frontend/modules/img/arrow-down.png" style="display:none;" alt="show/hide details" /></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">This is the <a href="/starcraft/Help:Page_validation" title="Help:Page validation" class="mw-redirect">stable version</a>, <a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Special:Log&amp;type=review&amp;page=Recall">checked</a> on <i>22 January 2015</i>.
+<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Recall&amp;oldid=120069&amp;diff=cur">Template/file changes</a> await review.<p><table id='mw-fr-revisionratings-box' align='center' class='flaggedrevs-color-1' cellpadding='0'><tr><td class='fr-text' valign='middle'>Accuracy</td><td class='fr-value40' valign='middle'>Sighted</td></tr>
+<tr><td class='fr-text' valign='middle'>Depth</td><td class='fr-value40' valign='middle'>Basic</td></tr>
+<tr><td class='fr-text' valign='middle'>Readability</td><td class='fr-value40' valign='middle'>Acceptable</td></tr>
+</table></p></div>
+</div>
+</div>
+</div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Recall&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_spell" title="Template:Infobox spell">h</a>]</span>Recall</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:Recallicon.gif&amp;filetimestamp=20090609080611&amp;" class="image"><img alt="" src="/starcraft/images/archive/3/38/20141003083220%21Recallicon.gif" width="294" height="294" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Spell Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Caster:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Arbiter" title="Arbiter">Arbiter</a></div>
+</div><div>
+<div class="infobox-cell-2 infobox-description"><a href="/starcraft/Energy" title="Energy">Energy</a> Cost:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Energy" title="Energy"><img alt="Energy" src="/starcraft/images/a/a9/EnergyIcon.gif" width="14" height="14" /></a> 150</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Range:</div>
+<div class="infobox-cell-2">n.a.</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description"><a href="/starcraft/Cooldown" title="Cooldown">Cooldown</a>:</div>
+<div class="infobox-cell-2">not available</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Researched from:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Arbiter_Tribunal" title="Arbiter Tribunal">Arbiter Tribunal</a></div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Research Cost:</div>
+<div class="infobox-cell-2"><a href="/starcraft/index.php?title=File:Mineral.gif&amp;filetimestamp=20081009174219&amp;" class="image"><img alt="" src="/starcraft/images/6/67/Mineral.gif" width="14" height="14" /></a> 150  <a href="/starcraft/index.php?title=File:Vespine.gif&amp;filetimestamp=20081009174345&amp;" class="image"><img alt="" src="/starcraft/images/b/b6/Vespine.gif" width="14" height="14" /></a> 150 <a href="/starcraft/index.php?title=File:DurationIcon.gif&amp;filetimestamp=20090212190621&amp;" class="image"><img alt="" src="/starcraft/images/5/5d/DurationIcon.gif" width="14" height="14" /></a> 120   </div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Research Hotkey:</div>
+<div class="infobox-cell-2"><span style="background-color: #F0F0F0; width: 32px; font-size: 9pt; border-style: outset; border-width: 2px; margin: 0px; padding: 0px 3px 0px 3px; clear: none"><b>r</b></span></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<p><i>"Recently the Protoss have found that the ability to rapidly bring more fighting forces to war zones is invaluable. The Recall ability creates a tear in the fabric of space-time, and any friendly units that enter the swirling vortex will instantaneously appear next to the Arbiter that initiated the effect."</i>
+</p><p><b>Recall</b> is a spell cast by the <a href="/starcraft/Protoss" title="Protoss">Protoss</a> <a href="/starcraft/Arbiter" title="Arbiter">Arbiter</a>. It opens a 5x5 wormhole which teleports all friendly units in the wormhole to the caster. You cannot Recall allied units, only your own. You cannot Recall ground units onto spaces that is impassable to them normally. So you cannot Recall ground units into Water, Lava and so on. <sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Use"><span class="tocnumber">1</span> <span class="toctext">Use</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#PvT"><span class="tocnumber">1.1</span> <span class="toctext">PvT</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Considerations_when_recalling"><span class="tocnumber">1.1.1</span> <span class="toctext">Considerations when recalling</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Counter"><span class="tocnumber">1.1.2</span> <span class="toctext">Counter</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#In_Combination_with_Other_Spells"><span class="tocnumber">2</span> <span class="toctext">In Combination with Other Spells</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Other"><span class="tocnumber">3</span> <span class="toctext">Other</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_Games"><span class="tocnumber">4</span> <span class="toctext">Notable Games</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Use">Use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Recall&amp;action=edit&amp;section=1" title="Edit section: Use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Recall is staple in PvT late game, as the instantenous transportation exploits the Terran's army's lack of mobility. In the PvP and PvZ match-up, Recall is less common. In both match-ups the high gas requirement of the Arbiter usually loses to the much needed <a href="/starcraft/High_Templar" title="High Templar">High Templars</a>. Also, these enemy's armies are mobile enough to catch up with your Recall, in which case your forces severed from your main army and are quickly taken out. In the rare case Recall is seen in these match-ups it is usually used for a tactical strike, such as taking out an island expansion.
+</p>
+<h3><span class="mw-headline" id="PvT">PvT</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Recall&amp;action=edit&amp;section=2" title="Edit section: PvT">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Whereas <a href="/starcraft/Stasis_Field" title="Stasis Field">Stasis Field</a> usually is the prioritised spell when dealing with a Terran army, <strong class="selflink">Recall</strong> may be researched if the Protoss is confident he can hold off the Terran push. A Recall can be devastating to a Terran main base, as key buildings can be taken out quickly. Recall is especially effective when dealing with island expansions as the Terran usually doesn't have the means to send a comparable force of reinforcements. 
+</p>
+<h4><span class="mw-headline" id="Considerations_when_recalling">Considerations when recalling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Recall&amp;action=edit&amp;section=3" title="Edit section: Considerations when recalling">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Recall has a matrix of 138X133 Width X Height.
+</p><p><a href="/starcraft/index.php?title=File:60332914.jpg&amp;filetimestamp=20091117015557&amp;" class="image"><img alt="" src="/starcraft/images/a/a6/60332914.jpg" width="214" height="203" /></a>
+</p><p>When recall is used in the center of this formation
+</p><p><a href="/starcraft/index.php?title=File:Ef71fe3a89.jpg&amp;filetimestamp=20091117015854&amp;" class="image"><img alt="" src="/starcraft/images/9/97/Ef71fe3a89.jpg" width="536" height="201" /></a>
+</p><p>It is seen that the outer line of zealots was not recalled. This is because they are only partially within the 138X138 boundary of recall.
+Units not entirely under this area are not affected.
+</p><p><a href="/starcraft/index.php?title=File:071d65b5f8.jpg&amp;filetimestamp=20091117020131&amp;" class="image"><img alt="" src="/starcraft/images/6/6d/071d65b5f8.jpg" width="610" height="321" /></a>
+</p><p>In this one we can see that arbiter was able to recall a 138 Width of Zealots but only 128 Widht of Dragoons. This simply means that a unit has to be totally under the recall zone to be recalled.
+</p><p>Final note:
+Does not count the positions of unit before recall because after recall all positions will be mixed.
+</p>
+<h4><span class="mw-headline" id="Counter">Counter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Recall&amp;action=edit&amp;section=4" title="Edit section: Counter">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li> Often the Terran makes sure a <a href="/starcraft/Science_Vessel" title="Science Vessel">Science Vessel</a> is patrolling his vulnerable areas. An <a href="/starcraft/EMP_Shockwave" title="EMP Shockwave">EMP</a> can deplete the Arbiter's energy, making a Recall impossible. Alternatively, <a href="/starcraft/Lockdown" title="Lockdown">Lockdown</a> can be used to stop the incoming Arbiter in his tracks.
+</li>
+<li> When enough <a href="/starcraft/Missile_Turret" title="Missile Turret">Turrets</a> are in place, they can shoot down the Arbiter before it reaches the designated area. Even when the Arbiter gets off a Recall, it will be shot down, dispelling the cloaking field and making it easier to deal with the Protoss units.
+</li>
+<li> When expecting a Recall, Terrans do well to plant <a href="/starcraft/Spider_Mine" title="Spider Mine">Spider Mines</a> in their main. A Recall into a minefield will instantly turn the tide of the game as all mines go off instantaneously, massacring the Protoss forces.
+</li>
+</ul>
+<h2><span class="mw-headline" id="In_Combination_with_Other_Spells">In Combination with Other Spells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Recall&amp;action=edit&amp;section=5" title="Edit section: In Combination with Other Spells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li> Any status changes such as <a href="/starcraft/Irradiate" title="Irradiate">Irradiate</a>, <a href="/starcraft/Lockdown" title="Lockdown">Lockdown</a>, <a href="/starcraft/Parasite" title="Parasite">Parasite</a> etc. remain active on Recalled units.
+</li>
+<li> Units that are <a href="/starcraft/Stasis" title="Stasis" class="mw-redirect">Stasised</a> or <a href="/starcraft/Burrow" title="Burrow">Burrowed</a> cannot be Recalled.
+</li>
+<li> <a href="/starcraft/Hallucination" title="Hallucination">Hallucinations</a> cannot be Recalled.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Recall&amp;action=edit&amp;section=6" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li> Arbiters can't Recall themselves.  
+</li>
+<li> <a href="/starcraft/Larva" title="Larva">Larvae</a> and <a href="/starcraft/Egg" title="Egg">Eggs</a> cannot be Recalled.
+</li>
+<li> <a href="/starcraft/Lurker_Egg" title="Lurker Egg" class="mw-redirect">Lurker Eggs</a> can not be Recalled, but <a href="/starcraft/Cocoon" title="Cocoon">Cocoons</a> can.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Recall&amp;action=edit&amp;section=7" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=6_qqxPysnL8">Midas vs Draco on Gaia - WCG 2006 Group B</a> - <i>AND HERE'S THE RECALL..</i>  oh no it isn't. You guys I'm sorry, I really thought he was gonna Recall - <i>OH HERE IT IS!</i> 
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Recall&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">â†‘</a> adapted from: StarCraft Compendium: Protoss Strategy &lt;<a rel="nofollow" target="_blank" class="external free" href="http://classic.battle.net/scc/protoss/special.shtml">http://classic.battle.net/scc/protoss/special.shtml</a>&gt;</li></ol></div>
+<p><a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=98854">Considerations about Recall</a>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.112 seconds
+Real time usage: 0.160 seconds
+Preprocessor visited node count: 230/1000000
+Preprocessor generated node count: 1425/1000000
+Postâ€?expand include size: 3457/2097152 bytes
+Template argument size: 167/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:3099-0!*!0!!en!2!* and timestamp 20150521014730
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Recall&amp;oldid=120069">http://wiki.teamliquid.net/starcraft/index.php?title=Recall&amp;oldid=120069</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Spells" title="Category:Spells">Spells</a></li><li><a href="/starcraft/index.php?title=Category:Protoss_Spells&amp;action=edit&amp;redlink=1" class="new" title="Category:Protoss Spells (page does not exist)">Protoss Spells</a></li><li><a href="/starcraft/Category:Protoss_Beginner_Strategy" title="Category:Protoss Beginner Strategy">Protoss Beginner Strategy</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Recall" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:Recall&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-view" class="selected"><a href="/starcraft/index.php?title=Recall&amp;stable=1">View</a></li>
+				<li id="ca-current" class="collapsible"><a href="/starcraft/index.php?title=Recall&amp;stable=0&amp;redirect=no" title="View this page with the pending changes [v]" accesskey="v">Pending changes</a></li>
+				<li id="ca-viewsource"><a href="http://wiki.teamliquid.net/starcraft/index.php?title=Recall&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Recall&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Recall" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Recall" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Recall" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Recall&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Recall&amp;oldid=120069" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Recall&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Recall" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:53.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.320 secs. --></body></html>

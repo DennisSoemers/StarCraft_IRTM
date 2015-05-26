@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Corsair/Reaver (vs. Zerg) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Corsair/Reaver (vs. Zerg)" href="/starcraft/index.php?title=Special:ExportRDF/Corsair/Reaver_(vs._Zerg)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Corsair/Reaver_(vs._Zerg)","wgTitle":"Corsair/Reaver (vs. Zerg)","wgCurRevisionId":119829,"wgRevisionId":119829,"wgArticleId":265,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Protoss Build Orders","PvZ Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Corsair/Reaver_(vs._Zerg)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119829});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Corsair_Reaver_vs_Zerg skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Corsair/Reaver (vs. Zerg)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a> Corsair/Reaver</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:Reavercor.png&amp;filetimestamp=20081127081541&amp;" class="image"><img alt="" src="/starcraft/images/thumb/9/9c/Reavercor.png/294px-Reavercor.png" width="294" height="221" srcset="/starcraft/images/thumb/9/9c/Reavercor.png/441px-Reavercor.png 1.5x, /starcraft/images/thumb/9/9c/Reavercor.png/588px-Reavercor.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Nal_rA" title="Nal rA">Nal_rA</a></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Build_Order"><span class="tocnumber">3</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Execution"><span class="tocnumber">4</span> <span class="toctext">Execution</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Air_Maps_or_Semi_Air_Maps"><span class="tocnumber">4.1</span> <span class="toctext">Air Maps or Semi Air Maps</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#One_Base_Play"><span class="tocnumber">4.2</span> <span class="toctext">One Base Play</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Fast_Expansion"><span class="tocnumber">4.3</span> <span class="toctext">Fast Expansion</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Dangers_and_Supporting_Units"><span class="tocnumber">4.4</span> <span class="toctext">Dangers and Supporting Units</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Counters"><span class="tocnumber">5</span> <span class="toctext">Counters</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notable_Maps"><span class="tocnumber">6</span> <span class="toctext">Notable Maps</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notable_Games"><span class="tocnumber">7</span> <span class="toctext">Notable Games</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Related_Articles"><span class="tocnumber">8</span> <span class="toctext">Related Articles</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <b>"Corsair / Reaver"</b> describes a strategy rather than a fixed Build Order and doesn't follow the usual ideas of the Protoss vs. Zerg logic. Zerg will be able to expand relatively fast and safe in the earlier stages of a game, while the Protoss aims to build up a superior air fleet. To compensate for the expanding Zerg, Protoss will try to harass the Zerg economy with multiple Reaver drops.
+</p><p><br />
+<b>NOTE:</b> <i>High amounts of APM are required to effectively utilize this build correctly.</i>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Corsair/Reaver strategies were especially popular on island or semi island maps such as <a href="/starcraft/Dire_Straits" title="Dire Straits">Dire Straits</a> or <a href="/starcraft/Estrella" title="Estrella">Estrella</a>. It was a rational choice for Protoss to fight Zerg with superior air units. Protoss was able to expand relatively easy with the helps of a greater number of Corsairs, preventing expansions from being attacked by Mutalisks. 
+</p><p>In later years <a href="/starcraft/Nal_rA" title="Nal rA">Nal_rA</a> revolutionized the strategy and created several Build Orders which enabled the Protoss to use it efficiently on several maps. The strategy reached a new peak on maps like <a href="/starcraft/Azalea" title="Azalea">Azalea</a>, where expansions could be safely taken with a <a href="/starcraft/index.php?title=Forge_Expansion&amp;action=edit&amp;redlink=1" class="new" title="Forge Expansion (page does not exist)">Forge Expansion</a> right from the start. However, with the maps changing, the strategy needed to be adopted as well. In modern Brood War the strategy changed into a possible transition in the mid game, rather than dictating all stages of a game. 
+</p><p>Corsair/Reaver mixes are still part of modern Protoss vs. Zerg, either as an opening or as a late game strategy in stale mate situations. Since this strategy demands an almost flawless control, few players use it. 
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=3" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "Corsair/Reaver" strategy does not have a Build Order, which is set in stone. Instead, a rough guide line of the sequence of buildings can be given. 
+</p><p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> General Build <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>Stargate 
+</li>
+<li>First Corsair<sup id="cite_ref-sair_0-0" class="reference"><a href="#cite_note-sair-0">[1]</a></sup><sup id="cite_ref-sair2_1-0" class="reference"><a href="#cite_note-sair2-1">[2]</a></sup>
+</li>
+<li>Robotics Facility
+</li>
+<li>Early Second Gas<sup id="cite_ref-gas_2-0" class="reference"><a href="#cite_note-gas-2">[3]</a></sup>
+</li>
+<li>Shuttle
+</li>
+<li>Reaver
+</li>
+<li>+1 Air Weapons
+</li>
+<li>Shuttle Speed
+</li>
+<li>Second Stargate (optional)<sup id="cite_ref-stargate_3-0" class="reference"><a href="#cite_note-stargate-3">[4]</a></sup>
+</li>
+<li>Fleet Beacon later on for <a href="/starcraft/Disruption_Web" title="Disruption Web">Disruption Web</a>
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-sair-0"><a href="#cite_ref-sair_0-0">↑</a> used primarily to scout</li>
+<li id="cite_note-sair2-1"><a href="#cite_ref-sair2_1-0">↑</a> Corsairs are produced constantly</li>
+<li id="cite_note-gas-2"><a href="#cite_ref-gas_2-0">↑</a> The second Gas should be taken as soon as possible, maybe even before the first Stargate if a Fast Expansion Build is used</li>
+<li id="cite_note-stargate-3"><a href="#cite_ref-stargate_3-0">↑</a> Depends on the overall situation and the underlying expectations</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+<p><br />
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Execution">Execution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=4" title="Edit section: Execution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The execution of this strategy heavily depends on the opening and the game itself, as well as the underlying goal and the maps used.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Air_Maps_or_Semi_Air_Maps">Air Maps or Semi Air Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=5" title="Edit section: Air Maps or Semi Air Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Air Maps and Semi Air Maps are outdated and rarely used, which renders this paragraph relatively useless for the current competitive scene. 
+</p><p>Usually, Protoss opens with a single Stargate and uses the initial Corsair to scout the spawning positions. Furthermore, stray Overlords will be targeted, if the Zerg's Spire is delayed. Saving the initial Corsairs from harm is pivotal, as these will be needed to expand safely. The Robotics Facility and consequently Shuttles and Reavers are significantly delayed. Usually, the Shuttle is being built earlier than a Reaver, as harassment has a lower priority. Zerg can only expand with a delay, as Overlord upgrades take longer and Zerg will be limited to play relatively long from one Gas only. 
+</p><p>Following up, the Protoss goal would be to expand to a second Vespene Geyser as fast as possible. Meanwhile, the Corsairs secure the building expansion against Drops and Mutalisks. If possible, Overlords should be killed, especially those used to transport Drones from one island to another. A second Stargate and a second Robotics Facility can be added, as well as additional Gateways. Once an expansion is up and running, Protoss can freely harass the economy of a Zerg and drop new expansions. While the harass goes on, a larger army should be gathered for a final blow. 
+</p><p>On Semi Island maps like <a href="/starcraft/Forbidden_Zone" title="Forbidden Zone">Forbidden Zone</a> or <a href="/starcraft/Estrella" title="Estrella">Estrella</a>, the Protoss doesn't need to rely on Corsairs and Shuttle/Reavers for a long time. On these kind of maps it is possible to add Gateways on the low ground and build a larger ground force. The ground army can then patrol the map and attack expansions. Reavers are only used to shield the expansions and bases on the low ground against larger Hydralisk forces.
+</p><p>If Protoss uses only Drops and Corsairs a Fleet Beacon is of great use. The Air Upgrades should constantly be researched, as well as the Disruption Web and Energy Upgrade. Disruption Webs enable an incoming drop to harass economy, while the static defense and Hydralisks are rendered useless. Since Reaver Drops only are often not successful, a transition into a massive Corsair / Carrier fleet is the ultimate goal for Protoss. This fleet should be supported by Shuttles and High Templars, storming larger Mutalisk/Devourer clumps.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="One_Base_Play">One Base Play</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=6" title="Edit section: One Base Play">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the earlier days of Brood War Corsair/Reaver off one base were an option for Protoss. Since most Zerg players adapted over time, this strategy remains highly risky and rarely means a solid transition into the end game. 
+</p><p>On these maps Protoss will open with a Gateway first and rushes to a Stargate tech. Initially, the Corsairs will be limited to a smaller number, as Protoss will be forced to build Zealots as well as a faster Reaver. The Zealots and the Reaver secure the choke point / entrance to the main base against rushes, while the Corsair is used to scout. In case of a Mutalisk follow-up by Zerg, the Protoss will threaten the Zerg base with an attack and produce Corsairs with a higher priority. In these stages one of the player usually dies, if the micro management of one side allows for a fast victory. Especially two Hatchery Mutalisk openings will end in a coin flip scenario: If Zerg is faster than Protoss, he will succeed, if he doesn't hit the timing, he will most likely lose. Generally speaking, Mutalisks became a greater threat for Protoss with the increased level of the average player's Mutalisk Micro. 
+</p><p>If Zerg defends well or opens with Hydralisks, the chances increase that the game lasts longer. Protoss will try to either expand fast, if the Zerg base is already defended well against drops or a Hydralisk force is in place to directly counter if the Reaver leaves the base. Instead, Protoss will expand and take his second Vespene Gas as soon as possible. Zerg now expands and the strategy follows the ordinary pattern. Protoss usually secures the entrance to his Natural Expansion, while harassing the Overlords of Zerg. Drop harassment will follow. Protoss can now either transition out of it by adding more Gateways and a standard ground force, or continue by adding more Corsairs and Reavers. 
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Fast_Expansion">Fast Expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=7" title="Edit section: Fast Expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In modern Brood War several maps support a Reaver / Corsair strategy. Both units mean higher Vespene Gas costs, hence a follow up from a <a href="/starcraft/index.php?title=Forge_Fast_Expansion&amp;action=edit&amp;redlink=1" class="new" title="Forge Fast Expansion (page does not exist)">Forge Fast Expansion</a> means an easier transition into this unit mix. Generally speaking, a Forge Expand also stands safer against several all-ins. Since the Reaver is usually built faster than a Shuttle, most Hydralisk all-ins can be thrown back relatively easy. Baiting an opponent into an attack often is a rational choice, as he'll miss to build up an economy and thus gives an advantage to Protoss. 
+</p><p>Once the Natural Expansion is fortified with cannons and Reavers, the Protoss is free to roam the map with his Corsair fleet. Six Corsairs and the +1 Air Upgrade can kill one Scourge before they hit their target; the same holds true for seven Corsairs and no Air Upgrades. The main goal of Protoss is to abuse the mobility of the Corsairs. These snipe stray Overlords and thus block a Zerg's supply limit in ideal scenarios. Furthermore, Zerg will have a harder time to keep vision of the map, if he doesn't spread cheap units like Zerglings. 
+</p><p>In combination with Speed Shuttles, Reavers can harass almost any Base of Zerg. Consequently Zerg will be forced to either fortify every base with Sunken and Spore Colonies or to spread his ground force. This gives Protoss the time to expand to island maps or expansion spots with small entrances, while Zerg is busy to defend. 
+</p><p>On maps like <a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a> Protoss can easily take three Expansions, while he is safe from mass drops due to his Corsair fleet. His choke point can easily be defended against large Zerg armies, as they will automatically funnel and thus be highly vulnerable to the splash damage dealt by Scarabs. Moreover, the nearby Island expansions can be taken quite fast, as Zerg can not hope to challenge the Protoss air fleet easily. 
+</p><p>Protoss can either use the threat of Corsairs and Reavers to transition into a great ground army from more Gateways, or to transition into Carriers. In modern Brood War especially timed attacks of a Corsair / Speed Zealot / Reaver / Shuttle attacks have been used to kill Zerg in the mid game. 
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Dangers_and_Supporting_Units">Dangers and Supporting Units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=8" title="Edit section: Dangers and Supporting Units">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is pivotal that Protoss deals a larger amount of damage to the Zerg, directly or indirectly by forcing Zerg to spend resources and larvae on static defense. The less damage a Protoss deals with his harassment, the easier it is for Zerg to take great parts of the maps. 
+</p><p>In a case of Protoss using a Corsair/Reaver strategy as follow up from Forge Expands Protoss sometimes overestimate their defense. If Hydralisks move in and snipe a Reaver right away, the Protoss will most likely lose the game. Keeping the Reaver in relative safety from snipes is pivotal. If drop harassment starts to soon, Zerg can try to bust the Protoss Natural Expansion while the Reavers are away. Having very good knowledge where the Zerg keeps his ground forces is highly important. 
+</p><p>Furthermore, Shuttles can be sniped by Hydralisks. One of the Zerg responses to the strategy was to use burrowed units like Zerglings to scout. These maintain a smaller vision range and can track the movement of Corsair and Shuttles instead of Overlords. The same idea was developed further, when a smaller amount of Hydralisks were burrowed on positions, which Shuttles need to pass. If Protoss doesn't scout them with Observers, the Hydralisks can be unburrowed and snipe the transport with little to no effort. 
+</p><p>In rare cases Zerg can still use their Overlords to drop a larger ground force into the back of the Protoss base. Protoss usually relies on his heavy defense at his Natural Expansion and is therefore vulnerable in his main bases. If a Zerg slowly walks over the maps and shields his Overlords with Hydralisks, a large drop can still be crucial, if Protoss can't take down the Overlords before they drop the units. Losing the Overlords is a minor set back for Zerg, if he can exchange them for the Protoss infrastructure. 
+</p><p>Reaver Drops mainly target the economy of Zerg or are used as defense at choke points. However, picking up stray units can mean a slight advantage, as it denies map vision for Zerg. Especially burrowed units should be killed, rather than dropping after being scouted. Patroling Zealots can be sacrificed, if they deny map vision. Moving in stealth is key, as surprise drops have a higher likelihood to cause damage.
+</p><p>If Disruption Web was researched, the Reavers should be dropped in a way that the webs can unfold their full potential. The more space is around Reavers, the more area has to be covered by Disruption Webs. Consequently dropping Reavers into corners and behind mineral lines or buildings can be used to maximize the damage output of the mix. 
+</p><p>If Corsairs and Reavers are used in the late game against Hive tech units like Devourers will play a bigger role. These can challenge a larger number of Corsairs, as they will weaken their armor and lower their damage output. Consequently High Templars or Dark Archons can be used as support. These can storm or bind clumps of Mutalisks and Devourers with Psionic Storm or Maelstrom.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Counters">Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=9" title="Edit section: Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If Zerg opens with Mutalisks against a Forge Expand Corsair/Reaver strategy, he will usually be hard countered. 
+</p><p>Any opening which allows the Zerg to mass Hydralisks while expanding safely can compensate for the lost air superiority. Any macro oriented strategy by Zerg means a soft counter, if Protoss is not able to deal economic damage with his harassment.
+</p>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=10" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The strategy works well on maps with small choke points to the Natural Expansions, island expansions or complicated pathways with narrow points, like
+</p>
+<ul>
+<li><a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a>
+</li>
+<li><a href="/starcraft/Requiem" title="Requiem">Requiem</a>
+</li>
+<li><a href="/starcraft/Outsider" title="Outsider">Outsider</a>
+</li>
+<li><a href="/starcraft/Gods_Garden" title="Gods Garden" class="mw-redirect">Gods Garden</a>
+</li>
+</ul>
+<p>Theoretically speaking, other maps fulfill this role as well. Whenever neutral buildings block a second entrance the danger of Zerg backstabbing with Lurkers and Hydralisks is greater, making the strategy slightly riskier. Examples would be
+</p>
+<ul>
+<li><a href="/starcraft/Heartbreak_Ridge" title="Heartbreak Ridge">Heartbreak Ridge</a>
+</li>
+<li><a href="/starcraft/Destination" title="Destination">Destination</a>
+</li>
+<li><a href="/starcraft/Electric_Circuit" title="Electric Circuit">Electric Circuit</a>
+</li>
+<li><a href="/starcraft/Medusa" title="Medusa">Medusa</a>
+</li>
+</ul>
+<p>Since Island or semi Island Maps naturally support Corsairs, all of them mean a strong advantage. Examples would be
+</p>
+<ul>
+<li><a href="/starcraft/Dire_Straits" title="Dire Straits">Dire Straits</a>
+</li>
+<li><a href="/starcraft/Forbidden_Zone" title="Forbidden Zone">Forbidden Zone</a>
+</li>
+<li><a href="/starcraft/Estrella" title="Estrella">Estrella</a>
+</li>
+<li><a href="/starcraft/815" title="815">815</a>
+</li>
+</ul>
+<p>Outdated maps featuring Natural Expansions without Vespene Gas render this strategy useless. Examples are:
+</p>
+<ul>
+<li><a href="/starcraft/Nostalgia" title="Nostalgia">Nostalgia</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=11" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:200_Outsider.jpg&amp;filetimestamp=20100226115025&amp;" class="image" title="Outsider"><img alt="Outsider" src="/starcraft/images/thumb/6/63/200_Outsider.jpg/100px-200_Outsider.jpg" width="100" height="100" srcset="/starcraft/images/thumb/6/63/200_Outsider.jpg/150px-200_Outsider.jpg 1.5x, /starcraft/images/thumb/6/63/200_Outsider.jpg/200px-200_Outsider.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Reach" title="Reach">Reach</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> e-Stars Heritage Seoul
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/YellOw" title="YellOw">YellOw</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2009-07-14</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.16.1</span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/18026_Reach_vs_YellOw/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:200_Outsider.jpg&amp;filetimestamp=20100226115025&amp;" class="image" title="Outsider"><img alt="Outsider" src="/starcraft/images/thumb/6/63/200_Outsider.jpg/100px-200_Outsider.jpg" width="100" height="100" srcset="/starcraft/images/thumb/6/63/200_Outsider.jpg/150px-200_Outsider.jpg 1.5x, /starcraft/images/thumb/6/63/200_Outsider.jpg/200px-200_Outsider.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Stork" title="Stork">Stork</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> 2009 Shinhan Bank Proleague
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/YellOw" title="YellOw">YellOw</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2009-05-12</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.16.1</span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/12082_Stork_vs_YellOw/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td></tr></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:200_Outsider.jpg&amp;filetimestamp=20100226115025&amp;" class="image" title="Outsider"><img alt="Outsider" src="/starcraft/images/thumb/6/63/200_Outsider.jpg/100px-200_Outsider.jpg" width="100" height="100" srcset="/starcraft/images/thumb/6/63/200_Outsider.jpg/150px-200_Outsider.jpg 1.5x, /starcraft/images/thumb/6/63/200_Outsider.jpg/200px-200_Outsider.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/YoonJoong" title="YoonJoong" class="mw-redirect">YoonJoong</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> 2009 Bacchus OSL
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/RorO" title="RorO">RorO</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2009-06-10</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.16.1</span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/12352_RorO_vs_YoonJoong/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:(4)Andromeda1.0_logo.jpg&amp;filetimestamp=20110804184234&amp;" class="image" title="Andromeda"><img alt="Andromeda" src="/starcraft/images/thumb/3/3c/%284%29Andromeda1.0_logo.jpg/100px-%284%29Andromeda1.0_logo.jpg" width="100" height="100" srcset="/starcraft/images/thumb/3/3c/%284%29Andromeda1.0_logo.jpg/150px-%284%29Andromeda1.0_logo.jpg 1.5x, /starcraft/images/thumb/3/3c/%284%29Andromeda1.0_logo.jpg/200px-%284%29Andromeda1.0_logo.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Bisu" title="Bisu">Bisu</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> 2008 Shinhan Bank Proleague
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/JaeDong" title="JaeDong" class="mw-redirect">JaeDong</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2008-06-28</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.16.1</span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/9591_Bisu_vs_Jaedong/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td></tr></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:(4)Andromeda1.0_logo.jpg&amp;filetimestamp=20110804184234&amp;" class="image" title="Andromeda"><img alt="Andromeda" src="/starcraft/images/thumb/3/3c/%284%29Andromeda1.0_logo.jpg/100px-%284%29Andromeda1.0_logo.jpg" width="100" height="100" srcset="/starcraft/images/thumb/3/3c/%284%29Andromeda1.0_logo.jpg/150px-%284%29Andromeda1.0_logo.jpg 1.5x, /starcraft/images/thumb/3/3c/%284%29Andromeda1.0_logo.jpg/200px-%284%29Andromeda1.0_logo.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Stork" title="Stork">Stork</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> 2008 Shinhan Bank Proleague Finals
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Luxury" title="Luxury">Luxury</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2008-08-09</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.16.1</span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/9777_Luxury_vs_Stork/vod">2008 Shinhan Bank Proleague Finals VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Roads_to_Antiga_Prime.jpg&amp;filetimestamp=20091226232759&amp;" class="image" title="Antiga Prime"><img alt="Antiga Prime" src="/starcraft/images/thumb/a/a1/Roads_to_Antiga_Prime.jpg/100px-Roads_to_Antiga_Prime.jpg" width="100" height="75" srcset="/starcraft/images/thumb/a/a1/Roads_to_Antiga_Prime.jpg/150px-Roads_to_Antiga_Prime.jpg 1.5x, /starcraft/images/thumb/a/a1/Roads_to_Antiga_Prime.jpg/200px-Roads_to_Antiga_Prime.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:Germany" title="Germany"><img alt="Germany" src="/starcraft/images/8/8f/De.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Mondragon" title="Mondragon">Mondragon</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Classic Corsair/Reaver mix with Disruption Web usage
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Reach" title="Reach">Reach</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;"></span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.09</span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=OICghpXHHrQ">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td></tr></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Silver_Wing.jpg&amp;filetimestamp=20091118012534&amp;" class="image" title="Fighting Spirit"><img alt="Fighting Spirit" src="/starcraft/images/thumb/c/cf/Silver_Wing.jpg/100px-Silver_Wing.jpg" width="100" height="100" srcset="/starcraft/images/thumb/c/cf/Silver_Wing.jpg/150px-Silver_Wing.jpg 1.5x, /starcraft/images/thumb/c/cf/Silver_Wing.jpg/200px-Silver_Wing.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Pusan" title="Pusan">Pusan</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Part of Defi's Showmatches, Best of Seven, PuSan tries to perform a Corsair/Reaver strategy
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:Hungary" title="Hungary"><img alt="Hungary" src="/starcraft/images/a/a7/Hu.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Sziky" title="Sziky">Sziky</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2012-05-28</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.16.1</span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=O7VyapaURAM">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:LostTemple.jpg&amp;filetimestamp=20091214063023&amp;" class="image" title="Lost Temple"><img alt="Lost Temple" src="/starcraft/images/thumb/f/f4/LostTemple.jpg/100px-LostTemple.jpg" width="100" height="100" srcset="/starcraft/images/thumb/f/f4/LostTemple.jpg/150px-LostTemple.jpg 1.5x, /starcraft/images/thumb/f/f4/LostTemple.jpg/200px-LostTemple.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:Germany" title="Germany"><img alt="Germany" src="/starcraft/images/8/8f/De.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/GoOdy" title="GoOdy">GoOdy</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> GoOdy vs. TomBom from <a href="/starcraft/2008_German_King_of_the_Hill" title="2008 German King of the Hill">German KOTH</a> 2008, <a href="/starcraft/Category:Germany" title="Germany"><img alt="Germany" src="/starcraft/images/8/8f/De.png" width="18" height="12" /></a> commentary by Waschito and Zero
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:Germany" title="Germany"><img alt="Germany" src="/starcraft/images/8/8f/De.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/index.php?title=Tombom&amp;action=edit&amp;redlink=1" class="new" title="Tombom (page does not exist)">Tombom</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2008-07-24</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.15.3</span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=88e1xBbmty8">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+</div>
+</td></tr></table>
+<h2><span class="mw-headline" id="Related_Articles">Related Articles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=12" title="Edit section: Related Articles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/starcraft/Reaver_Drop" title="Reaver Drop">Reaver Drop</a>
+</li>
+<li><a href="/starcraft/Island_Map" title="Island Map">Island Maps</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.716 seconds
+Real time usage: 0.841 seconds
+Preprocessor visited node count: 2726/1000000
+Preprocessor generated node count: 6748/1000000
+Post�?expand include size: 19210/2097152 bytes
+Template argument size: 3775/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:265-0!*!0!!en!2!* and timestamp 20150520003325
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;oldid=119829">http://wiki.teamliquid.net/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;oldid=119829</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Protoss_Build_Orders" title="Category:Protoss Build Orders">Protoss Build Orders</a></li><li><a href="/starcraft/Category:PvZ_Builds" title="Category:PvZ Builds">PvZ Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Corsair/Reaver_(vs._Zerg)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:Corsair/Reaver_(vs._Zerg)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Corsair%2FReaver+%28vs.+Zerg%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Corsair/Reaver_(vs._Zerg)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Corsair/Reaver_(vs._Zerg)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;oldid=119829" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Corsair/Reaver_(vs._Zerg)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Corsair-2FReaver_(vs._Zerg)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:48.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.998 secs. --></body></html>

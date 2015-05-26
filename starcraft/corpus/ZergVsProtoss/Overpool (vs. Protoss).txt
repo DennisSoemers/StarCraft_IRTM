@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Overpool (vs. Protoss) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Overpool (vs. Protoss)" href="/starcraft/index.php?title=Special:ExportRDF/Overpool_(vs._Protoss)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Overpool_(vs._Protoss)","wgTitle":"Overpool (vs. Protoss)","wgCurRevisionId":124282,"wgRevisionId":124282,"wgArticleId":363,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Zerg Build Orders","ZvP Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Overpool_(vs._Protoss)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":124282});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Overpool_vs_Protoss skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Overpool (vs. Protoss)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="21" height="19" /></a> Overpool</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:Overpool.png&amp;filetimestamp=20090307011305&amp;" class="image"><img alt="" src="/starcraft/images/thumb/3/33/Overpool.png/294px-Overpool.png" width="294" height="221" srcset="/starcraft/images/thumb/3/33/Overpool.png/441px-Overpool.png 1.5x, /starcraft/images/thumb/3/33/Overpool.png/588px-Overpool.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">ZvP</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Economic_Variation"><span class="tocnumber">2.1</span> <span class="toctext">Economic Variation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Alternative_Economic_Variation"><span class="tocnumber">2.2</span> <span class="toctext">Alternative Economic Variation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Gas_Variation"><span class="tocnumber">2.3</span> <span class="toctext">Gas Variation</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Aggressive_Variation"><span class="tocnumber">2.4</span> <span class="toctext">Aggressive Variation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Transition"><span class="tocnumber">3</span> <span class="toctext">Transition</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Countered_By"><span class="tocnumber">4</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Hard"><span class="tocnumber">4.1</span> <span class="toctext">Hard</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Soft"><span class="tocnumber">4.2</span> <span class="toctext">Soft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Counter_To"><span class="tocnumber">5</span> <span class="toctext">Counter To</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Hard_2"><span class="tocnumber">5.1</span> <span class="toctext">Hard</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Soft_2"><span class="tocnumber">5.2</span> <span class="toctext">Soft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Notable_Maps"><span class="tocnumber">6</span> <span class="toctext">Notable Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Strong"><span class="tocnumber">6.1</span> <span class="toctext">Strong</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Weak"><span class="tocnumber">6.2</span> <span class="toctext">Weak</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Mentality"><span class="tocnumber">7</span> <span class="toctext">Mentality</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Replays"><span class="tocnumber">8</span> <span class="toctext">Replays</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#VODs"><span class="tocnumber">9</span> <span class="toctext">VODs</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When using the no-gas variation, Overpool is nearly equivalent to the <a href="/starcraft/9_Pool_(vs._Protoss)" title="9 Pool (vs. Protoss)">9 Pool</a> build.  The major differences are the <a href="/starcraft/Spawning_Pool" title="Spawning Pool">Spawning Pool</a> timing and around 24 Minerals.  The same information regarding the 9 Pool applies to this one.
+</p><p>This is an aggressive yet safe opening against Protoss. In the commonly seen <a href="/starcraft/Protoss_FE_(vs._Zerg)" title="Protoss FE (vs. Zerg)">Protoss Forge Fast Expansion</a>, the Protoss usually sends a scout after building the first <a href="/starcraft/Pylon" title="Pylon">Pylon</a> that reaches your base in time to stall or keep you from getting your expansion up. Overpool prevents this probe harassment by getting faster Zerglings which can kill the scouting <a href="/starcraft/Probe" title="Probe">Probe</a> which in turn allows you to expand without delay.
+</p><p>Also, after scouting a 12 Hatch, Protoss players tend to get his <a href="/starcraft/Nexus" title="Nexus">Nexus</a> up before any <a href="/starcraft/Photon_Cannon" title="Photon Cannon">Photon Cannons</a>, which makes you and him to be even in bases, which is a clear disadvantage for Zerg.  This may even allow the Protoss to get his <a href="/starcraft/Gateway" title="Gateway">Gateway</a> up before any Cannons, which will speed up the arrival of his first <a href="/starcraft/Corsair" title="Corsair">Corsair</a>. This build forces the Protoss to build two Cannons before attempting to get his Nexus or risk a certain run-by harassment.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The build orders are presented in descending order of common usage. The first one is thus the most often used.
+</p>
+<h3><span class="mw-headline" id="Economic_Variation">Economic Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=3" title="Edit section: Economic Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This variation is one of the most economic version of this build, where the first few Zerglings are mainly for preventing any cheese or early Gates, forcing the Protoss to build a <a href="/starcraft/Forge" title="Forge">Forge</a> and Cannons before his Nexus, and kill off the scout/blocking Pylons.  If the Protoss did <a href="/starcraft/Protoss_FE_(vs._Zerg)" title="Protoss FE (vs. Zerg)">fast expand</a>, then the Zerg will take two bases after the initial Zerglings.
+</p>
+<table class="wikitable">
+
+<tr>
+<td>
+<ul>
+<li>9/9 - <a href="/starcraft/Drone" title="Drone">Drone</a>
+</li>
+<li>9/9 - <a href="/starcraft/Overlord" title="Overlord">Overlord</a>
+</li>
+<li>9/9 - Spawning Pool
+</li>
+<li>9/9 - Drones till 11
+</li>
+<li>11/17 - 6 Zerglings
+</li>
+<li>14/17 - <a href="/starcraft/Hatchery" title="Hatchery">Hatchery</a> at natural
+</li>
+<li>13/17 - Hatchery at third expansion
+</li>
+</ul>
+</td></tr></table>
+<h3><span class="mw-headline" id="Alternative_Economic_Variation">Alternative Economic Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=4" title="Edit section: Alternative Economic Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This aims to get the expansion up a little faster, but still lets the Zerg manage to get up 6 slightly slower early Zerglings then the build/opening mentioned above. Zerg can still force Protoss to go Forge first, and can still if scouted, depending on map, attack a late forge and still pressure a Nexus first/12 Nexus build.
+</p>
+<ul>
+<li>9/9 - Drone
+</li>
+<li>9/9 - Overlord
+</li>
+<li>9/9 - Spawning Pool
+</li>
+<li>9/9 - Drones till 11
+</li>
+<li>11/17 Hatchery at natural
+</li>
+<li>10/17 - Save Larvae
+</li>
+<li>10/17 - Six Zerglings
+</li>
+<li>13/17 - Hatchery at Third Expansion
+</li>
+</ul>
+<h3><span class="mw-headline" id="Gas_Variation">Gas Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=5" title="Edit section: Gas Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There is an early <a href="/starcraft/Extractor" title="Extractor">Extractor</a> built in this variation, but the gas can be used for anything, from Zergling Speed to <a href="/starcraft/Burrow" title="Burrow">Burrow</a>.
+</p>
+<ul>
+<li>9/9 - Overlord
+</li>
+<li>9/17 - Spawning Pool
+</li>
+<li>9/17 - Extractor
+</li>
+<li>10/17 - Six Zerglings
+</li>
+</ul>
+<h3><span class="mw-headline" id="Aggressive_Variation">Aggressive Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=6" title="Edit section: Aggressive Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If you want to do more than simply threaten your Protoss opponent and want to do a very aggressive attack with Zerglings, the following more specific build which is a Zergling rush of sorts can been used. It is designed to have 12 Speed-upgraded Zerglings for an attack at the Protoss expansion. If Protoss only builds two cannons then you can easily destroy them and most likely win the game, and if he has more you can attempt a <a href="/starcraft/Zergling_Runby" title="Zergling Runby" class="mw-redirect">run-by</a>.
+</p>
+<ul>
+<li>9/9 - Drone
+</li>
+<li>9/9 - Overlord
+</li>
+<li>9/9 - Spawning Pool
+</li>
+<li>10/17 - Drone
+</li>
+<li>10/17 - Extractor
+</li>
+<li>10/17 - Drone, then stop Drone production and save up Larvae.
+</li>
+<li>@100 Gas - take Drones off gas
+</li>
+<li>@100% Spawning Pool - Research Zergling Speed
+</li>
+<li>10/17 - Six Zerglings
+</li>
+<li>13/17 - Six Zerglings
+</li>
+</ul>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=7" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The economic variation of this build can transition into any build that the 9 Pool build can transition into. See that list <a href="/starcraft/9_Pool_(vs._Protoss)#Transition" title="9 Pool (vs. Protoss)">here</a>.
+</p><p>The other two variations of this build are more similar to the 9 Pool Speed build, thus look <a href="/starcraft/9_Pool_Speed_(vs._Protoss)#Transition" title="9 Pool Speed (vs. Protoss)">here</a> for possible transitions.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=8" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard">Hard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=9" title="Edit section: Hard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>None
+</p>
+<h3><span class="mw-headline" id="Soft">Soft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=10" title="Edit section: Soft">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>None
+</p>
+<h2><span class="mw-headline" id="Counter_To">Counter To</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=11" title="Edit section: Counter To">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_2">Hard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=12" title="Edit section: Hard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Soft_2">Soft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=13" title="Edit section: Soft">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/Protoss_FE_(vs._Zerg)" title="Protoss FE (vs. Zerg)">Protoss Fast Expand</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=14" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Strong">Strong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=15" title="Edit section: Strong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This build is particularly strong on maps with a wide choke that forces the Protoss to block with more Probes than he would like to. Some examples are: 
+</p>
+<ul>
+<li><a href="/starcraft/Medusa" title="Medusa">Medusa</a>
+</li>
+<li><a href="/starcraft/Carthage" title="Carthage">Carthage</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Weak">Weak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=16" title="Edit section: Weak">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This build isn't weak on any map. However, the <a href="/starcraft/12_Hatch_(vs._Protoss)" title="12 Hatch (vs. Protoss)">12 Hatch</a> is generally a better option on a larger map such as <a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a>.
+</p>
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=17" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Replays">Replays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=18" title="Edit section: Replays">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit&amp;section=19" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.088 seconds
+Real time usage: 0.104 seconds
+Preprocessor visited node count: 271/1000000
+Preprocessor generated node count: 1264/1000000
+Postâ€?expand include size: 1458/2097152 bytes
+Template argument size: 108/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:363-0!*!0!!en!2!* and timestamp 20150520025104
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;oldid=124282">http://wiki.teamliquid.net/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;oldid=124282</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Zerg_Build_Orders" title="Category:Zerg Build Orders">Zerg Build Orders</a></li><li><a href="/starcraft/Category:ZvP_Builds" title="Category:ZvP Builds">ZvP Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Overpool_(vs._Protoss)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:Overpool_(vs._Protoss)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Overpool+%28vs.+Protoss%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Overpool_(vs._Protoss)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Overpool_(vs._Protoss)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;oldid=124282" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Overpool_(vs._Protoss)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Overpool_(vs._Protoss)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 19 February 2015, at 17:48.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.250 secs. --></body></html>

@@ -67,7 +67,7 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <div class="infobox-cell-2 infobox-description">Popularized by:</div>
 <div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Flash" title="Flash">Flash</a></span></div>
 </div></div>
-<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
 </div>
 <p><i>This article is about the 2-Port Wraith build used in TvT.  For the TvZ build, see <a href="/starcraft/2_Port_Wraith_(vs._Zerg)" title="2 Port Wraith (vs. Zerg)">2 Port Wraith vs. Zerg</a></i>
 </p><p>2 Port Wraith has been recently popularized by Flash who defeated Classic in the Winners Match, Group B 3set IeSF 2009 Star Invitational. Wraiths aren't an end-game strategy, but you can place 2 factories after your harass is done and use wraiths only for scouting and killing floating buildings while you get tanks.
@@ -144,16 +144,16 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <!-- 
 NewPP limit report
 CPU time usage: 0.080 seconds
-Real time usage: 0.089 seconds
-Preprocessor visited node count: 265/1000000
-Preprocessor generated node count: 2188/1000000
-Postâ€?expand include size: 2209/2097152 bytes
-Template argument size: 298/2097152 bytes
+Real time usage: 0.090 seconds
+Preprocessor visited node count: 268/1000000
+Preprocessor generated node count: 2211/1000000
+Postâ€?expand include size: 2217/2097152 bytes
+Template argument size: 303/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:10100-0!*!0!!en!2!* and timestamp 20150425035850
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:10100-0!*!0!!en!2!* and timestamp 20150523123743
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Port_Wraith&amp;oldid=120174">http://wiki.teamliquid.net/starcraft/index.php?title=2_Port_Wraith&amp;oldid=120174</a>"</div>
@@ -364,4 +364,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.228 secs. --></body></html>
+<!-- Served in 0.229 secs. --></body></html>

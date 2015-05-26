@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>9 Gas, 9 Pool (vs. Zerg) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="9 Gas, 9 Pool (vs. Zerg)" href="/starcraft/index.php?title=Special:ExportRDF/9_Gas,_9_Pool_(vs._Zerg)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"9_Gas,_9_Pool_(vs._Zerg)","wgTitle":"9 Gas, 9 Pool (vs. Zerg)","wgCurRevisionId":120099,"wgRevisionId":120099,"wgArticleId":3110,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Zerg Build Orders","ZvZ Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"9_Gas,_9_Pool_(vs._Zerg)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120099});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-9_Gas_9_Pool_vs_Zerg skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">9 Gas, 9 Pool (vs. Zerg)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="21" height="19" /></a> 9 Gas, 9 Pool</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:9gas9pool.png&amp;filetimestamp=20111016044415&amp;" class="image"><img alt="" src="/starcraft/images/thumb/a/a3/9gas9pool.png/294px-9gas9pool.png" width="294" height="221" srcset="/starcraft/images/thumb/a/a3/9gas9pool.png/441px-9gas9pool.png 1.5x, /starcraft/images/thumb/a/a3/9gas9pool.png/588px-9gas9pool.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">ZvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">unknown</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2">unknown</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose"><span class="tocnumber">1</span> <span class="toctext">Purpose</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#What_to_do.2FBuild_Order_Clarification"><span class="tocnumber">3</span> <span class="toctext">What to do/Build Order Clarification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#vs._9_Pool"><span class="tocnumber">3.1</span> <span class="toctext">vs. 9 Pool</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#vs._Overpool"><span class="tocnumber">3.2</span> <span class="toctext">vs. Overpool</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#vs._12_Pool"><span class="tocnumber">3.3</span> <span class="toctext">vs. 12 Pool</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#vs._12_Hatch"><span class="tocnumber">3.4</span> <span class="toctext">vs. 12 Hatch</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#vs._9_Gas.2C_10_Pool"><span class="tocnumber">3.5</span> <span class="toctext">vs. 9 Gas, 10 Pool</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Countered_By"><span class="tocnumber">4</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Hard_Counters"><span class="tocnumber">4.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Soft_Counters"><span class="tocnumber">4.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Counters_to"><span class="tocnumber">5</span> <span class="toctext">Counters to</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Hard_Counter"><span class="tocnumber">5.1</span> <span class="toctext">Hard Counter</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Soft_Counter"><span class="tocnumber">5.2</span> <span class="toctext">Soft Counter</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#VODs"><span class="tocnumber">6</span> <span class="toctext">VODs</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=1" title="Edit section: Purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This build is meant to pressure on your opponent with very fast Zergling speed while still getting a Lair as fast as possible with a good economy.  Only <a href="/starcraft/12_Hatch_(vs_Zerg)" title="12 Hatch (vs Zerg)" class="mw-redirect">12 Hatch</a> leaves you with more Drones mining, and <a href="/starcraft/9_gas,_10_pool" title="9 gas, 10 pool" class="mw-redirect">9 Gas, 10 Pool</a> is tied as it makes 1 more Drone but uses it on a Hatchery.  The Spire starts at the same time as with an <a href="/starcraft/Overpool_(vs._Zerg)" title="Overpool (vs. Zerg)">Overpool</a> or <a href="/starcraft/9_Pool_(vs_Zerg)" title="9 Pool (vs Zerg)" class="mw-redirect">9 Pool</a>, but gets Zergling speed faster.  All 1 Hatch builds have gather more gas than is able to be produced by 1 Hatchery so a Drone is taken off gas for a while.  This is pretty much a slightly stronger version of Overpool, except is much weaker vs 12 Hatch.
+</p><p>So the overall goal of this build is to use very fast Zergling speed with a fast Lair to pressure your opponent before Mutalisks.  Once Mutas are out it uses its decent economy to expand quickly and take a 2nd gas.  This is at the cost of hard countering 12 Hatch that you would get with a 9 Pool.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>9/9 - Overlord
+</li>
+<li>9/9 - Extractor @ 50 Minerals
+</li>
+<li>9/9 - Pool
+</li>
+<li>11/17 - Lair + Zergling Speed
+</li>
+<li>@Lair Start - 1 Drone off Gas
+</li>
+<li>11+ - Zerglings
+</li>
+<li>@100% Lair - Spire
+</li>
+<li>@Spire Start - 1 Drone on Gas
+</li>
+<li>17/17 - Overlord
+</li>
+<li>@100% Spire - Three Mutalisks
+</li>
+</ul>
+<h2><span class="mw-headline" id="What_to_do.2FBuild_Order_Clarification">What to do/Build Order Clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=3" title="Edit section: What to do/Build Order Clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="vs._9_Pool">vs. 9 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=4" title="Edit section: vs. 9 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Just constantly make Lings until your Mutas are out and stay alive.  This build has 2 more Drones than 9 Pool, while not needing to expo until after Mutas so once Mutas are out you should be able to expo faster than him.  The biggest risk here is just a ramp/choke break, so it may be a good idea to make a Sunken Colony after your Spire starts to be safe while you save Larvae for Mutas.  If he goes Lair before Zergling speed then his Spire should be as fast as yours so a Sunken shouldn't be needed.
+</p>
+<h3><span class="mw-headline" id="vs._Overpool">vs. Overpool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=5" title="Edit section: vs. Overpool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Same as 9 Pool, except while you have 1 more Drone from the opening builds he will have should have slightly more minerals, so he may be able to expand slightly faster than you.
+</p>
+<h3><span class="mw-headline" id="vs._12_Pool">vs. 12 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=6" title="Edit section: vs. 12 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>He will either go Zergling speed or Lair first.  If he goes Lair first, then pressure him with your much faster Ling speed.  He will have more Lings than you to defend so engaging his Lings might be a bad idea.  Just abuse the Ling speed and attack his natural Hatchery, try to kill units as they pop out, pick off Lings if he makes an mistakes in micro, and if he moves out too far to defend try to sneak some Lings into his main.  Your Spire may not be early enough to force Spores, but you should be able to kill the Overlord he retreats from your main before his Mutas can get out in the map to defend.
+</p><p>If he goes Zergling speed first then he should have Ling speed just ~5â€“10 seconds after you, so there is little room to pressure him.  However, he should need to make Spores because his Spire is so late.  So just keep 2 Drones on gas even after your Spire finishes and pump Mutas and try to pick off Drones and whatever while you expo.  You will need to make a Sunken if he chooses to go for a Ling break.  And since they can't Spore their choke/ramp, if you can use your Mutas to scare his own Lings away from it you may be able to do a lot of damage with a run-by, since you can pick off Lings if he tries to run them from his natural to his main.  It might also be a good idea to use your really early Spire to get ahead in air armor upgrade, but probably only once your expo has started.  
+</p>
+<h3><span class="mw-headline" id="vs._12_Hatch">vs. 12 Hatch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=7" title="Edit section: vs. 12 Hatch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Same as 12 Pool, but even if he goes Lair first he will probably need to make Spores.  And even if he goes Zergling speed first your speed will be done way before his so you can still harass him in any case.  And you really need to do damage vs a 12 Hatch or you will lose.  Even if you do a lot of damage, it may not be an easy win.
+</p>
+<h3><span class="mw-headline" id="vs._9_Gas.2C_10_Pool">vs. 9 Gas, 10 Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=8" title="Edit section: vs. 9 Gas, 10 Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ling speed is useless in this case and the builds start out too similar to do any damage.  The only thing that you can do is to take a slight disadvantage, cancel Zergling speed, and transition into a slightly weaker version of 9 Gas, 10 Pool.  You should be able to put down a second hatch a little before your lair is done.  Since you need to scout it before ling speed is done to adapt properly, this build order should probably only be done on 2 or 3 player maps.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=9" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=10" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>none
+</li>
+</ul>
+<h3><span class="mw-headline" id="Soft_Counters">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=11" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>12 Hatch
+</li>
+<li>9 Gas, 10 Pool
+</li>
+</ul>
+<h2><span class="mw-headline" id="Counters_to">Counters to</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=12" title="Edit section: Counters to">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counter">Hard Counter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=13" title="Edit section: Hard Counter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>none
+</li>
+</ul>
+<h3><span class="mw-headline" id="Soft_Counter">Soft Counter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=14" title="Edit section: Soft Counter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>9 Pool
+</li>
+</ul>
+<h2><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;section=15" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=tUsqXqT-bUc&amp;feature=channel_page">Jaedong vs Yarnc 9 Pool Outsider</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/19720_Kwanro_vs_YellOw%5BArnC%5D/vod">Yarnc vs Kwanro 12 Pool Destination</a>
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=DyS9stUAy8k&amp;feature=channel_page">Firefirst vs Type-B 12 Pool Outsider</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/19722_EffOrt_vs_YellOw%5BArnC%5D/vod">Yarnc vs Effort 12 Hatch Heartbreak Ridge</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.076 seconds
+Real time usage: 0.098 seconds
+Preprocessor visited node count: 267/1000000
+Preprocessor generated node count: 1280/1000000
+Postâ€?expand include size: 1953/2097152 bytes
+Template argument size: 143/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:3110-0!*!0!!en!2!* and timestamp 20150522033403
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;oldid=120099">http://wiki.teamliquid.net/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;oldid=120099</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Zerg_Build_Orders" title="Category:Zerg Build Orders">Zerg Build Orders</a></li><li><a href="/starcraft/Category:ZvZ_Builds" title="Category:ZvZ Builds">ZvZ Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/9_Gas,_9_Pool_(vs._Zerg)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=9+Gas%2C+9+Pool+%28vs.+Zerg%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/9_Gas,_9_Pool_(vs._Zerg)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/9_Gas,_9_Pool_(vs._Zerg)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;oldid=120099" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=9_Gas,_9_Pool_(vs._Zerg)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/9_Gas,_9_Pool_(vs._Zerg)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:54.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.232 secs. --></body></html>

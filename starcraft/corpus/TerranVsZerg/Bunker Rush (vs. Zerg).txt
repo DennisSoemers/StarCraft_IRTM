@@ -71,7 +71,7 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <div class="infobox-cell-2 infobox-description">Popularized by:</div>
 <div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/BoxeR" title="BoxeR">BoxeR</a></span></div>
 </div></div>
-<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
 </div>
 <p>The Terran <b><a href="/starcraft/Bunker_Rush" title="Bunker Rush">Bunker Rush</a></b> is an early aggressive build designed to cause damage to a fast-expanding Zerg by killing <a href="/starcraft/Drone" title="Drone">Drones</a> or the expansion itself. Most commonly this is done with an <a href="/starcraft/8_Rax" title="8 Rax" class="mw-redirect">8 Rax</a> build, but it is also done using the all-in <a href="/starcraft/Barracks_Barracks_Supply_(vs._Zerg)" title="Barracks Barracks Supply (vs. Zerg)">BBS</a> build. Rarely will the Terran attempt to bunker rush after a <a href="/starcraft/index.php?title=10_rax&amp;action=edit&amp;redlink=1" class="new" title="10 rax (page does not exist)">10 rax</a> opening build.
 </p>
@@ -217,17 +217,17 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.104 seconds
-Real time usage: 0.129 seconds
-Preprocessor visited node count: 317/1000000
-Preprocessor generated node count: 2248/1000000
-Postâ€?expand include size: 2571/2097152 bytes
-Template argument size: 355/2097152 bytes
+CPU time usage: 0.100 seconds
+Real time usage: 0.128 seconds
+Preprocessor visited node count: 320/1000000
+Preprocessor generated node count: 2271/1000000
+Postâ€?expand include size: 2579/2097152 bytes
+Template argument size: 360/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:389-0!*!0!!en!2!* and timestamp 20150421073959
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:389-0!*!0!!en!2!* and timestamp 20150519205455
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Bunker_Rush_(vs._Zerg)&amp;oldid=119892">http://wiki.teamliquid.net/starcraft/index.php?title=Bunker_Rush_(vs._Zerg)&amp;oldid=119892</a>"</div>
@@ -252,7 +252,7 @@ Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Bu
 		<div class="pBody">
 			<ul>
 				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Bunker+Rush+%28vs.+Zerg%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
-				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register.php">Create Account</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
 			</ul>
 		</div>
 	</div>
@@ -438,4 +438,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.121 secs. --></body></html>
+<!-- Served in 0.273 secs. --></body></html>

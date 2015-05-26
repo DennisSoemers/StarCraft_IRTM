@@ -848,17 +848,17 @@ Versus 2 base Reaver into Carrier:
 
 <!-- 
 NewPP limit report
-CPU time usage: 1.592 seconds
-Real time usage: 1.749 seconds
-Preprocessor visited node count: 7314/1000000
-Preprocessor generated node count: 8692/1000000
-Postâ€?expand include size: 49389/2097152 bytes
-Template argument size: 7678/2097152 bytes
+CPU time usage: 1.448 seconds
+Real time usage: 1.664 seconds
+Preprocessor visited node count: 7461/1000000
+Preprocessor generated node count: 8715/1000000
+Postâ€?expand include size: 49768/2097152 bytes
+Template argument size: 7916/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:518-0!*!0!!en!2!* and timestamp 20150427122007
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:518-0!*!0!!en!2!* and timestamp 20150520104721
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Double_Armory_(vs._Protoss)&amp;oldid=119967">http://wiki.teamliquid.net/starcraft/index.php?title=Double_Armory_(vs._Protoss)&amp;oldid=119967</a>"</div>
@@ -1069,4 +1069,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 1.912 secs. --></body></html>
+<!-- Served in 1.831 secs. --></body></html>

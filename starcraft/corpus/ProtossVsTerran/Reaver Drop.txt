@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Reaver Drop - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Reaver Drop" href="/starcraft/index.php?title=Special:ExportRDF/Reaver_Drop&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Reaver_Drop","wgTitle":"Reaver Drop","wgCurRevisionId":120165,"wgRevisionId":120165,"wgArticleId":532,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Techniques","Protoss Techniques"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Reaver_Drop","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120165});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Reaver_Drop skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Reaver Drop</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_technique" title="Template:Infobox technique">h</a>]</span>Reaver Drop Usage</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:Reaverdrop.png&amp;filetimestamp=20090307010549&amp;" class="image"><img alt="" src="/starcraft/images/thumb/b/b4/Reaverdrop.png/294px-Reaverdrop.png" width="294" height="221" srcset="/starcraft/images/thumb/b/b4/Reaverdrop.png/441px-Reaverdrop.png 1.5x, /starcraft/images/thumb/b/b4/Reaverdrop.png/588px-Reaverdrop.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Technique Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvZ, PvT, PvP
+IntoTheRainBOw,type=Mid-game Strategy</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><a href="/starcraft/RainBOw" title="RainBOw">IntoTheRainBOw</a></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#General_Techniques"><span class="tocnumber">2</span> <span class="toctext">General Techniques</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Against_Terran"><span class="tocnumber">3</span> <span class="toctext">Against Terran</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Tank_Rotation"><span class="tocnumber">3.1</span> <span class="toctext">Tank Rotation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Maximizing_the_damage"><span class="tocnumber">3.2</span> <span class="toctext">Maximizing the damage</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Push_Break:_rear_drop"><span class="tocnumber">3.3</span> <span class="toctext">Push Break: rear drop</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Push_Break:_Front_drop"><span class="tocnumber">3.4</span> <span class="toctext">Push Break: Front drop</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Against_Protoss"><span class="tocnumber">4</span> <span class="toctext">Against Protoss</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_Links"><span class="tocnumber">5</span> <span class="toctext">External Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Reaver drop is a technique popular in all three Protoss matchups. Building Reavers means a significant investement, which forces any Protoss player to maximize its damage output. The Reaver's slow movement can be optimized in combination with a <a href="/starcraft/Shuttle" title="Shuttle">Shuttle</a> to increase the mobility, decrease damage taken and the overall velocity of the unit. A Reaver/Shuttle combination allows to either harassment of an enemy base, can be use for defensive strategies or as part of the Protoss army.
+</p><p>Regardless of the usage (harassment vs. ordinary offensive unit), the Reaver will always be carried within a Shuttle. It will only be dropped to fire a Scarab onto a specified target. Targets are usually chosen in a way that its splash damage is maximized on other bystanding units or buildings. To avoid losing a Reaver to focus fire or random volleys, the Reaver will be picked up by the Shuttle after firing a shot if needed. 
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="General_Techniques">General Techniques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=2" title="Edit section: General Techniques">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some techniques can be applied in all three match ups. Any player should consider the following characteristics of Reavers and their Scarabs, while adapting to the current game situation.
+</p>
+<ul>
+<li> A Reaver attacks randomly if it wasn't commanded to attack a specific target, hence any player should try to manually assign targets
+</li>
+<li> As long as a Reaver wasn't picked up after a drop, it will keep shooting on the designated target until it is dead
+</li>
+<li> The "build Scarab" option will neutralize the manual target selection, meaning that a Reaver will shoot randomly after new Scarabs were queued up
+</li>
+<li> A Shuttle's movement speed decreases if it gets closer to its target area, hence any Protoss should try to keep the shuttle moving near the Reaver to avoid decreased Shuttle movement speed
+</li>
+<li> Reavers should be dropped while the Shuttle remains moving. This can be achieved by clicking on the wireframe of the Reaver or by placing the Unload command on top of the moving Shuttle. It is recommended to drop a Reaver via wireframe if more units are within the Shuttle.
+</li>
+<li> A Shuttle can be moved with the patrol command. If the Shuttle is under fire, it will automatically retreat in the opposite direction. However, this technique should be used with care.
+</li>
+<li> Often cheaper and inferior units like <a href="/starcraft/index.php?title=Zealots&amp;action=edit&amp;redlink=1" class="new" title="Zealots (page does not exist)">Zealots</a> are dropped before the Reaver is unloaded in order to distract fire from the more important Reavers
+</li>
+<li> A Reaver's Scarab is more likely to bug out if the Reaver was dropped on purpose behind minerals. If the Reaver was dropped on top of the minerals and the Reaver is still placed behind minerals, a Scarab is more likely to still hit and shoot "through" the mineral patches. 
+</li>
+<li> A Scarab following escaping units is often unlikely to deal any damage, e.g. while chasing Speed Vultures or escaping workers. In this case any Protoss can manually detonate the Scarab by selecting the Reaver and giving the stop command. The Scarab won't deal any damage, but the Reaver will be able to shoot sooner again. 
+</li>
+<li> A Reaver used to harass any opponent's mineral line (economy, regardless in which Match Up) should always be dropped in between the most likely escape routes. It's more likely to focus workers moving from mineral line to mineral line, if the Reaver stands in their path. 
+</li>
+</ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Against_Terran">Against Terran</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=3" title="Edit section: Against Terran">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reavers are usually part of the earlier stages against Terran. In most cases Reaver drops are used to either kill a Terran in the very early stages immediately, or to deal enough damage to gain a significant advantage. However, the Reaver is not limited to be a harassment unit only. Especially against aggressive openings such as <a href="/starcraft/index.php?title=FD_(vs._Protoss&amp;action=edit&amp;redlink=1" class="new" title="FD (vs. Protoss (page does not exist)">Fake Double Builds</a> or <a href="/starcraft/Terran_vs._Protoss_Guide#Branch_II:Two_Factory_Pressure" title="Terran vs. Protoss Guide">two Factory Builds</a> it can be used to thin out incoming Siege Tank lines. The only opening to efficiently counter an early-on Reaver drop is an early on Vulture drop by Terran, or any other opening which allows the Terran to produce <a href="/starcraft/index.php?title=Wraiths&amp;action=edit&amp;redlink=1" class="new" title="Wraiths (page does not exist)">Wraiths</a> early on.
+</p><p>Any Terran army will consist of mostly Siege Tanks and Vultures. If the army is still moving, meaning that the Siege Tanks are unsieged, a Reaver's bigger range can be used to target down stray units. In case of a moving army, the Reaver should be handled carefully. 
+</p><p>If the Terran sieges his Tanks, the Reaver can be used to thin out the Tank line. In most scenarios, a Protoss will harass the Siege Tanks with two Zealots and one Reaver. The Zealots (usually only one) are dropped first, to draw the Tank's fire on them, the Reaver will be dropped shortly afterwards and will focus on clumped units. This makes this technique mostly a combination of Reaver/Shuttle Harass and <a href="/starcraft/Bombing" title="Bombing">Zealot Bombs</a>. To avoid that the Terran simply unsieges and thus counters the harassment, Dragoons can be placed close to the set up. 
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Tank_Rotation">Tank Rotation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=4" title="Edit section: Tank Rotation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Siege Tanks have a <i>rotation time</i>. This means that it takes a few second for Siege Tanks to "turn toward" their target. This rotation momentum can be abused by the Protoss to minimize the likelihood of Tanks focussing on the Reaver after killing a Zealot. It buys a few seconds of extra time to pick up a Reaver after shooting a Scarab.
+</p><p><br />
+</p><p><a href="/starcraft/index.php?title=File:Rotationdt4.jpg&amp;filetimestamp=20090305085708&amp;" class="image"><img alt="" src="/starcraft/images/b/bd/Rotationdt4.jpg" width="437" height="219" /></a>
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Maximizing_the_damage">Maximizing the damage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=5" title="Edit section: Maximizing the damage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Scarabs traverse terrain in a rather complicated fashion. When having target set, they treat other units and buildings as obstacles and behave exactly like a melee unit when trying to reach their target. When a Scarab comes in close vicinity to the target, it exlodes, dealing splash damage. 
+</p><p><a href="/starcraft/index.php?title=File:Tanksqy6.jpg&amp;filetimestamp=20090305085842&amp;" class="image"><img alt="" src="/starcraft/images/e/e3/Tanksqy6.jpg" width="391" height="262" /></a>
+</p>
+<ul>
+<li>Three Tanks, A and B are potential drop zones. The drop zone and the targets produce different outcomes
+</li>
+<li>Firing from A at Tank 1 will result in the Scarab exploding at x1, dealing a mere 100 damage to one Tank. Not the maximum efficiency.
+</li>
+<li>Firing from A at Tank 3 may be a better choice, but it will most likely explode at x5, only dealing lowered splash damage (or even no damage) to Tank 1 and no damage to Tank 2 at all.
+</li>
+<li>A - Tank 2 would be the perfect choice because it would most likely explode at x3, dealing full damage to all three Tanks.
+</li>
+<li>Now if drop zone B is chosen, firing at Tank 1 will land at x2 (100 damage), at Tank 2 - at x4 (100-150 damage) and at Tank 3 - x3 (300 damage). 
+</li>
+</ul>
+<p>Generally, if several units are adjacent, a Scarab should be launched in a way that it slides on the edge of a unit while reaching another one, described on the picture below:
+</p><p><a href="/starcraft/index.php?title=File:Slidefn1.jpg&amp;filetimestamp=20090305085915&amp;" class="image"><img alt="" src="/starcraft/images/d/dc/Slidefn1.jpg" width="323" height="247" /></a>
+</p><p>Red line marks Scarab trajectory, yellow arrow the desired target.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Push_Break:_rear_drop">Push Break: rear drop</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=6" title="Edit section: Push Break: rear drop">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The rear drop is one of two ways to use the Reaver/Shuttle combination to destroy a Terran army. In this case it doesn't matter whether or not the Terran army is sieged up. Usually, the entire Protoss army attacks the push, while the Reaver is being dropped on the edge of its firing range in the rear of the incoming Protoss army. Ideally, the army  will soak up the first volley of the push, while the Reaver targets clumps of units and clears them up as fast as possible. However, this technique works most efficiently against unsieged Tanks and an incoming army, due to the possibility of a Sieged Terran being able to manually target the Reaver more easily. 
+</p>
+<h3><span class="mw-headline" id="Push_Break:_Front_drop">Push Break: Front drop</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=7" title="Edit section: Push Break: Front drop">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The front drop technique is the second option for a Protoss to use the Reaver/Shuttle combination in order to destroy a Terran push. This works best against a Terran with Tanks in Siege Mode. The shuttle is used as spearhead of the incoming Protoss army. Usually additional Zealots are dropped and the Reaver is only dropped after the entire Terran army already shot its first volley. The larger a Terran push is, the harder this technique can be realized, as a vast part of the Terran army will be secured by Goliaths or Turrets.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Against_Protoss">Against Protoss</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=8" title="Edit section: Against Protoss">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reavers are a staple unit in the Protoss mirror. While they are almost exclusively used to harass in PvT, they are a main fighting unit in early / midgame in PvP. One of the most standard PvP tactics involves getting 2 Gateways, a Robotics Bay, Shuttle, Observer and then Reavers, while continually increasing the Dragoon count.
+</p><p>Reavers used in a battle, in which the opponent has Dragoons, following techniques are used:
+</p>
+<ul>
+<li>Reavers are dropped outside of the enemy's Dragoon range
+</li>
+<li>Especially in later stages Reavers should be spread out, rathar than clumped
+</li>
+<li>The shuttle should be constantly moved above the Reavers
+</li>
+<li>Targets:
+<ul>
+<li>Opponent's Reavers
+</li>
+<li>High tech units (Archons, High Templars)
+</li>
+<li>Clumps of units
+</li>
+</ul>
+</li>
+<li>The most important part remains <b>not losing</b> the Reaver.
+</li>
+<li>As soon as Dragoons target a Reaver, it should be picked up in the Shuttle and <i>droped again right away</i> (if in a rather safe spot) or <i>fly it to a safer location</i>. Picking it up breaks the Dragoons' targeting command and dropping it again prevents them from shooting down Shuttle and Reaver together.
+</li>
+</ul>
+<p>Shuttle speed remains the central first upgrade, as it will also help your other forms of harass.
+</p><p>With increasing time Reavers are usually losing worth. They're relatively easy countered by Psionic Storm of High Templars, as the Shuttle and the Reaver are usually in the same spot. Once High Templars are a standard supporting unit, Reavers are mostly used to drop.
+</p>
+<h2><span class="mw-headline" id="External_Links">External Links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit&amp;section=9" title="Edit section: External Links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=kpoehSe09rI">Basic Goon/Reaver usage in PvP by Nony.</a> (YouTube)
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=31330&amp;currentpage=2#23">Post by Legionnaire</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=58685">pushbreaker guide by Bluzman</a>
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=YXFeHfvVVYI">Nony demonstrating the use of Reavers with Shuttlespeed in PvP</a> (YouTube)
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=mglr_FTsCdE">NonY's FPVODs: PvT 1 base Reavers; Nony showing Reavers in PvT from first person</a> (YouTube)
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.076 seconds
+Real time usage: 0.125 seconds
+Preprocessor visited node count: 113/1000000
+Preprocessor generated node count: 485/1000000
+Postâ€?expand include size: 1558/2097152 bytes
+Template argument size: 152/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:532-0!*!0!!en!2!* and timestamp 20150525184118
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Reaver_Drop&amp;oldid=120165">http://wiki.teamliquid.net/starcraft/index.php?title=Reaver_Drop&amp;oldid=120165</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Techniques" title="Category:Techniques">Techniques</a></li><li><a href="/starcraft/Category:Protoss_Techniques" title="Category:Protoss Techniques">Protoss Techniques</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Reaver_Drop" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:Reaver_Drop&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Reaver+Drop" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Reaver_Drop" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Reaver_Drop" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Reaver_Drop&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Reaver_Drop&amp;oldid=120165" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Reaver_Drop&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Reaver_Drop" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:55.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.269 secs. --></body></html>

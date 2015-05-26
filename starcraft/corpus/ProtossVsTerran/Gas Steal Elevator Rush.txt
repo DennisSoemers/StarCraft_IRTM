@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Gas Steal Elevator Rush (vs. Terran) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Gas Steal Elevator Rush (vs. Terran)" href="/starcraft/index.php?title=Special:ExportRDF/Gas_Steal_Elevator_Rush_(vs._Terran)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gas_Steal_Elevator_Rush_(vs._Terran)","wgTitle":"Gas Steal Elevator Rush (vs. Terran)","wgCurRevisionId":120087,"wgRevisionId":120087,"wgArticleId":3007,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Protoss Build Orders","PvT Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gas_Steal_Elevator_Rush_(vs._Terran)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120087});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Gas_Steal_Elevator_Rush_vs_Terran skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Gas Steal Elevator Rush (vs. Terran)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a> Gas Steal Elevator Rush</div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvT</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Stork" title="Stork">Stork</a></span></div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Stork" title="Stork">Stork</a></span></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Execution"><span class="tocnumber">3</span> <span class="toctext">Execution</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Counters"><span class="tocnumber">4</span> <span class="toctext">Counters</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notable_Maps"><span class="tocnumber">5</span> <span class="toctext">Notable Maps</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notable_Games"><span class="tocnumber">6</span> <span class="toctext">Notable Games</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "<b>Gas Steal Elevator Rush</b>" is a very complicated opening designed to exploit several weaknesses of Terran early game defenses on <b>two-player maps</b>. Protoss forces Terran to play very passively by blocking his Vespene Geyser within the first minutes of the game and uses a Shuttle to pressure the opponent in the following early game.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i>For this Build Order the footnotes play an important role!</i>
+</dd>
+</dl>
+<p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:600px;"> "Basic Build" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>7 - Probe is sent to Terran spawning position
+</li>
+<li>8 - Pylon<sup id="cite_ref-p1_0-0" class="reference"><a href="#cite_note-p1-0">[1]</a></sup>
+</li>
+<li>10 - Assimilator<sup id="cite_ref-g1_1-0" class="reference"><a href="#cite_note-g1-1">[2]</a></sup>
+</li>
+<li>11 - Gateway
+</li>
+<li>13 - Assimilator<sup id="cite_ref-g2_2-0" class="reference"><a href="#cite_note-g2-2">[3]</a></sup>
+</li>
+<li>13 - Probe is sent in the middle of the base<sup id="cite_ref-p2_3-0" class="reference"><a href="#cite_note-p2-3">[4]</a></sup>
+</li>
+<li>14 - Pylon
+</li>
+<li>14 - Zealot
+</li>
+<li>18 - Cybernetics Core<sup id="cite_ref-g3_4-0" class="reference"><a href="#cite_note-g3-4">[5]</a></sup>
+</li>
+<li>22 - Pylon
+</li>
+<li>24 - Dragoon Range
+</li>
+<li>24 - Pylon<sup id="cite_ref-p3_5-0" class="reference"><a href="#cite_note-p3-5">[6]</a></sup>
+</li>
+<li>27 - Robotics Facility<sup id="cite_ref-f1_6-0" class="reference"><a href="#cite_note-f1-6">[7]</a></sup>
+</li>
+<li>@100% Robotics Facility - Shuttle
+</li>
+<li>@50% Shuttle - Support Bay
+</li>
+<li>40 - Units are sent to the Robotics Facility
+</li>
+<li>46 - Units are being transported with the Shuttle into the Terran Main Base
+</li>
+<li>@100% Shuttle - Reaver
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-p1-0"><a href="#cite_ref-p1_0-0">↑</a> Pylon built in Protoss Main Base</li>
+<li id="cite_note-g1-1"><a href="#cite_ref-g1_1-0">↑</a> Assimilator blocks Terran Vespene Geyser</li>
+<li id="cite_note-g2-2"><a href="#cite_ref-g2_2-0">↑</a> Assimilator to harvest Vespene Gas in Protoss Main Base</li>
+<li id="cite_note-p2-3"><a href="#cite_ref-p2_3-0">↑</a> Probe should not be seen by Terran's scouting SCV if possible</li>
+<li id="cite_note-g3-4"><a href="#cite_ref-g3_4-0">↑</a> From here on out, Dragoons are trained constantly</li>
+<li id="cite_note-p3-5"><a href="#cite_ref-p3_5-0">↑</a> Pylon is used to power a hidden Robotics Facility later on. It must be placed close to the Terran's Main Base</li>
+<li id="cite_note-f1-6"><a href="#cite_ref-f1_6-0">↑</a> Robotics Facility built near the Proxy Pylon</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+<h2><span class="mw-headline" id="Execution">Execution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit&amp;section=3" title="Edit section: Execution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "Gas Steal Elevator Rush" needs to be followed carefully and works best if it is not scouted. On a more abstract level Protoss dictates the game early on by blocking the Terran's Vespene Geyser. Since Terran needs to harvest Vespene Gas to efficiently counter Dragoons with <a href="/starcraft/Factory" title="Factory">Factory</a> units such as Siege Tanks or Vultures, Terran will have to change his own opening significantly. Furthermore, Terran relies on a small unit count in the early game to play defensive, until a greater unit count has been trained before attacking Protoss. The strategy exploits this weakness by enabling Protoss to access the Terran's main base directly with the shuttle. 
+</p><p>Initially, Protoss sends out his sixth Probe (Supply count 7/9, seventh Probe is trained) to the Terran's spawning position directly. The Probe then builds an Assimilator on the Terran's Vespene Geyser. Consequently the own Assimilator and the Gateway timing of Protoss are delayed from 10/18 and 12/18 to 11/18 and 13/18 supply respectively. Usually Terran will scout a rather ordinary Protoss follow up in the next minutes, as he can only see a Gateway, a Cybernetics Core and a Zealot being built, as well as a standard timing of the second Pylon. 
+</p><p>As a result Protoss tries to sneak out a second Probe fairly early in the game, usually the one which build the first Gateway. This Probe must not be scouted by Terran. Hiding the leaving Probe behind mineral patches at the Protoss Natural Expansion might be possible. At 24 Supply the second Probe builds a Pylon close to the Terran base and a Robotics Facility. The army of Protoss is being moved close to the Terran's base around 40 Supply and being transported into the Terran's main base as soon as the first Shuttle is out. It is important that the first transported units are out of the Terran's vision if possible, to increase their attack's efficiency. 
+</p><p>The army can now kill the stray units in the Terran's undefended main base and deal a greater amount of damage. If this transport was undetected, a following Reaver is usually enough to either end the game right away or to secure a great economical advantage. 
+</p><p>Protoss can transition out of the Elevator opening by taking the own Natural Expansion. The fifth Pylon, an Observatory and the Support Bay can be build in a way that the choke point is being walled off.
+</p>
+<h2><span class="mw-headline" id="Counters">Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit&amp;section=4" title="Edit section: Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is no hard or soft counter to this strategy. However, if the initial drop did not deal a greater amount of damage Protoss will be in a big disadvantage, as Terran is ahead in terms of technology and economy, as well as in terms of unit count. A direct counter by Terran can only hardly be defended. 
+</p><p>A direct counter with Vultures or a greater number of Marines can be dealt with by Protoss's ranged Dragoons and the Reaver.
+</p>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit&amp;section=5" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This map works only on two player maps, as the so-called Gas steal is an important key to the strategy. Maps with smaller and easily defendable Choke Points furthermore support the Protoss transition out of the opening.
+</p>
+<ul>
+<li><a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a>
+</li>
+<li><a href="/starcraft/Destination" title="Destination">Destination</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit&amp;section=6" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:188_Destination.jpg&amp;filetimestamp=20091210011016&amp;" class="image" title="Destination"><img alt="Destination" src="/starcraft/images/thumb/6/6d/188_Destination.jpg/75px-188_Destination.jpg" width="75" height="100" srcset="/starcraft/images/thumb/6/6d/188_Destination.jpg/112px-188_Destination.jpg 1.5x, /starcraft/images/thumb/6/6d/188_Destination.jpg/150px-188_Destination.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Stork" title="Stork">Stork</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Lost Saga MSL
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/FOrGG" title="FOrGG">fOrGG</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2009-01-29</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/11072_fOrGG_vs_Stork/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.256 seconds
+Real time usage: 0.329 seconds
+Preprocessor visited node count: 727/1000000
+Preprocessor generated node count: 5693/1000000
+Post�?expand include size: 5995/2097152 bytes
+Template argument size: 1596/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:3007-0!*!0!!en!2!* and timestamp 20150526032141
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;oldid=120087">http://wiki.teamliquid.net/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;oldid=120087</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Protoss_Build_Orders" title="Category:Protoss Build Orders">Protoss Build Orders</a></li><li><a href="/starcraft/Category:PvT_Builds" title="Category:PvT Builds">PvT Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Gas_Steal_Elevator_Rush_(vs._Terran)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Gas+Steal+Elevator+Rush+%28vs.+Terran%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Gas_Steal_Elevator_Rush_(vs._Terran)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Gas_Steal_Elevator_Rush_(vs._Terran)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;oldid=120087" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Gas_Steal_Elevator_Rush_(vs._Terran)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Gas_Steal_Elevator_Rush_(vs._Terran)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:54.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.473 secs. --></body></html>

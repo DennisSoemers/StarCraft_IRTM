@@ -136,8 +136,8 @@ Really uses the unique architecture of Fortress by taking the corner island as h
 </p>
 <!-- 
 NewPP limit report
-CPU time usage: 0.072 seconds
-Real time usage: 0.159 seconds
+CPU time usage: 0.060 seconds
+Real time usage: 0.066 seconds
 Preprocessor visited node count: 234/1000000
 Preprocessor generated node count: 1238/1000000
 Postâ€?expand include size: 1348/2097152 bytes
@@ -146,7 +146,7 @@ Highest expansion depth: 5/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:730-0!*!0!!en!2!* and timestamp 20150425114153
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:730-0!*!0!!en!2!* and timestamp 20150526182720
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=1_Factory_Starport_(vs._Zerg)&amp;oldid=119991">http://wiki.teamliquid.net/starcraft/index.php?title=1_Factory_Starport_(vs._Zerg)&amp;oldid=119991</a>"</div>
@@ -357,4 +357,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.294 secs. --></body></html>
+<!-- Served in 0.209 secs. --></body></html>

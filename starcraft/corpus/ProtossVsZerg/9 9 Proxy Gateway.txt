@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>2 Gateway (vs. Zerg) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="2 Gateway (vs. Zerg)" href="/starcraft/index.php?title=Special:ExportRDF/2_Gateway_(vs._Zerg)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2_Gateway_(vs._Zerg)","wgTitle":"2 Gateway (vs. Zerg)","wgCurRevisionId":119787,"wgRevisionId":119787,"wgArticleId":26,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Protoss Build Orders","PvZ Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2_Gateway_(vs._Zerg)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119787});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2_Gateway_vs_Zerg skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">2 Gateway (vs. Zerg)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a> Two Gateway Build</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:2gate.png&amp;filetimestamp=20080725034852&amp;" class="image"><img alt="" src="/starcraft/images/thumb/e/e9/2gate.png/294px-2gate.png" width="294" height="198" srcset="/starcraft/images/thumb/e/e9/2gate.png/441px-2gate.png 1.5x, /starcraft/images/e/e9/2gate.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>sAviOr being caught off guard against a 2 gate rush</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Orders"><span class="tocnumber">2</span> <span class="toctext">Build Orders</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Aggressive_Versions"><span class="tocnumber">2.1</span> <span class="toctext">Aggressive Versions</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Safer_Version"><span class="tocnumber">2.2</span> <span class="toctext">Safer Version</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Execution"><span class="tocnumber">3</span> <span class="toctext">Execution</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notable_Maps"><span class="tocnumber">4</span> <span class="toctext">Notable Maps</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_Games"><span class="tocnumber">5</span> <span class="toctext">Notable Games</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "<b>Two Gateway</b>" Build Orders summarize different openings, which aim to put pressure on Zerg early on with a Zealot rush off one base. While all Build Orders are somewhat aggressive, some of them sacrifice economic advantage by stopping (cutting) Probe production more than others. Builds which include a temporary Probe cut are usually considered to be an All-In, due to their highly risky character.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Build_Orders">Build Orders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=edit&amp;section=2" title="Edit section: Build Orders">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All Build Orders follow the same underlying idea to train Zealots as fast as possible. The Build Orders themself vary only little.
+</p>
+<h3><span class="mw-headline" id="Aggressive_Versions">Aggressive Versions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=edit&amp;section=3" title="Edit section: Aggressive Versions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The term "<b>Proxy</b>" refers to buildings, in this case Gateways, being positioned far from the main base. This can either be at the <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a> or in the middle of the map. Proxy Gateways are build farther away to minimize the walking distance between the own base and the opponent, thus making a rush even faster and more threatening. 
+</p><p>The following versions of the Two Gateway openings are considered to be rather aggressive.
+</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+<td><div style="margin-right:20px;">
+<p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "9/9 Proxy Gateways" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>7 - send out a Probe<sup id="cite_ref-Probe_0-0" class="reference"><a href="#cite_note-Probe-0">[1]</a></sup>
+</li>
+<li>8 - Pylon
+</li>
+<li>9 - Probe<sup id="cite_ref-Probe2_1-0" class="reference"><a href="#cite_note-Probe2-1">[2]</a></sup>
+</li>
+<li>9 - Gateway
+</li>
+<li>9 - Gateway<sup id="cite_ref-Probe3_2-0" class="reference"><a href="#cite_note-Probe3-2">[3]</a></sup>
+</li>
+<li>9 - Probe
+</li>
+<li>10 - Probe
+</li>
+<li>11 - Zealot
+</li>
+<li>13 - Pylon
+</li>
+<li>13 - Zealot
+</li>
+<li>15 - Zealot
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-Probe-0"><a href="#cite_ref-Probe_0-0">↑</a> Either to the <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a> or to the spot the Gateways should be placed</li>
+<li id="cite_note-Probe2-1"><a href="#cite_ref-Probe2_1-0">↑</a> On four player maps this Probe can be used to scout</li>
+<li id="cite_note-Probe3-2"><a href="#cite_ref-Probe3_2-0">↑</a> Probe is being used to scout</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "9/9 Gateways" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>8 - Pylon
+</li>
+<li>9 - Gateway
+</li>
+<li>9 - Gateway<sup id="cite_ref-Probe_3-0" class="reference"><a href="#cite_note-Probe-3">[1]</a></sup>
+</li>
+<li>9 - Probe<sup id="cite_ref-Probe2_4-0" class="reference"><a href="#cite_note-Probe2-4">[2]</a></sup>
+</li>
+<li>10 - Probe
+</li>
+<li>11 - Zealot
+</li>
+<li>13 - Pylon
+</li>
+<li>13 - Zealot
+</li>
+<li>15 - Zealot
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-Probe-3"><a href="#cite_ref-Probe_3-0">↑</a> Probe is being used to scout</li>
+<li id="cite_note-Probe2-4"><a href="#cite_ref-Probe2_4-0">↑</a> On four player maps this Probe can be used to scout</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</div>
+</td>
+<td><div style="margin-right: 20px;">
+<p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "9/10 Gateways" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>8 - Pylon
+</li>
+<li>9 - Gateway
+</li>
+<li>9 - Probe
+</li>
+<li>10 - Gateway<sup id="cite_ref-Probe_5-0" class="reference"><a href="#cite_note-Probe-5">[1]</a></sup>
+</li>
+<li>10 - Probe<sup id="cite_ref-Probe2_6-0" class="reference"><a href="#cite_note-Probe2-6">[2]</a></sup>
+</li>
+<li>11 - Zealot
+</li>
+<li>13 - Zealot
+</li>
+<li>13 - Pylon
+</li>
+<li>15 - Zealot
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-Probe-5"><a href="#cite_ref-Probe_5-0">↑</a> Probe is being used to scout</li>
+<li id="cite_note-Probe2-6"><a href="#cite_ref-Probe2_6-0">↑</a> On four player maps this Probe can be used to scout</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+</div>
+</td></tr></table>
+<h3><span class="mw-headline" id="Safer_Version">Safer Version</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=edit&amp;section=4" title="Edit section: Safer Version">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 10/12 Gateway is a safer version of a Two Gateway opening. It can be played as proxy or as ordinary one base version.
+</p><p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:400px;"> "10/12 Gateways" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li>7,5 - send Probe to <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a><sup id="cite_ref-proxy_7-0" class="reference"><a href="#cite_note-proxy-7">[1]</a></sup>
+</li>
+<li>8 - Pylon<sup id="cite_ref-scout_8-0" class="reference"><a href="#cite_note-scout-8">[2]</a></sup>
+</li>
+<li>10 - Gateway
+</li>
+<li>10 - Probe
+</li>
+<li>11 - Probe
+</li>
+<li>12 - Gateway
+</li>
+<li>12 - Probe
+</li>
+<li>13 - Zealot
+</li>
+<li>15 - Probe
+</li>
+<li>16 - Pylon
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-proxy-7"><a href="#cite_ref-proxy_7-0">↑</a> Only in case you want to use the Gateways in a Proxy variation, if not this step is not needed</li>
+<li id="cite_note-scout-8"><a href="#cite_ref-scout_8-0">↑</a> Probe is being used to scout</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Execution">Execution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=edit&amp;section=5" title="Edit section: Execution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Execution of a "Two Gateway" Strategy does depend on the maps and the intention of each specific Build Order. Generally speaking, Protoss usually tries to use train Zealots as fast as possible. 
+</p><p>In case of the Build Orders listed as aggressive, the player will try to attack as fast as possible, which means a greater risk. If no Proxy Version is used for 9/9 or 9/10 Gateways, the Protoss can delay his first attack by a few minutes, to make sure he can block his choke point (usually ramps) and prevent backstabs and runbys. However, if the Protoss went for Gateways not blocking choke points directly, his buildings and his economy will be open to harassment, if the Zealots do not pose an immediate attack. If the Zerg opened with a 4, 5, 6 or 9 Pool (with or without Speedupgrade), Zerg might be able to attack the Pylon powering the Gateways before a Zealot is out to defend. Building Proxy Gateways in the open map should therefore be done very carefully. Zerg must not scout the position of the Gateways with Overlords or a scouting Drone. At the same time a Proxy Gateway loses its strength if the opponent is not scouted right away, which is the reason why Protoss uses a second Probe to scout on large four player maps. 
+</p><p>For 9/9 or 9/10 Gateways the first (and the optional second) Probe is used as supporting to unit for the first two Zealots attacking Zerg. Against Zerglings the Probe and two Zealots can one-shot a Zergling; even if only one Zealot is used (in case of a 9/10 Gate), the Probe will deal additional damage. The aggressive openings can use more than just two Probes, which increases the risk for both sides, as a failed defense or attack will end the game right away.
+</p><p>The 10/12 Gateway version doesn't stress the economy as hard as the other versions, as no temporary Probe cut is needed. A player can transition out of this opening by either going for a Nexus or adding an early <a href="/starcraft/index.php?title=Assmilator&amp;action=edit&amp;redlink=1" class="new" title="Assmilator (page does not exist)">Assmilator</a> to tech on to stronger units. In this scenario a larger Zealot group should pose a threat to the Zerg Natural expansion, thus forcing the Zerg to invest Drones into static Defenses and Zerglings and stalling his Tech. This does need some experience, as Mutalisks and Lurkers will hard counter the opening. Knowing when to attack and when to retreat is pivotal. 
+</p><p>A 10/12 Gateway opening with the Gateways blocking the entrance to the <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a> can be a strong opening on special maps such as <a href="/starcraft/Longinus" title="Longinus">Longinus</a>. The Gateways can be easily defended by only one Zealot in rare cases and thus be as effective as a Forge Fast Expand opening. This makes the transition out of the opening easier, as only little units are needed to defend and support a faster Nexus, while having the opportunity to pressure the Zerg if he acts careless.
+</p><p>Any Two Gate version with Gateways being build inside the own base are less effective and more vulnerable to backstabs and runbys if more than three units are needed to block the entrance. This is the case for larger ramps on maps like <a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a>, <a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a> or <a href="/starcraft/Luna" title="Luna">Luna</a>. 
+</p>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=edit&amp;section=6" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/starcraft/Longinus" title="Longinus">Longinus</a>
+</li>
+<li><a href="/starcraft/Lost_Temple" title="Lost Temple">Lost Temple</a>
+</li>
+<li><a href="/starcraft/Destination" title="Destination">Destination</a>
+</li>
+<li><a href="/starcraft/Heartbreak_Ridge" title="Heartbreak Ridge">Heartbreak Ridge</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=edit&amp;section=7" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Rush_Hour.jpg&amp;filetimestamp=20100228122401&amp;" class="image" title="Rush Hour"><img alt="Rush Hour" src="/starcraft/images/thumb/5/51/Rush_Hour.jpg/100px-Rush_Hour.jpg" width="100" height="100" srcset="/starcraft/images/thumb/5/51/Rush_Hour.jpg/150px-Rush_Hour.jpg 1.5x, /starcraft/images/thumb/5/51/Rush_Hour.jpg/200px-Rush_Hour.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Chojja" title="Chojja" class="mw-redirect">Chojja</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> 9/10 Gateways
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Reach" title="Reach">Reach</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2005-07-21</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.13</span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/263_ChoJJa_vs_Reach/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+<p><br />
+</p>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Arcadia.jpg&amp;filetimestamp=20081104221920&amp;" class="image" title="Arcadia"><img alt="Arcadia" src="/starcraft/images/thumb/0/01/Arcadia.jpg/100px-Arcadia.jpg" width="100" height="100" srcset="/starcraft/images/thumb/0/01/Arcadia.jpg/150px-Arcadia.jpg 1.5x, /starcraft/images/thumb/0/01/Arcadia.jpg/200px-Arcadia.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Reach" title="Reach">Reach</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Proxy Gateways
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/SAviOr" title="SAviOr">sAviOr</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2006-05-21</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.13</span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/korean/games/1711_Reach_vs_sAviOr/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+<p><br />
+</p>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:New_Sniper_Ridge.jpg&amp;filetimestamp=20120515081026&amp;" class="image" title="New Sniper Ridge"><img alt="New Sniper Ridge" src="/starcraft/images/thumb/3/3e/New_Sniper_Ridge.jpg/100px-New_Sniper_Ridge.jpg" width="100" height="100" srcset="/starcraft/images/thumb/3/3e/New_Sniper_Ridge.jpg/150px-New_Sniper_Ridge.jpg 1.5x, /starcraft/images/thumb/3/3e/New_Sniper_Ridge.jpg/200px-New_Sniper_Ridge.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Mini" title="Mini">Mini</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top">
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/ZerO" title="ZerO">ZerO</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2012-05-20</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.15.3</span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/korean/games/115587_mini_vs_ZerO/vod">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+<p><br />
+</p>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:Nightlight.jpg&amp;filetimestamp=20091226222226&amp;" class="image" title="Nightlight"><img alt="Nightlight" src="/starcraft/images/thumb/2/29/Nightlight.jpg/100px-Nightlight.jpg" width="100" height="100" srcset="/starcraft/images/thumb/2/29/Nightlight.jpg/150px-Nightlight.jpg 1.5x, /starcraft/images/thumb/2/29/Nightlight.jpg/200px-Nightlight.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Nal_rA" title="Nal rA">Nal_rA</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> Nal_rA's version of a very aggressive Two Gate Way Proxy
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:Germany" title="Germany"><img alt="Germany" src="/starcraft/images/8/8f/De.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Mondragon" title="Mondragon">Mondragon</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;">2005</span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=JSrO4XkIiok">VOD</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.552 seconds
+Real time usage: 0.711 seconds
+Preprocessor visited node count: 1975/1000000
+Preprocessor generated node count: 6183/1000000
+Post�?expand include size: 12484/2097152 bytes
+Template argument size: 2567/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:26-0!*!0!!en!2!* and timestamp 20150524142450
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;oldid=119787">http://wiki.teamliquid.net/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;oldid=119787</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Protoss_Build_Orders" title="Category:Protoss Build Orders">Protoss Build Orders</a></li><li><a href="/starcraft/Category:PvZ_Builds" title="Category:PvZ Builds">PvZ Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/2_Gateway_(vs._Zerg)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:2_Gateway_(vs._Zerg)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=2+Gateway+%28vs.+Zerg%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/2_Gateway_(vs._Zerg)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/2_Gateway_(vs._Zerg)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;oldid=119787" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=2_Gateway_(vs._Zerg)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/2_Gateway_(vs._Zerg)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:47.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.863 secs. --></body></html>

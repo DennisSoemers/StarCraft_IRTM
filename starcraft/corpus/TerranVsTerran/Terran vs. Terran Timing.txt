@@ -171,8 +171,8 @@ If there are no timings or if you missed all of them, then you must secure map c
 </p>
 <!-- 
 NewPP limit report
-CPU time usage: 0.084 seconds
-Real time usage: 0.102 seconds
+CPU time usage: 0.092 seconds
+Real time usage: 0.122 seconds
 Preprocessor visited node count: 242/1000000
 Preprocessor generated node count: 1234/1000000
 Postâ€?expand include size: 1656/2097152 bytes
@@ -181,7 +181,7 @@ Highest expansion depth: 5/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:475-0!*!0!!en!2!* and timestamp 20150426214638
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:475-0!*!0!!en!2!* and timestamp 20150525050007
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;oldid=119948">http://wiki.teamliquid.net/starcraft/index.php?title=Terran_vs._Terran_Timing&amp;oldid=119948</a>"</div>
@@ -392,4 +392,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.244 secs. --></body></html>
+<!-- Served in 0.249 secs. --></body></html>

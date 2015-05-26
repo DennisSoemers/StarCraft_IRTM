@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>4 Gate 2 Archon - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="4 Gate 2 Archon" href="/starcraft/index.php?title=Special:ExportRDF/4_Gate_2_Archon&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"4_Gate_2_Archon","wgTitle":"4 Gate 2 Archon","wgCurRevisionId":123374,"wgRevisionId":123374,"wgArticleId":7946,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Protoss Build Orders","PvZ Builds","Protoss Beginner Strategy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"4_Gate_2_Archon","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":123374});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-4_Gate_2_Archon skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">4 Gate 2 Archon</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a> 4 Gate 2 Archon</div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">PvZ</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">???</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Bisu" title="Bisu">Bisu</a></span></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Execution"><span class="tocnumber">3</span> <span class="toctext">Execution</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Counters"><span class="tocnumber">4</span> <span class="toctext">Counters</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notable_Maps"><span class="tocnumber">5</span> <span class="toctext">Notable Maps</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notable_Games"><span class="tocnumber">6</span> <span class="toctext">Notable Games</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_Links"><span class="tocnumber">7</span> <span class="toctext">External Links</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "<b>4 Gate 2 Archon</b>" Build Order was designed to directly counter earlier versions of the Neo Sauron openings by Zerg. The opening enables the Protoss to prepare a strong timed attack including two <a href="/starcraft/Archon" title="Archon">Archons</a> and +1 Speedzealots from four Gateways after a <a href="/starcraft/Protoss_FE_(vs._Zerg)" title="Protoss FE (vs. Zerg)">Fast Expansion</a>, thus giving it its name. However, the Build Order can be countered by five or six Hatchery Hydralisk openings, especially if the timings are missed.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i>The Build order requires a <a href="/starcraft/Protoss_FE_(vs._Zerg)" title="Protoss FE (vs. Zerg)">Fast Expansion</a>. The sequence of Forge, first Gateway and Nexus might vary and needs to be changed according to the Zerg opening. The exemplary build is the safest version of the Build Order, which delays the timed attack by about half a minute</i>
+</dd>
+</dl>
+<p><br />
+</p>
+<table class="wikitable collapsible">
+<tr>
+<th style="font-weight:bold; text-align:center; background: rgb(184,242,184); width:600px;"> "18 Nexus FE" <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders"><img alt="How To: Read Build Orders" src="/starcraft/images/7/79/Help_icon.png" width="16" height="16" style="vertical-align: top" /></a>
+</th></tr>
+<tr>
+<td><div style="float:right;"><a href="/starcraft/index.php?title=File:Picon.png&amp;filetimestamp=20081130204329&amp;" class="image"><img alt="" src="/starcraft/images/d/d1/Picon.png" width="21" height="19" /></a></div>
+<ul>
+<li> 8 - Pylon at <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a><sup id="cite_ref-scout_0-0" class="reference"><a href="#cite_note-scout-0">[1]</a></sup>
+</li>
+<li> 10 - Forge<sup id="cite_ref-SimCity_1-0" class="reference"><a href="#cite_note-SimCity-1">[2]</a></sup>
+</li>
+<li> 13 - two Photon Cannons<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup>
+</li>
+<li> 15 - Pylon<sup id="cite_ref-pylon1_3-0" class="reference"><a href="#cite_note-pylon1-3">[4]</a></sup>
+</li>
+<li> 18 - Nexus
+</li>
+<li> 18 - Gateway <sup id="cite_ref-gate1_4-0" class="reference"><a href="#cite_note-gate1-4">[5]</a></sup>
+</li>
+<li> 20 - Assimilator <sup id="cite_ref-gas1_5-0" class="reference"><a href="#cite_note-gas1-5">[6]</a></sup>
+</li>
+<li> 22 - Cybernetics Core
+</li>
+<li> 25/26 - Assimilator<sup id="cite_ref-gas2_6-0" class="reference"><a href="#cite_note-gas2-6">[7]</a></sup>
+</li>
+<li> @ 100% Cybernetics Core - Dragoon<sup id="cite_ref-goon_7-0" class="reference"><a href="#cite_note-goon-7">[8]</a></sup>
+</li>
+<li> 100% Cybernetics Core - Stargate
+</li>
+<li> @ 100 Gas - Citadel of Adun<sup id="cite_ref-gas3_8-0" class="reference"><a href="#cite_note-gas3-8">[9]</a></sup>
+</li>
+<li> @ 100 Gas - Corsair
+</li>
+<li> @ 100 Gas - +1 Ground Attack
+</li>
+<li> @ 200 Gas - Templar Archives
+</li>
+<li> 3 Gateways
+</li>
+<li> @ 100% Templar Archives - 2 Archons<sup id="cite_ref-archon_9-0" class="reference"><a href="#cite_note-archon-9">[10]</a></sup>
+</li>
+<li> @ 2 Archons - Zealot Speedupgrade
+</li>
+<li> @ ~95% +1 Attack Upgrade - Army moves out
+</li>
+</ul>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em;"> <ol class="references"><li id="cite_note-scout-0"><a href="#cite_ref-scout_0-0">↑</a> Probe is being used to scout</li>
+<li id="cite_note-SimCity-1"><a href="#cite_ref-SimCity_1-0">↑</a> Building placement should be done carefully. More information is available in the  <a href="/starcraft/Protoss_Fast_Expand_Forge_Walling" title="Protoss Fast Expand Forge Walling">Protoss Fast Expand Forge Walling</a> article</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> assuming Zerg opens with a 9 Pool Speed or a similar aggressive opening. Number of cannons can be smaller</li>
+<li id="cite_note-pylon1-3"><a href="#cite_ref-pylon1_3-0">↑</a> Pylon in Main Base, will later be used for tech buildings or Gateways</li>
+<li id="cite_note-gate1-4"><a href="#cite_ref-gate1_4-0">↑</a> built at the <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a></li>
+<li id="cite_note-gas1-5"><a href="#cite_ref-gas1_5-0">↑</a> in the Main Base</li>
+<li id="cite_note-gas2-6"><a href="#cite_ref-gas2_6-0">↑</a> needs to be started before the Cybernetics Core finishes</li>
+<li id="cite_note-goon-7"><a href="#cite_ref-goon_7-0">↑</a> <b>Optional</b> step: Only done to chase away scouting Overlords</li>
+<li id="cite_note-gas3-8"><a href="#cite_ref-gas3_8-0">↑</a> The following steps mean "when the next 100 Gas is ready"</li>
+<li id="cite_note-archon-9"><a href="#cite_ref-archon_9-0">↑</a> High Templars being built from all four Gateways simultaneously</li></ol></div>
+</td></tr>
+<tr>
+<td><div style="font-size: 0.9em; text-align:center;"> <a href="/starcraft/How_To:_Read_Build_Orders" title="How To: Read Build Orders" class="mw-redirect">How To: Read Build Orders</a></div>
+</td></tr></table>
+<h2><span class="mw-headline" id="Execution">Execution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit&amp;section=3" title="Edit section: Execution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The underlying idea of the "4 Gateway 2 Archon" Build Order is to deal a hard blow to a Zerg's economy shortly after the early game and to gain map control. The timed attack is designed to hit a Zerg taking three bases in a time frame he has little to no Hydralisks and Zerglings to defend his bases properly. However, assuming to kill a Zerg in modern Protoss vs. Zerg with this timing only is naive, as most Zerg players adopted to timing attacks with better placed Sunken Colonies and timings of their own. 
+</p><p>However, the strategy might be successful if Protoss uses his army slightly different than when it was first used to fight off Neo Sauron (5 Hatch Hydra Builds). In modern Protoss vs. Zerg, the Zerg will anticipate an attack with +1 Speedzealots, but might be thrown off by the slightly delayed attack timing which includes the strong Archon support. A bust of a Zerg base might be an option, but should not be performed if Protoss is uncertain about the outcome. Instead, Protoss should try to patrol the space in between the Zerg's <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansion</a> and his third base. The goal is to deny Zerg from uniting ground forces being trained at both points, as a larger number of Hyrdralisks will be enough to destroy a Protoss. Forcing Zerg to build more statitic defenses slows down his economy and might delay the opponent's <a href="/starcraft/Technology_tree" title="Technology tree">tech tree</a>. 
+</p><p>While the first attack wave moves out of the Protoss base, Protoss should train High Templars and research Psionic Storm, while taking a third base. Taking a third base is risky, as the army does need to delay a massive attack as long as possible, to buy enough time to fortify the new expansion. From there on, Protoss will add more Gateways, a Robotics Facility and transition into an ordinary army combination. However, it should be noted that Zerg might be able to snipe High Templars with Mutalisks, depending on a Zerg player's ability to micro his Mutalisks well and the Protoss not being able to shield his high tech units with Archons and Dragoons well enough. This is especially difficult, since Corsairs are missing to support the ground forces.
+</p>
+<h2><span class="mw-headline" id="Counters">Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit&amp;section=4" title="Edit section: Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This strategy can be countered in different ways. If Zerg stays on three Hatcherys off two Bases and adds a <a href="/starcraft/Lair" title="Lair">Lair</a> early on, Protoss will be forced to anticipate either Mutalisks or Lurkers. In both scenarios the Build Order has to be changed, or it will be hard countered. 
+</p><p>If Zerg opens with a more modern 5 or 6 Hatchery Build Order he might add Lurkers early on, which will deny the Protoss from attacking the bases. In this scenario the Protoss will have to give up map control earlier, forcing him to transition to a standard mix and <a href="/starcraft/Observer" title="Observer">Observers</a> a few minutes too early, to take a third base without big risks. Therefore, Lurkers mean a soft counter to this build.
+</p>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit&amp;section=5" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Theoretically, this build works on any map. Maps with larger entrances to the <a href="/starcraft/Natural_Expansion" title="Natural Expansion" class="mw-redirect">Natural Expansions</a> support a huge attack, as it is harder to efficiently block an incoming attack. 
+</p>
+<ul>
+<li><a href="/starcraft/Python" title="Python">Python</a>
+</li>
+<li><a href="/starcraft/Destination" title="Destination">Destination</a>
+</li>
+<li><a href="/starcraft/Circuit_Breakers" title="Circuit Breakers" class="mw-redirect">Circuit Breakers</a> 
+</li>
+<li><a href="/starcraft/Blue_Storm" title="Blue Storm">Blue Storm</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_Games">Notable Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit&amp;section=6" title="Edit section: Notable Games">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:188_Destination.jpg&amp;filetimestamp=20091210011016&amp;" class="image" title="Destination"><img alt="Destination" src="/starcraft/images/thumb/6/6d/188_Destination.jpg/75px-188_Destination.jpg" width="75" height="100" srcset="/starcraft/images/thumb/6/6d/188_Destination.jpg/112px-188_Destination.jpg 1.5x, /starcraft/images/thumb/6/6d/188_Destination.jpg/150px-188_Destination.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:Canada" title="Canada"><img alt="Canada" src="/starcraft/images/4/42/Ca.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/index.php?title=IeFnaiJ&amp;action=edit&amp;redlink=1" class="new" title="IeFnaiJ (page does not exist)">IeFnaiJ</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top"> JF outmacroing ret
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:Netherlands" title="Netherlands"><img alt="Netherlands" src="/starcraft/images/9/98/Nl.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Ret" title="Ret">ret</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;"></span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.15</span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://www.gosugamers.net/starcraft/replays/16969">Replay</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+<p><br />
+</p>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:188_Destination.jpg&amp;filetimestamp=20091210011016&amp;" class="image" title="Destination"><img alt="Destination" src="/starcraft/images/thumb/6/6d/188_Destination.jpg/75px-188_Destination.jpg" width="75" height="100" srcset="/starcraft/images/thumb/6/6d/188_Destination.jpg/112px-188_Destination.jpg 1.5x, /starcraft/images/thumb/6/6d/188_Destination.jpg/150px-188_Destination.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:Norway" title="Norway"><img alt="Norway" src="/starcraft/images/0/04/No.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Oystein" title="Oystein">oystein</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top">
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><img alt="World" src="/starcraft/images/8/80/Worldflag.png" width="18" height="12" />&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/index.php?title=Unknown&amp;action=edit&amp;redlink=1" class="new" title="Unknown (page does not exist)">unknown</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;"></span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;">1.16</span>
+</td>
+<th style="width:300px; padding:0;"> <a rel="nofollow" target="_blank" class="external text" href="http://repdepot.net/replay.php?id=7419">Replay</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+<p><br />
+</p>
+<table class="wikitable" style="margin:5px;">
+<tr>
+<td rowspan="4" width="100" align="center"> <a href="/starcraft/index.php?title=File:188_Destination.jpg&amp;filetimestamp=20091210011016&amp;" class="image" title="Destination"><img alt="Destination" src="/starcraft/images/thumb/6/6d/188_Destination.jpg/75px-188_Destination.jpg" width="75" height="100" srcset="/starcraft/images/thumb/6/6d/188_Destination.jpg/112px-188_Destination.jpg 1.5x, /starcraft/images/thumb/6/6d/188_Destination.jpg/150px-188_Destination.jpg 2x" /></a>
+</td>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/index.php?title=Su.ae(kal)&amp;action=edit&amp;redlink=1" class="new" title="Su.ae(kal) (page does not exist)">su.ae(kal)</a></span></b>
+</td>
+<td rowspan="3" colspan="2" width="300" style="vertical-align:top">
+</td></tr>
+<tr>
+<td colspan="1" width="150"> <b><a href="/starcraft/Category:South_Korea" title="South Korea"><img alt="South Korea" src="/starcraft/images/3/36/Kr.png" width="18" height="12" /></a>&#160;<a href="/starcraft/Protoss" title="Protoss"><img alt="Protoss" src="/starcraft/images/a/ab/Picon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Much" title="Much">much</a></span></b>
+</td></tr>
+<tr>
+<td> Date: <span style="float:right;"></span>
+</td></tr>
+<tr>
+<td> Patch: <span style="float:right;"></span>
+</td>
+<th style="width:300px; padding:0;"> <a target="_blank" class="external text" href="http://www.teamliquid.net/replay/download.php?replay=1401">Replay</a>
+</th></tr></table>
+<div style="display:none;">
+</div>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="External_Links">External Links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit&amp;section=7" title="Edit section: External Links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=84601">SuperJongMan 4 Gate 2 Archon Analysis</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.392 seconds
+Real time usage: 0.446 seconds
+Preprocessor visited node count: 1233/1000000
+Preprocessor generated node count: 6201/1000000
+Post�?expand include size: 9185/2097152 bytes
+Template argument size: 2021/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:7946-0!*!0!!en!2!* and timestamp 20150526085410
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=4_Gate_2_Archon&amp;oldid=123374">http://wiki.teamliquid.net/starcraft/index.php?title=4_Gate_2_Archon&amp;oldid=123374</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Protoss_Build_Orders" title="Category:Protoss Build Orders">Protoss Build Orders</a></li><li><a href="/starcraft/Category:PvZ_Builds" title="Category:PvZ Builds">PvZ Builds</a></li><li><a href="/starcraft/Category:Protoss_Beginner_Strategy" title="Category:Protoss Beginner Strategy">Protoss Beginner Strategy</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/4_Gate_2_Archon" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:4_Gate_2_Archon&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=4+Gate+2+Archon" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/4_Gate_2_Archon" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/4_Gate_2_Archon" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;oldid=123374" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=4_Gate_2_Archon&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/4_Gate_2_Archon" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 17 February 2015, at 08:35.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.590 secs. --></body></html>

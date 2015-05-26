@@ -123,17 +123,17 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.104 seconds
-Real time usage: 0.111 seconds
-Preprocessor visited node count: 318/1000000
-Preprocessor generated node count: 2443/1000000
-Postâ€?expand include size: 3969/2097152 bytes
-Template argument size: 766/2097152 bytes
+CPU time usage: 0.108 seconds
+Real time usage: 0.123 seconds
+Preprocessor visited node count: 324/1000000
+Preprocessor generated node count: 2466/1000000
+Postâ€?expand include size: 3990/2097152 bytes
+Template argument size: 781/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:12789-0!*!0!!*!2!* and timestamp 20150427162718
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:12789-0!*!0!!*!2!* and timestamp 20150526200251
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Fact_CC_Fact&amp;oldid=120213">http://wiki.teamliquid.net/starcraft/index.php?title=Fact_CC_Fact&amp;oldid=120213</a>"</div>
@@ -344,4 +344,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.245 secs. --></body></html>
+<!-- Served in 0.258 secs. --></body></html>

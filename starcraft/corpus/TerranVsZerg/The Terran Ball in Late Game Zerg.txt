@@ -67,8 +67,8 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.068 seconds
-Real time usage: 0.083 seconds
+CPU time usage: 0.064 seconds
+Real time usage: 0.074 seconds
 Preprocessor visited node count: 214/1000000
 Preprocessor generated node count: 1290/1000000
 Postâ€?expand include size: 2506/2097152 bytes
@@ -77,7 +77,7 @@ Highest expansion depth: 5/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:711-0!*!0!*!*!2!* and timestamp 20150426104101
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:711-0!*!0!*!*!2!* and timestamp 20150524214239
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=The_Terran_Ball_in_Late_Game_Zerg&amp;oldid=119986">http://wiki.teamliquid.net/starcraft/index.php?title=The_Terran_Ball_in_Late_Game_Zerg&amp;oldid=119986</a>"</div>
@@ -288,4 +288,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.223 secs. --></body></html>
+<!-- Served in 0.207 secs. --></body></html>

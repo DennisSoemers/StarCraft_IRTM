@@ -67,7 +67,7 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <div class="infobox-cell-2 infobox-description">Type:</div>
 <div class="infobox-cell-2">Opening</div>
 </div></div>
-<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
 </div>
 <div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
 <ul>
@@ -222,17 +222,17 @@ On maps with no or reverse ramps you can also opt to push the main straight away
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.172 seconds
-Real time usage: 0.219 seconds
-Preprocessor visited node count: 605/1000000
-Preprocessor generated node count: 4753/1000000
-Postâ€?expand include size: 4106/2097152 bytes
-Template argument size: 1019/2097152 bytes
+CPU time usage: 0.176 seconds
+Real time usage: 0.208 seconds
+Preprocessor visited node count: 611/1000000
+Preprocessor generated node count: 4776/1000000
+Postâ€?expand include size: 4126/2097152 bytes
+Template argument size: 1033/2097152 bytes
 Highest expansion depth: 8/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:14318-0!*!0!!en!2!* and timestamp 20150421005748
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:14318-0!*!0!!en!2!* and timestamp 20150523043651
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Fake_Fake_Double_(vs._Protoss)&amp;oldid=120221">http://wiki.teamliquid.net/starcraft/index.php?title=Fake_Fake_Double_(vs._Protoss)&amp;oldid=120221</a>"</div>
@@ -257,7 +257,7 @@ Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Fa
 		<div class="pBody">
 			<ul>
 				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Fake+Fake+Double+%28vs.+Protoss%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
-				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register.php">Create Account</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
 			</ul>
 		</div>
 	</div>
@@ -443,4 +443,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.364 secs. --></body></html>
+<!-- Served in 0.345 secs. --></body></html>

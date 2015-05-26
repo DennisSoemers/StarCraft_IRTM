@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>6 hatch (vs. Protoss) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="6 hatch (vs. Protoss)" href="/starcraft/index.php?title=Special:ExportRDF/6_hatch_(vs._Protoss)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"6_hatch_(vs._Protoss)","wgTitle":"6 hatch (vs. Protoss)","wgCurRevisionId":120209,"wgRevisionId":120209,"wgArticleId":12537,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Zerg Build Orders","ZvP Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"6_hatch_(vs._Protoss)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":120209});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-6_hatch_vs_Protoss skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">6 hatch (vs. Protoss)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="21" height="19" /></a> 6 Hatch (vs. Protoss)</div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">ZvP</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Clarification"><span class="tocnumber">3</span> <span class="toctext">Clarification</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Transition"><span class="tocnumber">4</span> <span class="toctext">Transition</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Countered_By"><span class="tocnumber">5</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Hard"><span class="tocnumber">5.1</span> <span class="toctext">Hard</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Soft"><span class="tocnumber">5.2</span> <span class="toctext">Soft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Counter_To:"><span class="tocnumber">6</span> <span class="toctext">Counter To:</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Hard_2"><span class="tocnumber">6.1</span> <span class="toctext">Hard</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Soft_2"><span class="tocnumber">6.2</span> <span class="toctext">Soft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Notable_Maps"><span class="tocnumber">7</span> <span class="toctext">Notable Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Strong"><span class="tocnumber">7.1</span> <span class="toctext">Strong</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Replays"><span class="tocnumber">8</span> <span class="toctext">Replays</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#VODs"><span class="tocnumber">9</span> <span class="toctext">VODs</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This strategy is a strong Zerg vs. Protoss build designed to play against a Forge Fast-Expand from a Protoss player, and to give the Zerg an economic advantage. Ideally, this opening aims to deny a second expansion from the Protoss player, and thus gain a stronger position for the Zerg player in the later stages of a game. The execution of this build order depends on the map design; maps with large open areas around the third bases of the Protoss player are more favorable for aggression with Hydralisk pressure, while maps like Fighting Spirit, Jade, and Bloody Ridge typically favor Protoss defenses, as these maps' architecture does not allow for a wide arc for Hydralisks to move in around a Protoss third base to deny it.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>9/9 Overlord
+</li>
+<li>9/9 Pool
+</li>
+<li>two drones
+</li>
+<li>11/18 Hatchery
+</li>
+<li>10/18 6 Zerglings
+</li>
+<li>14/18 Send drone toward third with 200 minerals
+</li>
+<li>15/18 extractor (around 220-250 minerals)
+</li>
+<li>15/18 Hatchery
+</li>
+<li>16/18 Overlord
+</li>
+<li>18/18 Lair
+</li>
+<li>21/27 Zergling Speed 
+</li>
+<li>23/27 or 24/27 Overlord (depending on preference)
+</li>
+<li>24/27 2 pairs of Zerglings
+</li>
+<li>Spire as soon as Lair finishes
+</li>
+<li>31/35 Overlord
+</li>
+<li>32/35 4th hatch (Third for faster drones once hatch gets up)
+</li>
+<li>35/35 5th hatch
+</li>
+<li>When spire finishes, be sure to have 43 food possible and make 2 pairs of Scourge. One pair for first Corsair, one for scouting. If you see more Corsairs being produced or a second Corsair, get more Scourge and +1 Air Carapace. Otherwise, you can skip it for earlier Hydra upgrades and earlier Overlord Speed, allowing you to move out safely
+</li>
+<li>38/43 6th Hatch
+</li>
+<li>two Sunken Colonies around 400 Spire health, one at each Natural Expansion
+</li>
+<li>40/43 Hydra Den
+</li>
+<li>42/51 Evo Chamber
+</li>
+<li>42/51 second gas
+</li>
+<li>44/51-47/51 Air Carapace
+</li>
+<li>44/51-47/51 +1 Range Attack
+</li>
+<li>47/51 Overlord Speed
+</li>
+<li>@50 Supply - start Hydra production
+</li>
+</ul>
+<h2><span class="mw-headline" id="Clarification">Clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=3" title="Edit section: Clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>+1 Zealot Timing Attacks</b>
+</li>
+</ul>
+<p>You will need more Sunken Colonies and Zerglings to defend against +1 Speed Zealot timing attacks. The Sunkens should be morphed around the time the Spire finishes and shortly before the +1 timing attack moves out. Usually two or three Sunkens per Natural are needed. During attacks the Zerg should build more Drones, as a good building placement, drone drills and only few Zerglings are enough to block Zealots. After these attacks were defended Hydras should be produced to be able to counter pressure and deny expansions.
+</p><p><br />
+</p>
+<ul>
+<li><b>Overlords</b>
+</li>
+</ul>
+<p>On four player maps the initial two overlords should be sent directly to the close position main bases. This increases the chances to find the opponent directly and thusly enables permanent vision on his natural expansion. Additionally one Overlord will already be in vision of a Natural the Zerg should use for the third expansion. The fourth Overlord should be built in the main base and kept there. This way all three bases will be safe against Dark Templar harass. The third base should not produce Overlords if not needed, as this base should continuously produce drones. 
+</p><p><br />
+</p>
+<ul>
+<li><b>Third Gas Timing</b>
+</li>
+</ul>
+<p>The timings vary and depend on the planned transition. It can be taken around 44 - 50 supply. The earlier the gas is taken, the more gas will be available for Lurker transitions or could be spent on Scourge. At the same time earlier gas also means that the mineral/gas balance will not be perfectly balanced for a while and 
+might lower the Drone saturation on the fourth base. Most Zerg players take the third gas between 47 and 50 supply.
+</p><p><br />
+</p>
+<ul>
+<li><b>Three Base</b>
+</li>
+</ul>
+<p>This build can also be used off three bases instead of four to be more aggressive. Maps like <a href="/starcraft/Sniper_Ridge" title="Sniper Ridge">Sniper Ridge</a> allow the Zerg to transition into a Lurker contain.
+</p><p><br />
+</p>
+<ul>
+<li><b>vs Corsair Play</b>
+</li>
+</ul>
+<p>Air Carapace and a spore at each base are needed against Corsair play. Air carapace serves to defend your overlords, make them harder to kill, and allow your scourge to make contact with +1 Corsairs. Spores are necessary to serve as detection against Sair/DT play, and they help to defend overlords when you need to move out with Hydras.
+</p>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=4" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This should transition into a stable late-game off of eight Hatcheries and four bases. The general idea behind this strategy is to mass Hydralisks while having a solid economy. The units are more used to keep control over the map, rather than to engage in large fights during the mid game. This means that Protoss expansions should be either denied directly or delayed significantly with relatively few units. As a result most times Zerg players transition from the Hydralisks directly into Lurkers to either contain the Protoss or protect the own natural expansions with Spore Colonies. In between this transition a fast Hive allows for a technological advantage in the earlier stages of the late game. 
+</p><p>If the Zerg can contain the Protoss the Lurkers should be constantly reinforced and Observers should be sniped with Scourge to delay any strong army from moving out. If a contain is not an option a control group of Zerglings can be used to deny third bases for as long as possible. Ultimately, a combination of Zerglings with the Adrenaline Glands upgrade and Defilers should be able to both defend the Zerg player's own bases against Dragoon-heavy armies and to easily kill any expansions from Protoss.
+</p><p>After the initial +1 Range attack upgrade it is recommended to use a second Evolution Chamber. If the resources allow it a third should be added to research all three ground unit upgrades. The main focus however should be on the +1 carapace and melee upgrades to support the Ultralisk/Zergling composition in the late game.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=5" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard">Hard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=6" title="Edit section: Hard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Soft">Soft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=7" title="Edit section: Soft">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>+1 Zealot Speed Attack Timings 
+</li>
+</ul>
+<h2><span class="mw-headline" id="Counter_To:">Counter To:</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=8" title="Edit section: Counter To:">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_2">Hard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=9" title="Edit section: Hard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Soft_2">Soft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=10" title="Edit section: Soft">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=11" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Strong">Strong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=12" title="Edit section: Strong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/starcraft/Circuit_Breaker" title="Circuit Breaker">Circuit Breaker</a>
+</p>
+<h2><span class="mw-headline" id="Replays">Replays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=13" title="Edit section: Replays">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a rel="nofollow" target="_blank" class="external text" href="http://repdepot.net/replay.php?id=51338">Jat.Minho vs Minus)Eagle</a>
+</p>
+<h2><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit&amp;section=14" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hydra Transition:
+</p>
+<dl>
+<dd> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?feature=player_embedded&amp;v=plIy78JveoA">Jaedong vs Grape on Circuit Breaker</a>
+</dd>
+<dd> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=IhbElOofzYQ#t=26m04s">Jaedong FPVod on Fighting Spirit</a>
+</dd>
+<dd> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=hZnu3OB8NAg">Roro vs Bisu on Circuit Breaker</a>
+</dd>
+</dl>
+<p>Muta/Scourge Transition:
+</p>
+<dl>
+<dd> <a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=wSfWBNHdbwI">Jaedong vs Grape on La Mancha</a>
+</dd>
+</dl>
+<p>Off Three Base:
+</p>
+<dl>
+<dd> <a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/korean/games/103153_By.Sun_vs_Crazy-Hydra/vod">Crazy_Hydra vs By.Sun</a>
+</dd>
+</dl>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.068 seconds
+Real time usage: 0.071 seconds
+Preprocessor visited node count: 260/1000000
+Preprocessor generated node count: 1274/1000000
+Postâ€?expand include size: 1788/2097152 bytes
+Template argument size: 125/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:12537-0!*!0!!en!2!* and timestamp 20150526200308
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;oldid=120209">http://wiki.teamliquid.net/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;oldid=120209</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Zerg_Build_Orders" title="Category:Zerg Build Orders">Zerg Build Orders</a></li><li><a href="/starcraft/Category:ZvP_Builds" title="Category:ZvP Builds">ZvP Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/6_hatch_(vs._Protoss)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:6_hatch_(vs._Protoss)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=6+hatch+%28vs.+Protoss%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/6_hatch_(vs._Protoss)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/6_hatch_(vs._Protoss)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;oldid=120209" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=6_hatch_(vs._Protoss)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/6_hatch_(vs._Protoss)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:56.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.196 secs. --></body></html>

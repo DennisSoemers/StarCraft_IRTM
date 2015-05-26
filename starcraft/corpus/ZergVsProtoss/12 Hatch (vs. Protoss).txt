@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>12 Hatch (vs. Protoss) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="12 Hatch (vs. Protoss)" href="/starcraft/index.php?title=Special:ExportRDF/12_Hatch_(vs._Protoss)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"12_Hatch_(vs._Protoss)","wgTitle":"12 Hatch (vs. Protoss)","wgCurRevisionId":119996,"wgRevisionId":119996,"wgArticleId":748,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Zerg Strategy stubs","Stubs","Strategies","Zerg Build Orders","ZvP Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"12_Hatch_(vs._Protoss)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119996});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-12_Hatch_vs_Protoss skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">12 Hatch (vs. Protoss)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="margin: -1px auto 0px;border: 1px solid #aaa; border-left: 10px solid rgb(154, 172, 199); background:rgb(250,250,250); width:600px">
+
+<tr>
+<td> <a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="40" height="36" /></a>
+</td>
+<td style="padding: 0.25em 0.5em;"> This article is a <a href="/starcraft/Zerg" title="Zerg">Zerg</a> <a href="/starcraft/Category:Stubs" title="Category:Stubs">stub</a>. You can help Liquipedia by <a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit">expanding it</a>.
+</td></tr></table>
+<div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="21" height="19" /></a> 12 Hatchery vs Protoss</div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">ZvP</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening Build Strategy</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Build_Order_Clarification"><span class="tocnumber">3</span> <span class="toctext">Build Order Clarification</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Transition"><span class="tocnumber">4</span> <span class="toctext">Transition</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Adaptations"><span class="tocnumber">5</span> <span class="toctext">Adaptations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Versus_1_Gate"><span class="tocnumber">5.1</span> <span class="toctext">Versus 1 Gate</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Versus_2_Gate"><span class="tocnumber">5.2</span> <span class="toctext">Versus 2 Gate</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Versus_Proxy_9.2F9_Gateway"><span class="tocnumber">5.2.1</span> <span class="toctext">Versus Proxy 9/9 Gateway</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Versus_9.2F9_Gateway"><span class="tocnumber">5.2.2</span> <span class="toctext">Versus 9/9 Gateway</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Versus_9.2F10_Gateway"><span class="tocnumber">5.2.3</span> <span class="toctext">Versus 9/10 Gateway</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Versus_10.2F10_and_10.2F11_Gateway"><span class="tocnumber">5.2.4</span> <span class="toctext">Versus 10/10 and 10/11 Gateway</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Versus_10.2F12_Gateway"><span class="tocnumber">5.2.5</span> <span class="toctext">Versus 10/12 Gateway</span></a>
+<ul>
+<li class="toclevel-4 tocsection-13"><a href="#Game_Examples_of_2_Gateway_versus_12_Hatchery"><span class="tocnumber">5.2.5.1</span> <span class="toctext">Game Examples of 2 Gateway versus 12 Hatchery</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Versus_Forge_Fast_Expansion"><span class="tocnumber">5.3</span> <span class="toctext">Versus Forge Fast Expansion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Countered_By"><span class="tocnumber">6</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Soft"><span class="tocnumber">6.1</span> <span class="toctext">Soft</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Hard"><span class="tocnumber">6.2</span> <span class="toctext">Hard</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Counter_To"><span class="tocnumber">7</span> <span class="toctext">Counter To</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Soft_2"><span class="tocnumber">7.1</span> <span class="toctext">Soft</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Hard_2"><span class="tocnumber">7.2</span> <span class="toctext">Hard</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Notable_Maps"><span class="tocnumber">8</span> <span class="toctext">Notable Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Strong"><span class="tocnumber">8.1</span> <span class="toctext">Strong</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Weak"><span class="tocnumber">8.2</span> <span class="toctext">Weak</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Mentality"><span class="tocnumber">9</span> <span class="toctext">Mentality</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is an opening build designed to compete with Protoss economically. If scouted early, however, the Protoss can expedite their own fast expansion build order. Against a player of equal skill, this build is considered safe although some variations of <a href="/starcraft/2_Gateway_(vs._Zerg)" title="2 Gateway (vs. Zerg)">2 Gateway (vs. Zerg)</a> pressure can be extremely dangerous.
+</p><p>On 4 Player maps, this build order is very safe and its weaknesses generally cannot be exploited easily due to long rush distances and usually later scouting than on 2 or 3 Player maps. However, there are some exceptions such as <a href="/starcraft/Neo_Requiem" title="Neo Requiem" class="mw-redirect">Neo Requiem</a> (see <a href="/starcraft/12_Hatch_(vs._Protoss)#Notable_Maps" title="12 Hatch (vs. Protoss)">here</a> for more details).
+</p><p>This build is extremely versatile and can branch off into every mid game strategy that the Zerg race has to offer. It gives the Zerg player a strong economy that translates into a stronger mid game and, to a lesser degree, end game, yet if the Protoss goes <a href="/starcraft/14_Nexus_(vs._Zerg)" title="14 Nexus (vs. Zerg)" class="mw-redirect">14 Nexus</a>, they will be economically on par or better than the Zerg player.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>9 - Overlord
+</li>
+<li>12 - Hatchery at the Natural Expansion
+</li>
+<li>11 - Spawning Pool
+</li>
+</ul>
+<h2><span class="mw-headline" id="Build_Order_Clarification">Build Order Clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=3" title="Edit section: Build Order Clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Usually the Hatchery on 12 goes at the natural expansion. However, many Protoss will attempt to deny your placement of the Hatchery at the optimal location either by harassing the expansion Drone with the Scouting Probe, or building a <a href="/starcraft/Pylon" title="Pylon">Pylon</a> at the optimal Hatchery location. In order to counter this, you should send the Drone at the natural to your third, while sending another Drone to your natural. At least one Hatchery will go down.
+</p><p>If the third expansion is too far from your natural, or the third expansion is too close to your opponent, then another course of action would be to misplace the Hatchery at your third such that it partially walls off your natural. At this point, you have a myriad of options available to you, from a <a href="/starcraft/2_Hatch_Hydra_(vs._Protoss)" title="2 Hatch Hydra (vs. Protoss)">2 Hatch Hydra</a> bust to a simple <a href="/starcraft/3_Hatch_Spire_(vs._Protoss)" title="3 Hatch Spire (vs. Protoss)">3 Hatch Muta</a>. Alternatively, you can opt to switch to a <a href="/starcraft/4_Hatch_before_Gas" title="4 Hatch before Gas" class="mw-redirect">4 Hatch before Gas</a> build.
+</p><p>In general, Zerg should not attempt a 12 Hatch build on 2 or 3 player maps, because the risk of getting your natural Hatchery denied is too high. On those maps, an <a href="/starcraft/Overpool_(vs._Protoss)" title="Overpool (vs. Protoss)">Overpool</a> build is preferable.
+</p>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=4" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 12 Hatchery is extremely versatile and can transition into mostly every build that the Zerg can do.  These builds are:
+</p>
+<ul>
+<li><a href="/starcraft/3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)" title="3 Base Spire into 5 Hatch Hydra (vs. Protoss)">3 Base Spire into 5 Hatch Hydra (vs. Protoss)</a>
+</li>
+<li><a href="/starcraft/5_Hatch_Hydra_(vs._Protoss)" title="5 Hatch Hydra (vs. Protoss)" class="mw-redirect">5 Hatch Hydra (vs. Protoss)</a>
+</li>
+<li><a href="/starcraft/4_Hatch_before_Gas_(vs._Protoss)" title="4 Hatch before Gas (vs. Protoss)">4 Hatch before Gas (vs. Protoss)</a>
+</li>
+<li><a href="/starcraft/3_Hatch_Zergling_(vs._Protoss)" title="3 Hatch Zergling (vs. Protoss)">3 Hatch Zergling (vs. Protoss)</a>
+</li>
+<li><a href="/starcraft/3_Hatchery_Lurkers_(vs._Protoss)" title="3 Hatchery Lurkers (vs. Protoss)">3 Hatchery Lurkers (vs. Protoss)</a>
+</li>
+<li><a href="/starcraft/3_Hatch_Spire_(vs._Protoss)" title="3 Hatch Spire (vs. Protoss)">3 Hatch Spire (vs. Protoss)</a>
+</li>
+<li><a href="/starcraft/3_Hatch_Hydralisk_(vs._Protoss)" title="3 Hatch Hydralisk (vs. Protoss)">3 Hatch Hydralisk (vs. Protoss)</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Adaptations">Adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=5" title="Edit section: Adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Versus_1_Gate">Versus 1 Gate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=6" title="Edit section: Versus 1 Gate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In this situation, the Protoss will not have enough Zealots to harass you so four to six Zerglings should be all you need to kill the scouting probe and keep the Protoss player in his base.  If the Protoss player moves out Zerg can either create more Zerglings to stop the attack or attempt to backstab once the units more far enough away from their ramp.
+</p>
+<h3><span class="mw-headline" id="Versus_2_Gate">Versus 2 Gate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=7" title="Edit section: Versus 2 Gate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 2 Gate is a build designed to pressure the fast expanding Zerg.  There are various types of 2 Gate builds that will be covered.  Against any 2 Gate build, the key is to delay as much as possible to get more Zerglings and a better economy.  You should not lose any drones if the Protoss 2 Gates other than the one that built the natural Hatchery, but that one can also be saved.  Against any Protoss that brings Probes, try to snipe the Probes if they are exposed.
+</p>
+<h4><span class="mw-headline" id="Versus_Proxy_9.2F9_Gateway">Versus Proxy 9/9 Gateway</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=8" title="Edit section: Versus Proxy 9/9 Gateway">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Remember that the Protoss economy is weak in this situation and if he cannot damage your economy, you have a big lead.  Against the 9/9 Gateway, you will need to cancel the natural Hatchery, but do not cancel it immediately.  Instead, leave it up until the last second, whether it will die from Zealot hits or whether it will finish building.  If the Protoss player attacks your natural, then you have enough time to pump lings and set up a sunken in your main base.  From here, you will have to defend against his Zealots while trying to macro up.  If he does not wall off your ramp with his Zealots, attempt to sneak 6 Zerglings past his force and attack his main.  At the least it will cause him to pull probes, build cannons, or bring Zealots home to defend.  Build enough Zerglings to match the opponent's Zealot numbers.
+</p><p>From here, you will need to get gas and get a Hydralisk Den.  A good Protoss who did a Proxy 9/9 Gateway build will set up a contain on your ramp with his Zealots.  Build Hydralisks so you can snipe the Zealots, but do not neglect Zerglings because Hydralisks in small numbers do not do well against Zealots.  If you can break out, destroy his Proxy Gateways while sending a small force towards his main if he tries to fall back to his proxy Gateways.  If he has no defenses at his base, a few lings will do a large amount of damage.
+</p>
+<h4><span class="mw-headline" id="Versus_9.2F9_Gateway">Versus 9/9 Gateway</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=9" title="Edit section: Versus 9/9 Gateway">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Unlike against proxy 9/9 Gateways, you should not cancel your Natural Expansion Hatchery, rather you should stall for Zerglings, and then fight with 4-5 Drones and your Zerglings against the Zealots. Once the Natural Expansion Hatchery completes, you should immediately morph two Sunken Colonies, while still producing Zerglings and fighting off the Zealots with Zerglings and Drones. Once the Sunken Colonies are in place, you should be relatively safe, and can produce drones and start your extractor. Make sure to keep the Zealot numbers in mind though, you might have to add additional Sunken Colonies if you keep making drones and the Protoss keeps building Zealots.
+</p>
+<h4><span class="mw-headline" id="Versus_9.2F10_Gateway">Versus 9/10 Gateway</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=10" title="Edit section: Versus 9/10 Gateway">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>With this build, the Protoss will have the economy to send additional Probes with his Zealots.  Again, delay the Protoss for as long as possible to get a sunken up at your main base.  You will have to cancel your natural Hatchery when it is almost done because you cannot hold it.  Depending on the size of the map, it may be possible to let your natural Hatchery finish and use that to pump Zerglings.  However, if you prevent any drones from getting sniped at your main, then you will be ahead.  Generally, these games play out similarly to the 9/9 Gateway, the only difference being the timing of the 3rd Zealot.
+</p><p>Snipe the Probes if you have the chance.
+</p>
+<h4><span class="mw-headline" id="Versus_10.2F10_and_10.2F11_Gateway">Versus 10/10 and 10/11 Gateway</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=11" title="Edit section: Versus 10/10 and 10/11 Gateway">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>These builds are the halfway point between the 9/9 Gateway and the 10/12 Gateway.  The Protoss will have a better economy, but his Zealots will be later.  If the Protoss went for either of these builds, you do not need to cancel your natural Hatchery because you can hold onto it with proper Zergling micro.  Before the natural Hatchery finishes, send two Drones to the natural.  Build two Creep Colonies with those Drones as soon as the Hatchery finishes.  Use your Zerglings to delay the Protoss as much as possible so you can get your Sunken Colonies up.  Do not let the Protoss run into your main.  Camp at your ramp if needed.
+</p><p>If you fended it off, make sure to scout his Zealot count with your Overlords and your Zerglings.  Start pumping Drones once you're sure that the Protoss has stopped producing Zealots.  If the Protoss tries to attack, let some of his Zealots hit the Sunken Colonies, because your Zerglings are much better damage dealers.  However, try not to let the Sunken Colonies be completely exposed because you don't want to replace them.
+</p>
+<h4><span class="mw-headline" id="Versus_10.2F12_Gateway">Versus 10/12 Gateway</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=12" title="Edit section: Versus 10/12 Gateway">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>With this build, the 2nd and 3rd Zealot comes a lot later than either of the previous two builds.  The same advice applies here as for the above.
+</p>
+<h5><span class="mw-headline" id="Game_Examples_of_2_Gateway_versus_12_Hatchery">Game Examples of 2 Gateway versus 12 Hatchery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=13" title="Edit section: Game Examples of 2 Gateway versus 12 Hatchery">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=9AJ84ThyjXU">sAviOr vs. Much OSL 10/12 Gateway</a>
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=k0nsGxesgIs">sAviOr vs. Nal_rA MSL 10/10 Gateway</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Versus_Forge_Fast_Expansion">Versus Forge Fast Expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=14" title="Edit section: Versus Forge Fast Expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Against a Forge Fast Expansion, the early Zerglings can be delayed in favor of Drones since Protoss is not going for an early zealot push. So, the Zerg player holds the initiative in here that his continuation will determine the flow of the game.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=15" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Soft">Soft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=16" title="Edit section: Soft">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/2_Gateway_(vs._Zerg)" title="2 Gateway (vs. Zerg)">2 Gateway (vs. Zerg)</a> (on maps with short rush distances, like <a href="/starcraft/Longinus" title="Longinus">Longinus</a>)
+</li>
+</ul>
+<h3><span class="mw-headline" id="Hard">Hard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=17" title="Edit section: Hard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/index.php?title=Proxy_Gateways_(vs._Zerg)&amp;action=edit&amp;redlink=1" class="new" title="Proxy Gateways (vs. Zerg) (page does not exist)">Proxy Gateways (vs. Zerg)</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Counter_To">Counter To</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=18" title="Edit section: Counter To">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Soft_2">Soft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=19" title="Edit section: Soft">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/2_Gateway_(vs._Zerg)" title="2 Gateway (vs. Zerg)">2 Gateway (vs. Zerg)</a> on four player maps, or maps with long rush distances.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Hard_2">Hard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=20" title="Edit section: Hard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>None
+</p>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=21" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Strong">Strong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=22" title="Edit section: Strong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Maps with long distances between starting locations or on 4 Player Maps.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Weak">Weak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=23" title="Edit section: Weak">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Maps with close starting positions.
+</li>
+<li>On two player maps, most Protoss' initial Probe will arrive in time to interfere with your 12 Hatchery placement. However, this is not a reason to rule out going with this build. See <a href="/starcraft/12_Hatch_(vs._Protoss)#Build_Order_Clarification" title="12 Hatch (vs. Protoss)">here</a>.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=24" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>You should generally use the 12 Hatchery build to get strong economy as quickly as possible with the minimal number of units and structures required for defense. This mindset should hold until you transition into your mid/late game Zerg build of choice.
+</li>
+<li>On many maps with long enough rush distances, the number of Hatcheries you have should allow you to quickly build enough Zerglings to survive unexpected early-game harassment attacks if you scout the Protoss when they first move out of their base. Because of this, you should not feel behind defensively in the latter part of the early game.
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit&amp;section=25" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/starcraft/12_Hatch_(vs._Terran)" title="12 Hatch (vs. Terran)">12 Hatch (vs. Terran)</a>
+</li>
+<li><a href="/starcraft/12_Hatch_(vs._Zerg)" title="12 Hatch (vs. Zerg)">12 Hatch (vs. Zerg)</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.112 seconds
+Real time usage: 0.121 seconds
+Preprocessor visited node count: 336/1000000
+Preprocessor generated node count: 1556/1000000
+Postâ€?expand include size: 2742/2097152 bytes
+Template argument size: 360/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:748-0!*!0!!en!2!* and timestamp 20150522032915
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;oldid=119996">http://wiki.teamliquid.net/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;oldid=119996</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Zerg_Strategy_stubs" title="Category:Zerg Strategy stubs">Zerg Strategy stubs</a></li><li><a href="/starcraft/Category:Stubs" title="Category:Stubs">Stubs</a></li><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Zerg_Build_Orders" title="Category:Zerg Build Orders">Zerg Build Orders</a></li><li><a href="/starcraft/Category:ZvP_Builds" title="Category:ZvP Builds">ZvP Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/12_Hatch_(vs._Protoss)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/starcraft/index.php?title=Talk:12_Hatch_(vs._Protoss)&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=12+Hatch+%28vs.+Protoss%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/12_Hatch_(vs._Protoss)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/12_Hatch_(vs._Protoss)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;oldid=119996" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=12_Hatch_(vs._Protoss)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/12_Hatch_(vs._Protoss)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:52.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.279 secs. --></body></html>

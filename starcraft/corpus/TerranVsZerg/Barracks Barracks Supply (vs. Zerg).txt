@@ -65,7 +65,7 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <div class="infobox-cell-2 infobox-description">Type:</div>
 <div class="infobox-cell-2">Opening</div>
 </div></div>
-<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
 </div>
 <h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Barracks_Barracks_Supply_(vs._Zerg)&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p>The <b>Barracks Barracks Supply</b> build, also called <b>BBS</b>, consists of building two Barracks before a Supply Depot is made. Because it is very difficult to transition out of BBS it is considered an all-in build. It is capable of being used in any match-up, but it is most successful when the opponent either Fast Expands or Techs quickly. In many instances it is used as a surprise tactic, and is often utilized as a <a href="/starcraft/Proxy" title="Proxy">proxy</a> to maximize the killing blow.
@@ -83,8 +83,8 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.068 seconds
-Real time usage: 0.078 seconds
+CPU time usage: 0.060 seconds
+Real time usage: 0.076 seconds
 Preprocessor visited node count: 212/1000000
 Preprocessor generated node count: 1214/1000000
 Postâ€?expand include size: 1666/2097152 bytes
@@ -93,7 +93,7 @@ Highest expansion depth: 5/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:3203-0!*!0!!*!2!* and timestamp 20150425132323
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:3203-0!*!0!!*!2!* and timestamp 20150526054225
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Barracks_Barracks_Supply_(vs._Zerg)&amp;oldid=120105">http://wiki.teamliquid.net/starcraft/index.php?title=Barracks_Barracks_Supply_(vs._Zerg)&amp;oldid=120105</a>"</div>

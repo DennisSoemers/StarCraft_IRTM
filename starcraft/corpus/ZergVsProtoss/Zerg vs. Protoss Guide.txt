@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Zerg vs. Protoss Guide - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="Zerg vs. Protoss Guide" href="/starcraft/index.php?title=Special:ExportRDF/Zerg_vs._Protoss_Guide&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Zerg_vs._Protoss_Guide","wgTitle":"Zerg vs. Protoss Guide","wgCurRevisionId":123274,"wgRevisionId":123274,"wgArticleId":481,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Zerg Build Orders","ZvP Builds","Matchup Guides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Zerg_vs._Protoss_Guide","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":123274});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Zerg_vs_Protoss_Guide skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Zerg vs. Protoss Guide</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="21" height="19" /></a> Zerg vs. Protoss - Openings</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:ZvP.png&amp;filetimestamp=20090307010846&amp;" class="image"><img alt="" src="/starcraft/images/thumb/6/61/ZvP.png/294px-ZvP.png" width="294" height="221" srcset="/starcraft/images/thumb/6/61/ZvP.png/441px-ZvP.png 1.5x, /starcraft/images/thumb/6/61/ZvP.png/588px-ZvP.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-center"><small>Late game ZvP</small></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">ZvP</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_Game"><span class="tocnumber">1</span> <span class="toctext">Early Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Standard_Build_Orders"><span class="tocnumber">1.1</span> <span class="toctext">Standard Build Orders</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Build_Order_Comparisons"><span class="tocnumber">1.1.1</span> <span class="toctext">Build Order Comparisons</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-4"><a href="#Cheeses"><span class="tocnumber">1.2</span> <span class="toctext">Cheeses</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Greedy_Build_Orders"><span class="tocnumber">1.3</span> <span class="toctext">Greedy Build Orders</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Midgame:_Lair_Tech"><span class="tocnumber">2</span> <span class="toctext">Midgame: Lair Tech</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Choices"><span class="tocnumber">2.1</span> <span class="toctext">Choices</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Spire_First"><span class="tocnumber">2.1.1</span> <span class="toctext">Spire First</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Hydra_Den_First"><span class="tocnumber">2.1.2</span> <span class="toctext">Hydra Den First</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Builds"><span class="tocnumber">2.2</span> <span class="toctext">Builds</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Cheeses_2"><span class="tocnumber">2.3</span> <span class="toctext">Cheeses</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#All-in_Mutalisks"><span class="tocnumber">2.3.1</span> <span class="toctext">All-in Mutalisks</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#All-in_Lurker_Drop"><span class="tocnumber">2.3.2</span> <span class="toctext">All-in Lurker Drop</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Late_Game:_Hive_Tech"><span class="tocnumber">3</span> <span class="toctext">Late Game: Hive Tech</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Standard_Late_Game_Zerg_vs._Protoss"><span class="tocnumber">3.1</span> <span class="toctext">Standard Late Game Zerg vs. Protoss</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Vs._Carrier.2FCorsair"><span class="tocnumber">3.2</span> <span class="toctext">Vs. Carrier/Corsair</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Overview"><span class="tocnumber">3.2.1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Detailed_Strategy"><span class="tocnumber">3.2.2</span> <span class="toctext">Detailed Strategy</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_Game">Early Game</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=1" title="Edit section: Early Game">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Standard_Build_Orders">Standard Build Orders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=2" title="Edit section: Standard Build Orders">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Early game builds can be separated into <a href="/starcraft/Pool" title="Pool" class="mw-redirect">Pool</a> first builds and <a href="/starcraft/Hatchery" title="Hatchery">Hatchery</a> first builds. The early game is primarily devoted to building up your economy rather than actually assaulting the Protoss due to the relative safety of the Protoss <a href="/starcraft/Forge_FE" title="Forge FE" class="mw-redirect">Forge Fast Expansion</a>. There are some exceptions, but it is generally hard to take advantage of a good Protoss wall in the early game unless it is either poorly constructed or he carelessly leaves openings in his wall.
+</p><p>Standard opening builds to choose from are as follows. A quick overview is provided, but a more detailed summary is provided in the main article.
+</p>
+<ul>
+<li><a href="/starcraft/9_Pool_Speed_(vs._Protoss)" title="9 Pool Speed (vs. Protoss)">9 Pool Speed</a> - An aggressive build that has generally fallen out of usage.
+</li>
+<li><a href="/starcraft/9_Pool_(vs._Protoss)" title="9 Pool (vs. Protoss)">9 Pool</a> - A build that gets a fast Pool, but keeps a relatively strong economy.
+</li>
+<li><a href="/starcraft/Overpool_(vs._Protoss)" title="Overpool (vs. Protoss)">Overpool</a> - A slightly slower Pool, but gets the strongest economy while still taking the initiative with Zerglings.
+</li>
+<li><a href="/starcraft/12_Hatch_(vs._Protoss)" title="12 Hatch (vs. Protoss)">12 Hatch</a> - The most economical build order, but also the riskiest. It is still generally safe.
+</li>
+</ul>
+<h4><span class="mw-headline" id="Build_Order_Comparisons">Build Order Comparisons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=3" title="Edit section: Build Order Comparisons">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Choosing the proper early game build order will undoubtedly depend on either the map or an overall strategy that you have planned out. In general, 12 Hatch is the best option on 4 Player maps with few exceptions, and 9 Pool or Overpool is best on all other maps. This is because of early game Protoss scouting patterns. In the modern <a href="/starcraft/Forge_FE" title="Forge FE" class="mw-redirect">Forge FE</a>, Protoss players will always scout after their initial Pylon. If the Probe takes a direct path to your main and natural, then the Protoss can deny your natural with the Probe for a long time since you will not have Zerglings out to fend off the Probe. Therefore, it's much safer and easier to just 9 Pool or Overpool and take a fast Natural Hatchery immediately after. This provides solid protection against any 2 Gate builds that the Protoss does. In addition, the presence of early zerglings forces the Protoss to build 1 or 2 cannons before his nexus, thus slowing his economy and negating the economic hit the Zerg takes for going pool first.
+</p><p>9 Pool Speed is almost never seen today because it offers an extremely poor economy for little payoff. The danger it poses is quickly negated by a proper wall-in by the Protoss.
+</p><p>(Note: Work in Progress - Feel free to edit this as you please)
+</p>
+<h3><span class="mw-headline" id="Cheeses">Cheeses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=4" title="Edit section: Cheeses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Early game Zerg cheeses revolve around a quick Pool and ending the game before Cannons can go up for the Protoss.
+</p>
+<ul>
+<li><a href="/starcraft/5_Pool_(vs._Protoss)" title="5 Pool (vs. Protoss)">5 Pool (vs. Protoss)</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Greedy_Build_Orders">Greedy Build Orders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=5" title="Edit section: Greedy Build Orders">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These builds tend to be much less common, as this delays fighting units as well as tech for longer than usual. Generally these builds transition into a more late game driven strategy such as <a href="/starcraft/5_Hatch_Hydra_(vs._Protoss)" title="5 Hatch Hydra (vs. Protoss)" class="mw-redirect">5 Hatch Hydra</a>.
+</p>
+<ul>
+<li><a href="/starcraft/3_Hatch_before_Pool" title="3 Hatch before Pool">3 Hatch before Pool</a>
+</li>
+<li><a href="/starcraft/4_Hatch_before_Gas" title="4 Hatch before Gas" class="mw-redirect">4 Hatch before Gas</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Midgame:_Lair_Tech">Midgame: Lair Tech</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=6" title="Edit section: Midgame: Lair Tech">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In most ZvP's, this is the longest part of the game, and is therefore highly variable. This stage in the game is usually characterized by the Zerg attempting to both hold off the Protoss army and prevent Protoss from securing their third base. Zerg should also ideally be looking to secure a fourth gas, which creates a much stronger foundation for Hive tech. 
+</p>
+<h3><span class="mw-headline" id="Choices">Choices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=7" title="Edit section: Choices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are two major lair tech branches- the mutalisk and the lurker. Both of the tech choices counter aggressive zealot pushes very well and are designed to defend against Psionic Storm. Neither of them directly counter corsair/reaver or corsair/dt, but with micro and planning, both can prevent corsair reaver and corsair dt from doing damage to your economy. 
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Spire_First">Spire First</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=8" title="Edit section: Spire First">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>With a spire first, you can use your muta to snipe ht as they come out, as well as force the protoss player to build cannons in their mineral lines, and reach a critical mass of corsairs before they can move out. If you can go spire first correctly, you can force the protoss player to take even longer to reach a critical mass of corsairs, and allow your economy to build up as much as possible. Also, going spire first allows you to keep the first scouting corsair inside of the protoss player's base, and allows you to see what the protoss player is doing (either <a href="/starcraft/Sair/Reaver" title="Sair/Reaver" class="mw-redirect">Sair/Reaver</a> or <a href="/starcraft/Sair/DT" title="Sair/DT" class="mw-redirect">Sair/DT</a>)
+</p>
+<h4><span class="mw-headline" id="Hydra_Den_First">Hydra Den First</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=9" title="Edit section: Hydra Den First">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>With a hydra den first, you can force the protoss to stay contained inside of their base with their ground forces. <a href="/starcraft/Storm_Dodging" title="Storm Dodging">Storm Dodging</a> is a must, as psistorm is the only attack that really allows protoss to do enough damage against a large hydra mass. A soft counter to a large number of hydralisks are zealots and reavers.
+</p>
+<h3><span class="mw-headline" id="Builds">Builds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=10" title="Edit section: Builds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/starcraft/3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)" title="3 Base Spire into 5 Hatch Hydra (vs. Protoss)">3 Base Spire into 5 Hatch Hydra (vs. Protoss)</a>
+</p>
+<h3><span class="mw-headline" id="Cheeses_2">Cheeses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=11" title="Edit section: Cheeses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ZvP Midgame cheeses generally take advantage of a specific timing where Protoss is extremely vulnerable to mass units. There is a small timing window right before the Protoss player gets Storm that can be exploited by Zerg. If the Protoss player doesn't add any additional Cannons past his original 2, then he'll have a tough time fending off these cheeses.
+</p><p>One extremely important element in these builds (as well as in all cheese) is denying the scout. All-in builds generally fail miserably if the opponent can scout exactly what you're doing and when you're attacking. The Zergling Speed upgrade mentioned above is one of the most effective ways a Zerg can deny scouting. By doing an Overpool or 9 Pool build a Zerg can get the speed upgrade very quickly, and quickly shut down any probe scouting attempts. This leaves the Protoss player in the dark, giving the all-in a much higher chance of success. 
+</p>
+<ul>
+<li><a href="/starcraft/2_Hatch_Hydra_(vs._Protoss)" title="2 Hatch Hydra (vs. Protoss)">2 Hatch Hydra</a>
+</li>
+<li><a href="/starcraft/3_Hatch_Hydra" title="3 Hatch Hydra" class="mw-redirect">3 Hatch Hydra</a>
+</li>
+<li><a href="/starcraft/3_Hatch_Zergling_(vs._Protoss)" title="3 Hatch Zergling (vs. Protoss)">3 Hatch Zergling</a>
+</li>
+</ul>
+<h4><span class="mw-headline" id="All-in_Mutalisks">All-in Mutalisks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=12" title="Edit section: All-in Mutalisks">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/starcraft/2_Hatch_Muta_(vs._Protoss)" title="2 Hatch Muta (vs. Protoss)">2 Hatch Muta (vs. Protoss)</a> can be very effective if you can pull it off without being scouted. Protoss needs two cannons or so in their mineral lines to deal with 5 Muta, and you can spare one larvae to kill the first corsair. The timing is such that your Muta/Scourge end up getting there at about the same time that the first corsair gets out. The reason this build is an all-in is because of your limited Hatch count. With only two Hatches you'll have less Drones at your main and natural, as well as one less expansion than you regularly would. Because of this, you won't be able to tech switch nearly as easily as you can in a regular ZvP, so you will be locked into making Mutas for at least the early to middle portion of the game.
+</p><p>The ideal situation for this build is to completely shut down one Protoss Nexus, but even if you can't prevent them from getting Cannons in time, you can still inflict damage on their base. 
+</p><p>At first you'll have a small group of Mutas. At this point you should fly around their base looking for spaces that aren't covered by Cannons to make <a href="/starcraft/Muta_Harass" title="Muta Harass" class="mw-redirect">Muta Harass</a> that much easier. Some common examples include tech buildings that are too far from Cannons, and even better, an Assimilator. If you can keep attacking an Assimilator, you can not only cut down on a Protoss gas supply by eventually destroying it, but you can indirectly kill Probes thanks to the Mutas attack. While doing this with your initial group of Mutas, you should of course be pumping more Mutas as your Larva and gas allow. 
+</p><p>When you have a decently sized group of Mutas (I would say seven Mutas and up), you can start taking advantage of the <a href="/starcraft/Muta_Harass" title="Muta Harass" class="mw-redirect">Muta Harass</a> abilities and start doing hit and run attacks on Probes. You'll be able to eliminate them in one hit, and you should have enough Mutas to absorb enough Cannon hits to knock off Probes regardless. Again, the Probes mining gas will most likely be the easiest to pick off since they'll generally be farthest from the Cannons, but they'll hurt the Protoss the most as well by slowing down their gas supply, which is extremely important at this stage of the game.
+</p><p>If you see them pumping Sairs, they'll be keeping them around Cannons until they have a big enough group to kill Scourge and obliterate your Mutas. To prevent their numbers from growing too large, throw in some more Scourge along with your Muta pump, and snipe the Sairs by drawing cannon fire with Mutas.
+</p><p>Keep in mind that all of these things are done in a very short amount of time. All-in Mutas in ZvP depend on catching a Protoss player off guard, and when you succeed in that you need to keep them down the entire game, or at least enough to get your Hatch, tech, and expansion count up to finish them off with something else.
+</p>
+<h4><span class="mw-headline" id="All-in_Lurker_Drop">All-in Lurker Drop</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=13" title="Edit section: All-in Lurker Drop">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/starcraft/2_Hatch_Lurker" title="2 Hatch Lurker" class="mw-redirect">2 Hatch Lurker</a>
+</li>
+<li><a href="/starcraft/1_Hatch_Lurker" title="1 Hatch Lurker">1 Hatch Lurker</a>
+</li>
+</ul>
+<p>Both of these builds can be modified with researching overlord drop. You almost never see these builds without drop because of the cannons in front of the natural in the standard Forge-first PvZ. Dropping the lurkers allows the player to bypass the cannons in the front to attack the Protoss main base.
+</p>
+<h2><span class="mw-headline" id="Late_Game:_Hive_Tech">Late Game: Hive Tech</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=14" title="Edit section: Late Game: Hive Tech">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Protoss late game army will generally consist of a mixture of zealots, dragoons, high templar, archons, and dark templar.  Generally, the proportion of zealots and archons are greater than the other units.  The standard Zerg late game army should consist of ultralisks, zerglings, and defilers, although this can change if the Protoss wields an unusual unit composition (such as mass corsair and dark templar).  Zerglings should be fully upgraded and are the primary damage dealers of the army while the ultralisks are meant to soak up damage from the enemy units.
+</p><p>Sometimes, Protoss players that did the Corsair/Reaver build in the Mid-Game will opt to transition into carriers and corsairs.  This style of play is covered in its own section below.
+</p>
+<h3><span class="mw-headline" id="Standard_Late_Game_Zerg_vs._Protoss">Standard Late Game Zerg vs. Protoss</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=15" title="Edit section: Standard Late Game Zerg vs. Protoss">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Late game Zerg vs. Protoss consists of a battle for bases between the two races.  As Protoss's main and natural are generally depleted by this stage of the game, and Zerg's main and natural are running out, the naturals cease to be a major target.  Zerg should focus on diverting Protoss's attention from base hunting as much as possible.  This can be done by attacking Protoss expansions or dropping the Protoss main.  A direct confrontation with the main Protoss army should be avoided until Zerg has +3 Carapace to match the Protoss +3 Attack since Zerglings die upon being hit twice if the attack upgrades of the zealot are higher than the carapce upgrades of the zergling.
+</p><p>Although nydus canals are not as useful in Zerg vs. Protoss as they are in Zerg vs. Terran, nydus canals allow for the Zerg army to flank a Protoss army that is trying to attack a base.  However, caution must be exercised in using a nydus canal because a storm on top of it will destroy or severely damage any Zerg units that pop out of it.  On maps such as <a href="/starcraft/God%27s_Garden" title="God's Garden">God's Garden</a>, <a href="/starcraft/Andromeda" title="Andromeda">Andromeda</a>, or <a href="/starcraft/Neo_Medusa" title="Neo Medusa" class="mw-redirect">Neo Medusa</a>, where there are 3 bases inside a standard main base, nydus canals should be used to deny the Protoss the opportunity of sniping hatcheries with zealots.
+</p><p>Although defilers do not see as much usage as against Terran, they remain very useful.  Since Protoss expansions are generally guarded by cannons, a dark swarm accompanied by 12 cracklings can snipe a nexus relatively quickly.  This tactic should be abused constantly, which forces the Protoss to keep high templar or reavers near the expansion unless he is willing to lose it.  This will decrease the overall size of the Protoss army and remove 6 storms or 1 archon from the Protoss army for each expansion that the Protoss has.  Dark Swarm has another major use; an army heavy on dragoons and archons (as late game Protoss armies often are) is far easier to fight under the swarm, which shuts down dragoon damage and reduces archons to splash damage only.
+</p><p>Defilers are also useful for their plague spell.  This spell can halve the amount of damage that your forces need to do in order to defeat the Protoss army.  Plague should be abused whenever possible because unlike Terran, the Protoss do not have any way of healing damage to hit points.
+</p><p>One important tactic in late game Zerg vs. Protoss is the use and abuse of drops.  Cracklings (fully upgraded Zerglings) are very strong at taking down buildings.  In particular, buildings can be focus fired by cracklings to take them down extremely quickly.  It is particularly important to snipe key tech buildings, especially the templar archives, to stop production of archons for a short while.  After the templar archives has been destroyed, cracklings should be used to target gateways or a large grouping of pylons to delay Protoss production.
+</p><p>Ultralisks can be included in drops to soak up damage, as well as defilers if the area has many cannons.  However, it is important to read the army movements of the Protoss.  If the Protoss is not moving towards your base to take out all of your tech, or an expansion to kill it, then he is returning to his base to take out the drop.  While the Protoss is distracted with the units in his main, the Zerg main army should attack an expansion and take it out.  Preferable targets are main bases where the Protoss might have two expansions.  At the very least, taking out one expansion is crucial to defeating Protoss late game because the Protoss late game army is much stronger than the Zerg late game army given equal resources.
+</p><p>During the late game, some Protoss like to build around 5-7 corsairs and go overlord hunting.  This is especially devastating for the Zerg because the standard Zerg late-game army lacks anti-air. Depending on the number of corsairs, either scourge or hydralisks are the counter. Scourge are gas-heavy and unreliable once the corsairs reach 5 or more in number, and in that case hydralisks should be built. 
+</p><p>Along with the corsairs, a Protoss might make a switch to a Corsair/Dark Templar/Dragoon/High Templar army late game given enough bases.  The proper counter is to not allow the Protoss to have so much gas in the first place, but if you encounter this army composition, then it is vital for Zerg to counter this properly.  The Protoss will try to kill any accompanying Overlords with his dragoons and corsairs, leaving the Zerg army helpless.  Zerg should shift production from Ultraling to Ultra/Hydra to counter this because the Protoss cannot have enough high templar with this build to effectively storm all the hydras, and the dragoons and dark templar form a wall preventing high templar from passing.  Overlords should be set to follow the Zerg army rather than be grouped with it in a hotkey.  A useful upgrade to have when facing this build is the Antennae upgrade for Zerg since it increases the sight range of overlords, allowing the Zerg to see the dark templar even with overlords farther back than usual.
+</p><p>A final note to keep in mind when fighting all late-game (or late mid-game) Protoss armies is the importance of watching for drops. Storm drops, DT drops and even zealot drops can devastate an unprepared zerg by slaughtering drones, killing tech buildings or even killing the hive. Properly positioned overlords and available scourge are essential for fending off drops.
+</p>
+<h3><span class="mw-headline" id="Vs._Carrier.2FCorsair">Vs. Carrier/Corsair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=16" title="Edit section: Vs. Carrier/Corsair">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the Protoss was able to make the Corsair/Reaver build cost effective in the midgame and secured 3 or more gases in the midgame, then he may opt to transition to a Carrier/Corsair build.  This build is only effective on maps where carriers in Protoss vs. Terran would be viable and where Corsair/Reaver is viable.  These maps have several distinct features:
+</p>
+<ul>
+<li>There must be a third base with gas on an island.
+</li>
+<li>There must be a sufficient amount of cliffs on the map to micro carriers with.
+</li>
+<li>There must be space that is either inaccessible to land units or where land units rarely go to allow mobility for the slow carriers.
+</li>
+</ul>
+<p>Carrier/Corsair play on maps without these features is stupid and the Zerg will be able to take down the carriers in short fashion.
+</p>
+<h4><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=17" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Once the Protoss has been revealed to have gone Carrier/Corsair, several spells are needed to counter the unit combination.  First, it is crucial to get at least one Queen.  While this unit does not see play in normal games, the parasite spell that it has is a vital component of the Zerg arsenal against Carrier/Corsair.  By parasiting a carrier, the Zerg player now has vision over the entire carrier group and knows exactly where the group is going to strike next, allowing the Zerg the ability to prepare for the Protoss attack.
+</p><p>Another vital spell for fighting Carrier/Corsair is plague.  When plague is cast on the carriers and accompanying corsairs, they become much easier to pick off.  In addition, if plague is cast on the interceptors, then the AI of the interceptors will tell them to return to the carrier to heal, but since they're constantly being damaged, they will never come out again.  Therefore, the carrier fleet is forced to retreat since it cannot fight.  Finally, dark swarm completely nullifies the attack of the carrier and interceptors.  Although the corsair can cast disruption web over the dark swarm, the duration of the disruption web is much shorter than that of the dark swarm, so the Protoss player will be forced to recast disruption web again.
+</p><p>The correct unit combination to counter a carrier/corsair army is hydralisk/defiler.  The defiler provides the plague and swarm spells, and the hydralisk provides the anti-air.  Occasionally, devourers are also seen, but only in small numbers.  Some zerglings might also be included as consumable material for the defiler.
+</p><p>In terms of tech, Zerg should continue upgrading melee, ranged, and carapace since the Protoss might transition into a ground army, and upgraded zerglings are very efficient at tearing down buildings.
+</p><p>Economy should not be a problem since Zerg should have mass expanded against the corsair/reaver build that the Protoss was running.
+</p>
+<h4><span class="mw-headline" id="Detailed_Strategy">Detailed Strategy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit&amp;section=18" title="Edit section: Detailed Strategy">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Once the parasite is on the carrier, the Zerg should be able to track the movements of the carrier fleet.  Since the carrier fleet is very, very slow and you know where it is, the Zerg player should abuse drops as much as possible on Protoss expansions and the Protoss main base.  When the Protoss fleet is away from an expansion, it should be attacked through drops or a direct assault with a small squad of hydra/ling/defiler.  This unit composition nullifies the cannons that will be guarding the base, and any leftover reavers will attack the zerglings while the hydralisks snipe them.
+</p><p>Remember that against corsair/carrier, a small group of hydras with defiler support can hold almost indefinitely against the carrier fleet.  So if the protoss decides to counterattack against your base with his fleet while you're destroying his expos, throw down a dark swarm and hide your hydralisks underneath it.  If the Protoss tries to run past, run out from underneath the dark swarm and snipe his carriers.
+</p><p>If the corsair count is dwindling, then don't forget that scourge is a viable option.  A good tactic is to engage the Protoss with a small amount of devourers that keep the corsairs distracted (make sure they have air carapace upgrades) while scourge come in from behind and snipe carriers.
+</p><p>If you can keep the base count of the Protoss down while maintaining your base count, then you'll win because carriers are very expensive in terms of resources.  Each carrier costs 550 minerals and 250 gas (including interceptor cost).
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.108 seconds
+Real time usage: 0.135 seconds
+Preprocessor visited node count: 270/1000000
+Preprocessor generated node count: 1262/1000000
+Postâ€?expand include size: 1617/2097152 bytes
+Template argument size: 143/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:481-0!*!0!!en!2!* and timestamp 20150520060213
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;oldid=123274">http://wiki.teamliquid.net/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;oldid=123274</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Zerg_Build_Orders" title="Category:Zerg Build Orders">Zerg Build Orders</a></li><li><a href="/starcraft/Category:ZvP_Builds" title="Category:ZvP Builds">ZvP Builds</a></li><li><a href="/starcraft/Category:Matchup_Guides" title="Category:Matchup Guides">Matchup Guides</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/Zerg_vs._Protoss_Guide" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:Zerg_vs._Protoss_Guide" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=Zerg+vs.+Protoss+Guide" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/Zerg_vs._Protoss_Guide" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/Zerg_vs._Protoss_Guide" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;oldid=123274" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=Zerg_vs._Protoss_Guide&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/Zerg_vs._Protoss_Guide" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 13 February 2015, at 10:32.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.277 secs. --></body></html>

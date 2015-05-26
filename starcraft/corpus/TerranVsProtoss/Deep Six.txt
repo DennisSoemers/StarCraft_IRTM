@@ -390,16 +390,16 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <!-- 
 NewPP limit report
 CPU time usage: 0.720 seconds
-Real time usage: 0.804 seconds
-Preprocessor visited node count: 2931/1000000
-Preprocessor generated node count: 7097/1000000
-Postâ€?expand include size: 18019/2097152 bytes
-Template argument size: 4115/2097152 bytes
+Real time usage: 0.866 seconds
+Preprocessor visited node count: 2973/1000000
+Preprocessor generated node count: 7120/1000000
+Postâ€?expand include size: 18131/2097152 bytes
+Template argument size: 4185/2097152 bytes
 Highest expansion depth: 8/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:623-0!*!0!!en!2!* and timestamp 20150424144541
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:623-0!*!0!!en!2!* and timestamp 20150524010103
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=Deep_Six_(vs._Protoss)&amp;oldid=119978">http://wiki.teamliquid.net/starcraft/index.php?title=Deep_Six_(vs._Protoss)&amp;oldid=119978</a>"</div>
@@ -610,4 +610,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.116 secs. --></body></html>
+<!-- Served in 1.018 secs. --></body></html>

@@ -189,17 +189,17 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.076 seconds
-Real time usage: 0.095 seconds
-Preprocessor visited node count: 306/1000000
-Preprocessor generated node count: 2219/1000000
-Postâ€?expand include size: 2863/2097152 bytes
-Template argument size: 556/2097152 bytes
+CPU time usage: 0.116 seconds
+Real time usage: 0.140 seconds
+Preprocessor visited node count: 312/1000000
+Preprocessor generated node count: 2242/1000000
+Postâ€?expand include size: 2880/2097152 bytes
+Template argument size: 567/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:129-0!*!0!!en!2!* and timestamp 20150426170622
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:129-0!*!0!!en!2!* and timestamp 20150520031737
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=SK_Terran&amp;oldid=119803">http://wiki.teamliquid.net/starcraft/index.php?title=SK_Terran&amp;oldid=119803</a>"</div>
@@ -410,4 +410,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.220 secs. --></body></html>
+<!-- Served in 0.278 secs. --></body></html>

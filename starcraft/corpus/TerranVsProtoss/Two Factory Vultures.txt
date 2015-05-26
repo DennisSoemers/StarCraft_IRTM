@@ -166,8 +166,8 @@ Theoretically, it is possible to transition into a contain in front of the enemy
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.136 seconds
-Real time usage: 0.161 seconds
+CPU time usage: 0.124 seconds
+Real time usage: 0.146 seconds
 Preprocessor visited node count: 377/1000000
 Preprocessor generated node count: 2136/1000000
 Postâ€?expand include size: 3478/2097152 bytes
@@ -176,7 +176,7 @@ Highest expansion depth: 7/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:290-0!*!0!!en!2!* and timestamp 20150421064357
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:290-0!*!0!!en!2!* and timestamp 20150522105745
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=2_Fact_Vult/Mines_(vs._Protoss)&amp;oldid=119859">http://wiki.teamliquid.net/starcraft/index.php?title=2_Fact_Vult/Mines_(vs._Protoss)&amp;oldid=119859</a>"</div>
@@ -201,7 +201,7 @@ Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=2_
 		<div class="pBody">
 			<ul>
 				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=2+Fact+Vult%2FMines+%28vs.+Protoss%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
-				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register.php">Create Account</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
 			</ul>
 		</div>
 	</div>
@@ -387,4 +387,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.296 secs. --></body></html>
+<!-- Served in 0.274 secs. --></body></html>

@@ -307,17 +307,17 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 </p>
 <!-- 
 NewPP limit report
-CPU time usage: 0.120 seconds
-Real time usage: 0.145 seconds
-Preprocessor visited node count: 346/1000000
-Preprocessor generated node count: 2259/1000000
-Postâ€?expand include size: 2824/2097152 bytes
-Template argument size: 520/2097152 bytes
+CPU time usage: 0.132 seconds
+Real time usage: 0.156 seconds
+Preprocessor visited node count: 352/1000000
+Preprocessor generated node count: 2282/1000000
+Postâ€?expand include size: 2838/2097152 bytes
+Template argument size: 528/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:109-0!*!0!!en!2!* and timestamp 20150421180443
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:109-0!*!0!!en!2!* and timestamp 20150526200248
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=JoyO_Rush&amp;oldid=119800">http://wiki.teamliquid.net/starcraft/index.php?title=JoyO_Rush&amp;oldid=119800</a>"</div>
@@ -528,4 +528,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.297 secs. --></body></html>
+<!-- Served in 0.315 secs. --></body></html>

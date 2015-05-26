@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>3 Base Spire into 5 Hatch Hydra (vs. Protoss) - Liquipedia Starcraft Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.5" />
+<link rel="ExportRDF" type="application/rdf+xml" title="3 Base Spire into 5 Hatch Hydra (vs. Protoss)" href="/starcraft/index.php?title=Special:ExportRDF/3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;xmlmime=rdf" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/starcraft/opensearch_desc.php" title="Liquipedia Starcraft Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.teamliquid.net/starcraft/api.php?action=rsd" />
+<link rel="copyright" href="/starcraft/Liquipedia:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Liquipedia Starcraft Wiki Atom feed" href="/starcraft/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.teamliquid&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<link rel="stylesheet" href="/starcraft/skins/teamliquid/main.css?303" media="screen" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=teamliquid&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: liquid-wiki_:resourceloader:filter:minify-css:7:1f03e89a7b641f6609e6ac05fc34ae3a */</style>
+
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)","wgTitle":"3 Base Spire into 5 Hatch Hydra (vs. Protoss)","wgCurRevisionId":119964,"wgRevisionId":119964,"wgArticleId":509,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strategies","Zerg Build Orders","ZvP Builds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":false},"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":119964});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"teamliquid","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs108":false,"searchNs109":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.
+user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: liquid-wiki_:resourceloader:filter:minify-js:7:9a09a310b6cd8b2eaf167aa39adc20d2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-3_Base_Spire_into_5_Hatch_Hydra_vs_Protoss skin-teamliquid action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+		<div style="margin-top:10px;width:730px">
+
+<script type="text/javascript"><!--
+	e9 = new Object();
+	e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">3 Base Spire into 5 Hatch Hydra (vs. Protoss)</h1>
+	<div id="bodyContent">
+		<div id="siteSub">From Liquipedia Starcraft Wiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="fo-nttax-infobox-wrapper">
+<div class="fo-nttax-infobox">
+<div>
+<div class="infobox-header"><span class="infobox-buttons">[<a rel="nofollow" target="_blank" class="external text" href="http://wiki.teamliquid.net/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=0">e</a>][<a href="/starcraft/Template:Infobox_strategy" title="Template:Infobox strategy">h</a>]</span><a href="/starcraft/index.php?title=File:Zicon.png&amp;filetimestamp=20081130204317&amp;" class="image"><img alt="" src="/starcraft/images/3/31/Zicon.png" width="21" height="19" /></a> Three Base Spire into Hydra</div>
+</div><div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/starcraft/index.php?title=File:3base.png&amp;filetimestamp=20090307011227&amp;" class="image"><img alt="" src="/starcraft/images/thumb/c/c1/3base.png/294px-3base.png" width="294" height="221" srcset="/starcraft/images/thumb/c/c1/3base.png/441px-3base.png 1.5x, /starcraft/images/thumb/c/c1/3base.png/588px-3base.png 2x" /></a></div></div></div>
+</div><div>
+<div class="infobox-header infobox-header-2">Strategy Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Matchups:</div>
+<div class="infobox-cell-2">ZvP</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Type:</div>
+<div class="infobox-cell-2">Opening</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Creator:</div>
+<div class="infobox-cell-2">Unknown</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Popularized by:</div>
+<div class="infobox-cell-2"><a href="/starcraft/Zerg" title="Zerg"><img alt="Zerg" src="/starcraft/images/c/c9/Zicon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Jaedong" title="Jaedong">Jaedong</a></span></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; min-height: 250px"><script>if(typeof isMobileWikiSkin==="undefined")isMobileWikiSkin=false;e9=new Object;if(isMobileWikiSkin)e9.size="300x250";else e9.size="300x250,300x600";</script><script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script></div></div>
+</div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Build_Order"><span class="tocnumber">2</span> <span class="toctext">Build Order</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Build_Order_Clarification"><span class="tocnumber">3</span> <span class="toctext">Build Order Clarification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Early_Game_Defense"><span class="tocnumber">3.1</span> <span class="toctext">Early Game Defense</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#2x_Sunkens"><span class="tocnumber">3.2</span> <span class="toctext">2x Sunkens</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Build_Check_.231"><span class="tocnumber">3.3</span> <span class="toctext">Build Check #1</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Build_Check_.232"><span class="tocnumber">3.4</span> <span class="toctext">Build Check #2</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#General_Notes"><span class="tocnumber">3.5</span> <span class="toctext">General Notes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#4th_and_5th_Hatcheries"><span class="tocnumber">3.5.1</span> <span class="toctext">4th and 5th Hatcheries</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Mutalisk_Templar_sniping"><span class="tocnumber">3.5.2</span> <span class="toctext">Mutalisk Templar sniping</span></a>
+<ul>
+<li class="toclevel-4 tocsection-11"><a href="#Tips_and_Tricks"><span class="tocnumber">3.5.2.1</span> <span class="toctext">Tips and Tricks</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Transition"><span class="tocnumber">4</span> <span class="toctext">Transition</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Countered_By"><span class="tocnumber">5</span> <span class="toctext">Countered By</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Hard_Counters"><span class="tocnumber">5.1</span> <span class="toctext">Hard Counters</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Soft_Counters"><span class="tocnumber">5.2</span> <span class="toctext">Soft Counters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Counter_To"><span class="tocnumber">6</span> <span class="toctext">Counter To</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#4_Gate_2_Archon_Rush"><span class="tocnumber">6.1</span> <span class="toctext">4 Gate 2 Archon Rush</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Zealot.2FHigh_Templar"><span class="tocnumber">6.2</span> <span class="toctext">Zealot/High Templar</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Notable_Maps"><span class="tocnumber">7</span> <span class="toctext">Notable Maps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Strong"><span class="tocnumber">7.1</span> <span class="toctext">Strong</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Weak"><span class="tocnumber">7.2</span> <span class="toctext">Weak</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Mentality"><span class="tocnumber">8</span> <span class="toctext">Mentality</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Replays"><span class="tocnumber">9</span> <span class="toctext">Replays</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#Competitive_Game"><span class="tocnumber">9.1</span> <span class="toctext">Competitive Game</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Build_Order_Examples"><span class="tocnumber">9.2</span> <span class="toctext">Build Order Examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#VODs"><span class="tocnumber">10</span> <span class="toctext">VODs</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#Links"><span class="tocnumber">11</span> <span class="toctext">Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In contrast with the traditional <a href="/starcraft/4_Hatch_before_Gas" title="4 Hatch before Gas" class="mw-redirect">4 Hatch before Gas</a> build, this build delays the economic boost, but it allows the Zerg to take the initiative, and thus control the pace of the game.
+</p><p>By reaching <a href="/starcraft/Lair" title="Lair">Lair</a> tech faster, a Zerg player is able to effectively halt heavy <a href="/starcraft/Corsair" title="Corsair">Corsair</a> play through the use of <a href="/starcraft/Scourge" title="Scourge">Scourge</a> while maintaining a sizable economic advantage.  This build is the most versatile build in the Zerg arsenal, and has become the standard for today's Zerg versus Protoss.
+</p><p>It has evolved to significantly counter much of the harass play that is common from any Stargate-involved build order, such as the Bisu-build or perhaps even Sair/Reavers. The mutalisks are for templar sniping (and also probe picking), and the hydralisks pumping from five hatcheries engaging a relatively small 2/3-base Protoss should easily win any ZvP game if done correctly.
+</p><p>Note: Currently, this page is based off a  <a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=89265">guide by w3jjjj</a>. There is more depth and discussion (including situations where this strategy should not be used) in the extended guide.
+</p>
+<h2><span class="mw-headline" id="Build_Order">Build Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=2" title="Edit section: Build Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li> Any standard Zerg opening is fine. Choose the one you are most comfortable with or think will work best on the map/opponent you are playing. All the openings converge after you put down your third hatch at your second expo (NOTE: This guide assumes the Protoss player is Forge FE-ing).
+</li>
+<li> Remember to place your second hatchery before starting your Lair.
+</li>
+<li> @100% Spawning Pool - 2-6 Zerglings. <a href="#Early_Game_Defense">See: Early Defense</a>
+</li>
+<li> @100 Gas - Lair
+</li>
+<li> @100 Gas - Zergling Speed.
+</li>
+<li> @100% Lair - Spire.
+</li>
+<li> 32 - Hatchery, Natural extractor immediately after
+</li>
+<li> 35 - Hydralisk Den, Hatchery
+</li>
+<li> @100% Den - Hydra Speed, Overspeed, Evo Chamber
+</li>
+<li> @100% Spire - 2 Pairs of Scourge
+</li>
+<li> @100% Evo - +1 Range Attack, 2x Sunkens <a href="#2x_Sunkens">Note</a>
+</li>
+<li> 42 -  Begin Hydra Production, <a href="#Build_Check_.231">Check Build</a>
+</li>
+<li> @100% Hydra Speed - Hydra Range
+</li>
+<li> 54-60 - 3rd Gas
+</li>
+<li> 60 - 5x Drones
+</li>
+<li> 80-85 - <a href="#Build_Check_.232">Check Build</a>
+</li>
+<li> 110 - 9-11 Mutas, Lurker Upgrade, 2x Evo Chambers, Take 4th (which <i>should</i> be your fifth hatchery you place, six total), 1 Round of Drones, +2 Ranged.
+</li>
+<li> @100% Evo 2x - +1 Carapace, Melee
+</li>
+<li> <a href="#Transition">Transition to Late Game</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Build_Order_Clarification">Build Order Clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=3" title="Edit section: Build Order Clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_Game_Defense">Early Game Defense</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=4" title="Edit section: Early Game Defense">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For defense, base your ling timing on the Protoss's zealot push/timing. If you did a 12 hatch/11pool and he made a forge before gateway first, for example, you should only make two (2) lings to chase the probe down and then resume drone production until his first zealot leaves the FE/sim-city (as spotted by your Overlord placement)
+</p><p>When this happens, make six (6) more lings to deal with their early aggression. Zergling Speed will finish soon so a three (3) zealot timing-push is no big deal - you can make more lings accordingly, if needed, to counter a zealot timing attack. There is plenty of time until his first few zealots arrive so you should have a wide window-gap. Generally, there is no need for a sunken in early game, speedlings should be enough.
+</p>
+<h3><span class="mw-headline" id="2x_Sunkens">2x Sunkens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=5" title="Edit section: 2x Sunkens">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Depending on the opponent's build and the map, these sunkens can be delayed (or placed down earlier depending upon his number of zealots/gateways).
+</p>
+<h3><span class="mw-headline" id="Build_Check_.231">Build Check #1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=6" title="Edit section: Build Check #1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At this point, you want at least 25 drones on minerals and six (6) on two (2) Gas before Hydra production kicks in, so the exact supply count depends upon how many lings and scourge you've made (or plan on making). 
+</p><p>For example, if you produced 12 lings and 4 scourge (add in the additional drone count) that should equal around 40+ supply. So, start hydra production at 40-ish supply. If you made fewer lings, you can start hydra production even earlier - as soon as your drone count reaches the desired ratio.
+</p>
+<h3><span class="mw-headline" id="Build_Check_.232">Build Check #2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=7" title="Edit section: Build Check #2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Assume the Protoss player played normal with proper cannoning added (when he spots your hydras), added 3-5 gates after Templar Archives, and did not seek to expo early, so therefore you can keep making hydras up to around 80~ish supply at which point you should have 35-45 hydras plus the earlier lings for around three to four control groups of hydra/lings. <b>Get ready for the muta switch now</b>.
+</p><p>NOTE: The 9 minute mark is a good point to do a supply check. For example, if you opened with overpool and did everything correctly with a no rush 9 agreement, at the 9 minute mark you should have 85 supply with 4 groups of hydra/ling, your opponent should have 95 supply with an army of 2-3 archons and 15 ish zealots. Now typically in a real game with early harass and less than perfect macro, you can be happy with 80 supply at 9 minutes, and Protoss can be happy with 90 supply. However, if you have even lower, then there is something wrong with your early execution and you must find it and correct it. No build can be effective if you don't produce enough units. Of course, the supply count at the 9 minute mark varies a little depending on which opening you used, check the opening reps vs computer linked below for more detail.
+</p>
+<h3><span class="mw-headline" id="General_Notes">General Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=8" title="Edit section: General Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="4th_and_5th_Hatcheries">4th and 5th Hatcheries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=9" title="Edit section: 4th and 5th Hatcheries">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The location of these Hatcheries can either be both in the main/natural base, or one extra Hatchery at the third base and one at the main. Depending on the map, if the third base is quite far away and harder to defend, it might be an option to place an extra Hatchery there to help defend it.  These two Hatcheries can also be placed to form a wall at the third expansion that makes it either hard or impossible for a Protoss player to reach a sunken placed behind the Hatcheries.
+</p>
+<h4><span class="mw-headline" id="Mutalisk_Templar_sniping">Mutalisk Templar sniping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=10" title="Edit section: Mutalisk Templar sniping">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Even if you choose not to open with Mutalisks first, once you have your Hydralisk force, it is an essential part of this strategy to build a group of Mutalisk and use it to snipe High Templar. By killing the High Templar, you can ensure your ability to convincingly defeat the Protoss player's army with pure Hydralisks should they decide to push.
+</p>
+<h5><span class="mw-headline" id="Tips_and_Tricks">Tips and Tricks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=11" title="Edit section: Tips and Tricks">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul>
+<li>Templar are generally found at the rear of the Protoss army due to their slow movement speed. You can sometimes use this fact to catch them undefended when the Protoss army is on the move.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Transition">Transition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=12" title="Edit section: Transition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>You want to get lurker upgrade when you are making mutas. At supply around 110, spend all of your gas on mutas, then get the lurker upgrade. After the lurker upgrade starts, add 2 more chambers to catch up normal upgrades while you get +2 missile attack. Make another round of drones because this is the strongest timing of the 5 hat hydra build, with 1 group of mutas and 4 groups of hydras it is a very safe time to boost our economy a bit.
+</p><p>Now, Assume that all went well and you gained some map control by either denying or at least delaying the Protoss's third expo, when lurkers come out you can play hydra/lurker for a contain while going hive. When you are making those first batch of lurkers, get one more round of drones to saturate your 4th base, and make an additional hatchery so you have 7 in total. At this point, you should have 45 drones now for a very good economy. Unless you have comfortable map control and you want to saturate a new expo quickly, there is no more need for full rounds of drone production anymore, just slowly add a couple here and there from time to time to keep growing and concentrate on units. 7 hatch full units production is equivalent to 9 gateway production and the Protoss will need 3 base running to keep up with your 4.
+</p><p>If things didn't go so well and you have lost map control you will be in a great disadvantage... stop hydra production and make pure lurker/ling and turtle to cracklings then get defilers and drop. Take islands if you can and eventually retake map with upgraded ultra/ling. Note: this is a pretty large uphill battle so don't pay too much attention if your turtle fails, concentrate on perfecting your muta/hydra build so you Don't get into a situation where you can only turtle to survive.
+</p>
+<h2><span class="mw-headline" id="Countered_By">Countered By</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=13" title="Edit section: Countered By">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hard_Counters">Hard Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=14" title="Edit section: Hard Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>1 Base Protoss - The 3 Base Spire into 5 Hatch Hydra build should only be used against a Protoss Fast Expansion.
+</li>
+<li><a href="/starcraft/index.php?title=Plus1_Speedzeal_(vs._Zerg)&amp;action=edit&amp;redlink=1" class="new" title="Plus1 Speedzeal (vs. Zerg) (page does not exist)">+1 Speedlot rush</a> - Against a +1 Speedlot rush, the player must place the natural gas and go Mutalisks as soon as he realizes what the Protoss is doing.
+</li>
+<li>Fast Maelstrom - A single <a href="/starcraft/Dark_Archon" title="Dark Archon">Dark Archon</a> can render the whole group of Mutalisks defenseless when not expecting it, often putting the Zerg player far behind. Even when the presence of Dark Archons is known, Zerg player still needs to be careful. However, making a Dark Archon forces the enemy to sacrifice a bit on economy though.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Soft_Counters">Soft Counters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=15" title="Edit section: Soft Counters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Mass Goon/Templar Midgame - This build is not hard countered by Mass Goon/Templar, but the Mutalisks are rendered ineffective by the large number of Dragoons.  Instead, the Zerg player should change his army composition to Hydralisks and Zerglings.
+</li>
+<li><a href="/starcraft/Sair/Reaver_(vs._Zerg)" title="Sair/Reaver (vs. Zerg)" class="mw-redirect">Corsair/Reaver</a> - Similar to the Dragoon/Templar build, Corsair/Reaver is not a hard counter to this build, but the Mutalisk harassment is negated.  Instead, the Zerg player must either mass expand or attack the Protoss using Hydralisk drops.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Counter_To">Counter To</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=16" title="Edit section: Counter To">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="4_Gate_2_Archon_Rush">4 Gate 2 Archon Rush</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=17" title="Edit section: 4 Gate 2 Archon Rush">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>With the current build order, this build is safe against this timing rush.  However, Hydralisk production must begin at around 42 supply.
+</p>
+<h3><span class="mw-headline" id="Zealot.2FHigh_Templar">Zealot/High Templar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=18" title="Edit section: Zealot/High Templar">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Against this unit composition, the Protoss does not have anything to prevent Mutalisks from sniping his High Templar except storms.
+</p>
+<h2><span class="mw-headline" id="Notable_Maps">Notable Maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=19" title="Edit section: Notable Maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Strong">Strong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=20" title="Edit section: Strong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/Destination" title="Destination">Destination</a>
+</li>
+<li><a href="/starcraft/Heartbreak_Ridge" title="Heartbreak Ridge">Heartbreak Ridge</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Weak">Weak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=21" title="Edit section: Weak">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/starcraft/Longinus" title="Longinus">Longinus</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Mentality">Mentality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=22" title="Edit section: Mentality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Pump out Drones to keep up economically so you don't get run over mid game. 
+</li>
+<li>Begin building Hydralisks when he begins macroing out of 3-5 gate. 
+</li>
+<li>Attempt to deny his third and subsequent bases. Try to stay ahead by at least one expansion. 
+</li>
+<li>Use a control group of Mutalisks and snipe stray High Templar.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Replays">Replays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=23" title="Edit section: Replays">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Competitive_Game">Competitive Game</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=24" title="Edit section: Competitive Game">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://repdepot.net/download.php?type=rep&amp;id=14419&amp;name=fnatic.f91+vs+April1st.rep">F91 vs JF @Liquibition #28, Game 3 on Destination</a>
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.megaupload.com/?d=6IS2MBGE">w3jjjj Vs gns.i-cruzado, A- P.</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Build_Order_Examples">Build Order Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=25" title="Edit section: Build Order Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.repdepot.net/replay.php?id=10806">12 hatch</a>
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.repdepot.net/replay.php?id=10807">9 Pool</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="VODs">VODs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=26" title="Edit section: VODs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/watch?v=PCEtiZBGt3A&amp;feature=player_embedded">Hyuk vs. Kal</a>, 2009 STX Masters, textbook play against a timing Zealot push. This is more of a Lurker into Muta into Hydra build.
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/10750_Bisu_vs_Jaedong/vod">Jaedong vs Bisu @ Shinhan Proleague 08-09</a>
+</li>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/tlpd/games/11461_Bisu_vs_by.hero/vod">By.Hero vs Bisu, Tau Cross, 2009 Shinhan Bank Winners League (shows a 4 Hatchery before gas variation)</a>
+</li>
+<li><a rel="nofollow" target="_blank" class="external text" href="http://www.youtube.com/user/nevake?blend=1&amp;ob=4#p/a/u/5/gEFTvyTcVYg&amp;feature=player_embedded">Hydra vs Anytime</a> Textbook example on 3 base spire&gt;5hatch hydra against corsair/DT opening
+</li>
+</ul>
+<h2><span class="mw-headline" id="Links">Links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit&amp;section=27" title="Edit section: Links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a target="_blank" class="external text" href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=89265">ZvP 5 hatch hydra -&gt; muta build</a>
+</li>
+</ul>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.120 seconds
+Real time usage: 0.155 seconds
+Preprocessor visited node count: 349/1000000
+Preprocessor generated node count: 2268/1000000
+Postâ€?expand include size: 2412/2097152 bytes
+Template argument size: 332/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:509-0!*!0!!en!2!* and timestamp 20150519221236
+ -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;oldid=119964">http://wiki.teamliquid.net/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;oldid=119964</a>"</div>
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/starcraft/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/starcraft/Category:Strategies" title="Category:Strategies">Strategies</a></li><li><a href="/starcraft/Category:Zerg_Build_Orders" title="Category:Zerg Build Orders">Zerg Build Orders</a></li><li><a href="/starcraft/Category:ZvP_Builds" title="Category:ZvP Builds">ZvP Builds</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/starcraft/3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk"><a href="/starcraft/Talk:3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/starcraft/index.php?title=Special:UserLogin&amp;returnto=3+Base+Spire+into+5+Hatch+Hydra+%28vs.+Protoss%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+				<li id="pt-createaccount"><a href="http://www.teamliquid.net/mytlnet/register">Create Account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://wiki.teamliquid.net/starcraft/images/c/c9/Logo.png);" href="/starcraft/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-Navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/starcraft/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-recentchanges"><a href="/starcraft/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/starcraft/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-How-to-Contribute"><a href="/starcraft/Liquipedia:How_to_Contribute">How to Contribute</a></li>
+				<li id="n-Liquipedia-Portal"><a href="http://www.liquipedia.net" rel="nofollow" target="_blank">Liquipedia Portal</a></li>
+				<li id="n-help"><a href="/starcraft/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/starcraft/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" placeholder="Search" title="Search Liquipedia Starcraft Wiki [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Starcraft_Strategy">
+		<h5>Starcraft Strategy</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Strategy-Overview"><a href="/starcraft/Strategy">Strategy Overview</a></li>
+				<li id="n-Terran-Strategy"><a href="/starcraft/Terran_Strategy">Terran Strategy</a></li>
+				<li id="n-Zerg-Strategy"><a href="/starcraft/Zerg_Strategy">Zerg Strategy</a></li>
+				<li id="n-Protoss-Strategy"><a href="/starcraft/Protoss_Strategy">Protoss Strategy</a></li>
+				<li id="n-Terms-.26-Definitions"><a href="/starcraft/Definitions">Terms &amp; Definitions</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-General_Information">
+		<h5>General Information</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Units-and-Buildings"><a href="/starcraft/Units">Units and Buildings</a></li>
+				<li id="n-Tools"><a href="/starcraft/Tools">Tools</a></li>
+				<li id="n-Miscellaneous"><a href="/starcraft/Miscellaneous">Miscellaneous</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Competition">
+		<h5>Competition</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Players"><a href="/starcraft/Players">Players</a></li>
+				<li id="n-Teams"><a href="/starcraft/Teams">Teams</a></li>
+				<li id="n-Tournaments"><a href="/starcraft/Leagues">Tournaments</a></li>
+				<li id="n-Global-Scene"><a href="/starcraft/Portal:Foreign_Scene">Global Scene</a></li>
+				<li id="n-Maps"><a href="/starcraft/Maps">Maps</a></li>
+				<li id="n-Glossary"><a href="/starcraft/Progaming_Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-TeamLiquid.net">
+		<h5>TeamLiquid.net</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-News"><a href="http://www.teamliquid.net/" target="_blank">News</a></li>
+				<li id="n-Forum"><a href="http://www.teamliquid.net/forum/" target="_blank">Forum</a></li>
+				<li id="n-TLPD"><a href="http://www.teamliquid.net/tlpd/" target="_blank">TLPD</a></li>
+				<li id="n-Feedback-Thread"><a href="http://www.teamliquid.net/forum/viewmessage.php?topic_id=94785" target="_blank">Feedback Thread</a></li>
+				<li id="n-Liquipedia-Staff"><a href="/starcraft/Liquipedia:Liquipedia_Staff">Liquipedia Staff</a></li>
+				<li id="n-Wiki-IRC-Channel"><a href="http://webchat.quakenet.org/?channels=%23liquipedia" rel="nofollow" target="_blank">Wiki IRC Channel</a></li>
+				<li id="n-Twitter"><a href="http://twitter.com/#!/LiquipediaNet" rel="nofollow" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/starcraft/Special:WhatLinksHere/3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/starcraft/Special:RecentChangesLinked/3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-specialpages"><a href="/starcraft/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+				<li id="t-permalink"><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;oldid=119964" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-info"><a href="/starcraft/index.php?title=3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)&amp;action=info">Page information</a></li>
+				<li id="t-smwbrowselink"><a href="/starcraft/Special:Browse/3_Base_Spire_into_5_Hatch_Hydra_(vs._Protoss)" rel="smw-browse">Browse properties</a></li>
+			</ul>
+		</div>
+	</div>
+<div style="margin-left:5px;width:160px;height:600px">
+	<script type="text/javascript"><!--
+		e9 = new Object();
+		e9.size = "160x600";
+		//--></script>
+	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TeamLiquidnet1/WikiPages/tags.js"></script>
+</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/starcraft/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+		<a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/starcraft/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 22 January 2015, at 04:51.</li>
+		<li id="copyright">Text/code is available under <a href="/starcraft/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.</li>
+		<li id="privacy"><a href="/starcraft/Liquipedia:Privacy_policy" title="Liquipedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/starcraft/Liquipedia:About" title="Liquipedia:About">About Liquipedia - The StarCraft Encyclopedia</a></li>
+		<li id="disclaimer"><a href="/starcraft/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-576564-4']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-c4R4Uj3EI2IsY"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-c4R4Uj3EI2IsY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- TL -->
+<script type="text/javascript">
+	(function() {
+		var w = window.location.href;
+		if (w.indexOf ('.php') == -1) {
+			$.post ('http://www.teamliquid.net/stats/', { action: 'wikiPageView', url: w });
+		}
+	})();
+</script>
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '75029C9DE15343D3';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
+<!-- Served in 0.302 secs. --></body></html>

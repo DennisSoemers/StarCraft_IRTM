@@ -67,7 +67,7 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 <div class="infobox-cell-2 infobox-description">Popularized by:</div>
 <div class="infobox-cell-2"><a href="/starcraft/Terran" title="Terran"><img alt="Terran" src="/starcraft/images/9/9d/Ticon_small.png" width="17" height="15" /></a>&#160;<span style="white-space: pre"><a href="/starcraft/Flash" title="Flash">Flash</a></span></div>
 </div></div>
-<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 600px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Wide Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="4355235627"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
+<div class="fo-nttax-infobox-adbox"><div style="text-align: center; width: 300px; height: 250px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Wiki Rectangle Direct Embed --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7842140671316157" data-ad-slot="1401769222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div>
 </div>
 <div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
 <ul>
@@ -444,17 +444,17 @@ mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","med
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.804 seconds
-Real time usage: 0.909 seconds
-Preprocessor visited node count: 3261/1000000
-Preprocessor generated node count: 7177/1000000
-Postâ€?expand include size: 22256/2097152 bytes
-Template argument size: 6113/2097152 bytes
+CPU time usage: 0.820 seconds
+Real time usage: 0.956 seconds
+Preprocessor visited node count: 3318/1000000
+Preprocessor generated node count: 7200/1000000
+Postâ€?expand include size: 22401/2097152 bytes
+Template argument size: 6201/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:9813-0!*!0!!en!2!* and timestamp 20150426173801
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:9813-0!*!0!!en!2!* and timestamp 20150521185010
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=1_Rax_FE_(vs._Protoss)&amp;oldid=120168">http://wiki.teamliquid.net/starcraft/index.php?title=1_Rax_FE_(vs._Protoss)&amp;oldid=120168</a>"</div>
@@ -665,4 +665,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 1.070 secs. --></body></html>
+<!-- Served in 1.109 secs. --></body></html>

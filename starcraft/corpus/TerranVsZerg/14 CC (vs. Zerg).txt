@@ -194,7 +194,7 @@ When Vessels are out, scan his base and adapt the same way as if you had execute
 <!-- 
 NewPP limit report
 CPU time usage: 0.080 seconds
-Real time usage: 0.108 seconds
+Real time usage: 0.098 seconds
 Preprocessor visited node count: 264/1000000
 Preprocessor generated node count: 1307/1000000
 Postâ€?expand include size: 2177/2097152 bytes
@@ -203,7 +203,7 @@ Highest expansion depth: 5/40
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:296-0!*!0!!en!2!* and timestamp 20150426220537
+<!-- Saved in parser cache with key liquid-wiki_:stable-pcache:idhash:296-0!*!0!!en!2!* and timestamp 20150524084647
  -->
 </div><div class="printfooter">
 Retrieved from "<a href="http://wiki.teamliquid.net/starcraft/index.php?title=14_CC_(vs._Zerg)&amp;oldid=119864">http://wiki.teamliquid.net/starcraft/index.php?title=14_CC_(vs._Zerg)&amp;oldid=119864</a>"</div>
@@ -414,4 +414,4 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced"],null,true);
 }</script>
 <script src="http://wiki.teamliquid.net/starcraft/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=teamliquid&amp;*"></script>
-<!-- Served in 0.256 secs. --></body></html>
+<!-- Served in 0.236 secs. --></body></html>
