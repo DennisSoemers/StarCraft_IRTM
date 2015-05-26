@@ -48,8 +48,8 @@
         <countered_by>
             <hard>Proxy 5 Rax</hard>
             <hard>Proxy 8 Rax</hard>
-            <hard>Barracks Barracks Supply (BBS)</hard>
-            <hard>Double Expand (Map dependent)</hard>
+            <hard>Barracks Barracks Supply</hard>
+            <hard>Double Expand</hard>
         </countered_by>
         <counter_to/>
         <maps>
@@ -103,8 +103,8 @@
         <countered_by>
             <hard>Proxy 5 Rax</hard>
             <hard>Proxy 8 Rax</hard>
-            <hard>Barracks Barracks Supply (BBS)</hard>
-            <hard>Double Expand (Map dependent)</hard>
+            <hard>Barracks Barracks Supply</hard>
+            <hard>Double Expand</hard>
         </countered_by>
         <counter_to/>
         <maps>

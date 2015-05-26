@@ -62,12 +62,12 @@
             <soft>1 Port Wraith</soft>
             <soft>2 Port Wraith</soft>
             <soft>2 Factory</soft>
-            <hard>3 Factory Vults, wall-in at natural</hard>
-            <hard>main</hard>
+            <hard>3 Factory Vults</hard>
         </countered_by>
         <counter_to>
             <soft>1 Factory Expansion</soft>
-            <hard>13/14 CC with no wall</hard>
+            <hard>13 CC</hard>
+            <hard>14 CC</hard>
         </counter_to>
         <maps>
             <strong>Blue Storm</strong>

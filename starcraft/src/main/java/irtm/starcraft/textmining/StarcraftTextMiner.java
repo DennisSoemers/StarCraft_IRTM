@@ -27,6 +27,7 @@ import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.util.CoreMap;
+import edu.stanford.nlp.util.StringUtils;
 
 /**
  * Class that performs the required text mining (and information retrieval) to
@@ -479,31 +480,60 @@ public class StarcraftTextMiner{
 		text = text.trim();
 		
 		// these tokens are likely to be in between different strategy names
-		String[] splitTokens = {" , ", " or ", " and "};
+		String[] splitTokens = {", ", " or ", " and ", "/"};
 		
 		for(int i = 1; i < splitTokens.length; ++i){
 			text = text.replaceAll(splitTokens[i], splitTokens[0]);
 		}
 		
-		String[] strategyTokens = text.split(splitTokens[0]);
-		for(int i = 0; i < strategyTokens.length; ++i){
-			String strategy = strategyTokens[i];
+		String[] strategyTokenSequences = text.split(splitTokens[0]);
+		for(int i = 0; i < strategyTokenSequences.length; ++i){
+			String strategyTokenSequence = strategyTokenSequences[i];
 			
-			if(i < strategyTokens.length - 1){
+			// split up every sequence of tokens once more so we can get rid of those that:
+			//	- dont start with a number AND
+			//	- dont start with a capital letter
+			String[] strategyTokens = strategyTokenSequence.split(" ");
+			strategyTokenSequence = "";
+			for(String token : strategyTokens){
+				if(StringUtils.isCapitalized(token) || StringUtils.isNumeric(token.substring(0, 1))){
+					strategyTokenSequence += token + " ";
+				}
+			}
+			strategyTokenSequence = strategyTokenSequence.trim();
+			
+			if(i < strategyTokenSequences.length - 1){
 				try{
 					// deal with cases like http://wiki.teamliquid.net/starcraft/1_Fact_FE_%28vs._Terran%29
 					// where ''One or two Starport Wraiths'' should be converted to two separate strategy names
-					Integer.parseInt(strategy);
-					String nextToken = strategyTokens[i + 1];
-					Integer.parseInt(nextToken.split(" ")[0]);
+					Integer.parseInt(strategyTokenSequence);
+					String nextTokenSequence = strategyTokenSequences[i + 1];
+					int secondNumber = Integer.parseInt(nextTokenSequence.split(" ")[0]);
 					
 					// if we didn't catch any exceptions yet, it means we have a case like the above example
-					strategy = strategy + nextToken.substring(1);
+					nextTokenSequence = nextTokenSequence.substring(String.valueOf(secondNumber).length() + 1);
+					
+					// split up every sequence of tokens once more so we can get rid of those that:
+					//	- dont start with a number AND
+					//	- dont start with a capital letter
+					String[] nextSequenceStrategyTokens = nextTokenSequence.split(" ");
+					nextTokenSequence = "";
+					for(String token : nextSequenceStrategyTokens){
+						if(StringUtils.isCapitalized(token) || StringUtils.isNumeric(token.substring(0, 1))){
+							nextTokenSequence += token + " ";
+						}
+					}
+					nextTokenSequence = nextTokenSequence.trim();
+					
+					// put the number of the first part in front of the non-numeric second part
+					strategyTokenSequence = strategyTokenSequence + " " + nextTokenSequence;
 				}
 				catch(NumberFormatException exception){/**/}
 			}
 			
-			strategyNames.add(strategy);
+			if(!strategyTokenSequence.equals("")){
+				strategyNames.add(strategyTokenSequence);
+			}
 		}
 		
 		return strategyNames;
