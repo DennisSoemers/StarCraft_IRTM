@@ -415,7 +415,7 @@ public class StarcraftStrategy {
 			
 			html += "</ul>\n";
 			
-			html += "<h2>Counter To</h2>\n";
+			html += "<h2>Maps</h2>\n";
 			html += "<h3>Strong Maps</h3>\n";
 			html += "<ul>\n";
 			
