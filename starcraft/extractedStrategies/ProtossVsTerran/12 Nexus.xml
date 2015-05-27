@@ -26,7 +26,6 @@
             <type>gateway</type>
         </building>
         <countered_by>
-            <soft>Barracks</soft>
             <soft>14 CC</soft>
             <soft>Proxy 5 Rax</soft>
         </countered_by>
@@ -66,7 +65,6 @@
             <type>gateway</type>
         </building>
         <countered_by>
-            <soft>Barracks</soft>
             <soft>14 CC</soft>
             <soft>Proxy 5 Rax</soft>
         </countered_by>

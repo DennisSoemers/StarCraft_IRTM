@@ -698,7 +698,7 @@ public class StarcraftKnowledgeBase {
 	}
 	
 	public static boolean isStarcraftTerm(String string){
-		return starcraftDictionary.containsKey(string);
+		return starcraftDictionary.containsKey(string.trim().toLowerCase());
 	}
 	
 	public static boolean isUnit(String string){

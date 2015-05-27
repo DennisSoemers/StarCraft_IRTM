@@ -75,7 +75,6 @@
             <soft>Bunker Rush</soft>
             <soft>Barracks Barracks Supply</soft>
             <hard>Early vulture</hard>
-            <hard>Mutalisk</hard>
             <hard>FireBatHero 7 Barracks</hard>
             <hard>Ayumi Build</hard>
         </countered_by>
@@ -137,16 +136,13 @@
             <soft>Bunker Rush</soft>
             <soft>Barracks Barracks Supply</soft>
             <hard>Early vulture</hard>
-            <hard>Mutalisk</hard>
             <hard>FireBatHero 7 Barracks</hard>
             <hard>Ayumi Build</hard>
         </countered_by>
         <counter_to>
             <soft>2 Barracks Expansion.</soft>
             <hard>1 Base Dropship</hard>
-            <hard>Tank</hard>
             <hard>2 Barracks</hard>
-            <hard>Academy</hard>
             <hard>Expansion</hard>
         </counter_to>
         <maps>

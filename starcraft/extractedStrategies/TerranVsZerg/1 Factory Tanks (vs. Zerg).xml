@@ -32,10 +32,7 @@
             <type>machine shop</type>
         </building>
         <countered_by/>
-        <counter_to>
-            <soft>Zerg"</soft>
-            <soft>Terran</soft>
-        </counter_to>
+        <counter_to/>
         <maps/>
     </build_order>
 </strategy_1_Factory_Tanks__vs__Zerg_>

@@ -26,7 +26,6 @@
             <hard>None.</hard>
         </countered_by>
         <counter_to>
-            <soft>Pool</soft>
             <hard>None.</hard>
         </counter_to>
         <maps/>

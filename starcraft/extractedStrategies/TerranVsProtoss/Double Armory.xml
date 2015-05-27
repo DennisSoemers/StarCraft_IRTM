@@ -59,9 +59,7 @@
             <supply>24</supply>
             <type>supply depot</type>
         </building>
-        <countered_by>
-            <soft>Protoss</soft>
-        </countered_by>
+        <countered_by/>
         <counter_to/>
         <maps/>
     </build_order>
@@ -135,9 +133,7 @@
             </percentage>
             <type>academy</type>
         </building>
-        <countered_by>
-            <soft>Protoss</soft>
-        </countered_by>
+        <countered_by/>
         <counter_to/>
         <maps/>
     </build_order>
