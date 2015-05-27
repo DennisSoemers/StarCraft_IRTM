@@ -4,6 +4,9 @@
         <unit>
             <type>drone</type>
         </unit>
+        <building>
+            <type>spawning pool</type>
+        </building>
         <unit>
             <type>drone</type>
         </unit>

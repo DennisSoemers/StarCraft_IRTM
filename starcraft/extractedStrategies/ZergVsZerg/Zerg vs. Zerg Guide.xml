@@ -64,6 +64,9 @@
             <type>extractor</type>
         </building>
         <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
             <type>lair</type>
         </building>
         <unit>
@@ -98,6 +101,9 @@
         <unit>
             <type>overlord</type>
         </unit>
+        <building>
+            <type>spawning pool</type>
+        </building>
         <unit>
             <type>drone</type>
         </unit>
@@ -171,6 +177,9 @@
         <unit>
             <type>overlord</type>
         </unit>
+        <building>
+            <type>spawning pool</type>
+        </building>
         <unit>
             <type>drone</type>
         </unit>

@@ -21,6 +21,10 @@
             <type>hatchery</type>
         </building>
         <building>
+            <supply>14</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
             <percentage>
                 <pct>100</pct>
                 <type>lair</type>

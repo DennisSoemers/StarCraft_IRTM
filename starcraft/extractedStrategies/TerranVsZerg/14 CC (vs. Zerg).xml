@@ -74,7 +74,7 @@
             <type>factory</type>
         </building>
         <countered_by>
-            <soft>12</soft>
+            <soft>12 pool</soft>
             <soft>3 hatch</soft>
             <hard>4-7 Pool</hard>
             <hard>9 Pool</hard>
@@ -100,7 +100,7 @@
             <type>barracks</type>
         </building>
         <countered_by>
-            <soft>12</soft>
+            <soft>12 pool</soft>
             <soft>3 hatch</soft>
             <hard>4-7 Pool</hard>
             <hard>9 Pool</hard>

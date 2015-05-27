@@ -10,6 +10,10 @@
             <type>extractor</type>
         </building>
         <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
             <supply>11</supply>
             <type>lair</type>
         </building>

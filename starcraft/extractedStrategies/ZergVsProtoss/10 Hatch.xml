@@ -5,6 +5,10 @@
             <supply>10</supply>
             <type>hatchery</type>
         </building>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
         <unit>
             <supply>8</supply>
             <type>drone</type>

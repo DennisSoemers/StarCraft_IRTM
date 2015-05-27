@@ -28,6 +28,9 @@
             <supply>13</supply>
             <type>overlord</type>
         </unit>
+        <building>
+            <type>spawning pool</type>
+        </building>
         <countered_by>
             <soft>All</soft>
             <soft>Efficient</soft>

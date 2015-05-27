@@ -6,6 +6,10 @@
             <type>overlord</type>
         </unit>
         <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
             <supply>11</supply>
             <type>hatchery</type>
         </building>

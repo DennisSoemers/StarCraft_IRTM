@@ -17,6 +17,12 @@
             <supply>10</supply>
             <type>extractor</type>
         </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
         <unit>
             <supply>16</supply>
             <type>overlord</type>

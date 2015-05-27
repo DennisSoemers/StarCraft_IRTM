@@ -29,6 +29,12 @@
     </build_order>
     <build_order>
         <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
             <type>hatchery</type>
         </building>
         <countered_by/>

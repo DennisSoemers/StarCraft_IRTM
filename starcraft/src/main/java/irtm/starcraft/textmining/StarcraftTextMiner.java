@@ -583,6 +583,17 @@ public class StarcraftTextMiner{
 			}
 			
 			if(!strategyTokenSequence.equals("")){
+				// remove single words that are known starcraft terms or numbers
+				String[] candidateStrategyTokens = strategyTokenSequence.split(" ");
+				if(candidateStrategyTokens.length == 1){
+					String token = candidateStrategyTokens[0];
+					token = token.replaceAll("\\p{P}","");
+					
+					if(StringUtils.isNumeric(token) || StarcraftKnowledgeBase.isStarcraftTerm(token)){
+						continue;
+					}
+				}
+				
 				strategyNames.add(strategyTokenSequence);
 			}
 		}

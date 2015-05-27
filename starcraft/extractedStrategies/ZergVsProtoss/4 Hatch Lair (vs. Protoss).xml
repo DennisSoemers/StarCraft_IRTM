@@ -5,6 +5,9 @@
             <type>overlord</type>
         </unit>
         <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
             <type>hatchery</type>
         </building>
         <building>

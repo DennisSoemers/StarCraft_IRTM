@@ -28,6 +28,10 @@
                 <pct>100</pct>
                 <type>spawning pool</type>
             </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>spawning pool</type>
+            </percentage>
             <type>hatchery</type>
         </building>
         <countered_by>

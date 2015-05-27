@@ -2,6 +2,20 @@
 <strategy_User_Mystlord_Zerg_vs__Terran_Guide>
     <build_order>
         <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <countered_by/>
+        <counter_to/>
+        <maps/>
+    </build_order>
+    <build_order>
+        <building>
             <type>hatchery</type>
         </building>
         <countered_by/>
@@ -9,6 +23,12 @@
         <maps/>
     </build_order>
     <build_order>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
         <building>
             <type>hatchery</type>
         </building>

@@ -2,6 +2,18 @@
 <strategy_Zerg_vs__Protoss_Guide>
     <build_order>
         <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
             <type>hatchery</type>
         </building>
         <countered_by/>
@@ -11,6 +23,9 @@
     <build_order>
         <building>
             <type>hatchery</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
         </building>
         <building>
             <type>hatchery</type>

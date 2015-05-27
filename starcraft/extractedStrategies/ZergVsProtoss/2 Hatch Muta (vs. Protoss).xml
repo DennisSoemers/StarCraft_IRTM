@@ -17,6 +17,13 @@
             <type>extractor</type>
         </building>
         <building>
+            <percentage>
+                <pct>100</pct>
+                <type>spawning pool</type>
+            </percentage>
+            <type>spawning pool</type>
+        </building>
+        <building>
             <type>lair</type>
         </building>
         <unit>

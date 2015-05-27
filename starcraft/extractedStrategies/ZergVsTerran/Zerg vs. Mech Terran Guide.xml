@@ -58,6 +58,9 @@
         <maps/>
     </build_order>
     <build_order>
+        <building>
+            <type>spawning pool</type>
+        </building>
         <unit>
             <type>overlord</type>
         </unit>

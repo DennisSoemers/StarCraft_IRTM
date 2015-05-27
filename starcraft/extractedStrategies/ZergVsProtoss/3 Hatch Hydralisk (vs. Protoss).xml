@@ -63,9 +63,7 @@
             </percentage>
             <type>extractor</type>
         </building>
-        <countered_by>
-            <hard>4</hard>
-        </countered_by>
+        <countered_by/>
         <counter_to>
             <soft>Protoss Fast Expand</soft>
         </counter_to>

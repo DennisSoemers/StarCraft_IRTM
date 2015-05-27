@@ -795,6 +795,7 @@ public class StarcraftKnowledgeBase {
 		starcraftDictionary.put("robo", "robotics facility");
 		starcraftDictionary.put("cannon", "photon cannon");
 		starcraftDictionary.put("tank", "siege tank");
+		starcraftDictionary.put("pool", "spawning pool");
 		
 		// set all map names to lower case
 		for(int i = 0; i < MAP_NAMES_2_PLAYER.length; ++i){

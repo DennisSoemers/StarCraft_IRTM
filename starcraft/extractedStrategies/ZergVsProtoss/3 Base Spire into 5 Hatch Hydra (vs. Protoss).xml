@@ -139,6 +139,9 @@
         <building>
             <type>hatchery</type>
         </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
         <countered_by>
             <soft>Mass Goon</soft>
             <soft>Templar Midgame This</soft>

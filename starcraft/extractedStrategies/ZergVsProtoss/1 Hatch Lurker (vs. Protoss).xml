@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <strategy_1_Hatch_Lurker__vs__Protoss_>
     <build_order>
+        <building>
+            <supply>9</supply>
+            <type>spawning pool</type>
+        </building>
         <unit>
             <type>zergling</type>
         </unit>
@@ -84,6 +88,29 @@
             <hard>Any forge</hard>
         </countered_by>
         <counter_to/>
+        <maps>
+            <strong>Medusa</strong>
+            <strong>Destination</strong>
+            <strong>Python</strong>
+            <strong>Heartbreak Ridge</strong>
+            <weak>Blue Storm</weak>
+            <weak>Fighting Spirit</weak>
+        </maps>
+    </build_order>
+    <build_order>
+        <building>
+            <type>spawning pool</type>
+        </building>
+        <countered_by>
+            <soft>1 Corsair</soft>
+            <soft>Reaver Build</soft>
+            <soft>Safe</soft>
+            <hard>Protoss Fast Expand</hard>
+            <hard>Any forge</hard>
+        </countered_by>
+        <counter_to>
+            <hard>1 Gate Tech</hard>
+        </counter_to>
         <maps>
             <strong>Medusa</strong>
             <strong>Destination</strong>

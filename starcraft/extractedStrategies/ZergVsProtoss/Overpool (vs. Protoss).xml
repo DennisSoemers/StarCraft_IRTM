@@ -119,6 +119,10 @@
                 <pct>100</pct>
                 <type>spawning pool</type>
             </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>spawning pool</type>
+            </percentage>
             <type>zergling</type>
         </unit>
         <countered_by/>

@@ -41,8 +41,8 @@
         <countered_by>
             <soft>12 Pool</soft>
             <soft>Overpool</soft>
-            <hard>9 10</hard>
-            <hard>9 9</hard>
+            <hard>9 10 pool</hard>
+            <hard>9 9 pool</hard>
         </countered_by>
         <counter_to>
             <hard>12 Hatch</hard>

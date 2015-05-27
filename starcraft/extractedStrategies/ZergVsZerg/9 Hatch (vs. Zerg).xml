@@ -7,6 +7,10 @@
         </building>
         <building>
             <supply>8</supply>
+            <type>spawning pool</type>
+        </building>
+        <building>
+            <supply>8</supply>
             <type>extractor</type>
         </building>
         <unit>

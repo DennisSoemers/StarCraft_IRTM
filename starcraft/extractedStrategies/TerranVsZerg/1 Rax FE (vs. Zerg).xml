@@ -49,6 +49,9 @@
             <type>scout</type>
         </unit>
         <building>
+            <type>spawning pool</type>
+        </building>
+        <building>
             <type>command center</type>
         </building>
         <unit>
@@ -80,6 +83,9 @@
         </unit>
         <building>
             <type>hatchery</type>
+        </building>
+        <building>
+            <type>spawning pool</type>
         </building>
         <building>
             <type>bunker</type>

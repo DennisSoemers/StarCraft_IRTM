@@ -7,6 +7,9 @@
         <building>
             <type>hatchery</type>
         </building>
+        <building>
+            <type>spawning pool</type>
+        </building>
         <countered_by>
             <soft>Any Gateway</soft>
         </countered_by>

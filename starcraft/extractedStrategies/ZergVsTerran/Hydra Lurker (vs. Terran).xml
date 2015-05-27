@@ -62,7 +62,6 @@
             <type>lurker</type>
         </unit>
         <countered_by>
-            <hard>2</hard>
             <hard>3+ Factory Tanks</hard>
         </countered_by>
         <counter_to>

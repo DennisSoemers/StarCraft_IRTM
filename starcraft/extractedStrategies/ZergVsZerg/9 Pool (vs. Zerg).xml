@@ -24,6 +24,10 @@
                 <pct>100</pct>
                 <type>spawning pool</type>
             </percentage>
+            <percentage>
+                <pct>100</pct>
+                <type>spawning pool</type>
+            </percentage>
             <type>spawning pool</type>
         </building>
         <countered_by>
