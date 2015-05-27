@@ -1,5 +1,7 @@
 package irtm.starcraft.gui;
 
+import irtm.starcraft.game.StarcraftKnowledgeBase;
+import irtm.starcraft.game.StarcraftKnowledgeBase.Matchups;
 import irtm.starcraft.game.StarcraftStrategy;
 import irtm.starcraft.game.StarcraftStrategyGraph;
 import irtm.starcraft.textmining.StarcraftTextMiner;
@@ -110,6 +112,35 @@ public class StarcraftIrtmFrame extends JFrame{
 	private void recursivelyProcess(StarcraftTextMiner textMiner, File sourceFile, File targetFile){
 		if(sourceFile.isDirectory()){
 			File[] children = sourceFile.listFiles();
+			Matchups currentMatchup = Matchups.Unknown;
+			
+			if(sourceFile.getName().equals("ProtossVsProtoss")){
+				currentMatchup = Matchups.PvP;
+			}
+			else if(sourceFile.getName().equals("ProtossVsTerran")){
+				currentMatchup = Matchups.PvT;
+			}
+			else if(sourceFile.getName().equals("ProtossVsZerg")){
+				currentMatchup = Matchups.PvZ;
+			}
+			else if(sourceFile.getName().equals("TerranVsProtoss")){
+				currentMatchup = Matchups.TvP;
+			}
+			else if(sourceFile.getName().equals("TerranVsTerran")){
+				currentMatchup = Matchups.TvT;
+			}
+			else if(sourceFile.getName().equals("TerranVsZerg")){
+				currentMatchup = Matchups.TvZ;
+			}
+			else if(sourceFile.getName().equals("ZergVsProtoss")){
+				currentMatchup = Matchups.ZvP;
+			}
+			else if(sourceFile.getName().equals("ZergVsTerran")){
+				currentMatchup = Matchups.ZvT;
+			}
+			else if(sourceFile.getName().equals("ZergVsZerg")){
+				currentMatchup = Matchups.ZvZ;
+			}
 			
 			for(File child : children){
 				if(child.isDirectory()){
@@ -138,16 +169,18 @@ public class StarcraftIrtmFrame extends JFrame{
 								// save info for graph
 								String strategyName = strategy.getName();
 								for(String hardCounteredBy : strategy.getCounteredByHard()){
-									strategyGraph.addCounter(hardCounteredBy, strategyName, 1.f);
+									strategyGraph.addCounter(hardCounteredBy, strategyName, 1.f, 
+															StarcraftKnowledgeBase.getOppositeMatchup(currentMatchup));
 								}
 								for(String softCounteredBy : strategy.getCounteredBySoft()){
-									strategyGraph.addCounter(softCounteredBy, strategyName, 0.5f);
+									strategyGraph.addCounter(softCounteredBy, strategyName, 0.5f,
+															StarcraftKnowledgeBase.getOppositeMatchup(currentMatchup));
 								}
 								for(String hardCounterTo : strategy.getCounterToHard()){
-									strategyGraph.addCounter(strategyName, hardCounterTo, 1.f);
+									strategyGraph.addCounter(strategyName, hardCounterTo, 1.f, currentMatchup);
 								}
 								for(String softCounterTo : strategy.getCounterToSoft()){
-									strategyGraph.addCounter(strategyName, softCounterTo, 0.5f);
+									strategyGraph.addCounter(strategyName, softCounterTo, 0.5f, currentMatchup);
 								}
 							}
 						}

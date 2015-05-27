@@ -15,6 +15,19 @@ import edu.stanford.nlp.util.ArrayUtils;
  */
 public class StarcraftKnowledgeBase {
 	
+	public enum Matchups{
+		Unknown,
+		PvP,
+		PvT,
+		PvZ,
+		TvP,
+		TvT,
+		TvZ,
+		ZvP,
+		ZvT,
+		ZvZ
+	}
+	
 	final static String[] RACE_NAMES = {
 		"protoss",
 		"terran",
@@ -658,6 +671,30 @@ public class StarcraftKnowledgeBase {
 		}
 		else{
 			return InstructionTypes.UNKNOWN;
+		}
+	}
+	
+	public static Matchups getOppositeMatchup(Matchups matchup){
+		if(matchup == Matchups.PvT){
+			return Matchups.TvP;
+		}
+		else if(matchup == Matchups.PvZ){
+			return Matchups.ZvP;
+		}
+		else if(matchup == Matchups.TvP){
+			return Matchups.PvT;
+		}
+		else if(matchup == Matchups.TvZ){
+			return Matchups.ZvT;
+		}
+		else if(matchup == Matchups.ZvP){
+			return Matchups.PvZ;
+		}
+		else if(matchup == Matchups.ZvT){
+			return Matchups.TvZ;
+		}
+		else{
+			return matchup;
 		}
 	}
 	
