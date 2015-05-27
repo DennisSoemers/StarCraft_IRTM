@@ -25,7 +25,7 @@
             <type>overlord</type>
         </unit>
         <countered_by>
-            <soft>8 Barracks Rax) Terran</soft>
+            <soft>8 Barracks Rax)</soft>
             <soft>11 Barracks</soft>
             <hard>9 Barracks Bunker</hard>
             <hard>10 Barracks</hard>
@@ -47,7 +47,7 @@
             <type>hatchery</type>
         </building>
         <countered_by>
-            <soft>8 Barracks Rax) Terran</soft>
+            <soft>8 Barracks Rax)</soft>
             <soft>11 Barracks</soft>
             <hard>9 Barracks Bunker</hard>
             <hard>10 Barracks</hard>

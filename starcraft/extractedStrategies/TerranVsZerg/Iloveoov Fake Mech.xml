@@ -46,7 +46,7 @@
             <type>command center</type>
         </building>
         <countered_by>
-            <soft>9 A 9 Terran's Terran</soft>
+            <soft>9</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -71,7 +71,7 @@
             <type>engineering bay</type>
         </building>
         <countered_by>
-            <soft>9 A 9 Terran's Terran</soft>
+            <soft>9</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -90,7 +90,7 @@
             <type>science facility</type>
         </building>
         <countered_by>
-            <soft>9 A 9 Terran's Terran</soft>
+            <soft>9</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -103,7 +103,7 @@
             <type>science facility</type>
         </building>
         <countered_by>
-            <soft>9 A 9 Terran's Terran</soft>
+            <soft>9</soft>
         </countered_by>
         <counter_to/>
         <maps/>

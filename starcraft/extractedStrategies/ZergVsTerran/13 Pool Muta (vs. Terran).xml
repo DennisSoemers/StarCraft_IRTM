@@ -21,7 +21,7 @@
             <soft>8 Rax</soft>
             <soft>1 Rax FE</soft>
             <hard>2 Rax FE</hard>
-            <hard>Most Terran 1 Base Play</hard>
+            <hard>Most</hard>
         </countered_by>
         <counter_to/>
         <maps>
@@ -56,13 +56,13 @@
             <soft>8 Rax</soft>
             <soft>1 Rax FE</soft>
             <hard>2 Rax FE</hard>
-            <hard>Most Terran 1 Base Play</hard>
+            <hard>Most</hard>
         </countered_by>
         <counter_to>
             <hard>Fantasy Build</hard>
             <hard>Iloveoov Fake Mech</hard>
-            <hard>1 Vulture 2 Factory Goliaths</hard>
-            <hard>1 Vulture Biomech</hard>
+            <hard>1 Vulture</hard>
+            <hard>1 Vulture</hard>
             <hard>M&amp;M)</hard>
         </counter_to>
         <maps>

@@ -34,7 +34,7 @@
             <soft>2 Gateway</soft>
         </countered_by>
         <counter_to>
-            <soft>FE 1 Cannon</soft>
+            <soft>FE</soft>
             <hard>14 Nexus</hard>
             <hard>Proxy Gateways</hard>
         </counter_to>

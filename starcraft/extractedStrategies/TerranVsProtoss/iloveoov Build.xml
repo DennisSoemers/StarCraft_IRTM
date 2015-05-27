@@ -30,12 +30,12 @@
             <type>machine shop</type>
         </building>
         <countered_by>
-            <soft>Reach 3rd</soft>
-            <soft>2 However</soft>
+            <soft>Reach</soft>
+            <soft>2</soft>
             <soft>Flash</soft>
             <soft>Double Armory</soft>
             <soft>2 Carrier.</soft>
-            <soft>2 Arbiter.</soft>
+            <soft>2</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -57,12 +57,12 @@
             <type>science facility</type>
         </building>
         <countered_by>
-            <soft>Reach 3rd</soft>
-            <soft>2 However</soft>
+            <soft>Reach</soft>
+            <soft>2</soft>
             <soft>Flash</soft>
             <soft>Double Armory</soft>
             <soft>2 Carrier.</soft>
-            <soft>2 Arbiter.</soft>
+            <soft>2</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -87,12 +87,12 @@
             <type>siege tank</type>
         </unit>
         <countered_by>
-            <soft>Reach 3rd</soft>
-            <soft>2 However</soft>
+            <soft>Reach</soft>
+            <soft>2</soft>
             <soft>Flash</soft>
             <soft>Double Armory</soft>
             <soft>2 Carrier.</soft>
-            <soft>2 Arbiter.</soft>
+            <soft>2</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -108,12 +108,12 @@
             <type>machine shop</type>
         </building>
         <countered_by>
-            <soft>Reach 3rd</soft>
-            <soft>2 However</soft>
+            <soft>Reach</soft>
+            <soft>2</soft>
             <soft>Flash</soft>
             <soft>Double Armory</soft>
             <soft>2 Carrier.</soft>
-            <soft>2 Arbiter.</soft>
+            <soft>2</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -135,12 +135,12 @@
             <type>engineering bay</type>
         </building>
         <countered_by>
-            <soft>Reach 3rd</soft>
-            <soft>2 However</soft>
+            <soft>Reach</soft>
+            <soft>2</soft>
             <soft>Flash</soft>
             <soft>Double Armory</soft>
             <soft>2 Carrier.</soft>
-            <soft>2 Arbiter.</soft>
+            <soft>2</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -156,12 +156,12 @@
             <type>vulture</type>
         </unit>
         <countered_by>
-            <soft>Reach 3rd</soft>
-            <soft>2 However</soft>
+            <soft>Reach</soft>
+            <soft>2</soft>
             <soft>Flash</soft>
             <soft>Double Armory</soft>
             <soft>2 Carrier.</soft>
-            <soft>2 Arbiter.</soft>
+            <soft>2</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -174,12 +174,12 @@
             <type>dropship</type>
         </unit>
         <countered_by>
-            <soft>Reach 3rd</soft>
-            <soft>2 However</soft>
+            <soft>Reach</soft>
+            <soft>2</soft>
             <soft>Flash</soft>
             <soft>Double Armory</soft>
             <soft>2 Carrier.</soft>
-            <soft>2 Arbiter.</soft>
+            <soft>2</soft>
         </countered_by>
         <counter_to/>
         <maps/>
@@ -195,16 +195,16 @@
             <type>wraith</type>
         </unit>
         <countered_by>
-            <soft>Reach 3rd</soft>
-            <soft>2 However</soft>
+            <soft>Reach</soft>
+            <soft>2</soft>
             <soft>Flash</soft>
             <soft>Double Armory</soft>
             <soft>2 Carrier.</soft>
-            <soft>2 Arbiter.</soft>
+            <soft>2</soft>
         </countered_by>
         <counter_to>
             <soft>Rapidly Protoss.</soft>
-            <soft>2 DT Arbiter 3rd</soft>
+            <soft>2 DT Arbiter</soft>
             <soft>Greedy Protoss</soft>
             <soft>12 Nexus</soft>
             <soft>14 Nexus</soft>

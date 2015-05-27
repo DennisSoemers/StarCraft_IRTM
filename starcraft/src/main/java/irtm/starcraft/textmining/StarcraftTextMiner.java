@@ -508,8 +508,11 @@ public class StarcraftTextMiner{
 			// split up every sequence of tokens once more so we can get rid of those that:
 			//	- dont start with a number AND
 			//	- dont start with a capital letter
+			//
+			// We'll also simply get rid of sequences where we had to remove 2 or more words in a row
 			String[] strategyTokens = strategyTokenSequence.split(" ");
 			strategyTokenSequence = "";
+			int removalCounter = 0;
 			for(String token : strategyTokens){
 				if(token.equals("")){
 					continue;
@@ -517,8 +520,17 @@ public class StarcraftTextMiner{
 				
 				if(StringUtils.isCapitalized(token) || StringUtils.isNumeric(token.substring(0, 1))){
 					strategyTokenSequence += token + " ";
+					removalCounter = 0;
+				}
+				else{
+					++removalCounter;
+					
+					if(removalCounter >= 2 && !strategyTokenSequence.equals("")){
+						break;
+					}
 				}
 			}
+			
 			strategyTokenSequence = strategyTokenSequence.trim();
 			
 			if(i < strategyTokenSequences.length - 1){

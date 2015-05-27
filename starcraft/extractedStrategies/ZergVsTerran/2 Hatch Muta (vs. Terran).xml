@@ -52,15 +52,15 @@
             <type>larva</type>
         </unit>
         <countered_by>
-            <soft>Tank Rush Debatable. Depends However</soft>
-            <soft>Sunkens Mutalisks</soft>
-            <soft>Sparks Terran If Sunkens</soft>
-            <soft>Terran However</soft>
-            <soft>Mutalisks Terran's The</soft>
+            <soft>Tank Rush Debatable. Depends</soft>
+            <soft>Sunkens</soft>
+            <soft>Sparks Terran If</soft>
+            <soft>Terran</soft>
+            <soft>Mutalisks</soft>
             <soft>Marine</soft>
             <soft>Medic</soft>
-            <hard>Proxy Barracks Bunker Rush A 12 Hatch</hard>
-            <hard>BBS A 12 Hatch</hard>
+            <hard>Proxy Barracks Bunker Rush A</hard>
+            <hard>BBS A</hard>
             <hard>Bunker Rush</hard>
         </countered_by>
         <counter_to/>
@@ -125,15 +125,15 @@
             <type>spire</type>
         </building>
         <countered_by>
-            <soft>Tank Rush Debatable. Depends However</soft>
-            <soft>Sunkens Mutalisks</soft>
-            <soft>Sparks Terran If Sunkens</soft>
-            <soft>Terran However</soft>
-            <soft>Mutalisks Terran's The</soft>
+            <soft>Tank Rush Debatable. Depends</soft>
+            <soft>Sunkens</soft>
+            <soft>Sparks Terran If</soft>
+            <soft>Terran</soft>
+            <soft>Mutalisks</soft>
             <soft>Marine</soft>
             <soft>Medic</soft>
-            <hard>Proxy Barracks Bunker Rush A 12 Hatch</hard>
-            <hard>BBS A 12 Hatch</hard>
+            <hard>Proxy Barracks Bunker Rush A</hard>
+            <hard>BBS A</hard>
             <hard>Bunker Rush</hard>
         </countered_by>
         <counter_to/>

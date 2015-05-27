@@ -35,7 +35,7 @@
             <type>sunken colony</type>
         </building>
         <countered_by>
-            <soft>Any Terran</soft>
+            <soft>Any</soft>
             <hard>Any Wall-In</hard>
             <hard>Mech 2 Port Wraith</hard>
         </countered_by>
