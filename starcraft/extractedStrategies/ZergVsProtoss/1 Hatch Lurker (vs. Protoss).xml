@@ -26,7 +26,7 @@
             <soft>Reaver Build</soft>
             <soft>Safe</soft>
             <hard>Protoss Fast Expand</hard>
-            <hard>Any</hard>
+            <hard>Any forge</hard>
         </countered_by>
         <counter_to/>
         <maps>
@@ -81,7 +81,7 @@
             <soft>Reaver Build</soft>
             <soft>Safe</soft>
             <hard>Protoss Fast Expand</hard>
-            <hard>Any</hard>
+            <hard>Any forge</hard>
         </countered_by>
         <counter_to/>
         <maps>

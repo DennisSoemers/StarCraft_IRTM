@@ -43,7 +43,7 @@
             <hard>9 Pool</hard>
         </countered_by>
         <counter_to>
-            <soft>12</soft>
+            <soft>12 hatch</soft>
         </counter_to>
         <maps/>
     </build_order>

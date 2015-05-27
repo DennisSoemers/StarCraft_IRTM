@@ -518,7 +518,9 @@ public class StarcraftTextMiner{
 					continue;
 				}
 				
-				if(StringUtils.isCapitalized(token) || StringUtils.isNumeric(token.substring(0, 1))){
+				if(StringUtils.isCapitalized(token) 					|| 
+						StringUtils.isNumeric(token.substring(0, 1)) 	|| 
+						StarcraftKnowledgeBase.isStarcraftTerm(token)		){
 					strategyTokenSequence += token + " ";
 					removalCounter = 0;
 				}
@@ -562,7 +564,9 @@ public class StarcraftTextMiner{
 						String[] nextSequenceStrategyTokens = nextTokenSequence.split(" ");
 						nextTokenSequence = "";
 						for(String token : nextSequenceStrategyTokens){
-							if(StringUtils.isCapitalized(token) || StringUtils.isNumeric(token.substring(0, 1))){
+							if(StringUtils.isCapitalized(token) 					|| 
+									StringUtils.isNumeric(token.substring(0, 1)) 	|| 
+									StarcraftKnowledgeBase.isStarcraftTerm(token)		){
 								nextTokenSequence += token + " ";
 							}
 						}

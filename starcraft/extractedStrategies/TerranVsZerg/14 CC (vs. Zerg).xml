@@ -75,7 +75,7 @@
         </building>
         <countered_by>
             <soft>12</soft>
-            <soft>3</soft>
+            <soft>3 hatch</soft>
             <hard>4-7 Pool</hard>
             <hard>9 Pool</hard>
         </countered_by>
@@ -101,12 +101,12 @@
         </building>
         <countered_by>
             <soft>12</soft>
-            <soft>3</soft>
+            <soft>3 hatch</soft>
             <hard>4-7 Pool</hard>
             <hard>9 Pool</hard>
         </countered_by>
         <counter_to>
-            <soft>12</soft>
+            <soft>12 hatch</soft>
         </counter_to>
         <maps/>
     </build_order>
