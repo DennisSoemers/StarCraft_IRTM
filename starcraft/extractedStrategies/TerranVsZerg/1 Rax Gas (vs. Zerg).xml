@@ -21,13 +21,8 @@
             <supply>16</supply>
             <type>factory</type>
         </building>
-        <countered_by>
-            <soft>None.</soft>
-            <hard>None.</hard>
-        </countered_by>
-        <counter_to>
-            <hard>None.</hard>
-        </counter_to>
+        <countered_by/>
+        <counter_to/>
         <maps/>
     </build_order>
 </strategy_1_Rax_Gas__vs__Zerg_>

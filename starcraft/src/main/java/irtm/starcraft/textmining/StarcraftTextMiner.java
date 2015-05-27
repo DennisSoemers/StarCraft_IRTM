@@ -268,7 +268,7 @@ public class StarcraftTextMiner{
 	    			String listElementText = element.text();
 	    			
 	    			// not very interesting to add ''None'' if there are no counters or strong/weak maps
-	    			if(listElementText.toLowerCase().trim().equals("none")){
+	    			if(listElementText.toLowerCase().trim().replaceAll("\\p{P}","").equals("none")){
 	    				continue;
 	    			}
 	    			
