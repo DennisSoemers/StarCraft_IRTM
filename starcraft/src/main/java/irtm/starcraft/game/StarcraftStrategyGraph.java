@@ -58,6 +58,7 @@ public class StarcraftStrategyGraph {
 					namesToNodes.remove(existing);
 					oldNode.setLabel(counterName);
 					counterNode = oldNode;
+					namesToNodes.put(counterName, counterNode);
 					System.out.println("replacing " + existing + " with " + counterName);
 					break;
 				}
@@ -86,6 +87,7 @@ public class StarcraftStrategyGraph {
 					namesToNodes.remove(existing);
 					oldNode.setLabel(counteredName);
 					counteredNode = oldNode;
+					namesToNodes.put(counteredName, counteredNode);
 					System.out.println("replacing " + existing + " with " + counteredName);
 					break;
 				}
