@@ -60,7 +60,8 @@ public class StarcraftStrategyGraph {
 				Node oldNode = namesToNodes.get(existing);
 				
 				if(matchup == nodesToMatchups.get(oldNode)){
-					if(counterName.contains(existing)){		// something already exists that is a substring of the new name
+					if(counterName.toLowerCase().contains(existing.toLowerCase())){	
+						// something already exists that is a substring of the new name
 						namesToNodes.remove(existing);
 						oldNode.setLabel(counterName);
 						counterNode = oldNode;
@@ -68,7 +69,8 @@ public class StarcraftStrategyGraph {
 						System.out.println("replacing " + existing + " with " + counterName);
 						break;
 					}
-					else if(existing.contains(counterName)){	// new name is a substring of something that already exists
+					else if(existing.toLowerCase().contains(counterName.toLowerCase())){	
+						// new name is a substring of something that already exists
 						counterNode = namesToNodes.get(existing);
 						System.out.println("using " + existing + " instead of " + counterName);
 						break;
@@ -94,7 +96,8 @@ public class StarcraftStrategyGraph {
 				Node oldNode = namesToNodes.get(existing);
 				
 				if(StarcraftKnowledgeBase.getOppositeMatchup(matchup) == nodesToMatchups.get(oldNode)){
-					if(counteredName.contains(existing)){		// something already exists that is a substring of the new name
+					if(counteredName.toLowerCase().contains(existing.toLowerCase())){
+						// something already exists that is a substring of the new name
 						namesToNodes.remove(existing);
 						oldNode.setLabel(counteredName);
 						counteredNode = oldNode;
@@ -102,7 +105,8 @@ public class StarcraftStrategyGraph {
 						System.out.println("replacing " + existing + " with " + counteredName);
 						break;
 					}
-					else if(existing.contains(counteredName)){	// new name is a substring of something that already exists
+					else if(existing.toLowerCase().contains(counteredName.toLowerCase())){	
+						// new name is a substring of something that already exists
 						counteredNode = namesToNodes.get(existing);
 						System.out.println("using " + existing + " instead of " + counteredName);
 						break;
