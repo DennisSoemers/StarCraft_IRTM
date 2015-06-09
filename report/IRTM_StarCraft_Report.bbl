@@ -1,0 +1,131 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Branavan%
+, Silver%
+\BCBL {}\ \BBA {} Barzilay%
+}{%
+Branavan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Civ2011}
+\APACinsertmetastar {%
+Civ2011}%
+\begin{APACrefauthors}%
+Branavan, S\BPBI R\BPBI K.%
+, Silver, D.%
+\BCBL {}\ \BBA {} Barzilay, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{L}earning to {W}in by {R}eading {M}anuals in a
+  {M}onte-{C}arlo {F}ramework} {{L}earning to {W}in by {R}eading {M}anuals in a
+  {M}onte-{C}arlo {F}ramework}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 49th Annual Meeting of the
+  Association for Computational Linguistics: Human Language Technologies-Volume
+  1} {Proceedings of the 49th annual meeting of the association for
+  computational linguistics: Human language technologies-volume 1}\ (\BPGS\
+  268--277).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Finkel%
+, Grenager%
+\BCBL {}\ \BBA {} Manning%
+}{%
+Finkel%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+StanfordNER}
+\APACinsertmetastar {%
+StanfordNER}%
+\begin{APACrefauthors}%
+Finkel, J\BPBI R.%
+, Grenager, T.%
+\BCBL {}\ \BBA {} Manning, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{I}ncorporating {N}on-local {I}nformation into
+  {I}nformation {E}xtraction {S}ystems by {G}ibbs {S}ampling} {{I}ncorporating
+  {N}on-local {I}nformation into {I}nformation {E}xtraction {S}ystems by
+  {G}ibbs {S}ampling}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 43rd Annual Meeting on Association
+  for Computational Linguistics} {Proceedings of the 43rd annual meeting on
+  association for computational linguistics}\ (\BPGS\ 363--370).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Manning%
+\ \protect \BOthers {.}}{%
+Manning%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+StanfordCoreNLP}
+\APACinsertmetastar {%
+StanfordCoreNLP}%
+\begin{APACrefauthors}%
+Manning, C\BPBI D.%
+, Surdeanu, M.%
+, Bauer, J.%
+, Finkel, J.%
+, Bethard, S\BPBI J.%
+\BCBL {}\ \BBA {} McClosky, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{T}he {S}tanford {C}ore{NLP} {N}atural {L}anguage
+  {P}rocessing {T}oolkit} {{T}he {S}tanford {C}ore{NLP} {N}atural {L}anguage
+  {P}rocessing {T}oolkit}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 52nd Annual Meeting of the
+  Association for Computational Linguistics: System Demonstrations}
+  {Proceedings of the 52nd annual meeting of the association for computational
+  linguistics: System demonstrations}\ (\BPGS\ 55--60).
+\newblock
+\APACaddressPublisher{Baltimore, Maryland}{Association for Computational
+  Linguistics}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ontañón%
+\ \protect \BOthers {.}}{%
+Ontañón%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Survey2013}
+\APACinsertmetastar {%
+Survey2013}%
+\begin{APACrefauthors}%
+Ontañón, S.%
+, Synnaeve, G.%
+, Uriarte, A.%
+, Richoux, F.%
+, Churchill, D.%
+\BCBL {}\ \BBA {} Preuss, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A} {S}urvey of {R}eal-{T}ime {S}trategy {G}ame {AI}
+  {R}esearch and {C}ompetition in {S}tar{C}raft} {{A} {S}urvey of {R}eal-{T}ime
+  {S}trategy {G}ame {AI} {R}esearch and {C}ompetition in {S}tar{C}raft}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computation Intelligence and AI in Games, IEEE
+  Transactions on}{5}{4}{293--311}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
